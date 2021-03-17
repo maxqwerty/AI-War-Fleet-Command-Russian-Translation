@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+<ln id="None">Нет</ln>
+<ln id="Random_Easier">Случайный лёгкий</ln>
+<ln id="Entrenched_Homeworlder">Окопавшийся</ln>
+<ln id="Fortress_Baron">Повелитель крепости</ln>
+<ln id="Sledge_Hammer">Молот</ln>
+<ln id="Turtle">Черепаха</ln>
+<ln id="Train_Master">Машинист</ln>
+<ln id="Mine_Enthusiast">Минёр</ln>
+<ln id="The_Tank">Танк</ln>
+
+<ln id="Random_Moderate">Случайный средний</ln>
+<ln id="Random_Moderate_And_Easier">Случайный средний/лёгкий</ln>
+<ln id="Vicious_Raider">Налётчик</ln>
+<ln id="Mad_Bomber">Сумасшедший бомбер</ln>
+<ln id="Feeding_Parasite">Паразит</ln>
+<ln id="Stealth_Master">Мастер Маскировки</ln>
+<ln id="Counter_Spy">Контршпион</ln>
+<ln id="Teleporter_Turtle">Черепаха-Телепорт</ln>
+<ln id="Backdoor_Hacker">Взломщик</ln>
+<ln id="Assassin">Асcасин</ln>
+<ln id="Bully">Задира</ln>
+
+<ln id="Random_Harder">Случайный сложный</ln>
+<ln id="Random_Harder_Non_Technologist">Случайный сложный (не технолог)</ln>
+<ln id="Attritioner">Кровопийца</ln>
+<ln id="Scorched_Earth">Выжигатель</ln>
+<ln id="Shadow_Master">Повелитель тени</ln>
+<ln id="Special_Forces_Captain">Командир спецназа</ln>
+<ln id="Technologist_Homeworlder">Окопавшийся технолог</ln>
+<ln id="Technologist_Raider">Налётчик-технолог</ln>
+<ln id="Technologist_Sledge_Hammer">Молот-технолог</ln>
+<ln id="Technologist_Turtle">Черепаха-технолог</ln>
+<ln id="Technologist_Parasite">Паразит-технолог</ln>
+<ln id="The_Core">Ядро</ln>
+<ln id="Random_All">Любой случайный</ln>
+<ln id="Random_All_Non_Technologist">Любой случайный (не технолог)</ln>
+<ln id="Length">Длина</ln>
+</root>

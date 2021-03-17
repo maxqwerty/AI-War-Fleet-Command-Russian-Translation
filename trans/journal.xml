@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+
+<ln id="JournalDisplay">Журнал</ln>
+
+<ln id="Journal_EpilogueBeginning">Победа!!
+
+После падения последней Домашней Командной Станции
+ИИ не может больше контролировать червоточины в галактике.
+Лишённые подкреплений и отрезанные от командования и контроля,
+оставшиеся силы ИИ быстро падут под отчаянным натиском человечества.
+</ln>
+
+
+<ln id="Journal_BuiltATotalOf">построено в общей сложности</ln>
+<ln id="Journal_Ships">кораблей</ln>
+<ln id="Journal_LostATotalOf">потеряно в общей сложности</ln>
+<ln id="Journal_AndKilledATotalOf">и уничтожено в общей сложности</ln>
+
+<ln id="Journal_The">The</ln>
+<ln id="Journal_AccountedFor">accounted for</ln>
+<ln id="Journal_OfTotalKills">Of this player's total kills</ln>
+<ln id="Journal_AndHadASurvivalRateOf">had a survival rate of</ln>
+<ln id="Journal_AndHadAKillToLossRatioOf">and had a kill to loss ratio of</ln>
+
+<ln id="Journal_EpilogueEnd">Спасибо за игру!
+
+Чтобы скрыть эпилог, щёлкните по заголовку.
+Чтобы закрыть эпилог, щёлкните Ctrl-Alt-ПКМ по заголовку.</ln>
+
+<ln id="Journal_VanillaGuerilla_ShortTitle">Победа!!</ln>
+<ln id="Journal_VanillaGuerilla_LongTitle">Наконец-то наша галактика освобождена от ИИ.</ln>
+<ln id="Journal_VanillaGuerilla_Text">
+После падения последней Домашней Командной Станции
+ИИ не может больше контролировать червоточины в галактике.
+Лишённые подкреплений и отрезанные от командования и контроля,
+оставшиеся силы ИИ быстро падут под отчаянным натиском человечества.
+
+Выживет ли человечество, и не станет ли своим самым страшным врагом - ещё предстоит увидеть.</ln>
+
+</root>

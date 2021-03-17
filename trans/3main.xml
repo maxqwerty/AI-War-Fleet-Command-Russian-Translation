@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+
+<ln id="TAITVanilla">Ваниль</ln>
+<ln id="NAITVanilla">Абсолютно не имеет никакой особой силы. Просто старый добрый базовый AI, с разблокировками, зависящими от Зерна Карты.
+ </ln>
+
+<ln id="TAITEverything">Все корабли</ln>
+<ln id="NAITEverything">Имеет разблокированными абсолютно все типы кораблей и главных кораблей с самого начала.
+ </ln>
+<ln id="UAITEverything">Все корабли разблокированы.</ln>
+
+<ln id="TAITRetaliatory">Репрессивный</ln>
+<ln id="NAITRetaliatory">Начинает с Охранными Постами Контратаки на большинстве планет, и даже может иметь больше одного на планете. Это может привести к разрушительным контратакам, особенно при захвате планеты Уровня IV.</ln>
+
+<ln id="TAITSpireling">Spireling</ln>
+<ln id="NAITSpireling">Довольно агрессивный ИИ, который использует только корабли Spire'ов. Отправляет немного большие волны, а оборонительные сооружения слабы.</ln>
+<ln id="EAITSpireling">Все корабли Spire'ов.</ln>
+
+<ln id="TAITCraftySpire">Хитрый Spire</ln>
+<ln id="NAITCraftySpire">Начинает с различными Spirecraft'ами (которые обычно больше обычных звездолётов и меньше големов) на своей планете.</ln>
+<ln id="UAITCraftySpire">Spirecraft.</ln>
+
+<ln id="TAITThief">Вор</ln>
+<ln id="NAITThief">Довольно агрессивный ИИ, который использует корабли с тяговыми лучами и возможностями личей. Это может привести к пренебрежению правами собственности игрока.  Отправляет более крупные волны, но меньшие защитные подкрепления.</ln>
+<ln id="EAITThief">Эфирные тягачи, Тяговые Платформы Spire'ов, Паразиты</ln>
+
+<ln id="TAITExtremeRaider">Экстремальный Налётчик</ln>
+<ln id="NAITExtremeRaider">Очень противный ИИ, использующий ориентированные на рейд корабли и очень любящий посылать Рейдовые Звездолёты с нормальными волнами. Отправляет значительно большие волны, а оборонительные сооружения слабы.</ln>
+<ln id="EAITExtremeRaider">Налётчик, Хитрый Линкор Spire'ов, Абордажники, Вампир, Телепортирующийся Налётчик</ln>
+
+<ln id="TAITSpireHammer">Молот Spire'ов</ln>
+<ln id="NAITSpireHammer">В основном сложный ИИ, добавляющий мощный корабль Spire'ов в каждую волну(в дополнение к обычным звездолётам). На высоких уровнях, даже посылает корабли Главного уровня.</ln>
+<ln id="UAITSpireHammer">Фрегаты Spire'ов и Столичные Корабли</ln>
+
+<ln id="CT_Defender15">Защитник (15 мин)</ln>
+<ln id="CT_Defender15_Description">Эта ультра короткая версия режима Защитник абсолютно жестока, и заканчивается так или иначе в течение 15 минут. Мы рекомендуем взять 8 планет, но не больше 10.</ln>
+
+<ln id="CT_Defender30">Защитник (30 мин)</ln>
+<ln id="CT_Defender30_Description">Эта короткая версия режима Защитник достаточно жестока, и заканчивается так или иначе в течение 30 минут. Мы рекомендуем взять 8 планет, но не больше 15.</ln>
+
+<ln id="CT_Defender45">Защитник (45 мин)</ln>
+<ln id="CT_Defender45_Description">Эта версия режима Защитник заканчивается так или иначе в течение 45 минут. Мы рекомендуем взять 8 планет, но не больше 15.</ln>
+
+<ln id="CT_Defender60">Защитник (60 мин)</ln>
+<ln id="CT_Defender60_Description">Эта версия режима Защитник заканчивается так или иначе в течение 60 минут. Мы рекомендуем взять 8 планет, но не больше 15.</ln>
+
+<ln id="CT_Defender90">Защитник (90 мин)</ln>
+<ln id="CT_Defender90_Description">Эта долгая версия режима Защитник не очень быстроразвивающаяся, но заканчивается так или иначе в течение 90 минут. Мы рекомендуем взять 8 планет, но не больше 15.</ln>
+
+<ln id="CT_Defender120">Защитник (2 часа)</ln>
+<ln id="CT_Defender120_Description">Эта долгая версия режима Защитник не очень быстроразвивающаяся, но заканчивается так или иначе в течение 2 часов. Мы рекомендуем взять 8 планет, но не больше 15.</ln>
+
+<ln id="CT_Defender240">Защитник (4 часа)</ln>
+<ln id="CT_Defender240_Description">Эта долгая версия режима Защитник не очень быстроразвивающаяся, но заканчивается так или иначе в течение 4 часов. Мы рекомендуем взять 8 планет, но не больше 15.</ln>
+
+<ln id="CT_Defender_Description">Альтернативный набор правил для AI War, где Ваша цель - выжить в течение определённого времени вместо завоевания ИИ. Вы можете выбрать любое количество начальных миров, а затем Вам предстоит защитить их от жестокой агрессии ИИ (модификатор Без Волн ИИ не поможет). Если хотя бы один Ваш домашний мир устоит, Вы победите! В пробной версии, максимальное пробное время - 1/3 от обычного времени.
+
+Для первой игры в Защитника мы рекомендуем выбрать 45-минут и 10 стартовых планет. Увеличение количества планет или уменьшение времени увеличит напряжённость игры.
+
+</ln>
+
+<ln id="AIPChangeDescription_DefenderCampaignStart">Из Компании Защитник (Начало Роста)</ln>
+<ln id="AIPChangeDescription_DefenderCampaignAI1">Из Компании Защитник (ИИ 1)</ln>
+<ln id="AIPChangeDescription_DefenderCampaignAI2">Из Компании Защитник (ИИ 2)</ln>
+<ln id="DefendRemaining">Защита осташегося: </ln>
+
+<!--Buy Menus-->
+<ln id="BFallenSpire_FirstShard">REC</ln>
+<ln id="NFallenSpire_FirstShard">Субкосмический Приёмник</ln>
+<ln id="DFallenSpire_FirstShard">Субкосмический Приёмник строится кокруг этого осколка.</ln>
+<ln id="BFallenSpire_RefugeeShip">REF O</ln>
+<ln id="NFallenSpire_RefugeeShip">Аутпост Беженцев</ln>
+<ln id="DFallenSpire_RefugeeShip">Корабль беженцев может построить аутпост на Вашей домашней планете.</ln>
+<ln id="BFallenSpire_SpireShipyard_Frigate">FF</ln>
+<ln id="NFallenSpire_SpireShipyard_Frigate">Фрегаты Spire'ов</ln>
+<ln id="DFallenSpire_SpireShipyard_Frigate">Самый маленький из полноценных кораблей Spire'ов.</ln>
+<ln id="BFallenSpire_ShardBuiltColonyShip">COL</ln>
+<ln id="NFallenSpire_ShardBuiltColonyShip">Корабль Колония</ln>
+<ln id="DFallenSpire_ShardBuiltColonyShip">Колониальный корабль, питающийся от этого осколка.</ln>
+<ln id="BFallenSpire_SpireExoGalacticTransceiver">EXCVR</ln>
+<ln id="NFallenSpire_SpireExoGalacticTransceiver">Экзогалактический Трансивер</ln>
+<ln id="DFallenSpire_SpireExoGalacticTransceiver">Массивное устройство управления подпространством, созданное для строительства стабильных транзитных ворот между галактиками.</ln>
+<ln id="BFallenSpire_SpireCityHub">HUB</ln>
+<ln id="NFallenSpire_SpireCityHub">Центр Города</ln>
+<ln id="DFallenSpire_SpireCityHub">Концентрация новых Городов Spire'ов.</ln>
+<ln id="BFallenSpire_SpireCityFacilities">FAC</ln>
+<ln id="NFallenSpire_SpireCityFacilities">Городские Постройки</ln>
+<ln id="DFallenSpire_SpireCityFacilities">Постройки для этого Города Spire'ов.</ln>
+<ln id="BFallenSpire_SpireShipyard_Destroyer">DD</ln>
+<ln id="NFallenSpire_SpireShipyard_Destroyer">Уничтожители Spire'ов</ln>
+<ln id="DFallenSpire_SpireShipyard_Destroyer">Значительно больше Фрегатов Spire'ов, способны устанавливать различные оружейные модули.</ln>
+<ln id="BFallenSpire_SpireShipyard_Cruiser">CA</ln>
+<ln id="NFallenSpire_SpireShipyard_Cruiser">Крейсер Spire'ов</ln>
+<ln id="DFallenSpire_SpireShipyard_Cruiser">Корабль среднего размера Spire'ов, способен устанавливать различные оружейные модули.</ln>
+<ln id="BFallenSpire_SpireShipyard_Battleship">BB</ln>
+<ln id="NFallenSpire_SpireShipyard_Battleship">Линкоры Spire'ов</ln>
+<ln id="DFallenSpire_SpireShipyard_Battleship">Большие корабли Spire'ов, способные устанавливать различные оружейные модули.</ln>
+<ln id="BFallenSpire_SpireShipyard_Dreadnought">DN</ln>
+<ln id="NFallenSpire_SpireShipyard_Dreadnought">Дредноуты Spire'ов</ln>
+<ln id="DFallenSpire_SpireShipyard_Dreadnought">Колоссальные корабли Spire'ов, способные устанавливать различные оружейные модули.</ln>
+<ln id="BFallenSpire_SpireDefenseModules">Город
+MOD</ln>
+<ln id="NFallenSpire_SpireDefenseModules">Модули Защиты Городов</ln>
+<ln id="DFallenSpire_SpireDefenseModules">Различные оружейные модули, используемые Городскими Постройками Spire'ов, которые могут их установить.</ln>
+<ln id="BFallenSpire_SpireModules_Destroyer">DD
+MOD</ln>
+<ln id="NFallenSpire_SpireModules_Destroyer">Модули Уничтожителя</ln>
+<ln id="DFallenSpire_SpireModules_Destroyer">Различные оружейные модули, устанавливаемые на Уничтожителя Spire'ов.</ln>
+<ln id="BFallenSpire_SpireModules_Cruiser">CA
+MOD</ln>
+<ln id="NFallenSpire_SpireModules_Cruiser">Модули Крейсера</ln>
+<ln id="DFallenSpire_SpireModules_Cruiser">Различные оружейные модули, устанавливаемые на Крейсер Spire'ов.</ln>
+<ln id="BFallenSpire_SpireModules_Battleship">BB
+MOD</ln>
+<ln id="NFallenSpire_SpireModules_Battleship">Модули Линкора</ln>
+<ln id="DFallenSpire_SpireModules_Battleship">Различные оружейные модули, устанавливаемые на Линкор Spire'ов.</ln>
+<ln id="BFallenSpire_SpireModules_Dreadnought">DN
+MOD</ln>
+<ln id="NFallenSpire_SpireModules_Dreadnought">Модули Дредноута</ln>
+<ln id="DFallenSpire_SpireModules_Dreadnought">Различные оружейные модули, устанавливаемые на Дредноут Spire'ов.</ln>
+<ln id="BFallenSpire_SpireModules_SuperDreadnought">SDN
+MOD</ln>
+<ln id="NFallenSpire_SpireModules_SuperDreadnought">Модули СуперДредноута</ln>
+<ln id="DFallenSpire_SpireModules_SuperDreadnought">Различные оружейные модули, устанавливаемые на Супер Дредноут Spire'ов.</ln>
+<ln id="BFallenSpire_SpireShipyard_ColonyShip">COL</ln>
+<ln id="NFallenSpire_SpireShipyard_ColonyShip">Корабль Колония Spire'ов</ln>
+<ln id="DFallenSpire_SpireShipyard_ColonyShip">Корабли, для создания новых Городов Spire'ов.</ln>
+
+<!--Standard Templates For Modular Ships-->
+<ln id="SpireDestroyer_Template_1_Full">Базовый</ln>
+<ln id="SpireDestroyer_Template_1_Abbr">BASIC</ln>
+<ln id="SpireDestroyer_Template_1_Desc">4 Лазерных Пушки МодI и Щиты МодI.</ln>
+
+<ln id="SpireDestroyer_Template_2_Full">Улучш.</ln>
+<ln id="SpireDestroyer_Template_2_Abbr">ADV</ln>
+<ln id="SpireDestroyer_Template_2_Desc">2 Лазера МодII, 2 Тяжёлых Лучевых Пушки МодI, и Щиты МодII.</ln>
+
+<ln id="SpireDestroyer_Template_3_Full">Луч</ln>
+<ln id="SpireDestroyer_Template_3_Abbr">BEAM</ln>
+<ln id="SpireDestroyer_Template_3_Desc">2 Лазера МодII, 2 Тяжёлых Лучевых Пушки МодI, 1 Тяжёлая Лучевая Пушка МодII, без щитов.</ln>
+
+<ln id="SpireCruiser_Template_1_Full">Базовый</ln>
+<ln id="SpireCruiser_Template_1_Abbr">BASIC</ln>
+<ln id="SpireCruiser_Template_1_Desc">8 Лазерных Пушек МодI и Щиты МодI.</ln>
+
+<ln id="SpireCruiser_Template_2_Full">Улучш.</ln>
+<ln id="SpireCruiser_Template_2_Abbr">ADV</ln>
+<ln id="SpireCruiser_Template_2_Desc">2 Лазера МодII, 2 Лазера МодIII, 2 Тяжёлых Лучевых Пушки МодI, 2 Тяжёлых Лучевых Пушки МодII, и Щиты МодIII.</ln>
+
+<ln id="SpireBattleship_Template_1_Full">Базовый</ln>
+<ln id="SpireBattleship_Template_1_Abbr">BASIC</ln>
+<ln id="SpireBattleship_Template_1_Desc">8 Лазерных Пушек МодI и Щиты МодI.</ln>
+
+<ln id="SpireBattleship_Template_2_Full">Улучш.</ln>
+<ln id="SpireBattleship_Template_2_Abbr">ADV</ln>
+<ln id="SpireBattleship_Template_2_Desc">2 Лазера МодIII, 2 Лазера МодIV, 2 Тяжёлых Лучевых Пушки МодII, 2 Тяжёлых Лучевых Пушки МодIII и Щиты МодIV.</ln>
+
+<ln id="SpireDreadnought_Template_1_Full">Базовый</ln>
+<ln id="SpireDreadnought_Template_1_Abbr">BASIC</ln>
+<ln id="SpireDreadnought_Template_1_Desc">8 Лазерных Пушек МодI и 2 Генератора Щита МодI.</ln>
+
+<ln id="SpireDreadnought_Template_2_Full">Улучш.</ln>
+<ln id="SpireDreadnought_Template_2_Abbr">ADV</ln>
+<ln id="SpireDreadnought_Template_2_Desc">2 Лазера МодIV, 4 Тяжёлых Лучевых Пушки МодIII, 2 Тяжёлых Лучевых Пушки МодIV, и 2 Генератора Щита МодIV.</ln>
+
+<ln id="SpireSuperDreadnought_Template_1_Full">Базовый</ln>
+<ln id="SpireSuperDreadnought_Template_1_Abbr">BASIC</ln>
+<ln id="SpireSuperDreadnought_Template_1_Desc">8 Лазерных Пушек МодI и 2 Генератора Щита МодI.</ln>
+
+<ln id="ImperialSpireDestroyer_Template_1_Full">Умолч.</ln>
+<ln id="ImperialSpireDestroyer_Template_1_Abbr">DEFAULT</ln>
+<ln id="ImperialSpireDestroyer_Template_1_Desc">По умолчанию.</ln>
+
+<ln id="ImperialSpireCruiser_Template_1_Full">Умолч.</ln>
+<ln id="ImperialSpireCruiser_Template_1_Abbr">DEFAULT</ln>
+<ln id="ImperialSpireCruiser_Template_1_Desc">По умолчанию.</ln>
+
+<ln id="ImperialSpireBattleship_Template_1_Full">Умолч.</ln>
+<ln id="ImperialSpireBattleship_Template_1_Abbr">DEFAULT</ln>
+<ln id="ImperialSpireBattleship_Template_1_Desc">По умолчанию.</ln>
+
+<ln id="ImperialSpireDreadnought_Template_1_Full">Умолч.</ln>
+<ln id="ImperialSpireDreadnought_Template_1_Abbr">DEFAULT</ln>
+<ln id="ImperialSpireDreadnought_Template_1_Desc">По умолчанию.</ln>
+
+<ln id="ImperialSpireSuperDreadnought_Template_1_Full">Умолч.</ln>
+<ln id="ImperialSpireSuperDreadnought_Template_1_Abbr">DEFAULT</ln>
+<ln id="ImperialSpireSuperDreadnought_Template_1_Desc">По умолчанию.</ln>
+
+<ln id="FallenSpire_SpireShardReactor_Template_1_Full">Базовый</ln>
+<ln id="FallenSpire_SpireShardReactor_Template_1_Abbr">BASIC</ln>
+<ln id="FallenSpire_SpireShardReactor_Template_1_Desc">6 Лазерных Пушек МодI и Щиты МодI.</ln>
+
+<ln id="FallenSpire_SpireHabitationCenter_Template_1_Full">Базовый</ln>
+<ln id="FallenSpire_SpireHabitationCenter_Template_1_Abbr">BASIC</ln>
+<ln id="FallenSpire_SpireHabitationCenter_Template_1_Desc">6 Лазерных Пушек МодI и Щиты МодI.</ln>
+
+<!--Cheats-->
+<ln id="Cheat_SetTestingTimesFlagForFallenSpire">i do not have time for this</ln>
+<ln id="Cheat_SpawnAsteroids">impact is imminent</ln>
+<ln id="Cheat_SpawnAllSpirecraft">spirecraft to the rescue</ln>
+<ln id="Cheat_SpawnAllFallenSpireMilitaryVessels">fallen friends arise</ln>
+<ln id="Cheat_SpawnImperialSpireVengeanceFleet">hammer time</ln>
+
+<ln id="NMapGrid">Планеты  организованы в упорядоченную сеть.</ln>
+<ln id="NMapCrosshatch">Планеты  организованы в упорядоченную сеть с заполненными углами.</ln>
+<ln id="NMapMazeRecursiveBacktracker">Планеты организованы в лабиринтоподобную сеть, которая использует алгоритм Рекурсивного Отступа на решётке, чтобы создать лабиринт.</ln>
+<ln id="NMapMazeRecursiveBacktrackerEasy">Планеты организованы в лабиринтоподобную сеть, которая использует алгоритм Рекурсивного Отступа на решётке, чтобы создать лабиринт, но с дополнительными случайными связями в различных точках.</ln>
+<ln id="NMapMazeRecursiveBacktrackerAngled">Планеты организованы в лабиринтоподобную сеть, которая использует алгоритм Рекурсивного Отступа на сетке, чтобы создать лабиринт.</ln>
+<ln id="NMapMazeRecursiveBacktrackerAngledEasy">Планеты организованы в лабиринтоподобную сеть, которая использует алгоритм Рекурсивного Отступа на сетке, чтобы создать лабиринт, но с дополнительными случайными связями в различных точках.</ln>
+<ln id="NMapMazePrims">Планеты организованы в лабиринтоподобную сеть, которая использует алгоритм Прима на решётке, чтобы создать лабиринт.</ln>
+<ln id="NMapMazePrimsAngled">Планеты организованы в лабиринтоподобную сеть, которая использует алгоритм Прима на сетке, чтобы создать лабиринт.</ln>
+
+<ln id="AIPChangeDescription_SpireCivilianLeaders">От Гражданских Лидеров Spire'ов</ln>
+
+<ln id="NEXP3_Beachheads">Каждая волна, посылаемая ИИ, имеет шанс в 10% быть в два раза меньше, но включает в себя Плацдарм, который мешает ресурсам обеспечения на атакуемой планете (это отключает всё от турелей до силовых полей, пока Плацдарм не уничтожат), а также предотвращает отступление кораблей игрока. Контратакующие волны, событийные волны, волны Налётчика и другие специализированные формы волн никогда не берут с собой Плацдарм.</ln>
+</root>

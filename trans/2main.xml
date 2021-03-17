@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+
+<!--Map Styles-->
+<ln id="NMapConcentricCircles">Планеты собраны в концентрические кольца.</ln>
+<ln id="NMapXShaped">Планеты организованы в четыре отдельные группы, соединённые единственной центральной планетой.</ln>
+
+<!--Subroutines-->
+<ln id="AISubroutineType_Name_None">Нет</ln>
+<ln id="AISubroutineType_Name_Neophyte">Неофит</ln>
+<ln id="AISubroutineType_Name_Attacker">Нападающий</ln>
+<ln id="AISubroutineType_Name_Defender">Защитник</ln>
+<ln id="AISubroutineType_Name_Builder">Строитель</ln>
+<ln id="AISubroutineType_Name_Nurturer">Воспитатель</ln>
+<ln id="AISubroutineType_Name_Captain">Капитан</ln>
+<ln id="AISubroutineType_Name_Admiral">Адмирал</ln>
+<ln id="AISubroutineType_Name_Besieger">Осаждающий</ln>
+<ln id="AISubroutineType_Name_Annihilator">Аннигилятор</ln>
+<ln id="AISubroutineType_Name_Ninja">Ниндзя</ln>
+<ln id="AISubroutineType_Name_Stalwart">Приверженец</ln>
+<ln id="AISubroutineType_Name_Champion">Чемпион</ln>
+<ln id="AISubroutineType_Name_Craftsman">Ремесленник</ln>
+<ln id="AISubroutineType_Name_Architect">Архитектор</ln>
+<ln id="AISubroutineType_Name_MasterBuilder">МастерСтроитель</ln>
+<ln id="AISubroutineType_Name_Matron">Матрона</ln>
+<ln id="AISubroutineType_Name_Queen">Королева</ln>
+<ln id="AISubroutineType_Name_DefenderOnOffense">Защитник В Нападении</ln>
+<ln id="AISubroutineType_Name_StalwartOnOffense">Приверженец В Нападении</ln>
+<ln id="AISubroutineType_Name_ChampionOnOffense">Чемпион В Нападении</ln>
+<ln id="AISubroutineType_Name_SuperHybridInvestigator">Супер Гибрид (Исследователь)</ln>
+<ln id="AISubroutineType_Name_SuperHybridInvestigatorWithArtifact">Супер Гибрид (Исследователь с Артефактами)</ln>
+
+<!--Plots-->
+<ln id="NEXP2_Subroutines">ИИ срастил улья Neinzul'ов в специальный звездолёт, создав однозначно опасного врага.</ln>
+<ln id="NEXP2_AdvancedSubroutines">Позволяет Ульям Гибридов перейти в более сильную форму, и исполнять более коварные планы.</ln>
+
+<!--AI Type descriptions -->
+<ln id="TAITNeinzulClusterBomber">Кластерный Бомбер Neinzul'ов</ln>
+<ln id="NAITNeinzulClusterBomber">Строит Кластеры Neinzul'ов на всех своих планетах.
+ </ln>
+<ln id="EAITNeinzulClusterBomber">Кластеры Neinzul'ов.</ln>
+
+<ln id="TAITNeinzulViralEnthusiast">Вирусный Энтузиаст Neinzul'ов</ln>
+<ln id="NAITNeinzulViralEnthusiast">Строит Вирусные Кластеры Neinzul'ов на всех своих червоточинах.
+ </ln>
+<ln id="EAITNeinzulViralEnthusiast">Вирусные Кластеры Neinzul'ов.</ln>
+
+<ln id="TAITNeinzulNester">Гнездовой Neinzul'ов</ln>
+<ln id="NAITNeinzulNester">Строит Гнёзда Neinzul'ов на большинстве своих планет.
+ </ln>
+<ln id="EAITNeinzulNester">Гнёзда Neinzul'ов.</ln>
+
+<ln id="TAITNeinzulYoungster">Детёныш Neinzul'ов</ln>
+<ln id="NAITNeinzulYoungster">Отправляет волны в 2 раза чаще, а время предупреждения в 2 раза меньше. Часто посылает волны из 100%-Юнлингов. Меньше среднего искушён с своей обороне.
+ </ln>
+
+<ln id="TAITSupportCorps">Отделы Поддержки</ln>
+<ln id="NAITSupportCorps">Сам не посылает волн, но добавляет юнитов поддержки (Усилитель Боеприпасов и т.п.) как к волнам своего союзника, так и для всех планет ИИ.
+ </ln>
+
+<ln id="TAITWarpJumper">Создатель Помех</ln>
+<ln id="NAITWarpJumper">Может отправить волну на любую планету, на которой нет Генератора Помех. С другой стороны, отсутствие у него Врат уменьшает стоимость Прогресса ИИ для захвата его планет.
+ </ln>
+
+<!--Alerts-->
+<ln id="AlertPresence_NeinzulPreservationWarden">Заповедные Стражи атакуют </ln>
+<ln id="AlertPresence_NeinzulRoamingEnclaves">Скитающиеся Анклавы атакуют </ln>
+<ln id="AlertPresence_HybridHives">Гибриды атакуют </ln>
+<ln id="AlertPresence_HostileWarhead">Враждебные Боеголовки на </ln>
+<ln id="AlertPresence_DysonAntagonizer">Антагонайзер Дайсона на </ln>
+<ln id="AlertPresence_DysonConverter">Конвертер Дайсона на </ln>
+<ln id="AlertPresence_SuperHybridInvestigator_NonScouted">Аномально Сильный Гибрид где-то в галактике</ln>
+<ln id="AlertPresence_SuperHybridInvestigator_Scouted">Супер Гибрид на </ln>
+<ln id="AlertPresence_DysonAntagonizerConstructionModule_NonScouted">Странный Гибридо-подобный сигнал излучается где-то в галактике</ln>
+<ln id="AlertPresence_DysonAntagonizerConstructionModule_Scouted">Странное Сооружение Гибридов сроится на </ln>
+<ln id="AlertPresence_DysonAntagonizer_NonScouted">Странное Устройство где-то в галактике противодействует Сфере Дайсона</ln>
+<ln id="AlertPresence_DysonAntagonizer_Scouted">Антагонайзер Дайсона на </ln>
+<ln id="AlertPresence_DysonConverter_NonScouted">Странное Устройство где-то в галактике уничтожает Сферу Дайсона</ln>
+<ln id="AlertPresence_DysonConverter_Scouted">Конвертер Дайсона на </ln>
+
+<ln id="DysonSphereDestroyedBySubspacePulse">Сфера Дайсона была уничтожена межпространственным импульсом!</ln>
+<ln id="GalaxyDevestatedByDysonSphereDestruction">Уничтожение Сферы Дайсона Опустошило галактику!</ln>
+
+<ln id="Cheat_ForceFriendlyEnclaveSpawn">дипломатический инцидент</ln>
+
+</root>

@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<ln id="FallenSpire_InitialSurveyMarker_Full">Субкосмический Сигнал</ln>
+<ln id="FallenSpire_InitialSurveyMarker_Short">Сигнал</ln>
+<ln id="FallenSpire_InitialSurveyMarker_Desc">Аномальный субкосмический сигнал.</ln>
+
+<ln id="SurveyShip_Full">Корабль Исследования</ln>
+<ln id="SurveyShip_Short">Исслед</ln>
+<ln id="SurveyShip_Desc">Специализированный научный корабль, созданный для обнаружения и восстановления космических артефактов.
+
+Обратите внимание, что этот корабль не добывает очки Науки, как другие научные корабли. Если Вы не получали никаких сообщений об аномальных явлениях для исследования, то Вам не нужно строить Корабли Исследования.</ln>
+
+<ln id="FallenSpire_FirstShardSurveyMarker_Full">Субкосмический Сигнал</ln>
+<ln id="FallenSpire_FirstShardSurveyMarker_Short">Сигнал</ln>
+
+<ln id="FallenSpire_RefugeeShipSignalSurveyMarker_Full">Субкосмический Сигнал</ln>
+<ln id="FallenSpire_RefugeeShipSignalSurveyMarker_Short">Сигнал</ln>
+
+<ln id="FallenSpire_RefugeeShipSurveyMarker_Full">Субкосмический Сигнал</ln>
+<ln id="FallenSpire_RefugeeShipSurveyMarker_Short">Сигнал</ln>
+
+<ln id="FallenSpire_FirstCityShardSignalSurveyMarker_Full">Субкосмический Сигнал</ln>
+<ln id="FallenSpire_FirstCityShardSignalSurveyMarker_Short">Сигнал</ln>
+
+<ln id="FallenSpire_FirstCityShardSurveyMarker_Full">Субкосмический Сигнал</ln>
+<ln id="FallenSpire_FirstCityShardSurveyMarker_Short">Сигнал</ln>
+
+<ln id="FallenSpire_SecondCityShardSignalSurveyMarker_Full">Субкосмический Сигнал</ln>
+<ln id="FallenSpire_SecondCityShardSignalSurveyMarker_Short">Сигнал</ln>
+
+<ln id="FallenSpire_SecondCityShardSurveyMarker_Full">Субкосмический Сигнал</ln>
+<ln id="FallenSpire_SecondCityShardSurveyMarker_Short">Сигнал</ln>
+
+<ln id="FallenSpire_ThirdCityShardSignalSurveyMarker_Full">Субкосмический Сигнал</ln>
+<ln id="FallenSpire_ThirdCityShardSignalSurveyMarker_Short">Сигнал</ln>
+
+<ln id="FallenSpire_ThirdCityShardSurveyMarker_Full">Субкосмический Сигнал</ln>
+<ln id="FallenSpire_ThirdCityShardSurveyMarker_Short">Сигнал</ln>
+
+<ln id="FallenSpire_FourthCityShardSignalSurveyMarker_Full">Субкосмический Сигнал</ln>
+<ln id="FallenSpire_FourthCityShardSignalSurveyMarker_Short">Сигнал</ln>
+
+<ln id="FallenSpire_FourthCityShardSurveyMarker_Full">Субкосмический Сигнал</ln>
+<ln id="FallenSpire_FourthCityShardSurveyMarker_Short">Сигнал</ln>
+
+<ln id="FallenSpire_FifthCityShardSignalSurveyMarker_Full">Субкосмический Сигнал</ln>
+<ln id="FallenSpire_FifthCityShardSignalSurveyMarker_Short">Сигнал</ln>
+
+<ln id="FallenSpire_FifthCityShardSurveyMarker_Full">Субкосмический Сигнал</ln>
+<ln id="FallenSpire_FifthCityShardSurveyMarker_Short">Сигнал</ln>
+
+<ln id="FallenSpire_CoreShardSignalSurveyMarker_Full">Субкосмический Сигнал</ln>
+<ln id="FallenSpire_CoreShardSignalSurveyMarker_Short">Сигнал</ln>
+
+<ln id="FallenSpire_CoreShardSurveyMarker_Full">Субкосмический Сигнал</ln>
+<ln id="FallenSpire_CoreShardSurveyMarker_Short">Сигнал</ln>
+
+<ln id="FallenSpire_EstablishingExoGalacticTransitMarker_Full">Субкосмический Сигнал</ln>
+<ln id="FallenSpire_EstablishingExoGalacticTransitMarker_Short">Сигнал</ln>
+
+<ln id="FallenSpire_FirstShard_Full">Осколок</ln>
+<ln id="FallenSpire_FirstShard_Short">Осколок</ln>
+<ln id="FallenSpire_FirstShard_Desc">Странный кристаллический артефакт.</ln>
+
+<ln id="FallenSpire_FirstCityShard_Full">Осколок</ln>
+<ln id="FallenSpire_FirstCityShard_Short">Осколок</ln>
+<ln id="FallenSpire_FirstCityShard_Desc">Странный кристаллический артефакт. Значительно больше того, что мы обнаружили ранее.</ln>
+
+<ln id="FallenSpire_SecondCityShard_Full">Осколок</ln>
+<ln id="FallenSpire_SecondCityShard_Short">Осколок</ln>
+<ln id="FallenSpire_SecondCityShard_Desc">Странный кристаллический артефакт, примерно такого же размера, что и осколок для создания первого города Spire'ов.</ln>
+
+<ln id="FallenSpire_ThirdCityShard_Full">Осколок</ln>
+<ln id="FallenSpire_ThirdCityShard_Short">Осколок</ln>
+<ln id="FallenSpire_ThirdCityShard_Desc">Странный кристаллический артефакт, примерно такого же размера, что и осколок для создания первого города Spire'ов.</ln>
+
+<ln id="FallenSpire_FourthCityShard_Full">Осколок</ln>
+<ln id="FallenSpire_FourthCityShard_Short">Осколок</ln>
+<ln id="FallenSpire_FourthCityShard_Desc">Странный кристаллический артефакт, примерно такого же размера, что и осколок для создания первого города Spire'ов.</ln>
+
+<ln id="FallenSpire_FifthCityShard_Full">Осколок</ln>
+<ln id="FallenSpire_FifthCityShard_Short">Осколок</ln>
+<ln id="FallenSpire_FifthCityShard_Desc">Странный кристаллический артефакт, примерно такого же размера, что и осколок для создания первого города Spire'ов.</ln>
+
+<ln id="FallenSpire_CoreShard_Full">Осколок</ln>
+<ln id="FallenSpire_CoreShard_Short">Осколок</ln>
+<ln id="FallenSpire_CoreShard_Desc">Странный кристаллический артефакт, намного больше и мощнее, чем найденные раннее.</ln>
+
+<ln id="FallenSpire_SubspaceReceiver_Full">Субкосмический Приёмник</ln>
+<ln id="FallenSpire_SubspaceReceiver_Short">Приёмник</ln>
+<ln id="FallenSpire_SubspaceReceiver_Desc">Разработанное людьми строение, построенное вокруг восстановленного инопланетного реактора, сканирует галактику на наличие субкосмических сигналов от подобных инопланетных технологий.
+
+Прим.: данное строение может быть построено только на планете с Домашней Командной Станцией людей.</ln>
+
+<ln id="FallenSpire_RefugeeShip_Full">Инопланетный Корабль Беженцев</ln>
+<ln id="FallenSpire_RefugeeShip_Short">Беж. К.</ln>
+<ln id="FallenSpire_RefugeeShip_Desc">Корабль, населённый неопознанной инопланетной расой. Их первый контакт с нашей командой исследования был крайне грубым, но нам удалось определить, что экипаж бежит от ИИ и будет следовать нашим приказам. Они просят привести их на нашу домашнюю планету. Правильно ли мы тогда поступим, нельзя сказать.</ln>
+
+<ln id="FallenSpire_RefugeeOutpost_Full">Застава Беженцев Spire'ов</ln>
+<ln id="FallenSpire_RefugeeOutpost_Short">S-БЕЖ</ln>
+<ln id="FallenSpire_RefugeeOutpost_Desc">Застава, построенная беженцами инопланетной расой Spire'ов из их корабля. Они будут использовать свои значительные батарей тяжёлых лучевых пушек на всех наших входящих врагов, но в основном они не будут лезть в наши дела, пока у них не появится что-то важное, чтобы нам сообщить.
+
+Прим.: данное строение может быть построено только на планете с Домашней Командной Станцией людей. Может быть построено при наличии 2000 металла.</ln>
+
+<ln id="FallenSpire_RefugeeOutpostFoldout_Full">Раскладная Застава Беженцев</ln>
+<ln id="FallenSpire_RefugeeOutpostFoldout_Short">S-Зас-Р</ln>
+<ln id="FallenSpire_RefugeeOutpostFoldout_Desc">Производственное Ядро, созданное на Заставе Беженцев Spire'ов.
+Позволяет игрокам, помимо владельца планеты, строить Фрегаты Spire'ов. 
+Неуязвима, но будет уничтожена при уничтожении родительской заставы.</ln>
+
+<ln id="FallenSpire_SpireExoGalacticTransceiver_Full">Экзогалактический Трансивер</ln>
+<ln id="FallenSpire_SpireExoGalacticTransceiver_Short">S-ЭкзТС</ln>
+<ln id="FallenSpire_SpireExoGalacticTransceiver_Desc">Массивное строение управления подпространственным полем, созданное для создания стабильных транзитных врат между галактиками.
+
+Даже начало строительства этого устройства будет генерировать такие интенсивные субкосмические сигналы, что ИИ точно будет знать, что мы делаем и атакует нас всем, чем сможет пожертвовать.
+
+Прим.: Это строение может быть построено только на планете с Домашней Командной Станцией людей.</ln>
+
+<ln id="SpireHeavyBeamFrigate_Full">Фрегат Spire'ов</ln>
+<ln id="SpireHeavyBeamFrigate_Short">S-Фр</ln>
+<ln id="SpireHeavyBeamFrigate_Desc">Наименьший из военных кораблей, используемых Spire'ами.
+
+Имеет одну Фотонную Бомбардировочную Пушку - форму лучевой пушки, значительно отличающуюся от обычно используемой Zenith'ами или Людьми.
+
+Каждая Судоверфь Spire'ов поддерживает 4 таких фрегата, а Застава Беженцев поддерживает ещё 4.</ln>
+
+<ln id="FallenSpire_SpireColonyShip_Full">Корабль Колония Spire'ов</ln>
+<ln id="FallenSpire_SpireColonyShip_Short">S-Кол</ln>
+<ln id="FallenSpire_SpireColonyShip_Desc">Большой колониальный корабль, заполненный "подрастающим поколением" Spire'ов. Его целью является создания нового города на другой планете.
+
+Прим.: Этот корабль можно построить только рядом с Домашней Командной Станции людей.</ln>
+
+<ln id="FallenSpire_LocallyBuiltSpireColonyShip_Full">Корабль Колония Spire'ов</ln>
+<ln id="FallenSpire_LocallyBuiltSpireColonyShip_Short">S-Кол</ln>
+<ln id="FallenSpire_LocallyBuiltSpireColonyShip_Desc">Большой колониальный корабль, заполненный "подрастающим поколением" Spire'ов. Его целью является создания нового города на другой планете.
+
+Из-за сложность управелния большими кораблями Spire'ов в нашей галактике, этот корабль требует &amp; разработки Галактического Капитолия Spire'ов.</ln>
+
+<ln id="FallenSpire_SpireCityHub_Full">Городской Центр Spire'ов</ln>
+<ln id="FallenSpire_SpireCityHub_Short">S-Центр</ln>
+<ln id="FallenSpire_SpireCityHub_Desc">Это сооружение одновременно нервный центр и место обитания Города Spire'ов. Оно отвечает за строительство и координацию других структур города.
+
+Центр может быть построен на планете, отвечающей следующим условиям:
+1) Дружественна (имеет Командную Станцию людей).
+2) Не имеет Домашней Командной Станции Spire'ов.
+3) Имеет хотя бы 2 червоточины.
+4) Нет планет в пределах 2 переходов с другим Центром.
+
+Центр сам по себе "погружен" в подпространство и не может быть обнаружен даже тахионным лучом. Вряд ли разрушим: комбинация невидимости и огромной прочности. Тем не менее, он требует снабжения для функционирования.</ln>
+
+<ln id="FallenSpire_SpireShardReactor_Full">Реактор Осколков Spire'ов</ln>
+<ln id="FallenSpire_SpireShardReactor_Short">S-РО</ln>
+<ln id="FallenSpire_SpireShardReactor_Desc">Это строение создаёт кристаллические образования, используемые в качестве силовых стержней в реакторах Spire'ов как в строениях, так и в кораблях, а также использует некоторые из этих осколков для обеспечения большим количеством энергии строения Spire'ов (в частности, каждый реактор может запитать 1 Судоверфь Spire'ов И 1 Центр Обитания Spire'ов одновременно в любой части галактики).
+
+Это строение может производить и оборудовать несколько оборонительных модулей.
+
+Первоначально городской центр может обеспечить 3 строения (комбинация из Реакторов, Жилых Центров и Судоверфей), но сможет и больше при увеличении уровня развития.</ln>
+
+<ln id="FallenSpire_SpireHabitationCenter_Full">Жилой Центр Spire'ов</ln>
+<ln id="FallenSpire_SpireHabitationCenter_Short">S-ЖЦ</ln>
+<ln id="FallenSpire_SpireHabitationCenter_Desc">Это строение обеспечивает дополнительную жилую площадь для городов, которые выросли за пределы вместимой площади города.
+
+Это строение может производить и оборудовать несколько оборонительных модулей.
+
+Первоначально городской центр может обеспечить 3 строения (комбинация из Реакторов, Жилых Центров и Судоверфей), но сможет и больше при увеличении уровня развития
+
+Для каждого Жилого Центра требуется один Реактор Осколков (где-либо в галактике).</ln>
+
+<ln id="FallenSpire_SpireShipyard_Full">Судоверфь Spire'ов</ln>
+<ln id="FallenSpire_SpireShipyard_Short">S-СВ</ln>
+<ln id="FallenSpire_SpireShipyard_Desc">Это строение отвечает за строительство и поддержку строений Spire'ов, от эскортов и конструкторов до крупных кораблей.
+
+Заметьте, что большинство кораблей Spire'ов требуют поддержки от Судоверфи Spire'ов, и чем больше Судоверфей у Вас есть, тем больше кораблей Вы сможете строить.
+
+Первоначально городской центр может обеспечить 3 строения (комбинация из Реакторов, Жилых Центров и Судоверфей), но сможет и больше при увеличении уровня развития
+
+Для каждой Судоверфи требуется один Реактор Осколков (где-либо в галактике).</ln>
+
+<ln id="FallenSpire_SpireShipyardFoldout_Full">Раскладная Судоверфь Spire'ов</ln>
+<ln id="FallenSpire_SpireShipyardFoldout_Short">S-СВ-Р</ln>
+<ln id="FallenSpire_SpireShipyardFoldout_Desc">Рукотворное строение, создаваемое на Судоверфи Spire'ов.
+Позволяет игрокам, помимо владельца планеты, строить Фрегаты Spire'ов и Столичные Корабли. 
+Неуязвима, но будет уничтожена при уничтожении родительской судоверфи.</ln>
+
+<ln id="FallenSpire_SpireGalacticCapitol_Full">Галактический Капитолий Spire'ов</ln>
+<ln id="FallenSpire_SpireGalacticCapitol_Short">S-ГК</ln>
+
+<ln id="FallenSpire_SpireGalacticCapitol_Desc">Это строение является центральным местом нахождения правительства всего населения Spire'ов в галактике. Оно также содержит передовые научные исследования и средства разработки для адаптации передовых технологий Spire'ов к среде локальной галактики.
+
+Для создания требуется пять Городских Центров Spire'ов во всей галактике.
+
+Обратите внимание, что строительство этого Капитолия вызовет огромный резонанс со стороны ИИ.</ln>
+
+<ln id="FallenSpire_SpireGalacticCapitolFoldout_Full">Раскладной Галактический Капитолий Spire'ов</ln>
+<ln id="FallenSpire_SpireGalacticCapitolFoldout_Short">S-ГК-Р</ln>
+<ln id="FallenSpire_SpireGalacticCapitolFoldout_Desc">Вспомогательное ядро, создаваемое на Галактическом Капитолии Spire'ов.
+Позволяет игрокам, помимо владельца планеты, исследовать передовые технологии Spire'ов. 
+Неуязвим, но будет уничтожен при уничтожении родительского.</ln>
+
+<ln id="SpireDestroyer_Full">Уничтожитель Spire'ов</ln>
+<ln id="SpireDestroyer_Short">S-УН</ln>
+<ln id="SpireDestroyer_Desc">Второй по величине военный корабль, используемый Spire'ами. Его основное вооружение, на самом деле, недальнобойная, высокомощная версия того, что стоит на Фрегате Spire'ов, но у него есть несколько слотов, для установки различных оружейных модулей. Эти модули производит сам корабль.
+
+Для каждого Уничтожителя Spire'ов требуется одна Судоверфь Spire'ов(где-либо в галактике).</ln>
+
+<ln id="SpireCruiser_Full">Крейсер Spire'ов</ln>
+<ln id="SpireCruiser_Short">S-КР</ln>
+<ln id="SpireCruiser_Desc">Средний военных корабль Spire'ов. Его основное оружие - недальнобойная, высокомощная фотонная бомбардирующая пушка, созданная для сражения с другими крупными объектами. Также имеет несколько слотов, для установки различных оружейных модулей. Эти модули производит сам корабль.
+
+Для каждого Уничтожителя Spire'ов требуется две Судоверфи Spire'ов(где-либо в галактике). Корабль будет работать как обычно, если их уничтожат, но Крейсеры больше не могут быть построены.</ln>
+
+<ln id="SpireBattleship_Full">Линкор Spire'ов</ln>
+<ln id="SpireBattleship_Short">S-ЛК</ln>
+<ln id="SpireBattleship_Desc">Огромный военный корабль Spire'ов. Его основное оружие - недальнобойная, высокомощная фотонная бомбардирующая пушка, созданная для сражения с другими крупными объектами. Также имеет несколько слотов, для установки различных оружейных модулей. Эти модули производит сам корабль.
+
+Из-за сложность управления большими кораблями Spire'ов в нашей галактике, этот корабль требует &amp; разработки Галактического Капитолия Spire'ов.
+
+Каждый Линкор Spire'ов требует четыре Судоверфи Spire'ов(где-либо в галактике). Корабль будет работать как обычно, если их уничтожат, но Линкоры больше не могут быть построены.</ln>
+
+<ln id="SpireDreadnought_Full">Дредноут Spire'ов</ln>
+<ln id="SpireDreadnought_Short">S-ДН</ln>
+<ln id="SpireDreadnought_Desc">Громадный военный корабль Spire'ов. Его основное оружие - недальнобойная, высокомощная фотонная бомбардирующая пушка, созданная для сражения с другими крупными объектами. Также имеет несколько слотов, для установки различных оружейных модулей. Эти модули производит сам корабль.
+
+Из-за сложность управелния большими кораблями Spire'ов в нашей галактике, этот корабль требует &amp; разработки Галактического Капитолия Spire'ов.
+
+Каждый Дредноут Spire'ов требует восем Судоверфей Spire'ов (где-либо в галактике). Корабль будет работать как обычно, если их уничтожат, но Дредноуты больше не могут быть построены.</ln>
+
+<ln id="SpireSuperDreadnought_Full">Супер Дредноут Spire'ов</ln>
+<ln id="SpireSuperDreadnought_Short">S-СДН</ln>
+<ln id="SpireSuperDreadnought_Desc">По-настоящему огромный корабль Spire'ов. Его основное оружие - недальнобойная, высокомощная фотонная бомбардирующая пушка, созданная для сражения с другими крупными объектами. Также имеет несколько слотов, для установки различных оружейных модулей. Эти модули производит сам корабль.
+
+Он не может быть построен в нашей галактике.</ln>
+
+<ln id="SpireCityShieldGenerator_Full">Городской Генератор Щита Spire'ов I</ln>
+<ln id="SpireCityShieldGenerator_Short">SГГЩ I</ln>
+<ln id="SpireCityShieldGenerator_Desc">Генератор щита, созданный, чтобы защитить родительские постройки и другие ближайшие постройки внутри того же города.</ln>
+
+<ln id="SpireCityShieldGeneratorII_Full">Городской Генератор Щита Spire'ов II</ln>
+<ln id="SpireCityShieldGeneratorII_Short">SГГЩ II</ln>
+<ln id="SpireCityShieldGeneratorII_Desc">Генератор щита, созданный, чтобы защитить родительские постройки и другие ближайшие постройки внутри того же города.
+
+Требует отдельного исследования Генератора Щита МодIII.</ln>
+
+<ln id="SpireCityShieldGeneratorIII_Full">Городской Генератор Щита Spire'ов III</ln>
+<ln id="SpireCityShieldGeneratorIII_Short">SГГЩ III</ln>
+<ln id="SpireCityShieldGeneratorIII_Desc">Генератор щита, созданный, чтобы защитить родительские постройки и другие ближайшие постройки внутри того же города.
+
+Требует исследования Галактического Капитолия Spire'ов. Также, до того, как это исследование может быть произведено, вы должны отдельно исследовать Генератор Щита МодIII.</ln>
+
+<ln id="AICoreRaidEngineGuardPost_Full">Главный Пост Охраны Налётчика ИИ</ln>
+<ln id="AICoreRaidEngineGuardPost_Short">Пост (Глав Налётчик)</ln>
+<ln id="AICoreRaidEngineGuardPost_Desc">Запускает жёсткие волны уровня V против текущей или соседних планет, если эти планеты не под контролем ИИ, или если человеческий игрок имеет на них значительный флот. Если у людей нет пространственного сенсора на этих планетах, то волна придёт неожиданно. Эти волны возвращаются каждые 4 минуты и содержать смешанный тип кораблей.
+
+Должен быть уничтожен прежде чем люди смогут нанести урон Командной Станции ИИ на этой планете. Если это домашняя планета ИИ, все Генераторы Щита Ядра должны быть уничтожены прежде, чем может быть уничтожен.</ln>
+
+<ln id="AICoreCrossPlanetAttackGuardPost_Full">Пост Охраны Главной Кросс Планетной Атаки ИИ</ln>
+<ln id="AICoreCrossPlanetAttackGuardPost_Short">Пост (Глав КПА)</ln>
+<ln id="AICoreCrossPlanetAttackGuardPost_Desc">Запускает жёсткие общегалактические кросспланетные волны в ответ на то, что люди привели на его планету военные корабли. Первая КПА сработает почти сразу, но посту необходима перезарядка в течении 13 минут перед отправкой следующей волны. Сама КПА в значительной степени зависит от размера текущего Прогресса ИИ и сложности ИИ, контролирующего этот пост.
+
+Должен быть уничтожен прежде чем люди смогут нанести урон Командной Станции ИИ на этой планете. Если это домашняя планета ИИ, все Генераторы Щита Ядра должны быть уничтожены прежде, чем может быть уничтожен.</ln>
+
+<ln id="AICoreHeavyBeamGuardPost_Full">Главный Пост Охраны Тяжёлого Луча ИИ</ln>
+<ln id="AICoreHeavyBeamGuardPost_Short">Пост (Глав Луч)</ln>
+<ln id="AICoreHeavyBeamGuardPost_Desc">Массивная дальнобойная пушка, способная испарить множество мелких кораблей за один выстрел, или нанести экстремальный урон большим целям.
+
+Должен быть уничтожен прежде чем люди смогут нанести урон Командной Станции ИИ на этой планете. Если это домашняя планета ИИ, все Генераторы Щита Ядра должны быть уничтожены прежде, чем может быть уничтожен.</ln>
+
+<ln id="AICoreBoosterGuardPost_Full">Главный Пост Охраны Усилителя ИИ</ln>
+<ln id="AICoreBoosterGuardPost_Short">Пост (Глав Усил)</ln>
+<ln id="AICoreBoosterGuardPost_Desc">Средне вооружён, но значительно усиливает боеприпасы и броню всех ближайших кораблей ИИ.
+
+Должен быть уничтожен прежде чем люди смогут нанести урон Командной Станции ИИ на этой планете. Если это домашняя планета ИИ, все Генераторы Щита Ядра должны быть уничтожены прежде, чем может быть уничтожен.</ln>
+
+<ln id="AIGuardianCarrier_Full">Страж Анклава ИИ</ln>
+<ln id="AIGuardianCarrier_Short">Страж (Анклав I)</ln>
+<ln id="AIGuardianCarrier_Desc">Страж средней мощности, с очень большим здоровьем, создающий внутри себя атакующих дронов, пока не придёт время натравить их на силы людей.</ln>
+<ln id="AIGuardianCarrierII_Full">Страж Анклава ИИ Модель II</ln>
+<ln id="AIGuardianCarrierII_Short">Страж (Анклав II)</ln>
+<ln id="AIGuardianCarrierIII_Full">Страж Анклава ИИ Модель III</ln>
+<ln id="AIGuardianCarrierIII_Short">Страж (Анклав III)</ln>
+<ln id="AIGuardianCarrierIV_Full">Страж Анклава ИИ Модель IV</ln>
+<ln id="AIGuardianCarrierIV_Short">Страж (Анклав IV)</ln>
+<ln id="AIGuardianCarrierV_Full">Страж Анклава ИИ Модель V</ln>
+<ln id="AIGuardianCarrierV_Short">Страж (Анклав V)</ln>
+
+<ln id="AIGuardianEMP_Full">Страж ЭМИ ИИ</ln>
+<ln id="AIGuardianEMP_Short">Страж (ЭМИ I)</ln>
+<ln id="AIGuardianEMP_Desc">Быстрый Страж средней мощности, испускающий ЭМИ на всю планету, действующей только на корабли людей -- оглушает все корабли людей без иммунитета к ЭМИ на планете -- когда они приходят через червоточины или уходят через них.</ln>
+<ln id="AIGuardianEMPII_Full">Страж ЭМИ ИИ Модель II</ln>
+<ln id="AIGuardianEMPII_Short">Страж (ЭМИ II)</ln>
+<ln id="AIGuardianEMPIII_Full">Страж ЭМИ ИИ Модель III</ln>
+<ln id="AIGuardianEMPIII_Short">Страж (ЭМИ III)</ln>
+<ln id="AIGuardianEMPIV_Full">Страж ЭМИ ИИ Модель IV</ln>
+<ln id="AIGuardianEMPIV_Short">Страж (ЭМИ IV)</ln>
+<ln id="AIGuardianEMPV_Full">Страж ЭМИ ИИ Модель V</ln>
+<ln id="AIGuardianEMPV_Short">Страж (ЭМИ V)</ln>
+
+<ln id="AIGuardianSelfDestruction_Full">Страж Самоуничтожения ИИ</ln>
+<ln id="AIGuardianSelfDestruction_Short">Страж (СамоУнич. I)</ln>
+<ln id="AIGuardianSelfDestruction_Desc">Исключительно хрупкий, но довольно злой. Умирая, излучает сильный взрыв с уроном по площади.</ln>
+<ln id="AIGuardianSelfDestructionII_Full">Страж Самоуничтожения ИИ Модель II</ln>
+<ln id="AIGuardianSelfDestructionII_Short">Страж (СамоУнич. II)</ln>
+<ln id="AIGuardianSelfDestructionIII_Full">Страж Самоуничтожения ИИ Модель III</ln>
+<ln id="AIGuardianSelfDestructionIII_Short">Страж (СамоУнич. III)</ln>
+<ln id="AIGuardianSelfDestructionIV_Full">Страж Самоуничтожения ИИ Модель IV</ln>
+<ln id="AIGuardianSelfDestructionIV_Short">Страж (СамоУнич. IV)</ln>
+<ln id="AIGuardianSelfDestructionV_Full">Страж Самоуничтожения ИИ Модель V</ln>
+<ln id="AIGuardianSelfDestructionV_Short">Страж (СамоУнич. V)</ln>
+
+<ln id="AIGuardianSpecialForcesRally_Full">Страж Реле Специальных Сил ИИ</ln>
+<ln id="AIGuardianSpecialForcesRally_Short">Страж (Спец. Силы I)</ln>
+<ln id="AIGuardianSpecialForcesRally_Desc">Работает как мобильный пост наступления для кораблей специальных сил ИИ. Как и Посты Охраны Специальных Сил, новые корабли ии будут появляться около этого Стража при каждом появлении подкрепления, но этот Страж не считается за Пост Охраны во всех важных случаях (для ограничения количества кораблей ИИ на планету и т.п.).</ln>
+<ln id="AIGuardianSpecialForcesRallyII_Full">Страж Реле Специальных Сил Модель II</ln>
+<ln id="AIGuardianSpecialForcesRallyII_Short">Страж (Спец. Силы II)</ln>
+<ln id="AIGuardianSpecialForcesRallyIII_Full">Страж Реле Специальных Сил Модель III</ln>
+<ln id="AIGuardianSpecialForcesRallyIII_Short">Страж (Спец. Силы III)</ln>
+<ln id="AIGuardianSpecialForcesRallyIV_Full">Страж Реле Специальных Сил Модель IV</ln>
+<ln id="AIGuardianSpecialForcesRallyIV_Short">Страж (Спец. Силы IV)</ln>
+<ln id="AIGuardianSpecialForcesRallyV_Full">Страж Реле Специальных Сил Модель V</ln>
+<ln id="AIGuardianSpecialForcesRallyV_Short">Страж (Спец. Силы V)</ln>
+
+<ln id="AIGuardianVampire_Full">Страж Вампир ИИ</ln>
+<ln id="AIGuardianVampire_Short">Страж (Вампир I)</ln>
+<ln id="AIGuardianVampire_Desc">Крепкий боец дальнего боя, восстанавливающий себя, нанося урон противнику.</ln>
+<ln id="AIGuardianVampireII_Full">Страж Вампир ИИ Модель II</ln>
+<ln id="AIGuardianVampireII_Short">Страж (Вампир II)</ln>
+<ln id="AIGuardianVampireIII_Full">Страж Вампир ИИ Модель III</ln>
+<ln id="AIGuardianVampireIII_Short">Страж (Вампир III)</ln>
+<ln id="AIGuardianVampireIV_Full">Страж Вампир ИИ Модель IV</ln>
+<ln id="AIGuardianVampireIV_Short">Страж (Вампир IV)</ln>
+<ln id="AIGuardianVampireV_Full">Страж Вампир ИИ Модель V</ln>
+<ln id="AIGuardianVampireV_Short">Страж (Вампир V)</ln>
+
+<ln id="AIGuardianWarpGate_Full">Страж Пространственных Врат ИИ</ln>
+<ln id="AIGuardianWarpGate_Short">Страж (Прос Врата I)</ln>
+<ln id="AIGuardianWarpGate_Desc">Боец с большим здоровьем и короткой дистанцией, работающий как подвижные Врата. Осторожнее с ним, атакуя на Вашей территории, он может привлечь рейд в неожиданные места, которые недоступны ИИ с помощью обычных врат. В частности, охота на домашние миры людей.</ln>
+<ln id="AIGuardianWarpGateII_Full">Страж Пространственных Врат ИИ Модель II</ln>
+<ln id="AIGuardianWarpGateII_Short">Страж (Врата II)</ln>
+<ln id="AIGuardianWarpGateIII_Full">Страж Пространственных Врат ИИ Модель III</ln>
+<ln id="AIGuardianWarpGateIII_Short">Страж (Врата III)</ln>
+<ln id="AIGuardianWarpGateIV_Full">Страж Пространственных Врат ИИ Модель IV</ln>
+<ln id="AIGuardianWarpGateIV_Short">Страж (Врата IV)</ln>
+<ln id="AIGuardianWarpGateV_Full">Страж Пространственных Врат ИИ Модель V</ln>
+<ln id="AIGuardianWarpGateV_Short">Страж (Врата V)</ln>
+
+<ln id="AIGuardianZombie_Full">Страж Зомби ИИ</ln>
+<ln id="AIGuardianZombie_Short">Страж (Зомби I)</ln>
+<ln id="AIGuardianZombie_Desc">Переманивает вражеские корабли, которых убивает (здоровье переманенных кораблей = урон, нанесённый переманивателем). Переманенные корабли обращаются в Зомби Ботов, которых нельзя контролировать, но они будут безжалостно атаковать корабли противников, пока не умрут. Зомби боты путешествуют на планеты противников, если противников не остаётся, а также имеют иммунитет к переманиванию. Страж не атакует недвигающиеся корабли, неатакующие или с иммунитетом к переманиванию.</ln>
+<ln id="AIGuardianZombieII_Full">Страж Зомби ИИ Модель II</ln>
+<ln id="AIGuardianZombieII_Short">Страж (Зомби II)</ln>
+<ln id="AIGuardianZombieIII_Full">Страж Зомби ИИ Модель III</ln>
+<ln id="AIGuardianZombieIII_Short">Страж (Зомби III)</ln>
+<ln id="AIGuardianZombieIV_Full">Страж Зомби ИИ Модель IV</ln>
+<ln id="AIGuardianZombieIV_Short">Страж (Зомби IV)</ln>
+<ln id="AIGuardianZombieV_Full">Страж Зомби ИИ Модель V</ln>
+<ln id="AIGuardianZombieV_Short">Страж (Зомби V)</ln>
+
+<ln id="AIGuardianGravity_Full">Страж Гравитационный ИИ</ln>
+<ln id="AIGuardianGravity_Short">Страж (Гравит. I)</ln>
+<ln id="AIGuardianGravity_Desc">Огромный эффект гравитационного искажения замедляет корабли противников на обширной территории. Средняя огневая мощь, предназначенная для звездолётов и других крупных целей.</ln>
+<ln id="AIGuardianGravityII_Full">Страж Гравитационный ИИ Модель II</ln>
+<ln id="AIGuardianGravityII_Short">Страж (Гравит. II)</ln>
+<ln id="AIGuardianGravityIII_Full">Страж Гравитационный ИИ Модель III</ln>
+<ln id="AIGuardianGravityIII_Short">Страж (Гравит. III)</ln>
+<ln id="AIGuardianGravityIV_Full">Страж Гравитационный ИИ Модель IV</ln>
+<ln id="AIGuardianGravityIV_Short">Страж (Гравит. IV)</ln>
+<ln id="AIGuardianGravityV_Full">Страж Гравитационный ИИ Модель V</ln>
+<ln id="AIGuardianGravityV_Short">Страж (Гравит. V)</ln>
+
+<ln id="AIGuardianSpireImplosion_Full">Страж Имплозии Spire'ов ИИ</ln>
+<ln id="AIGuardianSpireImplosion_Short">Страж (S Имплозия I)</ln>
+<ln id="AIGuardianSpireImplosion_Desc">Средней дальности, среднего здоровья артиллеристское оружие, наносящее урон, зависящий от оставшегося процента здоровья врага (не менее 1 повреждения). Наиболее эффективен против кораблей с большим количеством оставшегоя здоровья.</ln>
+<ln id="AIGuardianSpireImplosionII_Full">Страж Имплозии Spire'ов ИИ Модель II</ln>
+<ln id="AIGuardianSpireImplosionII_Short">Страж (S Имплозия II)</ln>
+<ln id="AIGuardianSpireImplosionIII_Full">Страж Имплозии Spire'ов ИИ Модель III</ln>
+<ln id="AIGuardianSpireImplosionIII_Short">Страж (S Имплозия III)</ln>
+<ln id="AIGuardianSpireImplosionIV_Full">Страж Имплозии Spire'ов ИИ Модель IV</ln>
+<ln id="AIGuardianSpireImplosionIV_Short">Страж (S Имплозия IV)</ln>
+<ln id="AIGuardianSpireImplosionV_Full">Страж Имплозии Spire'ов ИИ Модель V</ln>
+<ln id="AIGuardianSpireImplosionV_Short">Страж (S Имплозия V)</ln>
+
+<ln id="AIGuardianStarshipDisassembler_Full">Страж Дизассемблер ИИ</ln>
+<ln id="AIGuardianStarshipDisassembler_Short">Страж (Дизассемблер I)</ln>
+<ln id="AIGuardianStarshipDisassembler_Desc">Большой инопланетный Страж, проглатывающий вражеские звездолёты и постоянно повреждает их. При уничтожении Стража, они выпадают наружу с теми жизнями, которые у них остались. Внешние орудия также стреляют по противникам на ближнем расстоянии, пока он жуёт проглоченные корабли.</ln>
+<ln id="AIGuardianStarshipDisassemblerII_Full">Страж Дизассемблер ИИ Модель II</ln>
+<ln id="AIGuardianStarshipDisassemblerII_Short">Страж (Дизассемблер II)</ln>
+<ln id="AIGuardianStarshipDisassemblerIII_Full">Страж Дизассемблер ИИ Модель III</ln>
+<ln id="AIGuardianStarshipDisassemblerIII_Short">Страж (Дизассемблер III)</ln>
+<ln id="AIGuardianStarshipDisassemblerIV_Full">Страж Дизассемблер ИИ Модель IV</ln>
+<ln id="AIGuardianStarshipDisassemblerIV_Short">Страж (Дизассемблер IV)</ln>
+<ln id="AIGuardianStarshipDisassemblerV_Full">Страж Дизассемблер ИИ Модель V</ln>
+<ln id="AIGuardianStarshipDisassemblerV_Short">Страж (Дизассемблер V)</ln>
+
+<ln id="SpireArmorRotter_Full">Уничтожитель Брони Spire'ов</ln>
+<ln id="SpireArmorRotter_Short">Уничтожитель Брони I</ln>
+<ln id="SpireArmorRotter_Wave">Уничтожители Брони Spire'ов</ln>
+<ln id="SpireArmorRotter_Desc">Выстрелами наносит небольшие повреждения, но с каждым попаданием разъедает броню противников. Броня кораблей постоянно восстанавливается через время (это занимает до 10 минут для полного восстановления, в зависимости от количества брони у целей), но не может быть восстановлена намерено. Таким образом, Уничтожитель Брони открывает море возможностей для других кораблей, чтобы те смогли атаковать тяжелобронированные корабли.</ln>
+<ln id="SpireArmorRotterII_Full">Уничтожители Брони Spire'ов Модель II</ln>
+<ln id="SpireArmorRotterII_Short">Уничтожитель Брони II</ln>
+<ln id="SpireArmorRotterIII_Full">Уничтожители Брони Spire'ов Модель III</ln>
+<ln id="SpireArmorRotterIII_Short">Уничтожитель Брони III</ln>
+<ln id="SpireArmorRotterIV_Full">Уничтожители Брони Spire'ов Модель IV</ln>
+<ln id="SpireArmorRotterIV_Short">Уничтожитель Брони IV</ln>
+<ln id="CoreSpireArmorRotter_Full">Уничтожители Брони Spire'ов Модель V</ln>
+<ln id="CoreSpireArmorRotter_Short">Уничтожитель Брони V</ln>
+
+<ln id="SpireBladeSpawner_Full">Спаунер Лезвий Spire'ов</ln>
+<ln id="SpireBladeSpawner_Short">Спаунер Лезвий I</ln>
+<ln id="SpireBladeSpawner_Wave">Спаунеры Лезвий Spire'ов</ln>
+<ln id="SpireBladeSpawner_Desc">Большой центральный корабль со слабыми пушками, но постоянно создающий маленькие независимые Лезвия, которые врезаются во вражеские корабли.
+
+Заметьте, что этот корабль не будет преследовать другие корабли, пока Вы не отдадите специальный приказ, даже в режиме Свободного Выбора Целей.</ln>
+<ln id="SpireBladeSpawnerII_Full">Спаунер Лезвий Spire'ов Модель II</ln>
+<ln id="SpireBladeSpawnerII_Short">Спаунер Лезвий II</ln>
+<ln id="SpireBladeSpawnerIII_Full">Спаунер Лезвий Spire'ов Модель III</ln>
+<ln id="SpireBladeSpawnerIII_Short">Спаунер Лезвий III</ln>
+<ln id="SpireBladeSpawnerIV_Full">Спаунер Лезвий Spire'ов Модель IV</ln>
+<ln id="SpireBladeSpawnerIV_Short">Спаунер Лезвий IV</ln>
+<ln id="CoreSpireBladeSpawner_Full">Спаунер Лезвий Spire'ов Модель V</ln>
+<ln id="CoreSpireBladeSpawner_Short">Спаунер Лезвий V</ln>
+
+<ln id="SpireBlade_Full">Лезвие Spire'ов</ln>
+<ln id="SpireBlade_Short">S Лезвие I</ln>
+<ln id="SpireBlade_Wave">Лезвия Spire'ов</ln>
+<ln id="SpireBlade_Desc">Экстремально быстрый корабль ближнего боя -- теряет здоровье через некоторое время, затем самоуничтожается. Созданный внутри Спаунера Лезвий Spire'ов, неподконтролен, но будет яростно атаковать врагов на текущей планете. Игроки не могут отдавать ему прямых приказов.</ln>
+<ln id="SpireBladeII_Full">Лезвие Spire'ов Модель II</ln>
+<ln id="SpireBladeII_Short">S Лезвие II</ln>
+<ln id="SpireBladeIII_Full">Лезвие Spire'ов Модель III</ln>
+<ln id="SpireBladeIII_Short">S Лезвие III</ln>
+<ln id="SpireBladeIV_Full">Лезвие Spire'ов Модель IV</ln>
+<ln id="SpireBladeIV_Short">S Лезвие IV</ln>
+<ln id="CoreSpireBlade_Full">Лезвие Spire'ов Модель V</ln>
+<ln id="CoreSpireBlade_Short">S Лезвие V</ln>
+
+<ln id="SpireGravityDrain_Full">Сток Гравитации Spire'ов</ln>
+<ln id="SpireGravityDrain_Short">Сток Гравитации I</ln>
+<ln id="SpireGravityDrain_Wave">Стоки Гравитации Spire'ов</ln>
+<ln id="SpireGravityDrain_Desc">Большой, медленный корабль, замедляющий движения расположенных близко вражеских кораблей. Также снабжён губительными лазерами ближнего действия.</ln>
+<ln id="SpireGravityDrainII_Full">Сток Гравитации Spire'ов Модель II</ln>
+<ln id="SpireGravityDrainII_Short">Сток Гравитации II</ln>
+<ln id="SpireGravityDrainIII_Full">Сток Гравитации Spire'ов Модель III</ln>
+<ln id="SpireGravityDrainIII_Short">Сток Гравитации III</ln>
+<ln id="SpireGravityDrainIV_Full">Сток Гравитации Spire'ов Модель IV</ln>
+<ln id="SpireGravityDrainIV_Short">Сток Гравитации IV</ln>
+<ln id="CoreSpireGravityDrain_Full">Сток Гравитации Spire'ов Модель V</ln>
+<ln id="CoreSpireGravityDrain_Short">Сток Гравитации V</ln>
+
+<ln id="SpireGravityRipper_Full">Потрошитель Гравитации Spire'ов</ln>
+<ln id="SpireGravityRipper_Short">Потрошитель Гравитации  I</ln>
+<ln id="SpireGravityRipper_Wave">Потрошители Гравитации  Spire'ов</ln>
+<ln id="SpireGravityRipper_Desc">Большой, медленный корабль с большим здоровьем, временно останавливающий движение вражеских кораблей с каждым попаданием из его скорострельной энергетической пушки ближнего действия. Хорош в использовании с другими кораблями, чтобы удержать цель от бегства.</ln>
+<ln id="SpireGravityRipperII_Full">Потрошитель Гравитации Spire'ов Модель II</ln>
+<ln id="SpireGravityRipperII_Short">Потрошитель Гравитации II</ln>
+<ln id="SpireGravityRipperIII_Full">Потрошитель Гравитации Spire'ов Модель III</ln>
+<ln id="SpireGravityRipperIII_Short">Потрошитель Гравитации III</ln>
+<ln id="SpireGravityRipperIV_Full">Потрошитель Гравитации Spire'ов Модель IV</ln>
+<ln id="SpireGravityRipperIV_Short">Потрошитель Гравитации IV</ln>
+<ln id="CoreSpireGravityRipper_Full">Потрошитель Гравитации Spire'ов Модель V</ln>
+<ln id="CoreSpireGravityRipper_Short">Потрошитель Гравитации V</ln>
+
+<ln id="SpireMaw_Full">Пасть Spire'ов</ln>
+<ln id="SpireMaw_Short">Пасть I</ln>
+<ln id="SpireMaw_Wave">Пасти Spire'ов</ln>
+<ln id="SpireMaw_Desc">Огромный инопланетный корабль, который поглощает переносимые корабли противника и постепенно изнашивает их. При уничтожении Пасти, они выпадают наружу с теми жизнями, которые у них остались. Внешние орудия также стреляют по противникам на ближнем расстоянии, пока он жуёт проглоченные корабли.</ln>
+<ln id="SpireMawII_Full">Пасть Spire'ов Модель II</ln>
+<ln id="SpireMawII_Short">Пасть II</ln>
+<ln id="SpireMawIII_Full">Пасть Spire'ов Модель III</ln>
+<ln id="SpireMawIII_Short">Пасть III</ln>
+<ln id="SpireMawIV_Full">Пасть Spire'ов Модель IV</ln>
+<ln id="SpireMawIV_Short">Пасть IV</ln>
+<ln id="CoreSpireMaw_Full">Пасть Spire'ов Модель V</ln>
+<ln id="CoreSpireMaw_Short">Пасть V</ln>
+
+<ln id="SpireMiniRam_Full">Мини Таран Spire'ов</ln>
+<ln id="SpireMiniRam_Short">Мини Таран I</ln>
+<ln id="SpireMiniRam_Wave">Мини Таран Spire'ов</ln>
+<ln id="SpireMiniRam_Desc">Этот миниатюрный таран специализируется на целях с высоким здоровьем, врезается в них, нанося большие повреждения и разрушается в процессе. Не может атаковать меньшие корабли.</ln>
+<ln id="SpireMiniRamII_Full">Мини Таран Spire'ов Модель II</ln>
+<ln id="SpireMiniRamII_Short">Мини Таран II</ln>
+<ln id="SpireMiniRamIII_Full">Мини Таран Spire'ов Модель III</ln>
+<ln id="SpireMiniRamIII_Short">Мини Таран III</ln>
+<ln id="SpireMiniRamIV_Full">Мини Таран Spire'ов Модель IV</ln>
+<ln id="SpireMiniRamIV_Short">Мини Таран IV</ln>
+<ln id="CoreSpireMiniRam_Full">Мини Таран Spire'ов Модель V</ln>
+<ln id="CoreSpireMiniRam_Short">Мини Таран V</ln>
+
+<ln id="SpireStealthBattleship_Full">Хитрый Линкор Spire'ов</ln>
+<ln id="SpireStealthBattleship_Short">Хитрый Линкор I</ln>
+<ln id="SpireStealthBattleship_Wave">Хитрые Линкоры Spire'ов</ln>
+<ln id="SpireStealthBattleship_Desc">Мощный линкор с опцией скрытия, а также гасителем радаров, который заставляет вражеские корабли находиться на определённом расстоянии, чтобы стрелять по нему (гаситель радаров не влияет на возможность кораблей стрелять по другим кораблям, только по этому).</ln>
+<ln id="SpireStealthBattleshipII_Full">Хитрый Линкор Spire'ов Модель II</ln>
+<ln id="SpireStealthBattleshipII_Short">Хитрый Линкор II</ln>
+<ln id="SpireStealthBattleshipIII_Full">Хитрый Линкор Spire'ов Модель III</ln>
+<ln id="SpireStealthBattleshipIII_Short">Хитрый Линкор III</ln>
+<ln id="SpireStealthBattleshipIV_Full">Хитрый Линкор Spire'ов Модель IV</ln>
+<ln id="SpireStealthBattleshipIV_Short">Хитрый Линкор IV</ln>
+<ln id="CoreSpireStealthBattleship_Full">Хитрый Линкор Spire'ов Модель V</ln>
+<ln id="CoreSpireStealthBattleship_Short">Хитрый Линкор V</ln>
+
+<ln id="SpireTeleportingLeech_Full">Телепортирующийся Лич Spire'ов</ln>
+<ln id="SpireTeleportingLeech_Short">Телепортирующийся Лич  I</ln>
+<ln id="SpireTeleportingLeech_Wave">Телепортирующиеся Личи Spire'ов</ln>
+<ln id="SpireTeleportingLeech_Desc">Телепортирующийся Корабль, стреляющий молнией, наносящей переманивающий урон (больше - целям низкого уровня, и наоборот). Противники, которым был нанесён переманиваюш=щий урон больший либо равный половине их здоровья, будут переманены после уничтожения. Здоровье свежепереманенных кораблей = весь полученный переманенный урон.
+
+Если корабль умирает с недостаточным уровнем переманивающего урона, то этот "переманенный нанит" "переключится" на ближайшую доступную цель.</ln>
+<ln id="SpireTeleportingLeechII_Full">Телепортирующийся Лич Spire'ов Модель II</ln>
+<ln id="SpireTeleportingLeechII_Short">Телепортирующийся Лич II</ln>
+<ln id="SpireTeleportingLeechIII_Full">Телепортирующийся Лич Spire'ов Модель III</ln>
+<ln id="SpireTeleportingLeechIII_Short">Телепортирующийся Лич III</ln>
+<ln id="SpireTeleportingLeechIV_Full">Телепортирующийся Лич Spire'ов Модель IV</ln>
+<ln id="SpireTeleportingLeechIV_Short">Телепортирующийся Лич IV</ln>
+<ln id="CoreSpireTeleportingLeech_Full">Телепортирующийся Лич Spire'ов Модель V</ln>
+<ln id="CoreSpireTeleportingLeech_Short">Телепортирующийся Лич V</ln>
+
+<ln id="SpireTractorPlatform_Full">Тяговая Платформа Spire'ов</ln>
+<ln id="SpireTractorPlatform_Short">Тяговая Платформа I</ln>
+<ln id="SpireTractorPlatform_Wave">Тяговые Платформы Spire'ов</ln>
+<ln id="SpireTractorPlatform_Desc">Маленький инопланетный корабль с маленьким оружием, но множеством тяговых лучей. Очевидно полезен в обороне, но также может быть полезен в том, чтобы удержать противника на расстоянии, пока дальнобойные корабли не вынесут их.</ln>
+<ln id="SpireTractorPlatformII_Full">Тяговая Платформа Spire'ов Модель II</ln>
+<ln id="SpireTractorPlatformII_Short">Тяговая Платформа II</ln>
+<ln id="SpireTractorPlatformIII_Full">Тяговая Платформа Spire'ов Модель III</ln>
+<ln id="SpireTractorPlatformIII_Short">Тяговая Платформа III</ln>
+<ln id="SpireTractorPlatformIV_Full">Тяговая Платформа Spire'ов Модель IV</ln>
+<ln id="SpireTractorPlatformIV_Short">Тяговая Платформа IV</ln>
+<ln id="CoreSpireTractorPlatform_Full">Тяговая Платформа Spire'ов Модель V</ln>
+<ln id="CoreSpireTractorPlatform_Short">Тяговая Платформа V</ln>
+
+<ln id="SpireCivilianLeaderOutpost_Full">Застава Гражданских Лидеров Spire'ов</ln>
+<ln id="SpireCivilianLeaderOutpost_Short">S Гражд. Лидеры</ln>
+<ln id="SpireCivilianLeaderOutpost_Desc">Против своей воли, раз в час час каждая застава увеличивает Прогресс ИИ на 1(начиная с первой минуты игры и дальше каждый час). У вас есть выбор: либо уничтожить эти заставы, сговорившиеся с ИИ, либо освободить, захватив планету у ИИ. Освободившись, каждая застава будет с благодарностью уменьшать Прогресс ИИ на 3 каждый час.</ln>
+
+<ln id="SpirecraftShieldBearer_Full">Щитовой Барьер Spirecraft</ln>
+<ln id="SpirecraftShieldBearer_Short">SC Щитовой Барьер I</ln>
+<ln id="SpirecraftShieldBearer_Wave">Щитовые Барьеры Spirecraft</ln>
+<ln id="SpirecraftShieldBearer_Desc">Не оснащён оружием, но имеет кучу здоровья и обеспечивает изменяемое силовое поле для защиты союзных кораблей. Его защитное поле не уменьшает силу атаки защищаемых кораблей и не уменьшается при повреждении.
+
+Абсолютно не расположен к восстановлению.</ln>
+<ln id="SpirecraftShieldBearerII_Full">Щитовой Барьер Spirecraft Модель II</ln>
+<ln id="SpirecraftShieldBearerII_Short">SC Щитовой Барьер II</ln>
+<ln id="SpirecraftShieldBearerIII_Full">Щитовой Барьер Spirecraft Модель III</ln>
+<ln id="SpirecraftShieldBearerIII_Short">SC Щитовой Барьер III</ln>
+<ln id="SpirecraftShieldBearerIV_Full">Щитовой Барьер Spirecraft Модель IV</ln>
+<ln id="SpirecraftShieldBearerIV_Short">SC Щитовой Барьер IV</ln>
+<ln id="SpirecraftShieldBearerV_Full">Щитовой Барьер Spirecraft Модель V</ln>
+<ln id="SpirecraftShieldBearerV_Short">SC Щитовой Барьер V</ln>
+
+<ln id="AISpirecraftShieldBearer_Full">Щитовой Барьер Spirecraft (ИИ)</ln>
+<ln id="AISpirecraftShieldBearer_Short">Щитовой Барьер Spirecraft - ИИ</ln>
+<ln id="AISpirecraftShieldBearer_Wave">Щитовые Барьеры Spirecraft</ln>
+<ln id="AISpirecraftShieldBearer_Desc">Имеет кучу здоровья и обеспечивает изменяемое силовое поле для защиты союзных кораблей. Его защитное поле не уменьшает силу атаки защищаемых кораблей.</ln>
+<ln id="AISpirecraftShieldBearerII_Full">Щитовой Барьер Spirecraft II (ИИ)</ln>
+<ln id="AISpirecraftShieldBearerII_Short">Щитовой Барьер Spirecraft II - ИИ</ln>
+<ln id="AISpirecraftShieldBearerIII_Full">Щитовой Барьер Spirecraft III (ИИ)</ln>
+<ln id="AISpirecraftShieldBearerIII_Short">Щитовой Барьер Spirecraft III - ИИ</ln>
+<ln id="AISpirecraftShieldBearerIV_Full">Щитовой Барьер Spirecraft IV (ИИ)</ln>
+<ln id="AISpirecraftShieldBearerIV_Short">Щитовой Барьер Spirecraft IV - ИИ</ln>
+<ln id="AISpirecraftShieldBearerV_Full">Щитовой Барьер Spirecraft V (ИИ)</ln>
+<ln id="AISpirecraftShieldBearerV_Short">Щитовой Барьер Spirecraft V - ИИ</ln>
+
+<ln id="SpirecraftRam_Full">Таран Spirecraft</ln>
+<ln id="SpirecraftRam_Short">SC Таран I</ln>
+<ln id="SpirecraftRam_Wave">Таран Spirecraft</ln>
+<ln id="SpirecraftRam_Desc">Этот массивный таран специализируется на целях с высоким здоровьем, врезается в них, нанося большие повреждения и разрушается в процессе. Не может атаковать меньшие корабли.</ln>
+<ln id="SpirecraftRamII_Full">Таран Spirecraft Модель II</ln>
+<ln id="SpirecraftRamII_Short">SC Таран II</ln>
+<ln id="SpirecraftRamIII_Full">Таран Spirecraft Модель III</ln>
+<ln id="SpirecraftRamIII_Short">SC Таран III</ln>
+<ln id="SpirecraftRamIV_Full">Таран Spirecraft Модель IV</ln>
+<ln id="SpirecraftRamIV_Short">SC Таран IV</ln>
+<ln id="SpirecraftRamV_Full">Таран Spirecraft Модель V</ln>
+<ln id="SpirecraftRamV_Short">SC Таран V</ln>
+
+<ln id="SpirecraftMartyr_Full">Мученик Spirecraft</ln>
+<ln id="SpirecraftMartyr_Short">SC Мученик I</ln>
+<ln id="SpirecraftMartyr_Wave">Мученики Spirecraft</ln>
+<ln id="SpirecraftMartyr_Desc">У этого массивного корабля нет оружия, но он облеплен тяговыми лучами. Когда он умирает (или утилизируется), он взрывается с чрезвычайным повреждением вражеских кораблей в большом диапазоне -- даже тех, у кого иммунитет к обычному повреждению на площади.
+
+Его деструктивный потенциал ЭКСТРЕМАЛЕН, но учтите, что мощь взрыва распространяется сначала на самые слабые цели и теряет силу при нанесении урона. Так что повреждения вычисляются с учётом общего количества повреждений, которые он может нанести, не зависимо от количества целей в области.</ln>
+<ln id="SpirecraftMartyrII_Full">Мученик Spirecraft Модель II</ln>
+<ln id="SpirecraftMartyrII_Short">SC Мученик II</ln>
+<ln id="SpirecraftMartyrIII_Full">Мученик Spirecraft Модель III</ln>
+<ln id="SpirecraftMartyrIII_Short">SC Мученик III</ln>
+<ln id="SpirecraftMartyrIV_Full">Мученик Spirecraft Модель IV</ln>
+<ln id="SpirecraftMartyrIV_Short">SC Мученик IV</ln>
+<ln id="SpirecraftMartyrV_Full">Мученик Spirecraft Модель V</ln>
+<ln id="SpirecraftMartyrV_Short">SC Мученик V</ln>
+
+<ln id="SpireArchive_Full">Архив Spire'ов</ln>
+<ln id="SpireArchive_Short">S Архив</ln>
+<ln id="SpireArchive_Desc">Этот мощный научный корабль может быть обнаружен на или возле домашних планет ИИ. Его захват будет производить +5 на планете архива для всех человеческих игроков, пока архив жив, вплоть до тройной нормы планетного ограничения на добычу Науки. Как только все очки Науки будут добыты, архив автоматически самоуничтожится. Если архив был уничтожен до этого момента, это буде стоить большого Прогресса ИИ.</ln>
+
+<ln id="SpirecraftAttritioner_Full">Истощитель Spirecraft</ln>
+<ln id="SpirecraftAttritioner_Short">SC Истощитель I</ln>
+<ln id="SpirecraftAttritioner_Wave">Истощатели Spirecraft</ln>
+<ln id="SpirecraftAttritioner_Desc">У этого массивного корабля нет непосредсвенных пушек, но он наносит значительный урон в секунду всем кораблям противника одновременно. Корабли врага на текущей планете заметят, что теряют здоровье из-за истощения и станут агрессивными, так что будьте осторожны с раздражением вражеской планеты истощателем.
+
+Одной из особенностей технологии истощения Spire'ов  является то, что, когда корабль противника уничтожаются, то все его союзники (у которых нет иммунитета к истощению) получают определённый процент повреждений на величину максимального здоровья этого корабля в качестве ответа. Этот ответный удар суммируется с разными Истощателями Spirecraft и высшие модели наносят больший процент, но этот ответный удар делится между всеми доступными целями и поэтому не сильно повреждает отдельные цели.</ln>
+<ln id="SpirecraftAttritionerII_Full">Истощитель Spirecraft Модель II</ln>
+<ln id="SpirecraftAttritionerII_Short">SC Истощитель II</ln>
+<ln id="SpirecraftAttritionerIII_Full">Истощитель Spirecraft Модель III</ln>
+<ln id="SpirecraftAttritionerIII_Short">SC Истощитель III</ln>
+<ln id="SpirecraftAttritionerIV_Full">Истощитель Spirecraft Модель IV</ln>
+<ln id="SpirecraftAttritionerIV_Short">SC Истощитель IV</ln>
+<ln id="SpirecraftAttritionerV_Full">Истощитель Spirecraft Модель V</ln>
+<ln id="SpirecraftAttritionerV_Short">SC Истощитель V</ln>
+
+<ln id="SpirecraftScout_Full">Скаут Spirecraft</ln>
+<ln id="SpirecraftScout_Short">SC Скаут I</ln>
+<ln id="SpirecraftScout_Wave">Скауты Spirecraft</ln>
+<ln id="SpirecraftScout_Desc">Эти Скауты постоянно скрыты, но проходя через каждую червоточину из зоны обеспечения питания их здоровье уменьшается  (на 50/34/25/20/17%, для Мод I/II/III/IV/V соответственно), но он также быстро восстанавливает здоровье на союзных планетах.</ln>
+<ln id="SpirecraftScoutII_Full">Скаут Spirecraft Модель II</ln>
+<ln id="SpirecraftScoutII_Short">SC Скаут II</ln>
+<ln id="SpirecraftScoutIII_Full">Скаут Spirecraft Модель III</ln>
+<ln id="SpirecraftScoutIII_Short">SC Скаут III</ln>
+<ln id="SpirecraftScoutIV_Full">Скаут Spirecraft Модель IV</ln>
+<ln id="SpirecraftScoutIV_Short">SC Скаут IV</ln>
+<ln id="SpirecraftScoutV_Full">Скаут Spirecraft Модель V</ln>
+<ln id="SpirecraftScoutV_Short">SC Скаут V</ln>
+
+<ln id="SpirecraftIon_Full">Транслокатор Spirecraft</ln>
+<ln id="SpirecraftIon_Short">SC Трансл I</ln>
+<ln id="SpirecraftIon_Wave">Транслокаторы Spirecraft</ln>
+<ln id="SpirecraftIon_Desc">Устанавливает множество рельстронов средней дальности, обладающих отталкивающим эффектом. Полезен для удержания подонков на расстоянии.</ln>
+<ln id="SpirecraftIonII_Full">Транслокатор Spirecraft Модель II</ln>
+<ln id="SpirecraftIonII_Short">SC Трансл II</ln>
+<ln id="SpirecraftIonIII_Full">Транслокатор Spirecraft Модель III</ln>
+<ln id="SpirecraftIonIII_Short">SC Трансл III</ln>
+<ln id="SpirecraftIonIV_Full">Транслокатор Spirecraft Модель IV</ln>
+<ln id="SpirecraftIonIV_Short">SC Трансл IV</ln>
+<ln id="SpirecraftIonV_Full">Транслокатор Spirecraft Модель V</ln>
+<ln id="SpirecraftIonV_Short">SC Трансл V</ln>
+
+<ln id="SpirecraftPenetrator_Full">Вторгатель Spirecraft</ln>
+<ln id="SpirecraftPenetrator_Short">SC Вторгатель I</ln>
+<ln id="SpirecraftPenetrator_Wave">Вторгатели Spirecraft</ln>
+<ln id="SpirecraftPenetrator_Desc">Скрытый корабль, не способный стрелять по большинству мелких кораблей и которому нужно вручную указывать точку стрельбы. Наносит абсолютно астрономические повреждения, затем разоблачается и не способен стрелять в течение получаса. Этот корабль Слепой, поэтому требует наличия Скаута или подобного корабля, чтобы увидеть цель, но в противном случае он работает как волк-одиночка, доставляя свою полезную нагрузку, а затем возвращаясь в дружественное пространство, чтобы отдохнуть и восстановиться.</ln>
+<ln id="SpirecraftPenetratorII_Full">Вторгатель Spirecraft Модель II</ln>
+<ln id="SpirecraftPenetratorII_Short">SC Вторгатель II</ln>
+<ln id="SpirecraftPenetratorIII_Full">Вторгатель Spirecraft Модель III</ln>
+<ln id="SpirecraftPenetratorIII_Short">SC Вторгатель III</ln>
+<ln id="SpirecraftPenetratorIV_Full">Вторгатель Spirecraft Модель IV</ln>
+<ln id="SpirecraftPenetratorIV_Short">SC Вторгатель IV</ln>
+<ln id="SpirecraftPenetratorV_Full">Вторгатель Spirecraft Модель V</ln>
+<ln id="SpirecraftPenetratorV_Short">SC Вторгатель V</ln>
+
+<ln id="SpirecraftImplosion_Full">Имплозийная Артилерия Spirecraft</ln>
+<ln id="SpirecraftImplosion_Short">SC Имплозия I</ln>
+<ln id="SpirecraftImplosion_Wave">Имплозийная Артилерия Spirecraft</ln>
+<ln id="SpirecraftImplosion_Desc">Большое, дальнобойное, артиллерийское оружие со средним здоровьем, наносящее урон, зависящий от процента оставшегося здоровья у противников (не меньше 1). Наиболее эффективен, когда у противника много оставшегося здоровья.</ln>
+<ln id="SpirecraftImplosionII_Full">Имплозийная Артилерия Spirecraft Модель II</ln>
+<ln id="SpirecraftImplosionII_Short">SC Имплозия II</ln>
+<ln id="SpirecraftImplosionIII_Full">Имплозийная Артилерия Spirecraft Модель III</ln>
+<ln id="SpirecraftImplosionIII_Short">SC Имплозия III</ln>
+<ln id="SpirecraftImplosionIV_Full">Имплозийная Артилерия Spirecraft Модель IV</ln>
+<ln id="SpirecraftImplosionIV_Short">SC Имплозия IV</ln>
+<ln id="SpirecraftImplosionV_Full">Имплозийная Артилерия Spirecraft Модель V</ln>
+<ln id="SpirecraftImplosionV_Short">SC Имплозия V</ln>
+
+<ln id="SpirecraftSiegeTower_Full">Осадная Башня Spirecraft</ln>
+<ln id="SpirecraftSiegeTower_Short">SC Осадная Башня I</ln>
+<ln id="SpirecraftSiegeTower_Wave">Осадные Башни Spirecraft</ln>
+<ln id="SpirecraftSiegeTower_Desc">Эта spirecraft в основном строится вокруг большой плазменной осадной пушки. Хороша против звездолётов, Постов Охраны, Стражей, Крепостей, силовых полей, большинства турелей и других больших кораблей, типа големов или других spirecraft. Когда плазменный заряд взрывается, он также наносит урон нескольким соседним юнитам меньшей силы.
+
+При атаке силового поля, наносит урон 25 юнитам под защитой этого поля (или полю возле этого поля) в размере 6.25% урона, наносимого полю.</ln>
+<ln id="SpirecraftSiegeTowerII_Full">Осадная Башня Spirecraft Модель II</ln>
+<ln id="SpirecraftSiegeTowerII_Short">SC Осадная Башня II</ln>
+<ln id="SpirecraftSiegeTowerIII_Full">Осадная Башня Spirecraft Модель III</ln>
+<ln id="SpirecraftSiegeTowerIII_Short">SC Осадная Башня III</ln>
+<ln id="SpirecraftSiegeTowerIV_Full">Осадная Башня Spirecraft Модель IV</ln>
+<ln id="SpirecraftSiegeTowerIV_Short">SC Осадная Башня IV</ln>
+<ln id="SpirecraftSiegeTowerV_Full">Осадная Башня Spirecraft Модель V</ln>
+<ln id="SpirecraftSiegeTowerV_Short">SC Осадная Башня V</ln>
+
+<ln id="SpirecraftJumpship_Full">Прыгун Spirecraft</ln>
+<ln id="SpirecraftJumpship_Short">SC Прыгун I</ln>
+<ln id="SpirecraftJumpship_Wave">Прыгуны Spirecraft</ln>
+<ln id="SpirecraftJumpship_Desc">Дорогой транспорт малой ёмкости с продвинутой телепортацией и без саморазрушения в червоточинах. Продвинутая телепортация позволяет Прыгуну переходить через червоточины и через планеты без обычных секундных задержек, которыми обладают корабли с обычной телепортацией. На планетах с тем же уровнем (или выше), что и у Прыгуна, Прыгун умирает в течение 20 секунд.</ln>
+<ln id="SpirecraftJumpshipII_Full">Прыгун Spirecraft Модель II</ln>
+<ln id="SpirecraftJumpshipII_Short">SC Прыгун II</ln>
+<ln id="SpirecraftJumpshipIII_Full">Прыгун Spirecraft Модель III</ln>
+<ln id="SpirecraftJumpshipIII_Short">SC Прыгун III</ln>
+<ln id="SpirecraftJumpshipIV_Full">Прыгун Spirecraft Модель IV</ln>
+<ln id="SpirecraftJumpshipIV_Short">SC Прыгун IV</ln>
+<ln id="SpirecraftJumpshipV_Full">Прыгун Spirecraft Модель V</ln>
+<ln id="SpirecraftJumpshipV_Short">SC Прыгун V</ln>
+
+<ln id="AIBeachhead_Full">Плацдарм ИИ</ln>
+<ln id="AIBeachhead_Short">Плацдарм ИИ I</ln>
+<ln id="AIBeachhead_Wave">Плацдармы ИИ</ln>
+<ln id="AIBeachhead_Desc">Жёсткий, бронированный, неподвижный дальнобойный корабль ИИ, отправляемый с некоторыми волнами. Отключает систему обеспечения на планете, которую атакует, (отключает всё от турелей до силовых полей, пока Плацдарм не уничтожен), а также предотвращает отступление вражеских кораблей.</ln>
+<ln id="AIBeachheadII_Full">Плацдарм ИИ Модель II</ln>
+<ln id="AIBeachheadII_Short">Плацдарм ИИ II</ln>
+<ln id="AIBeachheadIII_Full">Плацдарм ИИ Модель III</ln>
+<ln id="AIBeachheadIII_Short">Плацдарм ИИ III</ln>
+<ln id="AIBeachheadIV_Full">Плацдарм ИИ Модель IV</ln>
+<ln id="AIBeachheadIV_Short">Плацдарм ИИ IV</ln>
+<ln id="AIBeachheadV_Full">Плацдарм ИИ Модель V</ln>
+<ln id="AIBeachheadV_Short">Плацдарм ИИ V</ln>
+</root>

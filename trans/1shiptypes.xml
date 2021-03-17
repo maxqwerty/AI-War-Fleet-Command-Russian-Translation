@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<ln id="ZenithBombardment">Бомбардир</ln>
+<ln id="ZenithAutoBomb">АвтоБомб</ln>
+<ln id="GrenadeLauncher">Гранатомёт</ln>
+<ln id="Golem">Голем</ln>
+<ln id="BrokenGolem">Сломанный Голем</ln>
+<ln id="AlarmPost">Пост Тревоги</ln>
+<ln id="AlarmPostSpecial">Специальный Пост Тревоги</ln>
+<ln id="RaidEngine">Налётчик</ln>
+<ln id="Cloaker_Starship">Скрытый Звездолёт</ln>
+<ln id="ZenithElectricBomber">ЭлектроБомбер</ln>
+<ln id="SentinelFrigate">Фрегат-Часовой</ln>
+<ln id="ZenithMirror">Зеркало</ln>
+<ln id="ZenithParalyzer">Паралич</ln>
+<ln id="ShieldBooster">Усилитель</ln>
+<ln id="ZenithBeamFrigate">Лучевой Фрегат</ln>
+<ln id="ZenithChameleon">Хамелеон</ln>
+<ln id="ZenithPolarizer">Поляризатор</ln>
+<ln id="ZenithViralShredder">Шреддер</ln>
+<ln id="ImpulseReactionEmitter">Излучатель</ln>
+<ln id="AcidSprayer">Распылитель Кислоты</ln>
+<ln id="ZenithSpaceTime">Простр-Время Zenith'ов</ln>
+<ln id="RadarJammer">Глушитель</ln>
+<ln id="PlanetShieldBooster">Планетарный Усилитель</ln>
+<ln id="PlanetShieldInhibitor">Планетарный Ингибитор</ln>
+<ln id="BlackHoleMachine">Машина Чёрной Дыры</ln>
+<ln id="GravityDrill">Гравидрель</ln>
+<ln id="InterplanetaryMunitions">Межпланетные Боеприпасы</ln>
+<ln id="ZenithReserve">Резерв Zenith'ов</ln>
+<ln id="DistributionNode">Точка Распределения</ln>
+<ln id="AISuperTerminal">Супертерминал ИИ</ln>
+<ln id="AICoProcessor">Со-Процессор ИИ</ln>
+<ln id="DysonSpawn">Спаун Дайсона</ln>
+</root>

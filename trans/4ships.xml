@@ -1,0 +1,1513 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<ln id="HumanMinerStarbaseSmall_Full">База остатков Эпсилон Эридана</ln>
+<ln id="HumanMinerStarbaseSmall_Short">База ЭЭ</ln>
+<ln id="HumanMinerStarbaseSmall_Desc">Это стационарное строение служит убежищем для группы людей с Эпсилон Эридана, сбежавших до того, как ИИ вычислил эту систему как населённую людьми. Здесь они добывают ресурсы, необходимые для их выживания.</ln>
+
+<ln id="HumanMinerStarbaseLarge_Full">Большая База остатков Эпсилон Эридана</ln>
+<ln id="HumanMinerStarbaseLarge_Short">Бол База ЭЭ</ln>
+<ln id="HumanMinerStarbaseLarge_Desc">Это большое стационарное строение служит убежищем для группы людей с Эпсилон Эридана, сбежавших до того, как ИИ вычислил эту систему как населённую людьми. Здесь они добывают ресурсы, необходимые для их выживания.
+
+Если Ваш чемпион достаточно близко, то это строение сможет его ремонтировать и поможет в строении новых модулей.</ln>
+
+<ln id="HumanMinerOffroadRewardStructure_Full">Строение остатков Эпсилон Эридана</ln>
+<ln id="HumanMinerOffroadRewardStructure_Short">ЭЭ Стр</ln>
+<ln id="HumanMinerOffroadRewardStructure_Desc">Эта маленькая стационарная структура облегчает передачу ресурсов от остатков Эпсилон Эридана к Вам, и позволяет Вам строить боевые корабли, использую их чертежи (и отправить их на Внутригалактические Врата Звездолётной Верфи, если они есть).</ln>
+
+<ln id="HumanMinerNormalCombatShip_Full">Искатель (остатки Эпсилон Эридана)</ln>
+<ln id="HumanMinerNormalCombatShip_Short">Искатель</ln>
+<ln id="HumanMinerNormalCombatShip_Desc">Фрегат класса Искатель является боевым патрульным кораблём, используемым остатками Эпсилон Эридана.</ln>
+
+<ln id="HumanMinerAdvancedCombatShip_Full">Магма (остатки Эпсилон Эридана)</ln>
+<ln id="HumanMinerAdvancedCombatShip_Short">Магма</ln>
+<ln id="HumanMinerAdvancedCombatShip_Desc">Фрегат тяжёлого класса Магма является улучшенным боевым патрульным кораблём, используемым остатками Эпсилон Эридана.</ln>
+
+<ln id="HumanMinerCommandShip_Full">Лавина (остатки Эпсилон Эридана)</ln>
+<ln id="HumanMinerCommandShip_Short">Лавина</ln>
+<ln id="HumanMinerCommandShip_Desc">Крейсер лёгкого класса Лавина является улучшенным боевым и контролирующим кораблём, созданным остатками Эпсилон Эридана.</ln>
+
+<ln id="HumanResistanceStarbaseSmall_Full">База "В Память о Земле"</ln>
+<ln id="HumanResistanceStarbaseSmall_Short">База ВПЗ</ln>
+<ln id="HumanResistanceStarbaseSmall_Desc">Это стационарное строение служит базовым для проведения операций сопротивленческой группы людей, известной как "В Память о Земле".</ln>
+
+<ln id="HumanResistanceStarbaseLarge_Full">Большая База "В Память о Земле"</ln>
+<ln id="HumanResistanceStarbaseLarge_Short">Бол База ВПЗ</ln>
+<ln id="HumanResistanceStarbaseLarge_Desc">Это большое стационарное строение служит базовым для проведения операций сопротивленческой группы людей, известной как "В Память о Земле".
+
+Если Ваш чемпион достаточно близко, то это строение сможет его ремонтировать и поможет в строении новых модулей.</ln>
+
+<ln id="HumanResistanceOffroadRewardStructure_Full">Строение "В Память о Земле"</ln>
+<ln id="HumanResistanceOffroadRewardStructure_Short">Стр ВПЗ</ln>
+<ln id="HumanResistanceOffroadRewardStructure_Desc">Эта маленькая стационарная структура облегчает передачу ресурсов от сопротивленческой группы "В Память о Земле" к Вам, и позволяет Вам строить боевые корабли, использую их чертежи (и отправить их на Внутригалактические Врата Звездолётной Верфи, если они есть).</ln>
+
+<ln id="HumanResistanceNormalCombatShip_Full">Родич (В Память о Земле)</ln>
+<ln id="HumanResistanceNormalCombatShip_Short">Родич</ln>
+<ln id="HumanResistanceNormalCombatShip_Desc">Фрегат класса Родич является военным кораблём, используемым сопротивленческой группой "В Память о Земле".</ln>
+
+<ln id="HumanResistanceAdvancedCombatShip_Full">Возвращение (В Память о Земле)</ln>
+<ln id="HumanResistanceAdvancedCombatShip_Short">Возвращение</ln>
+<ln id="HumanResistanceAdvancedCombatShip_Desc">Фрегат тяжёлого класса Возвращение является улучшенный военным кораблём, используемым сопротивленческой группой "В Память о Земле".</ln>
+
+<ln id="HumanResistanceCommandShip_Full">Принятие (В Память о Земле)</ln>
+<ln id="HumanResistanceCommandShip_Short">Принятие</ln>
+<ln id="HumanResistanceCommandShip_Desc">Крейсер лёгкого класса Принятие является улучшенным боевым и контролирующим кораблём, созданным сопротивленческой группой "В Память о Земле".</ln>
+
+<ln id="HumanMarauderStarbaseSmall_Full">База Клыка Печали</ln>
+<ln id="HumanMarauderStarbaseSmall_Short">База КП</ln>
+<ln id="HumanMarauderStarbaseSmall_Desc">Это стационарное строение служит базой для членов пиратской банды Клыка Печали. Отсюда они бродят по галактике, наживаясь тем, чем могут.</ln>
+
+<ln id="HumanMarauderStarbaseLarge_Full">Большая База Клыка Печали</ln>
+<ln id="HumanMarauderStarbaseLarge_Short">Бол База КП</ln>
+<ln id="HumanMarauderStarbaseLarge_Desc">Это большое стационарное строение служит базой для членов пиратской банды Клыка Печали. Отсюда они бродят по галактике, наживаясь тем, чем могут.</ln>
+
+<ln id="HumanMarauderLightAttackCraft_Full">Нож (Клык Печали)</ln>
+<ln id="HumanMarauderLightAttackCraft_Short">Нож</ln>
+<ln id="HumanMarauderLightAttackCraft_Desc">Корабль лёгкого атакующего класса Нож является маленьким рейдовым кораблём, используемым пиратской бандой Клыка Печали.</ln>
+
+<ln id="HumanMarauderNormalCombatShip_Full">Головорез (Клык Печали)</ln>
+<ln id="HumanMarauderNormalCombatShip_Short">Голов</ln>
+<ln id="HumanMarauderNormalCombatShip_Desc">Фрегат класса Головорез является рейдовым кораблём, используемым пиратской бандой Клыка Печали.</ln>
+
+<ln id="HumanMarauderAdvancedCombatShip_Full">Вымогатель (Клык Печали)</ln>
+<ln id="HumanMarauderAdvancedCombatShip_Short">Вымогатель</ln>
+<ln id="HumanMarauderAdvancedCombatShip_Desc">Фрегат тяжёлого класса Вымогатель является улучшенным рейдовым кораблём, используемым пиратской бандой Клыка Печали.</ln>
+
+<ln id="HumanMarauderCommandShip_Full">Устрашитель (Клык Печали)</ln>
+<ln id="HumanMarauderCommandShip_Short">Устрашитель</ln>
+<ln id="HumanMarauderCommandShip_Desc">Крейсер лёгкого класса Устрашитель является улучшенным боевым и контролирующим кораблём, созданным пиратской бандой Клыка Печали.</ln>
+
+<ln id="ZenithRefugeeStarbaseSmall_Full">База Разрушенного Столпа</ln>
+<ln id="ZenithRefugeeStarbaseSmall_Short">База РС</ln>
+<ln id="ZenithRefugeeStarbaseSmall_Desc">Члены остатков Zenith'ов, известного как "Разрушенный Столп" создали убежище в этом стационарном строении.</ln>
+
+<ln id="ZenithRefugeeStarbaseLarge_Full">Большая База Разрушенного Столпа</ln>
+<ln id="ZenithRefugeeStarbaseLarge_Short">Бол База РС</ln>
+<ln id="ZenithRefugeeStarbaseLarge_Desc">Члены остатков Zenith'ов, известного как "Разрушенный Столп" создали убежище в этом большом стационарном строении.
+
+Если Ваш чемпион достаточно близко, то это строение сможет его ремонтировать и поможет в строении новых модулей.</ln>
+
+<ln id="ZenithRefugeeOffroadRewardStructure_Full">Строение Разрушенного Столпа</ln>
+<ln id="ZenithRefugeeOffroadRewardStructure_Short">Стр РС</ln>
+<ln id="ZenithRefugeeOffroadRewardStructure_Desc">Эта маленькая стационарная структура облегчает передачу энергии от Разрушенного Столпа к Вам, и позволяет Вам строить боевые корабли, использую их чертежи (и отправить их на Внутригалактические Врата Звездолётной Верфи, если они есть).</ln>
+
+<ln id="ZenithRefugeeNormalCombatShip_Full">Частокол (Разрушенный Столп)</ln>
+<ln id="ZenithRefugeeNormalCombatShip_Short">Частокол</ln>
+<ln id="ZenithRefugeeNormalCombatShip_Desc">Фрегат класса Частокол является боевым патрульным кораблём, используемым Разрушенным Столпом.</ln>
+
+<ln id="ZenithRefugeeAdvancedCombatShip_Full">Бастион (Разрушенный Столп)</ln>
+<ln id="ZenithRefugeeAdvancedCombatShip_Short">Бастион</ln>
+<ln id="ZenithRefugeeAdvancedCombatShip_Desc">Фрегат тяжёлого класса Бастион является улучшенным боевым патрульным кораблём, используемым Разрушенным Столпом.</ln>
+
+<ln id="ZenithRefugeeCommandShip_Full">Монолит (Разрушенный Столп)</ln>
+<ln id="ZenithRefugeeCommandShip_Short">Монолит</ln>
+<ln id="ZenithRefugeeCommandShip_Desc">Крейсер лёгкого класса Монолит является улучшенным боевым и контролирующим кораблём, созданным Разрушенным Столпом.</ln>
+
+<ln id="ZenithArchitectStarbaseSmall_Full">База Цитадели Восхождения</ln>
+<ln id="ZenithArchitectStarbaseSmall_Short">База ЙВ</ln>
+<ln id="ZenithArchitectStarbaseSmall_Desc">Члены воинствующей фракции Zenith'ов, известной как "Цитадель Восхождения", управляются из этого стационарного строения.</ln>
+
+<ln id="ZenithArchitectStarbaseLarge_Full">Большая База Цитадели Восхождения</ln>
+<ln id="ZenithArchitectStarbaseLarge_Short">Бол База ЦВ</ln>
+<ln id="ZenithArchitectStarbaseLarge_Desc">Члены воинствующей фракции Zenith'ов, известной как "Цитадель Восхождения", управляются из этого большого стационарного строения.</ln>
+
+<ln id="ZenithArchitectNormalCombatShip_Full">Властный (Цитадель Восхождения)</ln>
+<ln id="ZenithArchitectNormalCombatShip_Short">Властный</ln>
+<ln id="ZenithArchitectNormalCombatShip_Desc">Фрегат класса Властный является боевым кораблём, используемый Цитаделью Восхождения.</ln>
+
+<ln id="ZenithArchitectAdvancedCombatShip_Full">Дерзкий (Цитадель Восхождения)</ln>
+<ln id="ZenithArchitectAdvancedCombatShip_Short">Дерзкий</ln>
+<ln id="ZenithArchitectAdvancedCombatShip_Desc">Фрегат тяжёлого класса Дерзкий является улучшенный боевым кораблём, используемым Цитаделью Восхождения.</ln>
+
+<ln id="ZenithArchitectCommandShip_Full">Взыскатель (Цитадель Восхождения)</ln>
+<ln id="ZenithArchitectCommandShip_Short">Взыскатель</ln>
+<ln id="ZenithArchitectCommandShip_Desc">Крейсер лёгкого класса Взыскатель является улучшенным боевым и контролирующим кораблём, созданным Цитаделью Восхождения.</ln>
+
+<ln id="NeinzulAstridStarbaseSmall_Full">База Астридов Neinzul'ов</ln>
+<ln id="NeinzulAstridStarbaseSmall_Short">База АN</ln>
+<ln id="NeinzulAstridStarbaseSmall_Desc">Ульи Астридов Neinzul'ов находятся внутри этого стационарного строения. Само сооружение, кажется, было построено ранней итерацией ИИ Langstrom'а.</ln>
+
+<ln id="NeinzulAstridStarbaseLarge_Full">Большая База Астридов Neinzul'ов</ln>
+<ln id="NeinzulAstridStarbaseLarge_Short">Бол База NА</ln>
+<ln id="NeinzulAstridStarbaseLarge_Desc">Множество ульев Астридов Neinzul'ов находятся внутри этого большого стационарного строения. Само сооружение, кажется, было построено ранней итерацией ИИ Langstrom'а.</ln>
+
+<ln id="NeinzulAstridLightAttackCraft_Full">Вспышка (Астриды Neinzul'ов)</ln>
+<ln id="NeinzulAstridLightAttackCraft_Short">Вспышка</ln>
+<ln id="NeinzulAstridLightAttackCraft_Desc">Штурмовик лёгкого класса Вспышка является маленьким патрульным кораблём, используемым Астридами Neinzul'ов.</ln>
+
+<ln id="NeinzulAstridNormalCombatShip_Full">Старфайр (Астриды Neinzul'ов)</ln>
+<ln id="NeinzulAstridNormalCombatShip_Short">Старфайр</ln>
+<ln id="NeinzulAstridNormalCombatShip_Desc">Фрегат класса Старфайр является патрульным кораблём, используемым Астридами Neinzul'ов.</ln>
+
+<ln id="NeinzulAstridAdvancedCombatShip_Full">Солнечный Гнев (Астриды Neinzul'ов)</ln>
+<ln id="NeinzulAstridAdvancedCombatShip_Short">Солн Гнев</ln>
+<ln id="NeinzulAstridAdvancedCombatShip_Desc">Фрегат тяжёлого класса Солнечный Гнев является улучшенным патрульным кораблём, используемым Астридами Neinzul'ов.</ln>
+
+<ln id="NeinzulAstridCommandShip_Full">Нова (Астриды Neinzul'ов)</ln>
+<ln id="NeinzulAstridCommandShip_Short">Нова</ln>
+<ln id="NeinzulAstridCommandShip_Desc">Крейсер лёгкого класса Нова является улучшенным боевым и контролирующим кораблём, созданным Астридами Neinzul'ов.</ln>
+
+<ln id="NeinzulMournerStarbaseSmall_Full">База Плакальщиков Neinzul'ов</ln>
+<ln id="NeinzulMournerStarbaseSmall_Short">База ПN</ln>
+<ln id="NeinzulMournerStarbaseSmall_Desc">Странные подпространственные сигналы исходят от ульев Плакальщиков Neinzul'ов, расположенных в этом стационарном объекте.</ln>
+
+<ln id="NeinzulMournerStarbaseLarge_Full">Большая База Плакальщиков Neinzul'ов</ln>
+<ln id="NeinzulMournerStarbaseLarge_Short">Бол База ПN</ln>
+<ln id="NeinzulMournerStarbaseLarge_Desc">Странные подпространственные сигналы исходят от множества ульев Плакальщиков Neinzul'ов, расположенных в этом огромном стационарном объекте.
+
+Если Ваш чемпион достаточно близко, то это строение сможет его ремонтировать и поможет в строении новых модулей.</ln>
+
+<ln id="NeinzulMournerOffroadRewardStructure_Full">Строение Плакальщиков Neinzul'ов</ln>
+<ln id="NeinzulMournerOffroadRewardStructure_Short">Стр ПN</ln>
+<ln id="NeinzulMournerOffroadRewardStructure_Desc">Эта маленькая стационарная структура облегчает передачу ресурсов от Плакальщиков Neinzul'ов к Вам, и позволяет Вам строить боевые корабли, использую их чертежи (и отправить их на Внутригалактические Врата Звездолётной Верфи, если они есть).</ln>
+
+<ln id="NeinzulMournerNormalCombatShip_Full">Горесть (Плакальщики Neinzul'ов)</ln>
+<ln id="NeinzulMournerNormalCombatShip_Short">Горесть</ln>
+<ln id="NeinzulMournerNormalCombatShip_Desc">Фрегат класса Горесть является защитным кораблём, используемым Плакальщиками Neinzul'ов.</ln>
+
+<ln id="NeinzulMournerAdvancedCombatShip_Full">Панихида (Плакальщики Neinzul'ов)</ln>
+<ln id="NeinzulMournerAdvancedCombatShip_Short">Панихида</ln>
+<ln id="NeinzulMournerAdvancedCombatShip_Desc">Фрегат тяжёлого класса Панихида является улучшенным защитным кораблём, используемым Плакальщиками Neinzul'ов.</ln>
+
+<ln id="NeinzulMournerCommandShip_Full">Плач (Плакальщики Neinzul'ов)</ln>
+<ln id="NeinzulMournerCommandShip_Short">Плач</ln>
+<ln id="NeinzulMournerCommandShip_Desc">Крейсер лёгкого класса Плач является улучшенным боевым и контролирующим кораблём, созданным Плакальщиками Neinzul'ов.</ln>
+
+<ln id="DarkSpireStarbaseSmall_Full">База Тёмных Spire'ов</ln>
+<ln id="DarkSpireStarbaseSmall_Short">База ТS</ln>
+<ln id="DarkSpireStarbaseSmall_Desc">Несколько осколков Тёмных Spire'ов управляются из этого стационарного строения.</ln>
+
+<ln id="DarkSpireStarbaseLarge_Full">Большая База Тёмных Spire'ов</ln>
+<ln id="DarkSpireStarbaseLarge_Short">Бол База ТS</ln>
+<ln id="DarkSpireStarbaseLarge_Desc">Множество осколков Тёмных Spire'ов управляются из этого огромного стационарного строения.</ln>
+
+<ln id="DarkSpireLightAttackCraft_Full">Злоба (Тёмные Spire'ы)</ln>
+<ln id="DarkSpireLightAttackCraft_Short">Злоба</ln>
+<ln id="DarkSpireLightAttackCraft_Desc">Штурмовик лёгкого класса Злоба является маленьким атакующим кораблём, используемым Тёмными Spire'ами.</ln>
+
+<ln id="DarkSpireNormalCombatShip_Full">Теневой Клинок (Тёмные Spire'ы)</ln>
+<ln id="DarkSpireNormalCombatShip_Short">ТенеКлинок</ln>
+<ln id="DarkSpireNormalCombatShip_Desc">Фрегат класса Теневой Клинок является атакующим кораблём, используемым Тёмными Spire'ами.</ln>
+
+<ln id="DarkSpireAdvancedCombatShip_Full">Мщение (Тёмные Spire'ы)</ln>
+<ln id="DarkSpireAdvancedCombatShip_Short">Мщение</ln>
+<ln id="DarkSpireAdvancedCombatShip_Desc">Фрегат тяжёлого класса Мщение является улучшенным атакующим кораблём, используемым Тёмными Spire'ами.</ln>
+
+<ln id="DarkSpireCommandShip_Full">Ненависть (Тёмные Spire'ы)</ln>
+<ln id="DarkSpireCommandShip_Short">Ненависть</ln>
+<ln id="DarkSpireCommandShip_Desc">Крейсер лёгкого класса Ненависть является улучшенным боевым и контролирующим кораблём, созданным Тёмными Spire'ами. Когда один из его плазменных снарядов взрывается, он также наносит уменьшенный урон нескольким ближайшим кораблям.
+
+При атаке силового поля, наносит повреждение до 25 юнитам под этим полем(или полям возле этого поля) с силой в 6.25% от урона по полю.</ln>
+
+<ln id="GraySpireStarbaseSmall_Full">База Серых Spire'ов</ln>
+<ln id="GraySpireStarbaseSmall_Short">База СS</ln>
+<ln id="GraySpireStarbaseSmall_Desc">Несколько осколков Серых Spire'ы управляются из этого стационарного строения.</ln>
+
+<ln id="GraySpireStarbaseLarge_Full">Большая База Серых Spire'ы</ln>
+<ln id="GraySpireStarbaseLarge_Short">Бол База СS</ln>
+<ln id="GraySpireStarbaseLarge_Desc">Множество осколков Серые Spire'ы управляются из этого огромного стационарного строения.
+
+Если Ваш чемпион достаточно близко, то это строение сможет его ремонтировать и поможет в строении новых модулей.</ln>
+
+<ln id="GraySpireOffroadRewardStructure_Full">Строение Серых Spire'ов</ln>
+<ln id="GraySpireOffroadRewardStructure_Short">Стр СS</ln>
+<ln id="GraySpireOffroadRewardStructure_Desc">Эта маленькая стационарная структура облегчает передачу ресурсов от Серых Spire'ов к Вам, и позволяет Вам строить боевые корабли, использую их чертежи (и отправить их на Внутригалактические Врата Звездолётной Верфи, если они есть).</ln>
+
+<ln id="GraySpireNormalCombatShip_Full">Эрудит (Серые Spire'ы)</ln>
+<ln id="GraySpireNormalCombatShip_Short">Эрудит</ln>
+<ln id="GraySpireNormalCombatShip_Desc">Фрегат класа Эрудит является защитным кораблём, используемым Серые Spire'ами.</ln>
+
+<ln id="GraySpireAdvancedCombatShip_Full">Светоискатель (Серые Spire'ы)</ln>
+<ln id="GraySpireAdvancedCombatShip_Short">Светоиск</ln>
+<ln id="GraySpireAdvancedCombatShip_Desc">Фрегат тяжёлого класса Светоискатель является улучшенным защитным кораблём, используемым Серыми Spire'ами.</ln>
+
+<ln id="GraySpireCommandShip_Full">Заря (Серые Spire'ы)</ln>
+<ln id="GraySpireCommandShip_Short">Заря</ln>
+<ln id="GraySpireCommandShip_Desc">Крейсер лёгкого класса Заря является улучшенным боевым и контролирующим кораблём, созданным the Серыми Spire'ами. Когда один из его плазменных снарядов взрывается, он также наносит уменьшенный урон нескольким ближайшим кораблям.
+
+При атаке силового поля, наносит повреждение до 25 юнитам под этим полем(или полям возле этого поля) с силой в 6.25% от урона по полю.</ln>
+
+<ln id="MalfunctioningDysonGatling_Full">Повреждённый Гатлинг Дайсона</ln>
+<ln id="MalfunctioningDysonGatling_Short">П.Дайсон</ln>
+<ln id="MalfunctioningDysonGatling_Desc">Этот Гатлинг Дайсона излучает очень неустойчивые сигналы. Похоже, что он подделан.</ln>
+
+<ln id="PlayerControlledDysonGatling_Full">Восстановленный Гатлинг Дайсона</ln>
+<ln id="PlayerControlledDysonGatling_Short">В.Дайсон</ln>
+<ln id="PlayerControlledDysonGatling_Desc">Этот Гатлинг Дайсона был восстановлен из обломков неисправленного юнита и может принимать приказы.</ln>
+
+<ln id="MysteriousColonyShip_Full">Мистический Колониальный Корабль</ln>
+<ln id="MysteriousColonyShip_Short">М.Колон</ln>
+<ln id="MysteriousColonyShip_Desc">Эта модель колониального корабля была давно списана со счётов, а сам корабль не содержит признаков жизни. Сигнатура излучения очень хаотична и имеет мало общего с оригинальной спецификации. Похоже, что он подделан.</ln>
+
+<ln id="RavenousShadow_Full">Ненасытная Тень</ln>
+<ln id="RavenousShadow_Short">Ненасытная</ln>
+<ln id="RavenousShadow_Desc">Полуматериальная форма оружия, похожая на Zenith'ов.
+
+К счастью, не столь мощное, как оригинальное.</ln>
+
+<ln id="NebulaFleeingPlayerAllyRoamingEnclave_Full">Отдельный Анклав Neinzul'ов</ln>
+<ln id="NebulaFleeingPlayerAllyRoamingEnclave_Short">Анклав</ln>
+<ln id="NebulaFleeingPlayerAllyRoamingEnclave_Desc">Этот анклав вылетел из Ненасытной Тени.</ln>
+
+<ln id="FreeAgentBasicCommandShip_Full">Теневой Фрегат Людей</ln>
+<ln id="FreeAgentBasicCommandShip_Short">Т-Фр-Л</ln>
+<ln id="FreeAgentBasicCommandShip_Desc">Мистический корабль, обнаруженный вашей группой, вылетевшей из Солнечной Системы. Успешно восстановлен и запущен, корабельные записи говорят, что он был создан группой Spire'ов, известной как Тени.
+
+Может использовать модули Модели II или ниже.</ln>
+
+<ln id="HeroHumanDestroyer_Full">Теневой Уничтожитель Людей</ln>
+<ln id="HeroHumanDestroyer_Short">Т-Ун-Л</ln>
+<ln id="HeroHumanDestroyer_Desc">Большая форма мистического Теневого корабля.
+
+Может использовать модули Модели III или ниже.</ln>
+
+<ln id="HeroHumanCruiser_Full">Теневой Крейсер Людей</ln>
+<ln id="HeroHumanCruiser_Short">Т-Кр-Л</ln>
+<ln id="HeroHumanCruiser_Desc">Огромная форма мистического Теневого корабля.
+
+Может использовать модули Модели IV или ниже.</ln>
+
+<ln id="HeroHumanBattleship_Full">Теневой Линкор Людей</ln>
+<ln id="HeroHumanBattleship_Short">Т-Лн-Л</ln>
+<ln id="HeroHumanBattleship_Desc">Совершенная форма Теневого корабля людей.</ln>
+
+<ln id="HeroZenithFrigate_Full">Теневой Фрегат Zenith'ов</ln>
+<ln id="HeroZenithFrigate_Short">Т-Фр-Z</ln>
+<ln id="HeroZenithFrigate_Desc">Мощный корабль, созданный из Теневых реликвий с использований технологий Zenith'ов.
+
+Может использовать модули Модели II или ниже.</ln>
+
+<ln id="HeroZenithDestroyer_Full">Теневой Уничтожитель Zenith'ов</ln>
+<ln id="HeroZenithDestroyer_Short">Т-Ун-Z</ln>
+<ln id="HeroZenithDestroyer_Desc">Большая форма Теневого корабля Zenith'ов.
+
+Может использовать модули Модели III или ниже.</ln>
+
+<ln id="HeroZenithCruiser_Full">Теневой Крейсер Zenith'ов</ln>
+<ln id="HeroZenithCruiser_Short">Т-Кр-Z</ln>
+<ln id="HeroZenithCruiser_Desc">Огромная форма Теневого корабля Zenith'ов.
+
+Может использовать модули Модели IV или ниже.</ln>
+
+<ln id="HeroZenithBattleship_Full">Теневой Линкор Zenith'ов</ln>
+<ln id="HeroZenithBattleship_Short">Т-Лн-Z</ln>
+<ln id="HeroZenithBattleship_Desc">Совершенная форма Теневого корабля Zenith'ов.</ln>
+
+<ln id="HeroNeinzulFrigate_Full">Теневой Фрегат Neinzul'ов</ln>
+<ln id="HeroNeinzulFrigate_Short">Т-Фр-N</ln>
+<ln id="HeroNeinzulFrigate_Desc">Мощный корабль, созданный из Теневых реликвий с использований технологий Neinzul'ов. Может использовать меньше модулей, чем теневые корабли основанные на других технологиях, но имеет врождённое скрытие.
+
+Может содержать щиты, но они не будут скрыты.
+
+Может использовать модули Модели II или ниже.</ln>
+
+<ln id="HeroNeinzulDestroyer_Full">Теневой Уничтожитель Neinzul'ов</ln>
+<ln id="HeroNeinzulDestroyer_Short">Т-Ун-N</ln>
+<ln id="HeroNeinzulDestroyer_Desc">Большая форма Теневого корабля Neinzul'ов. Может использовать меньше модулей, чем теневые корабли основанные на других технологиях, но имеет врождённое скрытие, а большинство кораблей не смогут взять его под прицел с большого расстояния.
+
+Может содержать щиты, но они не будут скрыты или гасить сигналы радаров.
+
+Может использовать модули Модели III или ниже.</ln>
+
+<ln id="HeroNeinzulCruiser_Full">Теневой Крейсер Neinzul'ов</ln>
+<ln id="HeroNeinzulCruiser_Short">Т-Кр-N</ln>
+<ln id="HeroNeinzulCruiser_Desc">Огромная форма Теневого корабля Neinzul'ов. Может использовать меньше модулей, чем теневые корабли основанные на других технологиях, но имеет врождённое скрытие, большинство кораблей не смогут взять его под прицел с большого расстояния, а его главное оружие метаболизирует цели и использует их материал для восстановления своего корпуса.
+
+Может содержать щиты, но они не будут скрыты или гасить сигналы радаров.
+
+Может использовать модули Модели IV или ниже.</ln>
+
+<ln id="HeroNeinzulBattleship_Full">Теневой Линкор Neinzul'ов</ln>
+<ln id="HeroNeinzulBattleship_Short">Т-Лн-N</ln>
+<ln id="HeroNeinzulBattleship_Desc">Совершенная форма Теневого корабля Neinzul'ов. Может использовать меньше модулей, чем теневые корабли основанные на других технологиях, но имеет врождённое скрытие, иммунитет к гравитации, иммунитет к урону по площади, большинство кораблей не смогут взять его под прицел с большого расстояния, а его главное оружие метаболизирует цели и использует их материал для восстановления своего корпуса.
+
+Может содержать щиты, но они не будут скрыты или гасить сигналы радаров, или иметь иммунитет от боеголовок.</ln>
+
+<ln id="HeroSpireFrigate_Full">Теневой Фрегат Spire'ов</ln>
+<ln id="HeroSpireFrigate_Short">Т-Фр-S</ln>
+<ln id="HeroSpireFrigate_Desc">Грозный корабль, построенный из древних Теневых реликвий с использованием более современных технологий Spire'ов.
+
+Может использовать модули Модели II или ниже.</ln>
+
+<ln id="HeroSpireDestroyer_Full">Теневой Уничтожитель Spire'ов</ln>
+<ln id="HeroSpireDestroyer_Short">Т-Ун-S</ln>
+<ln id="HeroSpireDestroyer_Desc">Большая форма Теневого корабля Spire'ов.
+
+Может использовать модули Модели III или ниже.</ln>
+
+<ln id="HeroSpireCruiser_Full">Теневой Крейсер Spire'ов</ln>
+<ln id="HeroSpireCruiser_Short">Т-Кр-S</ln>
+<ln id="HeroSpireCruiser_Desc">Огромная форма Теневого корабля Spire'ов.
+
+Может использовать модули Модели IV или ниже.</ln>
+
+<ln id="HeroSpireBattleship_Full">Теневой Линкор Spire'ов</ln>
+<ln id="HeroSpireBattleship_Short">Т-Лн-S</ln>
+<ln id="HeroSpireBattleship_Desc">Совершенная форма Теневого корабля Spire'ов.</ln>
+
+<ln id="AIFreeAgentBasicCommandShip_Full">Теневой Фрегат Людей ИИ</ln>
+<ln id="AIFreeAgentBasicCommandShip_Short">Т-Фр-Л</ln>
+<ln id="AIFreeAgentBasicCommandShip_Desc">Адаптация ИИ гибрида Человеческой/Теневой технологий. Отсутствует Теневой привод, не восстанавливается после смерти и не зарабатывает опыт, но приходит со средними модулями.
+
+Прим.: если он защищает домашнюю базу ИИ, возможно он является провоцированным защитником из-за наличия чемпионского корабля людей. При низком Прогрессе, ИИ инвестирует в него кучу ресурсов, чтобы предотвратить убийство вашими чемпионами. Но при росте Прогресса, ИИ не сможет строить их много, и при значении 150+ он сможет получить минимальное количество. Но вам придётся убить их всех, чтобы достичь их нового ограничения.</ln>
+
+<ln id="AIHeroHumanDestroyer_Full">Теневой Уничтожитель Людей ИИ</ln>
+<ln id="AIHeroHumanDestroyer_Short">Т-Ун-Л</ln>
+<ln id="AIHeroHumanDestroyer_Desc">Адаптация ИИ гибрида Человеческой/Теневой технологий. Отсутствует Теневой привод, не восстанавливается после смерти и не зарабатывает опыт, но приходит со средними модулями.</ln>
+
+<ln id="AIHeroHumanCruiser_Full">Теневой Крейсер Людей ИИ</ln>
+<ln id="AIHeroHumanCruiser_Short">Т-Кр-Л</ln>
+<ln id="AIHeroHumanCruiser_Desc">Адаптация ИИ гибрида Человеческой/Теневой технологий. Отсутствует Теневой привод, не восстанавливается после смерти и не зарабатывает опыт, но приходит со средними модулями.</ln>
+
+<ln id="AIHeroHumanBattleship_Full">Теневой Линкор Людей</ln>
+<ln id="AIHeroHumanBattleship_Short">Т-Лн-Л</ln>
+<ln id="AIHeroHumanBattleship_Desc">Адаптация ИИ гибрида Человеческой/Теневой технологий. Отсутствует Теневой привод, не восстанавливается после смерти и не зарабатывает опыт, но приходит со средними модулями.</ln>
+
+<ln id="AIHeroZenithFrigate_Full">Теневой Фрегат Zenith'ов ИИ</ln>
+<ln id="AIHeroZenithFrigate_Short">Т-Фр-Z</ln>
+<ln id="AIHeroZenithFrigate_Desc">Адаптация ИИ гибрида Zenith/Теневой технологий. Отсутствует Теневой привод, не восстанавливается после смерти и не зарабатывает опыт, но приходит со средними модулями.
+
+Прим.: если он защищает домашнюю базу ИИ, возможно он является провоцированным защитником из-за наличия чемпионского корабля людей. При низком Прогрессе, ИИ инвестирует в него кучу ресурсов, чтобы предотвратить убийство вашими чемпионами. Но при росте Прогресса, ИИ не сможет строить их много, и при значении 150+ он сможет получить минимальное количество. Но вам придётся убить их всех, чтобы достичь их нового ограничения.</ln>
+
+<ln id="AIHeroZenithDestroyer_Full">Теневой Уничтожитель Zenith'ов ИИ</ln>
+<ln id="AIHeroZenithDestroyer_Short">Т-Ун-Z</ln>
+<ln id="AIHeroZenithDestroyer_Desc">Адаптация ИИ гибрида Zenith/Теневой технологий. Отсутствует Теневой привод, не восстанавливается после смерти и не зарабатывает опыт, но приходит со средними модулями.</ln>
+
+<ln id="AIHeroZenithCruiser_Full">Теневой Крейсер Zenith'ов ИИ</ln>
+<ln id="AIHeroZenithCruiser_Short">Т-Кр-Z</ln>
+<ln id="AIHeroZenithCruiser_Desc">Адаптация ИИ гибрида Zenith/Теневой технологий. Отсутствует Теневой привод, не восстанавливается после смерти и не зарабатывает опыт, но приходит со средними модулями.</ln>
+
+<ln id="AIHeroZenithBattleship_Full">Теневой Линкор Zenith'ов ИИ</ln>
+<ln id="AIHeroZenithBattleship_Short">Т-Лн-Z</ln>
+<ln id="AIHeroZenithBattleship_Desc">Адаптация ИИ гибрида Zenith/Теневой технологий. Отсутствует Теневой привод, не восстанавливается после смерти и не зарабатывает опыт, но приходит со средними модулями.</ln>
+
+<ln id="AIHeroNeinzulFrigate_Full">Теневой Фрегат Neinzul'ов ИИ</ln>
+<ln id="AIHeroNeinzulFrigate_Short">Т-Фр-N</ln>
+<ln id="AIHeroNeinzulFrigate_Desc">Адаптация ИИ гибрида Neinzul/Теневой технологий. Отсутствует Теневой привод, не восстанавливается после смерти и не зарабатывает опыт, но приходит со средними модулями. Может использовать меньше модулей, чем теневые корабли основанные на других технологиях, но имеет врождённое скрытие.
+
+Прим.: если он защищает домашнюю базу ИИ, возможно он является провоцированным защитником из-за наличия чемпионского корабля людей. При низком Прогрессе, ИИ инвестирует в него кучу ресурсов, чтобы предотвратить убийство вашими чемпионами. Но при росте Прогресса, ИИ не сможет строить их много, и при значении 150+ он сможет получить минимальное количество. Но вам придётся убить их всех, чтобы достичь их нового ограничения.</ln>
+
+<ln id="AIHeroNeinzulDestroyer_Full">Теневой Уничтожитель Neinzul'ов ИИ</ln>
+<ln id="AIHeroNeinzulDestroyer_Short">Т-Ун-N</ln>
+<ln id="AIHeroNeinzulDestroyer_Desc">Адаптация ИИ гибрида Neinzul/Теневой технологий. Отсутствует Теневой привод, не восстанавливается после смерти и не зарабатывает опыт, но приходит со средними модулями. Может использовать меньше модулей, чем теневые корабли основанные на других технологиях, но имеет врождённое скрытие, а большинство кораблей не смогут взять его под прицел с большого расстояния.</ln>
+
+<ln id="AIHeroNeinzulCruiser_Full">Теневой Крейсер Neinzul'ов ИИ</ln>
+<ln id="AIHeroNeinzulCruiser_Short">Т-Кр-N</ln>
+<ln id="AIHeroNeinzulCruiser_Desc">Адаптация ИИ гибрида Neinzul/Теневой технологий. Отсутствует Теневой привод, не восстанавливается после смерти и не зарабатывает опыт, но приходит со средними модулями. Может использовать меньше модулей, чем теневые корабли основанные на других технологиях, но имеет врождённое скрытие, большинство кораблей не смогут взять его под прицел с большого расстояния, а его главное оружие метаболизирует цели и использует их материал для восстановления своего корпуса.</ln>
+
+<ln id="AIHeroNeinzulBattleship_Full">Теневой Линкор Neinzul'ов ИИ</ln>
+<ln id="AIHeroNeinzulBattleship_Short">Т-Лн-N</ln>
+<ln id="AIHeroNeinzulBattleship_Desc">Адаптация ИИ гибрида Neinzul/Теневой технологий. Отсутствует Теневой привод, не восстанавливается после смерти и не зарабатывает опыт, но приходит со средними модулями. Может использовать меньше модулей, чем теневые корабли основанные на других технологиях, но имеет врождённое скрытие, иммунитет к гравитации, иммунитет к урону по площади, большинство кораблей не смогут взять его под прицел с большого расстояния, а его главное оружие метаболизирует цели и использует их материал для восстановления своего корпуса.</ln>
+
+<ln id="AIHeroSpireFrigate_Full">Теневой Фрегат Spire'ов ИИ</ln>
+<ln id="AIHeroSpireFrigate_Short">Т-Фр-S</ln>
+<ln id="AIHeroSpireFrigate_Desc">Адаптация ИИ гибрида современной-Spire/Теневой-Spire технологий. Отсутствует Теневой привод, не восстанавливается после смерти и не зарабатывает опыт, но приходит со средними модулями.
+
+Прим.: если он защищает домашнюю базу ИИ, возможно он является провоцированным защитником из-за наличия чемпионского корабля людей. При низком Прогрессе, ИИ инвестирует в него кучу ресурсов, чтобы предотвратить убийство вашими чемпионами. Но при росте Прогресса, ИИ не сможет строить их много, и при значении 150+ он сможет получить минимальное количество. Но вам придётся убить их всех, чтобы достичь их нового ограничения.</ln>
+
+<ln id="AIHeroSpireDestroyer_Full">Теневой Уничтожитель Spire'ов ИИ</ln>
+<ln id="AIHeroSpireDestroyer_Short">Т-Ун-S</ln>
+<ln id="AIHeroSpireDestroyer_Desc">Адаптация ИИ гибрида современной-Spire/Теневой-Spire технологий. Отсутствует Теневой привод, не восстанавливается после смерти и не зарабатывает опыт, но приходит со средними модулями.</ln>
+
+<ln id="AIHeroSpireCruiser_Full">Теневой Крейсер Spire'ов ИИ</ln>
+<ln id="AIHeroSpireCruiser_Short">Т-Кр-S</ln>
+<ln id="AIHeroSpireCruiser_Desc">Адаптация ИИ гибрида современной-Spire/Теневой-Spire технологий. Отсутствует Теневой привод, не восстанавливается после смерти и не зарабатывает опыт, но приходит со средними модулями.</ln>
+
+<ln id="AIHeroSpireBattleship_Full">Теневой Линкор Spire'ов ИИ</ln>
+<ln id="AIHeroSpireBattleship_Short">Т-Лн-S</ln>
+<ln id="AIHeroSpireBattleship_Desc">Адаптация ИИ гибрида современной-Spire/Теневой-Spire технологий. Отсутствует Теневой привод, не восстанавливается после смерти и не зарабатывает опыт, но приходит со средними модулями.</ln>
+
+<ln id="HeroBomberBayModule_Full">Модуль Бомбоотсек I</ln>
+<ln id="HeroBomberBayModule_Short">М-Бом-О I</ln>
+<ln id="HeroBomberBayModule_Desc">Интегрированная конструкция создания и запуска недолгоживущих Дронов Бомбардиров.
+
+Только для Теневых Кораблей Людей, Zenith'ов и Neinzul'ов.</ln>
+
+<ln id="HeroBomberBayModuleII_Full">Модуль Бомбоотсек II</ln>
+<ln id="HeroBomberBayModuleII_Short">М-Бом-О II</ln>
+
+<ln id="HeroBomberBayModuleIII_Full">Модуль Бомбоотсек III</ln>
+<ln id="HeroBomberBayModuleIII_Short">М-Бом-О III</ln>
+
+<ln id="HeroBomberBayModuleIV_Full">Модуль Бомбоотсек IV</ln>
+<ln id="HeroBomberBayModuleIV_Short">М-Бом-О IV</ln>
+
+<ln id="HeroBomberBayModuleV_Full">Модуль Бомбоотсек V</ln>
+<ln id="HeroBomberBayModuleV_Short">М-Бом-О V</ln>
+
+<ln id="BomberDrone_Full">Дрон Бомбардир I</ln>
+<ln id="BomberDrone_Short">Бомбар-Д I</ln>
+<ln id="BomberDrone_Desc">Недолгоживущий миниатюризированный бомбардировщик, создаваемый и запускаемый корабельными устройствами.</ln>
+
+<ln id="BomberDroneII_Full">Дрон Бомбардир II</ln>
+<ln id="BomberDroneII_Short">Бомбар-Д II</ln>
+
+<ln id="BomberDroneIII_Full">Дрон Бомбардир III</ln>
+<ln id="BomberDroneIII_Short">Бомбар-Д III</ln>
+
+<ln id="BomberDroneIV_Full">Дрон Бомбардир IV</ln>
+<ln id="BomberDroneIV_Short">Бомбар-Д IV</ln>
+
+<ln id="BomberDroneV_Full">Дрон Бомбардир V</ln>
+<ln id="BomberDroneV_Short">Бомбар-Д V</ln>
+
+<ln id="HeroInterceptorBayModule_Full">Модуль Истребителей I</ln>
+<ln id="HeroInterceptorBayModule_Short">М-Истр I</ln>
+<ln id="HeroInterceptorBayModule_Desc">Интегрированная конструкция создания и запуска недолгоживущих Дронов Истребителей.
+
+Только для Теневых Кораблей Людей, Zenith'ов и Neinzul'ов.</ln>
+
+<ln id="HeroInterceptorBayModuleII_Full">Модуль Истребителей II</ln>
+<ln id="HeroInterceptorBayModuleII_Short">М-Истр II</ln>
+
+<ln id="HeroInterceptorBayModuleIII_Full">Модуль Истребителей III</ln>
+<ln id="HeroInterceptorBayModuleIII_Short">М-Истр III</ln>
+
+<ln id="HeroInterceptorBayModuleIV_Full">Модуль Истребителей IV</ln>
+<ln id="HeroInterceptorBayModuleIV_Short">М-Истр IV</ln>
+
+<ln id="HeroInterceptorBayModuleV_Full">Модуль Истребителей V</ln>
+<ln id="HeroInterceptorBayModuleV_Short">М-Истр V</ln>
+
+<ln id="InterceptorDrone_Full">Дрон Истребитель I</ln>
+<ln id="InterceptorDrone_Short">Истребитель-Д I</ln>
+<ln id="InterceptorDrone_Desc">Недолгоживущий миниатюризированный истребитель, создаваемый и запускаемый корабельными устройствами.</ln>
+
+<ln id="InterceptorDroneII_Full">Дрон Истребитель II</ln>
+<ln id="InterceptorDroneII_Short">Истребитель-Д II</ln>
+
+<ln id="InterceptorDroneIII_Full">Дрон Истребитель III</ln>
+<ln id="InterceptorDroneIII_Short">Истребитель-Д III</ln>
+
+<ln id="InterceptorDroneIV_Full">Дрон Истребитель IV</ln>
+<ln id="InterceptorDroneIV_Short">Истребитель-Д IV</ln>
+
+<ln id="InterceptorDroneV_Full">Дрон Истребитель V</ln>
+<ln id="InterceptorDroneV_Short">Истребитель-Д V</ln>
+
+<ln id="HeroSlicerBayModule_Full">Модуль Резаков I</ln>
+<ln id="HeroSlicerBayModule_Short">М-Рез I</ln>
+<ln id="HeroSlicerBayModule_Desc">Интегрированная конструкция создания и запуска недолгоживущих Дронов Резаков.
+
+Только для Теневых Кораблей Людей, Zenith'ов и Neinzul'ов.</ln>
+
+<ln id="HeroSlicerBayModuleII_Full">Модуль Резаков II</ln>
+<ln id="HeroSlicerBayModuleII_Short">М-Рез II</ln>
+
+<ln id="HeroSlicerBayModuleIII_Full">Модуль Резаков III</ln>
+<ln id="HeroSlicerBayModuleIII_Short">М-Рез III</ln>
+
+<ln id="HeroSlicerBayModuleIV_Full">Модуль Резаков IV</ln>
+<ln id="HeroSlicerBayModuleIV_Short">М-Рез IV</ln>
+
+<ln id="HeroSlicerBayModuleV_Full">Модуль Резаков V</ln>
+<ln id="HeroSlicerBayModuleV_Short">М-Рез V</ln>
+
+<ln id="SlicerDrone_Full">Дрон Резак I</ln>
+<ln id="SlicerDrone_Short">Резак-Д I</ln>
+<ln id="SlicerDrone_Desc">Недолгоживущий миниатюризированный рукопашный корабль, создаваемый и запускаемый корабельными устройствами.</ln>
+
+<ln id="SlicerDroneII_Full">Дрон Резак II</ln>
+<ln id="SlicerDroneII_Short">Резак-Д II</ln>
+
+<ln id="SlicerDroneIII_Full">Дрон Резак III</ln>
+<ln id="SlicerDroneIII_Short">Резак-Д III</ln>
+
+<ln id="SlicerDroneIV_Full">Дрон Резак IV</ln>
+<ln id="SlicerDroneIV_Short">Резак-Д IV</ln>
+
+<ln id="SlicerDroneV_Full">Дрон Резак V</ln>
+<ln id="SlicerDroneV_Short">Резак-Д V</ln>
+
+<ln id="HeroHeavyBeamModule_Full">Модуль Тяжёлого Луча I</ln>
+<ln id="HeroHeavyBeamModule_Short">М-ТЛ I</ln>
+<ln id="HeroHeavyBeamModule_Desc">Корабельный вариант турели людей Тяжёлой Лучевой Пушки.
+
+Только для Теневых Кораблей Людей.</ln>
+
+<ln id="HeroHeavyBeamModuleII_Full">Модуль Тяжёлого Луча II</ln>
+<ln id="HeroHeavyBeamModuleII_Short">М-ТЛ II</ln>
+
+<ln id="HeroHeavyBeamModuleIII_Full">Модуль Тяжёлого Луча III</ln>
+<ln id="HeroHeavyBeamModuleIII_Short">М-ТЛ III</ln>
+
+<ln id="HeroHeavyBeamModuleIV_Full">Модуль Тяжёлого Луча IV</ln>
+<ln id="HeroHeavyBeamModuleIV_Short">М-ТЛ IV</ln>
+
+<ln id="HeroHeavyBeamModuleV_Full">Модуль Тяжёлого Луча V</ln>
+<ln id="HeroHeavyBeamModuleV_Short">М-ТЛ V</ln>
+
+<ln id="HeroHeatBeamModule_Full">Модуль Теплового Луча I</ln>
+<ln id="HeroHeatBeamModule_Short">М-ТпЛ I</ln>
+<ln id="HeroHeatBeamModule_Desc">Звездолётный вариант Теплового Луча Zenith'ов. Поражает до 9 целей в линию, каждую на полную мощь луча.
+
+Только для Теневых Кораблей Zenith'ов.</ln>
+
+<ln id="HeroHeatBeamModuleII_Full">Модуль Теплового Луча II</ln>
+<ln id="HeroHeatBeamModuleII_Short">М-ТпЛ II</ln>
+
+<ln id="HeroHeatBeamModuleIII_Full">Модуль Теплового Луча III</ln>
+<ln id="HeroHeatBeamModuleIII_Short">М-ТпЛ III</ln>
+
+<ln id="HeroHeatBeamModuleIV_Full">Модуль Теплового Луча IV</ln>
+<ln id="HeroHeatBeamModuleIV_Short">М-ТпЛ IV</ln>
+
+<ln id="HeroHeatBeamModuleV_Full">Модуль Теплового Луча V</ln>
+<ln id="HeroHeatBeamModuleV_Short">М-ТпЛ V</ln>
+
+<ln id="HeroFlakModule_Full">Модуль Зенитчик I</ln>
+<ln id="HeroFlakModule_Short">М-Зент I</ln>
+<ln id="HeroFlakModule_Desc">Звездолётный вариант Зенитной Турели. Очень эффективен против большинства лёгких типов брони.
+
+Только для Теневых Кораблей Людей и Zenith'ов.</ln>
+
+<ln id="HeroFlakModuleII_Full">Модуль Зенитчик II</ln>
+<ln id="HeroFlakModuleII_Short">М-Зент II</ln>
+
+<ln id="HeroFlakModuleIII_Full">Модуль Зенитчик III</ln>
+<ln id="HeroFlakModuleIII_Short">М-Зент III</ln>
+
+<ln id="HeroFlakModuleIV_Full">Модуль Зенитчик IV</ln>
+<ln id="HeroFlakModuleIV_Short">М-Зент IV</ln>
+
+<ln id="HeroFlakModuleV_Full">Модуль Зенитчик V</ln>
+<ln id="HeroFlakModuleV_Short">М-Зент V</ln>
+
+<ln id="HeroAcidJetModule_Full">Модуль Кислотный I</ln>
+<ln id="HeroAcidJetModule_Short">М-Кис I</ln>
+<ln id="HeroAcidJetModule_Desc">Звездолётный вариант Кислотного Распылителя Zenith'ов. Низкий базовый урон, но чрезвычайно эффективен против экзотических типов брони.
+
+Только для Теневых Кораблей Zenith'ов и Neinzul'ов.</ln>
+
+<ln id="HeroAcidJetModuleII_Full">Модуль Кислотный II</ln>
+<ln id="HeroAcidJetModuleII_Short">М-Кис II</ln>
+
+<ln id="HeroAcidJetModuleIII_Full">Модуль Кислотный III</ln>
+<ln id="HeroAcidJetModuleIII_Short">М-Кис III</ln>
+
+<ln id="HeroAcidJetModuleIV_Full">Модуль Кислотный IV</ln>
+<ln id="HeroAcidJetModuleIV_Short">М-Кис IV</ln>
+
+<ln id="HeroAcidJetModuleV_Full">Модуль Кислотный V</ln>
+<ln id="HeroAcidJetModuleV_Short">М-Кис V</ln>
+
+<ln id="HeroPolarizerModule_Full">Модуль Поляризатор I</ln>
+<ln id="HeroPolarizerModule_Short">М-Пол I</ln>
+<ln id="HeroPolarizerModule_Desc">Звездолётный вариант Поляризатора Zenith'ов. Низкий базовый урон, но чрезвычайно эффективен против бронированных целей.
+
+Только для Теневых Кораблей Zenith'ов и Spire'ов.</ln>
+
+<ln id="HeroPolarizerModuleII_Full">Модуль Поляризатор II</ln>
+<ln id="HeroPolarizerModuleII_Short">М-Пол II</ln>
+
+<ln id="HeroPolarizerModuleIII_Full">Модуль Поляризатор III</ln>
+<ln id="HeroPolarizerModuleIII_Short">М-Пол III</ln>
+
+<ln id="HeroPolarizerModuleIV_Full">Модуль Поляризатор IV</ln>
+<ln id="HeroPolarizerModuleIV_Short">М-Пол IV</ln>
+
+<ln id="HeroPolarizerModuleV_Full">Модуль Поляризатор V</ln>
+<ln id="HeroPolarizerModuleV_Short">М-Пол V</ln>
+
+<ln id="HeroParalyzerModule_Full">Модуль Парализатор I</ln>
+<ln id="HeroParalyzerModule_Short">М-Пар I</ln>
+<ln id="HeroParalyzerModule_Desc">Звездолётный вариант Парализатора Zenith'ов. Оглушает цель на несколько секунд.
+
+Только для Теневых Кораблей Людей и Zenith'ов.</ln>
+
+<ln id="HeroParalyzerModuleII_Full">Модуль Парализатор II</ln>
+<ln id="HeroParalyzerModuleII_Short">М-Пар II</ln>
+
+<ln id="HeroParalyzerModuleIII_Full">Модуль Парализатор III</ln>
+<ln id="HeroParalyzerModuleIII_Short">М-Пар III</ln>
+
+<ln id="HeroParalyzerModuleIV_Full">Модуль Парализатор IV</ln>
+<ln id="HeroParalyzerModuleIV_Short">М-Пар IV</ln>
+
+<ln id="HeroParalyzerModuleV_Full">Модуль Парализатор V</ln>
+<ln id="HeroParalyzerModuleV_Short">М-Пар V</ln>
+
+<ln id="HeroImpulseReactionModule_Full">Модуль Импульсной Пушки I</ln>
+<ln id="HeroImpulseReactionModule_Short">М-ИП I</ln>
+<ln id="HeroImpulseReactionModule_Desc">Звездолётный вариант Импульсного Реактивного Эмиттера. Низкий базовый урон, но чрезвычайно эффективен против целей с большим потреблением энергии.
+
+Только для Теневых Кораблей Zenith'ов и Spire'ов.</ln>
+
+<ln id="HeroImpulseReactionModuleII_Full">Модуль Импульсной Пушки II</ln>
+<ln id="HeroImpulseReactionModuleII_Short">М-ИП II</ln>
+
+<ln id="HeroImpulseReactionModuleIII_Full">Модуль Импульсной Пушки III</ln>
+<ln id="HeroImpulseReactionModuleIII_Short">М-ИП III</ln>
+
+<ln id="HeroImpulseReactionModuleIV_Full">Модуль Импульсной Пушки IV</ln>
+<ln id="HeroImpulseReactionModuleIV_Short">М-ИП IV</ln>
+
+<ln id="HeroImpulseReactionModuleV_Full">Модуль Импульсной Пушки V</ln>
+<ln id="HeroImpulseReactionModuleV_Short">М-ИП V</ln>
+
+<ln id="HeroNanosubverterModule_Full">Модуль Наносаботажа I</ln>
+<ln id="HeroNanosubverterModule_Short">М-НС I</ln>
+<ln id="HeroNanosubverterModule_Desc">Модульное оружие, наносящее переманивающий урон.
+
+Только для Теневых Кораблей Людей и Neinzul'ов.</ln>
+
+<ln id="HeroNanosubverterModuleII_Full">Модуль Наносаботажа II</ln>
+<ln id="HeroNanosubverterModuleII_Short">М-НС II</ln>
+
+<ln id="HeroNanosubverterModuleIII_Full">Модуль Наносаботажа III</ln>
+<ln id="HeroNanosubverterModuleIII_Short">М-НС III</ln>
+
+<ln id="HeroNanosubverterModuleIV_Full">Модуль Наносаботажа IV</ln>
+<ln id="HeroNanosubverterModuleIV_Short">М-НС IV</ln>
+
+<ln id="HeroNanosubverterModuleV_Full">Модуль Наносаботажа V</ln>
+<ln id="HeroNanosubverterModuleV_Short">М-НС V</ln>
+
+<ln id="HeroInsanityInducerModule_Full">Модуль Психоиндуктор I</ln>
+<ln id="HeroInsanityInducerModule_Short">М-Пси I</ln>
+<ln id="HeroInsanityInducerModule_Desc">Звездолётный вариант Голема Ботнета. Медленно стреляет и абсолютно неэффективен против юнитов с иммунитетом к переманиванию, но мгновенно перепрограммирует цель, что та начинает атаковать вашего врага.
+
+Только для Теневых Кораблей Neinzul'ов.</ln>
+
+<ln id="HeroInsanityInducerModuleII_Full">Модуль Психоиндуктор II</ln>
+<ln id="HeroInsanityInducerModuleII_Short">М-Пси II</ln>
+
+<ln id="HeroInsanityInducerModuleIII_Full">Модуль Психоиндуктор III</ln>
+<ln id="HeroInsanityInducerModuleIII_Short">М-Пси III</ln>
+
+<ln id="HeroInsanityInducerModuleIV_Full">Модуль Психоиндуктор IV</ln>
+<ln id="HeroInsanityInducerModuleIV_Short">М-Пси IV</ln>
+
+<ln id="HeroInsanityInducerModuleV_Full">Модуль Психоиндуктор V</ln>
+<ln id="HeroInsanityInducerModuleV_Short">М-Пси V</ln>
+
+<ln id="HeroDoomAcceleratorModule_Full">Модуль Адской Акселерации I</ln>
+<ln id="HeroDoomAcceleratorModule_Short">М-АА I</ln>
+<ln id="HeroDoomAcceleratorModule_Desc">Звездолётный вариант Стервятника Юнлингов Neinzul'ов. Наносит больше урона по уже повреждённым кораблям. Целям с 90% или большим здоровьем наносит 10 * баз. урон. По целям с большими повреждениями урон увеличивается вплоть до максимального значения 90 * баз. урона - по целям со здоровьем 10% и ниже.
+
+Только для Теневых Кораблей Людей и Neinzul'ов.</ln>
+
+<ln id="HeroDoomAcceleratorModuleII_Full">Модуль Адской Акселерации II</ln>
+<ln id="HeroDoomAcceleratorModuleII_Short">М-АА II</ln>
+
+<ln id="HeroDoomAcceleratorModuleIII_Full">Модуль Адской Акселерации III</ln>
+<ln id="HeroDoomAcceleratorModuleIII_Short">М-АА III</ln>
+
+<ln id="HeroDoomAcceleratorModuleIV_Full">Модуль Адской Акселерации IV</ln>
+<ln id="HeroDoomAcceleratorModuleIV_Short">М-АА IV</ln>
+
+<ln id="HeroDoomAcceleratorModuleV_Full">Модуль Адской Акселерации V</ln>
+<ln id="HeroDoomAcceleratorModuleV_Short">М-АА V</ln>
+
+<ln id="HeroTranslocatorModule_Full">Модуль Транслокатор I</ln>
+<ln id="HeroTranslocatorModule_Short">М-ТЛ I</ln>
+<ln id="HeroTranslocatorModule_Desc">Звездолётный вариант Транслокатора. Не хватает бонуса урона против специфических корпусов, но перемещает врагов в различные места. Некоторые цели(обычно - большие) имеют иммунитет к перемещению.
+
+Только для Теневых Кораблей Neinzul'ов и Spire'ов.</ln>
+
+<ln id="HeroTranslocatorModuleII_Full">Модуль Транслокатор II</ln>
+<ln id="HeroTranslocatorModuleII_Short">М-ТЛ II</ln>
+
+<ln id="HeroTranslocatorModuleIII_Full">Модуль Транслокатор III</ln>
+<ln id="HeroTranslocatorModuleIII_Short">М-ТЛ III</ln>
+
+<ln id="HeroTranslocatorModuleIV_Full">Модуль Транслокатор IV</ln>
+<ln id="HeroTranslocatorModuleIV_Short">М-ТЛ IV</ln>
+
+<ln id="HeroTranslocatorModuleV_Full">Модуль Транслокатор V</ln>
+<ln id="HeroTranslocatorModuleV_Short">М-ТЛ V</ln>
+
+<ln id="HeroPhotonLanceModule_Full">Модуль Фотонного Копья I</ln>
+<ln id="HeroPhotonLanceModule_Short">М-ФК I</ln>
+<ln id="HeroPhotonLanceModule_Desc">Модульная версия оружия, предпочитаемого многими линкорами и укреплениями Spire'ов. Стреляет когерентным лучом света в течение 2х секунд, который поражает всех врагов на своём пути. Не может возобновить повреждение в едином выстреле, так что движущиеся цели часто избегают полной силы луча. Не сбежавшие цели получают колоссальный урон.
+
+Только для кораблей Spire'ов.</ln>
+
+<ln id="HeroPhotonLanceModuleII_Full">Модуль Фотонного Копья II</ln>
+<ln id="HeroPhotonLanceModuleII_Short">М-ФК II</ln>
+
+<ln id="HeroPhotonLanceModuleIII_Full">Модуль Фотонного Копья III</ln>
+<ln id="HeroPhotonLanceModuleIII_Short">М-ФК III</ln>
+
+<ln id="HeroPhotonLanceModuleIV_Full">Модуль Фотонного Копья IV</ln>
+<ln id="HeroPhotonLanceModuleIV_Short">М-ФК IV</ln>
+
+<ln id="HeroPhotonLanceModuleV_Full">Модуль Фотонного Копья V</ln>
+<ln id="HeroPhotonLanceModuleV_Short">М-ФК V</ln>
+
+<ln id="HeroRailClusterModule_Full">Модуль МультиРельсотрон I</ln>
+<ln id="HeroRailClusterModule_Short">М-МРЛ I</ln>
+<ln id="HeroRailClusterModule_Desc">Модульный массив рельсотронных пушек. Мощнее стандартных рельсотронов людей, но не имеет бесконечной дальности.
+
+Только для Теневых Кораблей Spire'ов и Zenith'ов.</ln>
+
+<ln id="HeroRailClusterModuleII_Full">Модуль МультиРельсотрон II</ln>
+<ln id="HeroRailClusterModuleII_Short">М-МРЛ II</ln>
+
+<ln id="HeroRailClusterModuleIII_Full">Модуль МультиРельсотрон III</ln>
+<ln id="HeroRailClusterModuleIII_Short">М-МРЛ III</ln>
+
+<ln id="HeroRailClusterModuleIV_Full">Модуль МультиРельсотрон IV</ln>
+<ln id="HeroRailClusterModuleIV_Short">М-МРЛ IV</ln>
+
+<ln id="HeroRailClusterModuleV_Full">Модуль МультиРельсотрон V</ln>
+<ln id="HeroRailClusterModuleV_Short">М-МРЛ V</ln>
+
+<ln id="HeroRailCannonModule_Full">Модуль Рельсотрон I</ln>
+<ln id="HeroRailCannonModule_Short">М-РЛС I</ln>
+<ln id="HeroRailCannonModule_Desc">Модульный рельсотрон. Мощнее снайперского оружия на юнитах людей, но не имеет бесконечной дальности.
+
+Только для Теневых Кораблей Spire'ов и Людей.</ln>
+
+<ln id="HeroRailCannonModuleII_Full">Модуль Рельсотрон II</ln>
+<ln id="HeroRailCannonModuleII_Short">М-РЛС II</ln>
+
+<ln id="HeroRailCannonModuleIII_Full">Модуль Рельсотрон III</ln>
+<ln id="HeroRailCannonModuleIII_Short">М-РЛС III</ln>
+
+<ln id="HeroRailCannonModuleIV_Full">Модуль Рельсотрон IV</ln>
+<ln id="HeroRailCannonModuleIV_Short">М-РЛС IV</ln>
+
+<ln id="HeroRailCannonModuleV_Full">Модуль Рельсотрон V</ln>
+<ln id="HeroRailCannonModuleV_Short">М-РЛС V</ln>
+
+<ln id="HeroPlasmaSiegeCannonModule_Full">Модуль Плазменной Осадной Пушки I</ln>
+<ln id="HeroPlasmaSiegeCannonModule_Short">М-ПО I</ln>
+<ln id="HeroPlasmaSiegeCannonModule_Desc">Модульное оружие, стреляющее огромными зарядами концентрированной плазмы по большим или неподвижным целям. При взрыве снаряд наносит уменьшенный урон нескольким ближайшим юнитам. При атаке силового поля, наносит повреждение до 25 юнитам под этим полем(или полям возле этого поля) с силой в 6.25% от урона по полю.
+
+Не может целится по маленьким целям. Только для Теневых Кораблей Spire'ов.</ln>
+
+<ln id="HeroPlasmaSiegeCannonModuleII_Full">Модуль Плазменной Осадной Пушки II</ln>
+<ln id="HeroPlasmaSiegeCannonModuleII_Short">М-ПО II</ln>
+
+<ln id="HeroPlasmaSiegeCannonModuleIII_Full">Модуль Плазменной Осадной Пушки III</ln>
+<ln id="HeroPlasmaSiegeCannonModuleIII_Short">М-ПО III</ln>
+
+<ln id="HeroPlasmaSiegeCannonModuleIV_Full">Модуль Плазменной Осадной Пушки IV</ln>
+<ln id="HeroPlasmaSiegeCannonModuleIV_Short">М-ПО IV</ln>
+
+<ln id="HeroPlasmaSiegeCannonModuleV_Full">Модуль Плазменной Осадной Пушки V</ln>
+<ln id="HeroPlasmaSiegeCannonModuleV_Short">М-ПО V</ln>
+
+<ln id="FortressHeavyBeamModule_Full">Модуль Тяжёлого Луча I</ln>
+<ln id="FortressHeavyBeamModule_Short">М-ТЛ I</ln>
+<ln id="FortressHeavyBeamModule_Desc">Большой вариант турели людей Тяжёлой Лучевой Пушки для крепостей.</ln>
+
+<ln id="FortressHeavyBeamModuleII_Full">Модуль Тяжёлого Луча II</ln>
+<ln id="FortressHeavyBeamModuleII_Short">М-ТЛ II</ln>
+
+<ln id="FortressHeavyBeamModuleIII_Full">Модуль Тяжёлого Луча III</ln>
+<ln id="FortressHeavyBeamModuleIII_Short">М-ТЛ III</ln>
+
+<ln id="FortressHeavyBeamModuleIV_Full">Модуль Тяжёлого Луча IV</ln>
+<ln id="FortressHeavyBeamModuleIV_Short">М-ТЛ IV</ln>
+
+<ln id="FortressHeavyBeamModuleV_Full">Модуль Тяжёлого Луча V</ln>
+<ln id="FortressHeavyBeamModuleV_Short">М-ТЛ V</ln>
+
+<ln id="FortressBomberBayModule_Full">Модуль Бомбоотсек I</ln>
+<ln id="FortressBomberBayModule_Short">М-Бом-О I</ln>
+<ln id="FortressBomberBayModule_Desc">Интегрированная конструкция создания и запуска недолгоживущих Дронов Бомбардиров.
+
+Только для модульных крепостей Людей, Zenith'ов и Neinzul'ов. МодII и МодIII разблокируются с соответствующими модулями для Чемпиона.</ln>
+
+<ln id="FortressBomberBayModuleII_Full">Модуль Бомбоотсек II</ln>
+<ln id="FortressBomberBayModuleII_Short">М-Бом-О II</ln>
+
+<ln id="FortressBomberBayModuleIII_Full">Модуль Бомбоотсек III</ln>
+<ln id="FortressBomberBayModuleIII_Short">М-Бом-О III</ln>
+
+<ln id="FortressBomberBayModuleIV_Full">Модуль Бомбоотсек IV</ln>
+<ln id="FortressBomberBayModuleIV_Short">М-Бом-О IV</ln>
+
+<ln id="FortressBomberBayModuleV_Full">Модуль Бомбоотсек V</ln>
+<ln id="FortressBomberBayModuleV_Short">М-Бом-О V</ln>
+
+<ln id="FortressInterceptorBayModule_Full">Модуль Истребителей I</ln>
+<ln id="FortressInterceptorBayModule_Short">М-Истр I</ln>
+<ln id="FortressInterceptorBayModule_Desc">Интегрированная конструкция создания и запуска недолгоживущих Дронов Истребителей.
+
+Только для модульных крепостей  Людей, Zenith'ов и Neinzul'ов. МодII и МодIII разблокируются с соответствующими модулями для Чемпиона.</ln>
+
+<ln id="FortressInterceptorBayModuleII_Full">Модуль Истребителей II</ln>
+<ln id="FortressInterceptorBayModuleII_Short">М-Истр II</ln>
+
+<ln id="FortressInterceptorBayModuleIII_Full">Модуль Истребителей III</ln>
+<ln id="FortressInterceptorBayModuleIII_Short">М-Истр III</ln>
+
+<ln id="FortressInterceptorBayModuleIV_Full">Модуль Истребителей IV</ln>
+<ln id="FortressInterceptorBayModuleIV_Short">М-Истр IV</ln>
+
+<ln id="FortressInterceptorBayModuleV_Full">Модуль Истребителей V</ln>
+<ln id="FortressInterceptorBayModuleV_Short">М-Истр V</ln>
+
+<ln id="FortressSlicerBayModule_Full">Модуль Резаков I</ln>
+<ln id="FortressSlicerBayModule_Short">М-Рез I</ln>
+<ln id="FortressSlicerBayModule_Desc">Интегрированная конструкция создания и запуска недолгоживущих Дронов Резаков.
+
+Только для модульных крепостей Людей, Zenith'ов и Neinzul'ов. МодII и МодIII разблокируются с соответствующими модулями для Чемпиона.</ln>
+
+<ln id="FortressSlicerBayModuleII_Full">Модуль Резаков II</ln>
+<ln id="FortressSlicerBayModuleII_Short">М-Рез II</ln>
+
+<ln id="FortressSlicerBayModuleIII_Full">Модуль Резаков III</ln>
+<ln id="FortressSlicerBayModuleIII_Short">М-Рез III</ln>
+
+<ln id="FortressSlicerBayModuleIV_Full">Модуль Резаков IV</ln>
+<ln id="FortressSlicerBayModuleIV_Short">М-Рез IV</ln>
+
+<ln id="FortressSlicerBayModuleV_Full">Модуль Резаков V</ln>
+<ln id="FortressSlicerBayModuleV_Short">М-Рез V</ln>
+
+<ln id="FortressHeatBeamModule_Full">Модуль Теплового Луча I</ln>
+<ln id="FortressHeatBeamModule_Short">М-ТпЛ I</ln>
+<ln id="FortressHeatBeamModule_Desc">Вариант Теплового Луча Zenith'ов для крепостей. Поражает до 9 целей в линию, каждую на полную мощь луча.
+
+Только для модульных крепостей Zenith'ов. МодII и МодIII разблокируются с соответствующими модулями для Чемпиона.</ln>
+
+<ln id="FortressHeatBeamModuleII_Full">Модуль Теплового Луча II</ln>
+<ln id="FortressHeatBeamModuleII_Short">М-ТпЛ II</ln>
+
+<ln id="FortressHeatBeamModuleIII_Full">Модуль Теплового Луча III</ln>
+<ln id="FortressHeatBeamModuleIII_Short">М-ТпЛ III</ln>
+
+<ln id="FortressHeatBeamModuleIV_Full">Модуль Теплового Луча IV</ln>
+<ln id="FortressHeatBeamModuleIV_Short">М-ТпЛ IV</ln>
+
+<ln id="FortressHeatBeamModuleV_Full">Модуль Теплового Луча V</ln>
+<ln id="FortressHeatBeamModuleV_Short">М-ТпЛ V</ln>
+
+<ln id="FortressFlakModule_Full">Модуль Зенитчик I</ln>
+<ln id="FortressFlakModule_Short">М-Зент I</ln>
+<ln id="FortressFlakModule_Desc">Вариант Зенитной Турели для крепостей. Очень эффективен против большинства лёгких типов брони.
+
+Только для модульных крепостей Людей и Zenith'ов. МодII и МодIII разблокируются с соответствующими модулями для Чемпиона.</ln>
+
+<ln id="FortressFlakModuleII_Full">Модуль Зенитчик II</ln>
+<ln id="FortressFlakModuleII_Short">М-Зент II</ln>
+
+<ln id="FortressFlakModuleIII_Full">Модуль Зенитчик III</ln>
+<ln id="FortressFlakModuleIII_Short">М-Зент III</ln>
+
+<ln id="FortressFlakModuleIV_Full">Модуль Зенитчик IV</ln>
+<ln id="FortressFlakModuleIV_Short">М-Зент IV</ln>
+
+<ln id="FortressFlakModuleV_Full">Модуль Зенитчик V</ln>
+<ln id="FortressFlakModuleV_Short">М-Зент V</ln>
+
+<ln id="FortressAcidJetModule_Full">Модуль Кислотный I</ln>
+<ln id="FortressAcidJetModule_Short">М-Кис I</ln>
+<ln id="FortressAcidJetModule_Desc">Вариант Кислотного Распылителя Zenith'ов для крепостей. Низкий базовый урон, но чрезвычайно эффективен против экзотических типов брони.
+
+Только для модульных крепостей Zenith'ов и Neinzul'ов. МодII и МодIII разблокируются с соответствующими модулями для Чемпиона.</ln>
+
+<ln id="FortressAcidJetModuleII_Full">Модуль Кислотный II</ln>
+<ln id="FortressAcidJetModuleII_Short">М-Кис II</ln>
+
+<ln id="FortressAcidJetModuleIII_Full">Модуль Кислотный III</ln>
+<ln id="FortressAcidJetModuleIII_Short">М-Кис III</ln>
+
+<ln id="FortressAcidJetModuleIV_Full">Модуль Кислотный IV</ln>
+<ln id="FortressAcidJetModuleIV_Short">М-Кис IV</ln>
+
+<ln id="FortressAcidJetModuleV_Full">Модуль Кислотный V</ln>
+<ln id="FortressAcidJetModuleV_Short">М-Кис V</ln>
+
+<ln id="FortressPolarizerModule_Full">Модуль Поляризатор I</ln>
+<ln id="FortressPolarizerModule_Short">М-Пол I</ln>
+<ln id="FortressPolarizerModule_Desc">Вариант Поляризатора Zenith'ов для крепостей. Низкий базовый урон, но чрезвычайно эффективен против бронированных целей.
+
+Только для модульных крепостей Zenith'ов и Spire'ов. МодII и МодIII разблокируются с соответствующими модулями для Чемпиона.</ln>
+
+<ln id="FortressPolarizerModuleII_Full">Модуль Поляризатор II</ln>
+<ln id="FortressPolarizerModuleII_Short">М-Пол II</ln>
+
+<ln id="FortressPolarizerModuleIII_Full">Модуль Поляризатор III</ln>
+<ln id="FortressPolarizerModuleIII_Short">М-Пол III</ln>
+
+<ln id="FortressPolarizerModuleIV_Full">Модуль Поляризатор IV</ln>
+<ln id="FortressPolarizerModuleIV_Short">М-Пол IV</ln>
+
+<ln id="FortressPolarizerModuleV_Full">Модуль Поляризатор V</ln>
+<ln id="FortressPolarizerModuleV_Short">М-Пол V</ln>
+
+<ln id="FortressParalyzerModule_Full">Модуль Парализатор I</ln>
+<ln id="FortressParalyzerModule_Short">М-Пар I</ln>
+<ln id="FortressParalyzerModule_Desc">Вариант Парализатора Zenith'ов для крепостей. Оглушает цель на несколько секунд.
+
+Только для модульных крепостей Людей и Zenith'ов. МодII и МодIII разблокируются с соответствующими модулями для Чемпиона.</ln>
+
+<ln id="FortressParalyzerModuleII_Full">Модуль Парализатор II</ln>
+<ln id="FortressParalyzerModuleII_Short">М-Пар II</ln>
+
+<ln id="FortressParalyzerModuleIII_Full">Модуль Парализатор III</ln>
+<ln id="FortressParalyzerModuleIII_Short">М-Пар III</ln>
+
+<ln id="FortressParalyzerModuleIV_Full">Модуль Парализатор IV</ln>
+<ln id="FortressParalyzerModuleIV_Short">М-Пар IV</ln>
+
+<ln id="FortressParalyzerModuleV_Full">Модуль Парализатор V</ln>
+<ln id="FortressParalyzerModuleV_Short">М-Пар V</ln>
+
+<ln id="FortressImpulseReactionModule_Full">Модуль Импульсной Пушки I</ln>
+<ln id="FortressImpulseReactionModule_Short">М-ИП I</ln>
+<ln id="FortressImpulseReactionModule_Desc">Вариант Импульсного Реактивного Эмиттера для крепостей. Низкий базовый урон, но чрезвычайно эффективен против целей с большим потреблением энергии.
+
+Только для модульных крепостей Zenith'ов и Spire'ов. МодII и МодIII разблокируются с соответствующими модулями для Чемпиона.</ln>
+
+<ln id="FortressImpulseReactionModuleII_Full">Модуль Импульсной Пушки II</ln>
+<ln id="FortressImpulseReactionModuleII_Short">М-ИП II</ln>
+
+<ln id="FortressImpulseReactionModuleIII_Full">Модуль Импульсной Пушки III</ln>
+<ln id="FortressImpulseReactionModuleIII_Short">М-ИП III</ln>
+
+<ln id="FortressImpulseReactionModuleIV_Full">Модуль Импульсной Пушки IV</ln>
+<ln id="FortressImpulseReactionModuleIV_Short">М-ИП IV</ln>
+
+<ln id="FortressImpulseReactionModuleV_Full">Модуль Импульсной Пушки V</ln>
+<ln id="FortressImpulseReactionModuleV_Short">М-ИП V</ln>
+
+<ln id="FortressNanosubverterModule_Full">Модуль Наносаботажа I</ln>
+<ln id="FortressNanosubverterModule_Short">М-НС I</ln>
+<ln id="FortressNanosubverterModule_Desc">Модульное оружие, наносящее переманивающий урон.
+
+Только для модульных крепостей Людей и Neinzul'ов. МодII и МодIII разблокируются с соответствующими модулями для Чемпиона.</ln>
+
+<ln id="FortressNanosubverterModuleII_Full">Модуль Наносаботажа II</ln>
+<ln id="FortressNanosubverterModuleII_Short">М-НС II</ln>
+
+<ln id="FortressNanosubverterModuleIII_Full">Модуль Наносаботажа III</ln>
+<ln id="FortressNanosubverterModuleIII_Short">М-НС III</ln>
+
+<ln id="FortressNanosubverterModuleIV_Full">Модуль Наносаботажа IV</ln>
+<ln id="FortressNanosubverterModuleIV_Short">М-НС IV</ln>
+
+<ln id="FortressNanosubverterModuleV_Full">Модуль Наносаботажа V</ln>
+<ln id="FortressNanosubverterModuleV_Short">М-НС V</ln>
+
+<ln id="FortressInsanityInducerModule_Full">Модуль Психоиндуктор I</ln>
+<ln id="FortressInsanityInducerModule_Short">М-Пси I</ln>
+<ln id="FortressInsanityInducerModule_Desc">Вариант Голема Ботнета для крепостей. Медленно стреляет и абсолютно неэффективен против юнитов с иммунитетом к переманиванию, но мгновенно перепрограммирует цель, что та начинает атаковать вашего врага.
+
+Только для модульных крепостей Neinzul'ов. МодII и МодIII разблокируются с соответствующими модулями для Чемпиона.</ln>
+
+<ln id="FortressInsanityInducerModuleII_Full">Модуль Психоиндуктор II</ln>
+<ln id="FortressInsanityInducerModuleII_Short">М-Пси II</ln>
+
+<ln id="FortressInsanityInducerModuleIII_Full">Модуль Психоиндуктор III</ln>
+<ln id="FortressInsanityInducerModuleIII_Short">М-Пси III</ln>
+
+<ln id="FortressInsanityInducerModuleIV_Full">Модуль Психоиндуктор IV</ln>
+<ln id="FortressInsanityInducerModuleIV_Short">М-Пси IV</ln>
+
+<ln id="FortressInsanityInducerModuleV_Full">Модуль Психоиндуктор V</ln>
+<ln id="FortressInsanityInducerModuleV_Short">М-Пси V</ln>
+
+<ln id="FortressDoomAcceleratorModule_Full">Модуль Адской Акселерации I</ln>
+<ln id="FortressDoomAcceleratorModule_Short">М-АА I</ln>
+<ln id="FortressDoomAcceleratorModule_Desc">Вариант Стервятника Юнлингов Neinzul'ов для крепостей. Наносит больше урона по уже повреждённым кораблям. Целям с 90% или большим здоровьем наносит 10 * баз. урон. По целям с большими повреждениями урон увеличивается вплоть до максимального значения 90 * баз. урона - по целям со здоровьем 10% и ниже.
+
+Только для модульных крепостей Людей и Neinzul'ов. МодII и МодIII разблокируются с соответствующими модулями для Чемпиона.</ln>
+
+<ln id="FortressDoomAcceleratorModuleII_Full">Модуль Адской Акселерации II</ln>
+<ln id="FortressDoomAcceleratorModuleII_Short">М-АА II</ln>
+
+<ln id="FortressDoomAcceleratorModuleIII_Full">Модуль Адской Акселерации III</ln>
+<ln id="FortressDoomAcceleratorModuleIII_Short">М-АА III</ln>
+
+<ln id="FortressDoomAcceleratorModuleIV_Full">Модуль Адской Акселерации IV</ln>
+<ln id="FortressDoomAcceleratorModuleIV_Short">М-АА IV</ln>
+
+<ln id="FortressDoomAcceleratorModuleV_Full">Модуль Адской Акселерации V</ln>
+<ln id="FortressDoomAcceleratorModuleV_Short">М-АА V</ln>
+
+<ln id="FortressTranslocatorModule_Full">Модуль Транслокатор I</ln>
+<ln id="FortressTranslocatorModule_Short">М-ТЛ I</ln>
+<ln id="FortressTranslocatorModule_Desc">Вариант Транслокатора для крепостей. Не хватает бонуса урона против специфических корпусов, но перемещает врагов в различные места. Некоторые цели(обычно - большие) имеют иммунитет к перемещению.
+
+Только для модульных крепостей Neinzul'ов и Spire'ов. МодII и МодIII разблокируются с соответствующими модулями для Чемпиона.</ln>
+
+<ln id="FortressTranslocatorModuleII_Full">Модуль Транслокатор II</ln>
+<ln id="FortressTranslocatorModuleII_Short">М-ТЛ II</ln>
+
+<ln id="FortressTranslocatorModuleIII_Full">Модуль Транслокатор III</ln>
+<ln id="FortressTranslocatorModuleIII_Short">М-ТЛ III</ln>
+
+<ln id="FortressTranslocatorModuleIV_Full">Модуль Транслокатор IV</ln>
+<ln id="FortressTranslocatorModuleIV_Short">М-ТЛ IV</ln>
+
+<ln id="FortressTranslocatorModuleV_Full">Модуль Транслокатор V</ln>
+<ln id="FortressTranslocatorModuleV_Short">М-ТЛ V</ln>
+
+<ln id="FortressPhotonLanceModule_Full">Модуль Фотонного Копья I</ln>
+<ln id="FortressPhotonLanceModule_Short">М-ФК I</ln>
+<ln id="FortressPhotonLanceModule_Desc">Модульная версия оружия, предпочитаемого многими линкорами и укреплениями Spire'ов. Стреляет когерентным лучом света в течение 2х секунд, который поражает всех врагов на своём пути. Не может возобновить повреждение в едином выстреле, так что движущиеся цели часто избегают полной силы луча. Не сбежавшие цели получают колоссальный урон.
+
+Только для модульных крепостей Spire'ов. МодII и МодIII разблокируются с соответствующими модулями для Чемпиона.</ln>
+
+<ln id="FortressPhotonLanceModuleII_Full">Модуль Фотонного Копья II</ln>
+<ln id="FortressPhotonLanceModuleII_Short">М-ФК II</ln>
+
+<ln id="FortressPhotonLanceModuleIII_Full">Модуль Фотонного Копья III</ln>
+<ln id="FortressPhotonLanceModuleIII_Short">М-ФК III</ln>
+
+<ln id="FortressPhotonLanceModuleIV_Full">Модуль Фотонного Копья IV</ln>
+<ln id="FortressPhotonLanceModuleIV_Short">М-ФК IV</ln>
+
+<ln id="FortressPhotonLanceModuleV_Full">Модуль Фотонного Копья V</ln>
+<ln id="FortressPhotonLanceModuleV_Short">М-ФК V</ln>
+
+<ln id="FortressRailClusterModule_Full">Модуль МультиРельсотрон I</ln>
+<ln id="FortressRailClusterModule_Short">М-МРЛ I</ln>
+<ln id="FortressRailClusterModule_Desc">Модульный массив рельсотронных пушек. Мощнее стандартных рельсотронов людей, но не имеет бесконечной дальности.
+
+Только для модульных крепостей Spire'ов и Zenith'ов. МодII и МодIII разблокируются с соответствующими модулями для Чемпиона.</ln>
+
+<ln id="FortressRailClusterModuleII_Full">Модуль МультиРельсотрон II</ln>
+<ln id="FortressRailClusterModuleII_Short">М-МРЛ II</ln>
+
+<ln id="FortressRailClusterModuleIII_Full">Модуль МультиРельсотрон III</ln>
+<ln id="FortressRailClusterModuleIII_Short">М-МРЛ III</ln>
+
+<ln id="FortressRailClusterModuleIV_Full">Модуль МультиРельсотрон IV</ln>
+<ln id="FortressRailClusterModuleIV_Short">М-МРЛ IV</ln>
+
+<ln id="FortressRailClusterModuleV_Full">Модуль МультиРельсотрон V</ln>
+<ln id="FortressRailClusterModuleV_Short">М-МРЛ V</ln>
+
+<ln id="FortressRailCannonModule_Full">Модуль Рельсотрон I</ln>
+<ln id="FortressRailCannonModule_Short">М-РЛС I</ln>
+<ln id="FortressRailCannonModule_Desc">Модульный рельсотрон. Мощнее снайперского оружия на юнитах людей, но не имеет бесконечной дальности.
+
+Только для модульных крепостей Spire'ов и Людей. МодII и МодIII разблокируются с соответствующими модулями для Чемпиона.</ln>
+
+<ln id="FortressRailCannonModuleII_Full">Модуль Рельсотрон II</ln>
+<ln id="FortressRailCannonModuleII_Short">М-РЛС II</ln>
+
+<ln id="FortressRailCannonModuleIII_Full">Модуль Рельсотрон III</ln>
+<ln id="FortressRailCannonModuleIII_Short">М-РЛС III</ln>
+
+<ln id="FortressRailCannonModuleIV_Full">Модуль Рельсотрон IV</ln>
+<ln id="FortressRailCannonModuleIV_Short">М-РЛС IV</ln>
+
+<ln id="FortressRailCannonModuleV_Full">Модуль Рельсотрон V</ln>
+<ln id="FortressRailCannonModuleV_Short">М-РЛС V</ln>
+
+<ln id="FortressPlasmaSiegeCannonModule_Full">Модуль Плазменной Осадной Пушки I</ln>
+<ln id="FortressPlasmaSiegeCannonModule_Short">М-ПО I</ln>
+<ln id="FortressPlasmaSiegeCannonModule_Desc">Модульное оружие, стреляющее огромными зарядами концентрированной плазмы по большим или неподвижным целям. При взрыве снаряд наносит уменьшенный урон нескольким ближайшим юнитам. При атаке силового поля, наносит повреждение до 25 юнитам под этим полем(или полям возле этого поля) с силой в 6.25% от урона по полю.
+
+Не может целится по маленьким целям. Только для модульных крепостей Spire'ов. МодII и МодIII разблокируются с соответствующими модулями для Чемпиона.</ln>
+
+<ln id="FortressPlasmaSiegeCannonModuleII_Full">Модуль Плазменной Осадной Пушки II</ln>
+<ln id="FortressPlasmaSiegeCannonModuleII_Short">М-ПО II</ln>
+
+<ln id="FortressPlasmaSiegeCannonModuleIII_Full">Модуль Плазменной Осадной Пушки III</ln>
+<ln id="FortressPlasmaSiegeCannonModuleIII_Short">М-ПО III</ln>
+
+<ln id="FortressPlasmaSiegeCannonModuleIV_Full">Модуль Плазменной Осадной Пушки IV</ln>
+<ln id="FortressPlasmaSiegeCannonModuleIV_Short">М-ПО IV</ln>
+
+<ln id="FortressPlasmaSiegeCannonModuleV_Full">Модуль Плазменной Осадной Пушки V</ln>
+<ln id="FortressPlasmaSiegeCannonModuleV_Short">М-ПО V</ln>
+
+<ln id="ModularHumanFortress_Full">Модульная Крепость</ln>
+<ln id="ModularHumanFortress_Short">Мод Креп</ln>
+<ln id="ModularHumanFortress_Desc">Комбинация спасённых модульных технологий Spire'ов и чертежей крепостей людей. ГРОМАДНОЕ, мощное и дорогое подвижное защитное сооружение. Ремонтирует ближайшие корабли. После передвижения требуется перезарядка на 60 секунд, прежде чем начнёт чинить.
+
+Может быть построен меньше по сравнению со стандартной крепостью Людей, но модальный вариант может монтировать массивные турельные батареи. Более мощные слоты могут поддерживать генераторы щита. Доступный список типов модулей расширяется с исследованием соответствующих турелей/щитов, а более экзотические модули доступны после улучшения Чемпиона.</ln>
+
+<ln id="ModularNeinzulFortress_Full">Модульная Крепость Neinzul'ов</ln>
+<ln id="ModularNeinzulFortress_Short">Мод Креп N</ln>
+<ln id="ModularNeinzulFortress_Desc">Комбинация спасённых модульных теневых технологий Neinzul'ов и чертежей крепостей людей. ГРОМАДНОЕ, мощное и дорогое подвижное защитное сооружение. Скрыто, и скрывает ближайшие корабли.
+
+Может быть построен меньше по сравнению со стандартной крепостью Людей, но модальный вариант может монтировать массивные турельные батареи. Более мощные слоты могут поддерживать генераторы щита. Доступный список типов модулей расширяется с исследованием соответствующих турелей/щитов, а более экзотические модули доступны после улучшения Чемпиона..</ln>
+
+<ln id="ModularSpireFortress_Full">Модульная Крепость Spire'ов</ln>
+<ln id="ModularSpireFortress_Short">Мод Креп S</ln>
+<ln id="ModularSpireFortress_Desc">Комбинация спасённых модульных теневых технологий современных Spire'ов и чертежей крепостей людей. ГРОМАДНОЕ, мощное и дорогое подвижное защитное сооружение. Устанавливает невероятно мощное Фотонное Копьё на главный слот.
+
+Может быть построен меньше по сравнению со стандартной крепостью Людей, но модальный вариант может монтировать массивные турельные батареи. Более мощные слоты могут поддерживать генераторы щита. Доступный список типов модулей расширяется с исследованием соответствующих турелей/щитов, а более экзотические модули доступны после улучшения Чемпиона..</ln>
+
+<ln id="ModularZenithFortress_Full">Модульная Крепость Zenith'ов</ln>
+<ln id="ModularZenithFortress_Short">Мод Креп Z</ln>
+<ln id="ModularZenithFortress_Desc">Комбинация спасённых модульных теневых технологий Zenith'ов и чертежей крепостей людей. ГРОМАДНОЕ, мощное и дорогое подвижное защитное сооружение. Устанавливает Массивный Волновой Проектор на главный слот.
+
+Может быть построен меньше по сравнению со стандартной крепостью Людей, но модальный вариант может монтировать массивные турельные батареи. Более мощные слоты могут поддерживать генераторы щита. Доступный список типов модулей расширяется с исследованием соответствующих турелей/щитов, а более экзотические модули доступны после улучшения Чемпиона..</ln>
+
+<ln id="AIModularFortressCommandStation_Full">ИИ Модульная Крепость Командная Станция</ln>
+<ln id="AIModularFortressCommandStation_Short">Кр. Команд</ln>
+<ln id="AIModularFortressCommandStation_Desc">Большинство командных станций ИИ - хрупкие цели. ЭТА командная станция нечто иное. Она большая. Она модульная. И она не дружелюбна.
+
+Её отключение может потребовать... экспериментов.</ln>
+
+<ln id="AIModularFortressHomeCommandStation_Full">ИИ Модульная Крепость Домашняя Командная Станция</ln>
+<ln id="AIModularFortressHomeCommandStation_Short">Кр. Дом Станция</ln>
+<ln id="AIModularFortressHomeCommandStation_Desc">Домашняя Командная Станция ИИ не может получить урон, пока все Главные Посты Охраны ИИ на этой планете не будут уничтожены.
+
+Первая команда, уничтожившая все Домашние Командные Станции противников, побеждает в игре.
+
+Эта модульная крепость похожа на обычные командные станции Короля Крепости, но обладает специальными способностями, специфичными для ИИ Домашней Командной Станции.</ln>
+
+<ln id="ZenithMedicFrigate_Full">Фрегат Медик Zenith'ов</ln>
+<ln id="ZenithMedicFrigate_Short">Z-Медик I</ln>
+<ln id="ZenithMedicFrigate_Wave">Фрегаты Медики Zenith'ов</ln>
+<ln id="ZenithMedicFrigate_Desc">Довольно большой фрегат с действенным вооружением, но главная его особенность - излучние многопотокового ремонтного луча, с помощью которого он чинит ближайшие корабли(прим.: не может чинить корабль несколько секунд после того, как тот корабль получил урон).</ln>
+
+<ln id="ZenithMedicFrigateII_Full">Фрегат Медик Zenith'ов II</ln>
+<ln id="ZenithMedicFrigateII_Short">Z-Медик II</ln>
+
+<ln id="ZenithMedicFrigateIII_Full">Фрегат Медик Zenith'ов III</ln>
+<ln id="ZenithMedicFrigateIII_Short">Z-Медик III</ln>
+
+<ln id="ZenithMedicFrigateIV_Full">Фрегат Медик Zenith'ов IV</ln>
+<ln id="ZenithMedicFrigateIV_Short">Z-Медик IV</ln>
+
+<ln id="CoreZenithMedicFrigate_Full">Главный Фрегат Медик Zenith'ов</ln>
+<ln id="CoreZenithMedicFrigate_Short">Z-Медик V</ln>
+
+<ln id="TackleDroneLauncher_Full">Метатель Тяговых Дронов</ln>
+<ln id="TackleDroneLauncher_Short">Метатель ТД I</ln>
+<ln id="TackleDroneLauncher_Wave">Метатели Тяговых Дронов</ln>
+<ln id="TackleDroneLauncher_Desc">Обладает оружием, но в первую очередь атакует, запуская маленьких дронов-тягачей. Дроны двигаются по прямой линии и тянут за собой любого врага, которого способны утащить, и взрываются, когда заканчивается топливо(взрыв происходит быстрее, если кого-то тянет) или бьёт по краю гравитационного колодца, нанося урон ближайшим целям в количестве 5 * ур. дрона(даже при иммунитете ко взрывам). Дроны очень эффективны при вытягивания маленьких кораблей из битвы, но не могут нанести урон кораблям с иммунитетом к тяговым лучам.</ln>
+
+<ln id="TackleDroneLauncherII_Full">Метатель Тяговых Дронов II</ln>
+<ln id="TackleDroneLauncherII_Short">Метатель ТД II</ln>
+
+<ln id="TackleDroneLauncherIII_Full">Метатель Тяговых Дронов III</ln>
+<ln id="TackleDroneLauncherIII_Short">Метатель ТД III</ln>
+
+<ln id="TackleDroneLauncherIV_Full">Метатель Тяговых Дронов IV</ln>
+<ln id="TackleDroneLauncherIV_Short">Метатель ТД IV</ln>
+
+<ln id="CoreTackleDroneLauncher_Full">Главный Метатель Тяговых Дронов</ln>
+<ln id="CoreTackleDroneLauncher_Short">Метатель ТД V</ln>
+
+<ln id="TackleDrone_Full">Тяговый Дрон</ln>
+<ln id="TackleDrone_Short">ТД I</ln>
+<ln id="TackleDrone_Wave">Тяговые Дроны</ln>
+<ln id="TackleDrone_Desc">Маленький Дрон, запущенный Метателем Тяговых Дронов. Двигаются по прямой линии и тянут за собой любого врага, которого способны утащить, и взрываются, когда заканчивается топливо(взрыв происходит быстрее, если кого-то тянет) или бъёт по краю гравитационного колодца, нанося урон ближайшим целям в количестве 5 * ур. дрона(даже при иммунитете ко взрывам). Дроны очень эффективны при вытягивания маленьких кораблей из битвы, но не могут нанести урон кораблям с иммунитетом к тяговым лучам.</ln>
+
+<ln id="TackleDroneII_Full">Тяговый Дрон II</ln>
+<ln id="TackleDroneII_Short">ТД II</ln>
+
+<ln id="TackleDroneIII_Full">Тяговый Дрон III</ln>
+<ln id="TackleDroneIII_Short">ТД III</ln>
+
+<ln id="TackleDroneIV_Full">Тяговый Дрон IV</ln>
+<ln id="TackleDroneIV_Short">ТД IV</ln>
+
+<ln id="CoreTackleDrone_Full">Главный Тяговый Дрон</ln>
+<ln id="CoreTackleDrone_Short">ТД V</ln>
+
+<ln id="DimensionalPrisonController_Full">Контроллер Межпрогранственной Тюрьмы</ln>
+<ln id="DimensionalPrisonController_Short">КМТ</ln>
+<ln id="DimensionalPrisonController_Desc">Мистическое устройство в центре нескольких интенсивных пространственных лучей. Излучение похоже на создаваемое от Пространственных Глушителей для взаимодействия с пространственной сетью.
+
+Контроллер может быть уничтожен, но следует предостеречься.</ln>
+
+<ln id="NeinzulScapegoat_Full">Козёл Отпущения Neinzul'ов</ln>
+<ln id="NeinzulScapegoat_Short">N-Отпущ I</ln>
+<ln id="NeinzulScapegoat_Wave">Козлы Отпущения</ln>
+<ln id="NeinzulScapegoat_Desc">Злой организм Neinzul'ов без быстроумирающего Юнлинга. Способен сражаться сам по себе, но и приносит себя в жертву, чтобы восстановить военные боевые корабли на той же планете, при получении критических повреждений.
+
+Очень отличается от других военных кораблей тем, что модели большего уровня не усилены, но вы получаете их больше.</ln>
+
+<ln id="NeinzulScapegoatII_Full">Козёл Отпущения Neinzul'ов II</ln>
+<ln id="NeinzulScapegoatII_Short">N-Отпущ II</ln>
+
+<ln id="NeinzulScapegoatIII_Full">Козёл Отпущения Neinzul'ов III</ln>
+<ln id="NeinzulScapegoatIII_Short">N-Отпущ III</ln>
+
+<ln id="NeinzulScapegoatIV_Full">Козёл Отпущения Neinzul'ов IV</ln>
+<ln id="NeinzulScapegoatIV_Short">N-Отпущ IV</ln>
+
+<ln id="CoreNeinzulScapegoat_Full">Главный Козёл Отпущения Neinzul'ов</ln>
+<ln id="CoreNeinzulScapegoat_Short">N-Отпущ V</ln>
+
+<ln id="SpireRailcluster_Full">РельсоКластер Spire'ов</ln>
+<ln id="SpireRailcluster_Short">S-РелК I</ln>
+<ln id="SpireRailcluster_Wave">РельсоКластеры Spire'ов</ln>
+<ln id="SpireRailcluster_Desc">Большой военный корабль Spire'ов, с установленным множеством рельсотронов ближнего действия. Очень эффективен против очень маленьких кораблей.</ln>
+
+<ln id="SpireRailclusterII_Full">РельсоКластер Spire'ов II</ln>
+<ln id="SpireRailclusterII_Short">S-РелК II</ln>
+
+<ln id="SpireRailclusterIII_Full">РельсоКластер Spire'ов III</ln>
+<ln id="SpireRailclusterIII_Short">S-РелК III</ln>
+
+<ln id="SpireRailclusterIV_Full">РельсоКластер Spire'ов IV</ln>
+<ln id="SpireRailclusterIV_Short">S-РелК IV</ln>
+
+<ln id="CoreSpireRailcluster_Full">Главный РельсоКластер Spire'ов</ln>
+<ln id="CoreSpireRailcluster_Short">S-РелК V</ln>
+
+<ln id="ZenithSiegeEngine_Full">Осадной Механизм Zenith'ов</ln>
+<ln id="ZenithSiegeEngine_Short">Z-Осад I</ln>
+<ln id="ZenithSiegeEngine_Wave">Осадные Механизмы Zenith'ов</ln>
+<ln id="ZenithSiegeEngine_Desc">Довольно большой корабль, построенный вокруг негабаритной плазменной осадной пушки. Кораблю не хватает мощности, чтобы двигаться и стрелять одновременно, так что он должен оставаться неподвижным в течение полного цикла перезарядки, пока не сможет стрелять. Но как только выстрелит, противники почувствуют это.
+
+При взрыве снаряд наносит уменьшенный урон нескольким ближайшим юнитам. При атаке силового поля, наносит повреждение до 25 юнитам под этим полем(или полям возле этого поля) с силой в 6.25% от урона по полю.</ln>
+
+<ln id="ZenithSiegeEngineII_Full">Осадной Механизм II</ln>
+<ln id="ZenithSiegeEngineII_Short">Z-Осад II</ln>
+
+<ln id="ZenithSiegeEngineIII_Full">Осадной Механизм III</ln>
+<ln id="ZenithSiegeEngineIII_Short">Z-Осад III</ln>
+
+<ln id="ZenithSiegeEngineIV_Full">Осадной Механизм IV</ln>
+<ln id="ZenithSiegeEngineIV_Short">Z-Осад IV</ln>
+
+<ln id="CoreZenithSiegeEngine_Full">Главный Осадной Механизм</ln>
+<ln id="CoreZenithSiegeEngine_Short">Z-Осад V</ln>
+
+<ln id="ZenithReprocessor_Full">Репроцессор Zenith'ов</ln>
+<ln id="ZenithReprocessor_Short">Z-Репроц I</ln>
+<ln id="ZenithReprocessor_Wave">Репроцессоры Zenith'ов</ln>
+<ln id="ZenithReprocessor_Desc">Большая специализированная версия Кислотного Распылителя, на самом деле "усваивает" вражеские корабли. При смерти противника, процент от стоимости корабля будет дан в виде ресурсов тому игроку, который нанёс больше всего перерабатывающего урона. При большем полученном перерабатывающем уроне, больше ресурсов получается.
+
+Может ранить корабли с иммунитетом к переманиванию, но не может переработать их.
+
+Прим.: юниты этого типа под контролем ИИ не дают ИИ металл, но создаёт для него Мусор (даже из юнитов с иммунитетом к переманиванию), не зависимо от того, где юнит погибает.</ln>
+
+<ln id="ZenithReprocessorII_Full">Репроцессор Zenith'ов II</ln>
+<ln id="ZenithReprocessorII_Short">Z-Репроц II</ln>
+
+<ln id="ZenithReprocessorIII_Full">Репроцессор Zenith'ов III</ln>
+<ln id="ZenithReprocessorIII_Short">Z-Репроц III</ln>
+
+<ln id="ZenithReprocessorIV_Full">Репроцессор Zenith'ов IV</ln>
+<ln id="ZenithReprocessorIV_Short">Z-Репроц IV</ln>
+
+<ln id="CoreZenithReprocessor_Full">Главный Репроцессор Zenith'ов</ln>
+<ln id="CoreZenithReprocessor_Short">Z-Репроц V</ln>
+
+<ln id="YounglingFirefly_Full">Юнлинг Светлячок</ln>
+<ln id="YounglingFirefly_Short">Ю-Свет I</ln>
+<ln id="YounglingFirefly_Wave">Юнлинги Светлячки</ln>
+<ln id="YounglingFirefly_Desc">Маленький, недолгиживущий корабль, накапливающий заряд при успешной атаке других юнитов. После смерти мощно взрывается, поражая до 20 ближайших юнитов. Взрыв поражает каждого юнита с силой от четверти до обычной силы выстрела Светлячка, но возрастает по мере накопления заряда до максимального 5-кратного размера обычного выстрела.</ln>
+
+<ln id="YounglingFireflyII_Full">Юнлинг Светлячок II</ln>
+<ln id="YounglingFireflyII_Short">Ю-Свет II</ln>
+
+<ln id="YounglingFireflyIII_Full">Юнлинг Светлячок III</ln>
+<ln id="YounglingFireflyIII_Short">Ю-Свет III</ln>
+
+<ln id="YounglingFireflyIV_Full">Юнлинг Светлячок IV</ln>
+<ln id="YounglingFireflyIV_Short">Ю-Свет IV</ln>
+
+<ln id="CoreYounglingFirefly_Full">Главный Юнлинг Светлячок</ln>
+<ln id="CoreYounglingFirefly_Short">Ю-Свет V</ln>
+
+<ln id="Saboteur_Full">Саботёр</ln>
+<ln id="Saboteur_Short">Сабо I</ln>
+<ln id="Saboteur_Wave">Саботёры</ln>
+<ln id="Saboteur_Desc">Стреляет враждебными нанитами по вражеским кораблям. В отличие от переманивающих нанитов, это сосредотачиваются на перегрузке энергетической системы врага, чтобы его подорвать. Цель не взрывается, пока её здоровье не опуститься до нуля, а как только это случится - взрывается и поражает до 40 ближайших союзных юнитов.
+
+Урон по каждой жертве взрыва основан на количестве полученных нанитов взорванным кораблём, и, обычно, не может превысить его десятую часть здоровья.</ln>
+
+<ln id="SaboteurII_Full">Саботёр II</ln>
+<ln id="SaboteurII_Short">Сабо II</ln>
+
+<ln id="SaboteurIII_Full">Саботёр III</ln>
+<ln id="SaboteurIII_Short">Сабо III</ln>
+
+<ln id="SaboteurIV_Full">Саботёр IV</ln>
+<ln id="SaboteurIV_Short">Сабо IV</ln>
+
+<ln id="CoreSaboteur_Full">Главный Саботёр</ln>
+<ln id="CoreSaboteur_Short">Сабо V</ln>
+
+<ln id="SpireCorvette_Full">Корвет Spire'ов</ln>
+<ln id="SpireCorvette_Short">S-Корв I</ln>
+<ln id="SpireCorvette_Wave">Корветы Spire'ов</ln>
+<ln id="SpireCorvette_Desc">Корабль размером со звездолёт, разработанный дооснащением наименьших чертежей Имерских Spire'ов человеческими технологиями. Имеет фотонное копьё умеренной мощности, но также может устанавливать немного модулей.
+
+Строится во вкладке SCRV Звездолётной Верфи.</ln>
+
+<ln id="SpireCorvetteII_Full">Корвет Spire'ов II</ln>
+<ln id="SpireCorvetteII_Short">S-Корв II</ln>
+
+<ln id="SpireCorvetteIII_Full">Корвет Spire'ов III</ln>
+<ln id="SpireCorvetteIII_Short">S-Корв III</ln>
+
+<ln id="SpireCorvetteIV_Full">Корвет Spire'ов IV</ln>
+<ln id="SpireCorvetteIV_Short">S-Корв IV</ln>
+
+<ln id="CoreSpireCorvette_Full">Главный Корвет Spire'ов</ln>
+<ln id="CoreSpireCorvette_Short">S-Корв V</ln>
+<ln id="CoreSpireCorvette_Wave">Корветы Spire'ов</ln>
+<ln id="CoreSpireCorvette_Desc">Корабль размером со звездолёт, разработанный дооснащением наименьших чертежей Имерских Spire'ов человеческими технологиями. Имеет фотонное копьё умеренной мощности, но также может устанавливать немного модулей.</ln>
+
+<ln id="ProjectedShadowShield_Full">Проецируемый Теневой Щит</ln>
+<ln id="ProjectedShadowShield_Short">Т-Щит</ln>
+<ln id="ProjectedShadowShield_Desc">Временный щит, выпускаемый Теневым Конденсатором Теневого корабля.
+
+Потребляет 200 Теневого Заряда, а сам Чемпион должен находиться на расстоянии 4000 от целевой локации для запуска проекции.
+
+Если вы хотите использовать способность с помощью клавиатуры, выберите Чемпиона, нажмите Ctrl+Q (по умолчанию, можно изменить "Использовать Первую Способность Чемпиона" в окне привязки клавиш).</ln>
+
+<ln id="ProjectedShadowRepairField_Full">Проецируемое Теневое Поле Восстановления</ln>
+<ln id="ProjectedShadowRepairField_Short">Т-Восстан</ln>
+<ln id="ProjectedShadowRepairField_Desc">Временное поле, выпускаемое Теневым Конденсатором Теневого корабля. Чинит всех близлежащих союзников бесплатно(не чинит Големов).
+
+Потребляет 500 Теневого Заряда, а сам Чемпион должен находиться на расстоянии 4000 от целевой локации для запуска проекции.
+
+Если вы хотите использовать способность с помощью клавиатуры, выберите Чемпиона, нажмите Ctrl+Q (по умолчанию, можно изменить "Использовать Первую Способность Чемпиона" в окне привязки клавиш).</ln>
+
+<ln id="ProjectedShadowAttackBooster_Full">Проецируемый Теневой Усилитель Боеприпасов</ln>
+<ln id="ProjectedShadowAttackBooster_Short">Т-У-Бое</ln>
+<ln id="ProjectedShadowAttackBooster_Desc">Временное поле усиления снарядов, выпускаемое Теневым Конденсатором Теневого корабля. Усиливает атаку ближайших союзных кораблей.
+
+Потребляет 200 Теневого Заряда, а сам Чемпион должен находиться на расстоянии 4000 от целевой локации для запуска проекции.
+
+Если вы хотите использовать способность с помощью клавиатуры, выберите Чемпиона, нажмите Ctrl+Q (по умолчанию, можно изменить "Использовать Вторую Способность Чемпиона" в окне привязки клавиш).</ln>
+
+<ln id="ProjectedShadowTachyonPulseEmitter_Full">Проецируемый Теневой Тахионный Эмиттер</ln>
+<ln id="ProjectedShadowTachyonPulseEmitter_Short">Т-Тахион</ln>
+<ln id="ProjectedShadowTachyonPulseEmitter_Desc">Одновыстрельный Тахионный Эмитер, выпускаемый Теневым Конденсатором Теневого корабля. Настраивается 1 секунду, затем детонирует, испуская тахионный импульс, поражающий всех юнитов на планете. Задетые юниты теряют скрытие и не могут быть скрыты ещё 2 минуты.
+
+Потребляет 200 Теневого Заряда, а сам Чемпион должен находиться на расстоянии 4000 от целевой локации для запуска проекции, но само место запуска не имеет значения так как эффект распространяется на всю планету.
+
+Если вы хотите использовать способность с помощью клавиатуры, выберите Чемпиона, нажмите Ctrl+Q (по умолчанию, можно изменить "Использовать Вторую Способность Чемпиона" в окне привязки клавиш).</ln>
+
+<ln id="ProjectedShadowDecoy_Full">Проецируемая Теневая Приманка</ln>
+<ln id="ProjectedShadowDecoy_Short">Т-Прим</ln>
+<ln id="ProjectedShadowDecoy_Desc">Временная приманка, выпускаемая Теневым Конденсатором Теневого корабля. Принимает на себя огонь большинства ближайших врагов.
+
+Потребляет 400 Теневого Заряда, а сам Чемпион должен находиться на расстоянии 4000 от целевой локации для запуска проекции.
+
+Если вы хотите использовать способность с помощью клавиатуры, выберите Чемпиона, нажмите Ctrl+Q (по умолчанию, можно изменить "Использовать Вторую Способность Чемпиона" в окне привязки клавиш).</ln>
+
+<ln id="DarkSpireVengeanceSpawner_Full">Генератор Мщения Тёмных Spire'ов</ln>
+<ln id="DarkSpireVengeanceSpawner_Short">М. Ген.</ln>
+<ln id="DarkSpireVengeanceSpawner_Desc">Мистическое древнее строение, напоминающая строения изгнанной фракции Spire'ов. Не получает урона, но и не стреляет. Тем не менее, генерирует кучу энергии, и эта энергия растёт по мере того, как умирают корабли на это планете.
+
+При накоплении критической массы, генератор (и все другие запущенные генераторы в галактике) пораждают несколько недружелюбных кораблей.</ln>
+
+<ln id="DarkSpireWraith_Full">Призрак Тёмных Spire'ов</ln>
+<ln id="DarkSpireWraith_Short">Призрак</ln>
+<ln id="DarkSpireWraith_Desc">Штурмовик скрытного лёгкого класса, созданный Тёмными Spire'ами чтобы... ну, сделать жизнь других очень-очень трудной.</ln>
+
+<ln id="CorvetteShieldModule_Full">Модуль Щита I</ln>
+<ln id="CorvetteShieldModule_Short">М-Щит I</ln>
+<ln id="CorvetteShieldModule_Desc">Модульный генератор щита для звездолётов
+
+Модели высшего уровня требуют исследования генераторов щита (стандартные, не закалённые).</ln>
+
+<ln id="CorvetteShieldModuleII_Full">Модуль Щита II</ln>
+<ln id="CorvetteShieldModuleII_Short">М-Щит II</ln>
+
+<ln id="CorvetteShieldModuleIII_Full">Модуль Щита III</ln>
+<ln id="CorvetteShieldModuleIII_Short">М-Щит III</ln>
+
+<ln id="CorvetteShieldModuleIV_Full">Модуль Щита IV</ln>
+<ln id="CorvetteShieldModuleIV_Short">М-Щит IV</ln>
+
+<ln id="CorvetteShieldModuleV_Full">Модуль Щита V</ln>
+<ln id="CorvetteShieldModuleV_Short">М-Щит V</ln>
+
+<ln id="CorvetteLaserModule_Full">Модуль Лазерной Пушки I</ln>
+<ln id="CorvetteLaserModule_Short">М-ЛП I</ln>
+<ln id="CorvetteLaserModule_Desc">Высокомощная батарея лазерных пушек, устанавливаемая на звездолёты.
+
+Модели высшего уровня требуют исследования лазерных турелей.</ln>
+
+<ln id="CorvetteLaserModuleII_Full">Модуль Лазерной Пушки II</ln>
+<ln id="CorvetteLaserModuleII_Short">М-ЛП II</ln>
+
+<ln id="CorvetteLaserModuleIII_Full">Модуль Лазерной Пушки III</ln>
+<ln id="CorvetteLaserModuleIII_Short">М-ЛП III</ln>
+
+<ln id="CorvetteLaserModuleIV_Full">Модуль Лазерной Пушки IV</ln>
+<ln id="CorvetteLaserModuleIV_Short">М-ЛП IV</ln>
+
+<ln id="CorvetteLaserModuleV_Full">Модуль Лазерной Пушки V</ln>
+<ln id="CorvetteLaserModuleV_Short">М-ЛП V</ln>
+
+<ln id="CorvetteRailCannonModule_Full">Модуль Рельсотрон I</ln>
+<ln id="CorvetteRailCannonModule_Short">М-РПу I</ln>
+<ln id="CorvetteRailCannonModule_Desc">Рельсотрон, устанавливаемый на звездолёты.
+
+Модели высшего уровня требуют исследования снайперских турелей.</ln>
+
+<ln id="CorvetteRailCannonModuleII_Full">Модуль Рельсотрон II</ln>
+<ln id="CorvetteRailCannonModuleII_Short">М-РЛС II</ln>
+
+<ln id="CorvetteRailCannonModuleIII_Full">Модуль Рельсотрон III</ln>
+<ln id="CorvetteRailCannonModuleIII_Short">М-РЛС III</ln>
+
+<ln id="CorvetteRailCannonModuleIV_Full">Модуль Рельсотрон IV</ln>
+<ln id="CorvetteRailCannonModuleIV_Short">М-РЛС IV</ln>
+
+<ln id="CorvetteRailCannonModuleV_Full">Модуль Рельсотрон V</ln>
+<ln id="CorvetteRailCannonModuleV_Short">М-РЛС V</ln>
+
+<ln id="CorvettePlasmaSiegeCannonModule_Full">Модуль Плазменной Осадной Пушки I</ln>
+<ln id="CorvettePlasmaSiegeCannonModule_Short">М-ПОП I</ln>
+<ln id="CorvettePlasmaSiegeCannonModule_Desc">Модульное оружие, стреляющее огромными зарядами концентрированной плазмы по большим или неподвижным целям. При взрыве снаряд наносит уменьшенный урон нескольким ближайшим юнитам. При атаке силового поля, наносит повреждение до 25 юнитам под этим полем(или полям возле этого поля) с силой в 6.25% от урона по полю.
+
+Не может целится по маленьким целям. Модели высшего уровня требуют исследования плазменных осадных звездолётов.</ln>
+
+<ln id="CorvettePlasmaSiegeCannonModuleII_Full">Модуль Плазменной Осадной Пушки II</ln>
+<ln id="CorvettePlasmaSiegeCannonModuleII_Short">М-ПОП II</ln>
+
+<ln id="CorvettePlasmaSiegeCannonModuleIII_Full">Модуль Плазменной Осадной Пушки III</ln>
+<ln id="CorvettePlasmaSiegeCannonModuleIII_Short">М-ПОП III</ln>
+
+<ln id="CorvettePlasmaSiegeCannonModuleIV_Full">Модуль Плазменной Осадной Пушки IV</ln>
+<ln id="CorvettePlasmaSiegeCannonModuleIV_Short">М-ПОП IV</ln>
+
+<ln id="CorvettePlasmaSiegeCannonModuleV_Full">Модуль Плазменной Осадной Пушки V</ln>
+<ln id="CorvettePlasmaSiegeCannonModuleV_Short">М-ПОП V</ln>
+
+<ln id="CorvetteHeavyBeamModule_Full">Модуль Тяжёлого Луча I</ln>
+<ln id="CorvetteHeavyBeamModule_Short">М-ТЛ I</ln>
+<ln id="CorvetteHeavyBeamModule_Desc">Корабельный вариант турели Тяжёлой Лучевой Пушки.
+
+Требует исследования турели тяжёлой лучевой пушки.</ln>
+
+<ln id="CorvetteHeavyBeamModuleII_Full">Модуль Тяжёлого Луча II</ln>
+<ln id="CorvetteHeavyBeamModuleII_Short">М-ТЛ II</ln>
+
+<ln id="CorvetteHeavyBeamModuleIII_Full">Модуль Тяжёлого Луча III</ln>
+<ln id="CorvetteHeavyBeamModuleIII_Short">М-ТЛ III</ln>
+
+<ln id="CorvetteHeavyBeamModuleIV_Full">Модуль Тяжёлого Луча IV</ln>
+<ln id="CorvetteHeavyBeamModuleIV_Short">М-ТЛ IV</ln>
+
+<ln id="CorvetteHeavyBeamModuleV_Full">Модуль Тяжёлого Луча V</ln>
+<ln id="CorvetteHeavyBeamModuleV_Short">М-ТЛ V</ln>
+
+<ln id="AICoreCentripetalGuardPost_Full">ИИ Главный Защитный Пост Яростного Копья</ln>
+<ln id="AICoreCentripetalGuardPost_Short">Пост (Ярост Копья)</ln>
+<ln id="AICoreCentripetalGuardPost_Desc">Как только обнаруживает вражеские корабли на планете, стреляет несколькими массивными длинными лучами из пушек в разных направлениях. Не целится, но лучи перемещаются по мере вращения поста.
+
+Должен быть уничтожен до того, как Командной Станции ИИ на этой планете может быть нанесён урон.  Если это домашняя планета ИИ, все Генераторы Щита Ядра должны быть уничтожены прежде, чем может быть уничтожен.</ln>
+
+<ln id="AICoreTeuthidaGuardPost_Full">ИИ Главный Защитный Пост Кальмар</ln>
+<ln id="AICoreTeuthidaGuardPost_Short">Пост (Кальмар)</ln>
+<ln id="AICoreTeuthidaGuardPost_Desc">Экспериментальный гибрид ИИ/Neinzul'ов сломался. При обнаружении врагов, это пост постоянно генерирует наноройных дронов. Вместо нанесения переманивающего урона, организмы из этих дронов трансформируют цели в "зомби".
+
+Корабли с иммунитетом к переманиванию избавлены от этой участи, но не защищены от экстремально мощного кластера рельсотронов, установленных на этом посте.
+
+Должен быть уничтожен до того, как Командной Станции ИИ на этой планете может быть нанесён урон. Если это домашняя планета ИИ, все Генераторы Щита Ядра должны быть уничтожены прежде, чем может быть уничтожен.</ln>
+
+<ln id="TeuthidaDrone_Full">Дрон Кальмар</ln>
+<ln id="TeuthidaDrone_Short">Д. Кальмар</ln>
+<ln id="TeuthidaDrone_Wave">Дроны Кальмары</ln>
+<ln id="TeuthidaDrone_Desc">Наноройный дрон. Вместо нанесения переманивающего урона, организмы из этих дронов трансформируют цели в "зомби". Не влияет на корабли с иммунитетом к переманиванию.</ln>
+
+<ln id="AICoreDualReactorGuardPost_Full">ИИ Главный Защитный Пост Гравиреактора</ln>
+<ln id="AICoreDualReactorGuardPost_Short">Пост (Грав Р)</ln>
+<ln id="AICoreDualReactorGuardPost_Desc">Чрезвычайно мощный реактор, основанный на манипуляциях с гравитационной энергией. Создаёт сильную гравитацию, которая не позволяет большинству кораблей покинуть систему, и сильно замедляет вражеские корабли, проходящие близко от реактора. Также создаёт Гравитационных Дронов, которые догоняют вражеские корабли, чтобы замедлить их и нанести урон при детонации.
+
+Плюс в том, что гравитационный эффект слишком силён, чтобы получить пользу от защиты Генератора Щита Ядра. Так что его можно вынести раньше сети ГГЩ, если решитесь.
+
+Должен быть уничтожен до того, как Командной Станции ИИ на этой планете может быть нанесён урон.</ln>
+
+<ln id="GravityDrone_Full">Гравитационный Дрон</ln>
+<ln id="GravityDrone_Short">Грави Д.</ln>
+<ln id="GravityDrone_Wave">Гравитационные Дроны</ln>
+<ln id="GravityDrone_Desc">Дрон, созданный Гравиреактором. Пытается таранить вражеские корабли. Замедляет ближайших врагов, и наносит урон до 10 врагам при детонации.</ln>
+
+</root>

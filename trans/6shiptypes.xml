@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<ln id="Powerslaver">Поработитель</ln>
+<ln id="LightningStarship">Молниевый Звездолёт</ln>
+<ln id="TranslocatorStarship">Транспортный Звездолёт</ln>
+<ln id="BeamDrone">Лучевой Дрон</ln>
+<ln id="RailDrone">Рельсодрон</ln>
+<ln id="SpiderDrone">Паук Дрон</ln>
+<ln id="GravDrone">Гравидрон</ln>
+</root>

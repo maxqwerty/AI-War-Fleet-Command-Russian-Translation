@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<!--Notes:  You do not need to localize the _AltOrder entries, unless you need to make them consistent with the prefix sorting.  Those are for sorting only.-->
+
+<!--2. Basic AI Types-->
+<ln id="EXP5_BeatChivalric_Bronze">2. Вперёд, Прояви Честь</ln>
+<ln id="EXP5_BeatChivalric_Bronze_Desc">Победите тип ИИ "Рыцарь" на любой сложности.</ln>
+
+<ln id="EXP5_BeatChivalric_Silver">2. Посвящённый</ln>
+<ln id="EXP5_BeatChivalric_Silver_Desc">Победите тип ИИ "Рыцарь" на сложности 7 или выше.</ln>
+
+<ln id="EXP5_BeatChivalric_Gold">2. Рыцари Перевелись</ln>
+<ln id="EXP5_BeatChivalric_Gold_Desc">Победите тип ИИ "Рыцарь" на сложности 9 или выше.</ln>
+
+<ln id="EXP5_BeatBouncer_Bronze">2. Пропуск За Кулисы</ln>
+<ln id="EXP5_BeatBouncer_Bronze_Desc">Победите тип ИИ "Вышибала" на любой сложности.</ln>
+
+<ln id="EXP5_BeatBouncer_Silver">2. Вышиблен</ln>
+<ln id="EXP5_BeatBouncer_Silver_Desc">Победите тип ИИ "Вышибала" на сложности 7 или выше.</ln>
+
+<ln id="EXP5_BeatBouncer_Gold">2. Нет В Списке</ln>
+<ln id="EXP5_BeatBouncer_Gold_Desc">Победите тип ИИ "Вышибала" на сложности 9 или выше.</ln>
+
+<!--3. Moderate AI Types-->
+
+<ln id="EXP5_BeatArtillerist_Bronze">3. Бум Бумы</ln>
+<ln id="EXP5_BeatArtillerist_Bronze_Desc">Победите тип ИИ "Артиллерист" на любой сложности.</ln>
+
+<ln id="EXP5_BeatArtillerist_Silver">3. Держи Палку Побольше</ln>
+<ln id="EXP5_BeatArtillerist_Silver_Desc">Победите тип ИИ "Артиллерист" на сложности 7 или выше.</ln>
+
+<ln id="EXP5_BeatArtillerist_Gold">3. Бомбы Взрываются В Воздухе</ln>
+<ln id="EXP5_BeatArtillerist_Gold_Desc">Победите тип ИИ "Артиллерист" на сложности 9 или выше.</ln>
+
+<ln id="EXP5_BeatExotic_Bronze">3. Хорошо Смотрится На Стене, Правда?</ln>
+<ln id="EXP5_BeatExotic_Bronze_Desc">Победите тип ИИ "Экзотик" на любой сложности.</ln>
+
+<ln id="EXP5_BeatExotic_Silver">3. Возможно, Нужно Пользоваться Волнами</ln>
+<ln id="EXP5_BeatExotic_Silver_Desc">Победите тип ИИ "Экзотик" на сложности 7 или выше.</ln>
+
+<ln id="EXP5_BeatExotic_Gold">3. Больше, Чем "Старый"</ln>
+<ln id="EXP5_BeatExotic_Gold_Desc">Победите тип ИИ "Экзотик" на сложности 9 или выше.</ln>
+
+<ln id="EXP5_BeatReservist_Bronze">3. Иди В Армию, Они Говорили</ln>
+<ln id="EXP5_BeatReservist_Bronze_Desc">Победите тип ИИ "Резервист" на любой сложности.</ln>
+
+<ln id="EXP5_BeatReservist_Silver">3. Посмотри Мир, Они Говорили</ln>
+<ln id="EXP5_BeatReservist_Silver_Desc">Победите тип ИИ "Резервист" на сложности 7 или выше.</ln>
+
+<ln id="EXP5_BeatReservist_Gold">3. Лучше Бы Я Был Моряком</ln>
+<ln id="EXP5_BeatReservist_Gold_Desc">Победите тип ИИ "Резервист" на сложности 9 или выше.</ln>
+
+<!--3. Minor Factions-->
+
+<!--4. Hard AI Types-->
+
+<ln id="EXP5_BeatVorpal_Bronze">4. Уклонение</ln>
+<ln id="EXP5_BeatVorpal_Bronze_Desc">Победите тип ИИ "Вострый" на любой сложности.</ln>
+
+<ln id="EXP5_BeatVorpal_Silver">4. Для Тебя Нет Закуски</ln>
+<ln id="EXP5_BeatVorpal_Silver_Desc">Победите тип ИИ "Вострый" на сложности 7 или выше.</ln>
+
+<ln id="EXP5_BeatVorpal_Gold">4. Извините, Я Вообще Строитель</ln>
+<ln id="EXP5_BeatVorpal_Gold_Desc">Победите тип ИИ "Вострый" на сложности 9 или выше.</ln>
+
+<ln id="EXP5_BeatVengeful_Bronze">4. Чувак, Ты Безумец?</ln>
+<ln id="EXP5_BeatVengeful_Bronze_Desc">Победите тип ИИ "Мстительный" на любой сложности.</ln>
+
+<ln id="EXP5_BeatVengeful_Silver">4. Расслабься</ln>
+<ln id="EXP5_BeatVengeful_Silver_Desc">Победите тип ИИ "Мстительный" на сложности 7 или выше.</ln>
+
+<ln id="EXP5_BeatVengeful_Gold">4. Злось Лишь Затуманивает Разум</ln>
+<ln id="EXP5_BeatVengeful_Gold_Desc">Победите тип ИИ "Мстительный" на сложности 9 или выше.</ln>
+
+<ln id="EXP5_BeatViciousExotic_Bronze">4. В Родной Среде Обитания...</ln>
+<ln id="EXP5_BeatViciousExotic_Bronze_Desc">Победите тип ИИ "Злобный Экзотик" на любой сложности.</ln>
+
+<ln id="EXP5_BeatViciousExotic_Silver">4. Думай О Клыках</ln>
+<ln id="EXP5_BeatViciousExotic_Silver_Desc">Победите тип ИИ "Злобный Экзотик" на сложности 7 или выше.</ln>
+
+<ln id="EXP5_BeatViciousExotic_Gold">4. Зверь Напичкан Динамитом!</ln>
+<ln id="EXP5_BeatViciousExotic_Gold_Desc">Победите тип ИИ "Злобный Экзотик" на сложности 9 или выше.</ln>
+
+<!--4. AI Plots-->
+
+<ln id="EXP5_WonWithHunter_Gold">4. На Охотника Поохотились</ln>
+<ln id="EXP5_WonWithHunter_Gold_Desc">Выиграйте игру с включённым сценарием Охотник (интенсивность от 4 до 10) на любой сложности.</ln>
+
+<ln id="EXP5_WonWithShark_Gold">4. Кровь На Воде</ln>
+<ln id="EXP5_WonWithShark_Gold_Desc">Выиграйте игру с включённой Акулой-A (интенсивность от 4 до 10) на любой сложности.</ln>
+
+<ln id="EXP5_WonWithShark_B_Gold">4. Теперь Мы Кореша</ln>
+<ln id="EXP5_WonWithShark_B_Gold_Desc">Выиграйте игру с включённой Акулой-B(интенсивность от 4 до 10) на любой сложности.</ln>
+
+<!--5. Minor Factions-->
+
+<ln id="EXP5_WonWithShowdownDevices_Gold">5. Плазменные Винтовки Готовь</ln>
+<ln id="EXP5_WonWithShowdownDevices_Gold_Desc">Выиграйте игру с включёнными Проявителями на любой сложности.</ln>
+
+</root>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<ln id="FreeAgentMainShip">Теневой Корабль</ln>
+<ln id="HumanMinerStarbase">EEr Звездобаза</ln>
+<ln id="HumanMinerCombatShip">EEr Боевой Корабль</ln>
+<ln id="HumanResistanceStarbase">IMT Звездобаза</ln>
+<ln id="HumanResistanceCombatShip">IMT Боевой Корабль</ln>
+<ln id="HumanMarauderStarbase">SF Звездобаза</ln>
+<ln id="HumanMarauderCombatShip">SF Боевой Корабль</ln>
+<ln id="ZenithRefugeeStarbase">SP Звездобаза</ln>
+<ln id="ZenithRefugeeCombatShip">SP Боевой Корабль</ln>
+<ln id="ZenithArchitectStarbase">CA Звездобаза</ln>
+<ln id="ZenithArchitectCombatShip">CA Боевой Корабль</ln>
+<ln id="NeinzulAstridStarbase">Звездобаза Астридов</ln>
+<ln id="NeinzulAstridCombatShip">Боевой Корабль Астридов</ln>
+<ln id="NeinzulMournerStarbase">Звездобаза Плакальщиков</ln>
+<ln id="NeinzulMournerCombatShip">Боевой Корабль Плакальщиков</ln>
+<ln id="DarkSpireStarbase">Т.Spire Звездобаза</ln>
+<ln id="DarkSpireCombatShip">Т.Spire Боевой Корабль</ln>
+<ln id="GraySpireStarbase">G.Spire Звездобаза</ln>
+<ln id="GraySpireCombatShip">G.Spire Боевой Корабль</ln>
+<ln id="BomberDrone">Дрон Бомбер</ln>
+<ln id="ZenithMedicFrigate">Фрегат Медик Zenith'ов</ln>
+<ln id="TackleDroneLauncher">Пусковик Дрона Оснащения</ln>
+<ln id="TackleDrone">Дрон Оснащения</ln>
+<ln id="DimensionalPrisonController">Контроллер Пространственной Тюрьмы</ln>
+<ln id="NeinzulScapegoat">Козёл Отпущения Neinzul'ов</ln>
+<ln id="SpireRailcluster">Рельсокластер Spire'ов</ln>
+<ln id="RepairFieldGenerator">Генератор Ремонтного Поля</ln>
+<ln id="AttackBooster">Усилитель Атаки</ln>
+<ln id="TachyonPulseEmitter">Тахиимпульсный Излучатель</ln>
+<ln id="ZenithSiegeEngine">Осадная Система Zenith'ов</ln>
+<ln id="ZenithReprocessor">Репроцессор Zenith'ов</ln>
+<ln id="MysteriousColonyShip">Мистический Колониальный Корабль</ln>
+<ln id="SlicerDrone">Дрон Тесак</ln>
+<ln id="InterceptorDrone">Дрон Перехватчик</ln>
+<ln id="Decoy">Приманка</ln>
+<ln id="VengeanceSpawner">Генераттор Возмездия</ln>
+<ln id="YounglingFirefly">Юнг-Светлячок</ln>
+<ln id="Saboteur">Саботёр</ln>
+<ln id="SpireCorvette">Корвет Spire'ов</ln>
+<ln id="TeuthidaDrone">Дрон Кальмар</ln>
+<ln id="GravityDrone">Дрон Гравитации</ln>
+</root>

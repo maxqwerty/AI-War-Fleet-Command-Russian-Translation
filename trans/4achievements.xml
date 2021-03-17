@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<!--Notes:  You do not need to localize the _AltOrder entries, unless you need to make them consistent with the prefix sorting.  Those are for sorting only.-->
+
+<!--2. Easy Champion-Related-->
+
+<ln id="EXP4_HaveAChampion_Ingame_Bronze">2. В Тени</ln>
+<ln id="EXP4_HaveAChampion_Ingame_Bronze_Desc">Быть в игре хотя бы с одним игроком в роли Чемпион или Обычный+Чемпион.</ln>
+<ln id="EXP4_HaveLvl2Champion_Ingame_Bronze">2. Начало Пути</ln>
+<ln id="EXP4_HaveLvl2Champion_Ingame_Bronze_Desc">Быть в  игре хотя бы с одним чемпионом уровня 2.</ln>
+<ln id="EXP4_HaveLvl10Champion_Ingame_Bronze">2. Опытный</ln>
+<ln id="EXP4_HaveLvl10Champion_Ingame_Bronze_Desc">Быть в игре хотя бы с одним чемпионом уровня 10.</ln>
+<ln id="EXP4_HaveChampionDestroyerHull_Ingame_Bronze">2. Что Ты Разрушишь?</ln>
+<ln id="EXP4_HaveChampionDestroyerHull_Ingame_Bronze_Desc">Быть в игре, где открыта форма чемпиона размера Уничтожителя.</ln>
+<ln id="EXP4_HaveUnlockedChampionModule_Ingame_Bronze">2. Улучшенный</ln>
+<ln id="EXP4_HaveUnlockedChampionModule_Ingame_Bronze_Desc">Потратьте очки, чтобы открыть хотя бы один модуль чемпиона.</ln>
+
+<!--3. Moderate Champion-Related-->
+
+<ln id="EXP4_HaveLvl20Champion_Ingame_Silver">3. Ветеран</ln>
+<ln id="EXP4_HaveLvl20Champion_Ingame_Silver_Desc">Быть в игре с чемпионом хотя бы уровня 20.</ln>
+<ln id="EXP4_HaveLvl30Champion_Ingame_Silver">3. Элита</ln>
+<ln id="EXP4_HaveLvl30Champion_Ingame_Silver_Desc">Быть в игре с чемпионом хотя бы уровня 30.</ln>
+<ln id="EXP4_HaveAllChampionRaceHulls_Ingame_Silver">3. Много Способов Умереть</ln>
+<ln id="EXP4_HaveAllChampionRaceHulls_Ingame_Silver_Desc">Быть в игре, где открыты все расы формы чемпиона.</ln>
+<ln id="EXP4_HaveChampionCruiserHull_Ingame_Silver">3. Вот Большой Корабль</ln>
+<ln id="EXP4_HaveChampionCruiserHull_Ingame_Silver_Desc">Быть в игре, где открыта Крейсерная форма чемпиона.</ln>
+<ln id="EXP4_HaveAllModularFortressesUnlocked_Ingame_Silver">3. Вооружён И Опасен</ln>
+<ln id="EXP4_HaveAllModularFortressesUnlocked_Ingame_Silver_Desc">Открыть все четыре конструкции модульных крепостей.</ln>
+<ln id="EXP4_HaveUnlockedMkVChampionModule_Ingame_Silver">3. Эксперт</ln>
+<ln id="EXP4_HaveUnlockedMkVChampionModule_Ingame_Silver_Desc">Откройте МодV версию модуля чемпиона.</ln>
+<ln id="EXP4_HaveWonScenarioEER_Ingame_Silver">3. Эпсилон Эридана</ln>
+<ln id="EXP4_HaveWonScenarioEER_Ingame_Silver_Desc">Быть в игре, где остатки Эпсилон Эридана восторжествуют над Клыком Печали в их сценарии туманности.</ln>
+<ln id="EXP4_HaveWonScenarioFFA_Ingame_Silver">3. Свобода Всем</ln>
+<ln id="EXP4_HaveWonScenarioFFA_Ingame_Silver_Desc">Быть в игре, где Разрушенные Пилары Zenith'ов выживают в 3-стороннем FFA сценарии туманности с Астридами Neinzul'ов и Тёмными Spire'ами.</ln>
+<ln id="EXP4_HaveWonScenarioGSvD_Ingame_Silver">3. Штампованный Дайсон</ln>
+<ln id="EXP4_HaveWonScenarioGSvD_Ingame_Silver_Desc">Быть в игре, где Серые Spire'ы выживают при штурме неисправных гатлингов дайсона в их сценарии туманности.</ln>
+<ln id="EXP4_HaveWonScenarioNMvP_Ingame_Silver">3. Контроль Заключённых</ln>
+<ln id="EXP4_HaveWonScenarioNMvP_Ingame_Silver_Desc">Быть в игре, где Плакальщики Neinzul'ов успешно подавляют тюремный бунт в их сценарии туманности.</ln>
+<ln id="EXP4_HaveWonScenarioLotCS_Ingame_Silver">3. Возвращайся Туда, Откуда Пришёл!</ln>
+<ln id="EXP4_HaveWonScenarioLotCS_Ingame_Silver_Desc">Быть в игре, где Разрушенные Пилары Zenith'ов отражают нападение на Восходящую Цитадель Zenith'ов в их сценарии туманности.</ln>
+<ln id="EXP4_HaveWonScenarioRS_Ingame_Silver">3. Контроль Аппетита</ln>
+<ln id="EXP4_HaveWonScenarioRS_Ingame_Silver_Desc">Быть в игре, где сопротивлению В Память О Земле удаётся победить Хищную Тень в их сценарии туманности.</ln>
+<ln id="EXP4_HaveWonScenario2v2_Ingame_Silver">3. Эскалация</ln>
+<ln id="EXP4_HaveWonScenario2v2_Ingame_Silver_Desc">Быть в игре, где ваши союзники выигрывают в сценарий туманности 2 на 2.</ln>
+<ln id="EXP4_HaveWonScenario3v2_Ingame_Silver">3. Отстоять Свою Землю</ln>
+<ln id="EXP4_HaveWonScenario3v2_Ingame_Silver_Desc">Быть в игре, где ваши союзники выигрывают в сценарий туманности 3 на 2.</ln>
+
+<!--3. Moderate AI Types-->
+
+<!--3. Minor Factions-->
+
+<ln id="EXP4_BeatDarkSpire_Silver">3. Месть Пресечена</ln>
+<ln id="EXP4_BeatDarkSpire_Silver_Desc">Выиграть с включённой фракцией Тёмных Spire'ов (интенсовность >= 4) на любой сложности.</ln>
+
+<!--4. Hard Champion-Related-->
+
+<ln id="EXP4_HaveLvl40Champion_Ingame_Gold">4. Героический</ln>
+<ln id="EXP4_HaveLvl40Champion_Ingame_Gold_Desc">Быть в игре с чемпионом хотя бы уровня 40.</ln>
+<ln id="EXP4_HaveLvl50Champion_Ingame_Gold">4. Чемпион!</ln>
+<ln id="EXP4_HaveLvl50Champion_Ingame_Gold_Desc">Быть в игре с чемпионом хотя бы уровня 50.</ln>
+<ln id="EXP4_HaveChampionBattleshipHull_Ingame_Gold">4. Хороша Беда</ln>
+<ln id="EXP4_HaveChampionBattleshipHull_Ingame_Gold_Desc">Быть в игре, где открыта Линкорская форма чемпиона.</ln>
+<ln id="EXP4_HaveWonScenarioBrawl_Ingame_Gold">4. Brawl Royale</ln>
+<ln id="EXP4_HaveWonScenarioBrawl_Ingame_Gold_Desc">Быть в игре, где ваши союзники выигрывают в сценарий туманности 5 на 4.</ln>
+
+<!--4. Hard AI Types-->
+
+<ln id="EXP4_BeatHeroic_Bronze">4. Надоедливые Дети</ln>
+<ln id="EXP4_BeatHeroic_Bronze_Desc">Выиграть против ИИ типа "Героический" на любой сложности.</ln>
+
+<ln id="EXP4_BeatHeroic_Silver">4. Одно Очко Оверлорду</ln>
+<ln id="EXP4_BeatHeroic_Silver_Desc">Выиграть против ИИ типа "Героический" на сложности 7 или выше.</ln>
+
+<ln id="EXP4_BeatHeroic_Gold">4. Героическая Жертва</ln>
+<ln id="EXP4_BeatHeroic_Gold_Desc">Выиграть против ИИ типа "Героический" на сложности 9 или выше.</ln>
+
+<ln id="EXP4_BeatFortressKing_Bronze">4. Я Не Голосовал За Тебя!</ln>
+<ln id="EXP4_BeatFortressKing_Bronze_Desc">Выиграть против ИИ типа "Король Крепости" на любой сложности.</ln>
+
+<ln id="EXP4_BeatFortressKing_Silver">4. Насилие Свойственно Системе</ln>
+<ln id="EXP4_BeatFortressKing_Silver_Desc">Выиграть против ИИ типа "Король Крепости" на сложности 7 или выше.</ln>
+
+<ln id="EXP4_BeatFortressKing_Gold">4. Свергнутый</ln>
+<ln id="EXP4_BeatFortressKing_Gold_Desc">Выиграть против ИИ типа "Король Крепости" на сложности 9 или выше.</ln>
+
+<!--4. AI Plots-->
+
+<!--Very Hard Champion-Relaed-->
+<ln id="EXP4_HaveUnlockedAllModuleLines_Ingame_Gold">5. Швейцарский Армейский Нож</ln>
+<ln id="EXP4_HaveUnlockedAllModuleLines_Ingame_Gold_Desc">Быть в игре, где все модули чемпионов хотя бы МодI открыты.</ln>
+<ln id="EXP4_SeenAncientShadowsSecretEnding_Ingame_Gold">5. В Память О Земле</ln>
+<ln id="EXP4_SeenAncientShadowsSecretEnding_Ingame_Gold_Desc">Найдите связанную с чемпионами секретную "концовку".</ln>
+
+</root>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<!--Notes:  You do not need to localize the _AltOrder entries, unless you need to make them consistent with the prefix sorting.  Those are for sorting only.-->
+
+<!--2. Basic AI Types-->
+<ln id="EXP1_GoBackWhereYouCameFrom_Bronze">2. Возвращайся, Откуда Пришёл</ln>
+<ln id="EXP1_GoBackWhereYouCameFrom_Bronze_Desc">Победите Потомка Zenith'ов на любой сложности.</ln>
+
+<ln id="EXP1_GoBackWhereYouCameFrom_Silver">2. Возвращайся, Откуда Пришёл</ln>
+<ln id="EXP1_GoBackWhereYouCameFrom_Silver_Desc">Победите Потомка Zenith'ов на сложности 7 или выше.</ln>
+
+<ln id="EXP1_GoBackWhereYouCameFrom_Gold">2. Возвращайся, Откуда Пришёл</ln>
+<ln id="EXP1_GoBackWhereYouCameFrom_Gold_Desc">Победите Потомка Zenith'ов на сложности 9 или выше.</ln>
+
+<ln id="EXP1_WhatANinny_Bronze">2. Что За Глупец</ln>
+<ln id="EXP1_WhatANinny_Bronze_Desc">Победите Шута с Щитом на любой сложности.</ln>
+
+<ln id="EXP1_WhatANinny_Silver">2. Что За Глупец</ln>
+<ln id="EXP1_WhatANinny_Silver_Desc">Победите Шута с Щитом на сложности 7 или выше.</ln>
+
+<ln id="EXP1_WhatANinny_Gold">2. Что За Глупец</ln>
+<ln id="EXP1_WhatANinny_Gold_Desc">Победите Шута с Щитом на сложности 9 или выше.</ln>
+
+<ln id="EXP1_DoISeemHeavierToYou_Bronze">2. Я Тяжеловат Для Тебя?</ln>
+<ln id="EXP1_DoISeemHeavierToYou_Bronze_Desc">Победите Гравидрель на любой сложности.</ln>
+
+<ln id="EXP1_DoISeemHeavierToYou_Silver">2. Я Тяжеловат Для Тебя?</ln>
+<ln id="EXP1_DoISeemHeavierToYou_Silver_Desc">Победите Гравидрель на сложности 7 или выше.</ln>
+
+<ln id="EXP1_DoISeemHeavierToYou_Gold">2. Я Тяжеловат Для Тебя?</ln>
+<ln id="EXP1_DoISeemHeavierToYou_Gold_Desc">Победите Гравидрель на сложности 9 или выше.</ln>
+
+<ln id="EXP1_DoNotOpenThatDoor_Bronze">2. Не Открывай Эту Дверь</ln>
+<ln id="EXP1_DoNotOpenThatDoor_Bronze_Desc">Победите Властелина Дверей на любой сложности.</ln>
+
+<ln id="EXP1_DoNotOpenThatDoor_Silver">2. Не Открывай Эту Дверь</ln>
+<ln id="EXP1_DoNotOpenThatDoor_Silver_Desc">Победите Властелина Дверей на сложности 7 или выше.</ln>
+
+<ln id="EXP1_DoNotOpenThatDoor_Gold">2. Не Открывай Эту Дверь</ln>
+<ln id="EXP1_DoNotOpenThatDoor_Gold_Desc">Победите Властелина Дверей на сложности 9 или выше.</ln>
+
+<!--3. Moderate AI Types-->
+<ln id="EXP1_SkeweredLizard_Bronze">3. Шашлык Из Ящерицы</ln>
+<ln id="EXP1_SkeweredLizard_Bronze_Desc">Победите Камуфляжа на любой сложности.</ln>
+
+<ln id="EXP1_SkeweredLizard_Silver">3. Шашлык Из Ящерицы</ln>
+<ln id="EXP1_SkeweredLizard_Silver_Desc">Победите Камуфляжа на сложности 7 или выше.</ln>
+
+<ln id="EXP1_SkeweredLizard_Gold">3. Шашлык Из Ящерицы</ln>
+<ln id="EXP1_SkeweredLizard_Gold_Desc">Победите Камуфляжа на сложности 9 или выше.</ln>
+
+<ln id="EXP1_ILikeTryingNewThings_Bronze">3. Мне Нравится Пробовать Новое</ln>
+<ln id="EXP1_ILikeTryingNewThings_Bronze_Desc">Победите Экспериментатора на любой сложности.</ln>
+
+<ln id="EXP1_ILikeTryingNewThings_Silver">3. Мне Нравится Пробовать Новое</ln>
+<ln id="EXP1_ILikeTryingNewThings_Silver_Desc">Победите Экспериментатора на сложности 7 или выше.</ln>
+
+<ln id="EXP1_ILikeTryingNewThings_Gold">3. Мне Нравится Пробовать Новое</ln>
+<ln id="EXP1_ILikeTryingNewThings_Gold_Desc">Победите Экспериментатора на сложности 9 или выше.</ln>
+
+<ln id="EXP1_CaptainWeAreTakingDamage_Bronze">3. Капитан, Нас Подбили</ln>
+<ln id="EXP1_CaptainWeAreTakingDamage_Bronze_Desc">Победите Космического Командора на любой сложности.</ln>
+
+<ln id="EXP1_CaptainWeAreTakingDamage_Silver">3. Капитан, Нас Подбили</ln>
+<ln id="EXP1_CaptainWeAreTakingDamage_Silver_Desc">Победите Космического Командора на сложности 7 или выше.</ln>
+
+<ln id="EXP1_CaptainWeAreTakingDamage_Gold">3. Капитан, Нас Подбили</ln>
+<ln id="EXP1_CaptainWeAreTakingDamage_Gold_Desc">Победите Космического Командора на сложности 9 или выше.</ln>
+
+<ln id="EXP1_SlowDown_Bronze">3. Помедленнее!</ln>
+<ln id="EXP1_SlowDown_Bronze_Desc">Победите Гонщика на любой сложности.</ln>
+
+<ln id="EXP1_SlowDown_Silver">3. Помедленнее!</ln>
+<ln id="EXP1_SlowDown_Silver_Desc">Победите Гонщика на сложности 7 или выше.</ln>
+
+<ln id="EXP1_SlowDown_Gold">3. Помедленнее!</ln>
+<ln id="EXP1_SlowDown_Gold_Desc">Победите Гонщика на сложности 9 или выше.</ln>
+
+<ln id="EXP1_Kumbaya_Bronze">3. Кумбайа</ln>
+<ln id="EXP1_Kumbaya_Bronze_Desc">Победите Миротворца на любой сложности.</ln>
+
+<ln id="EXP1_Kumbaya_Silver">3. Кумбайа</ln>
+<ln id="EXP1_Kumbaya_Silver_Desc">Победите Миротворца на сложности 7 или выше.</ln>
+
+<ln id="EXP1_Kumbaya_Gold">3. Кумбайа</ln>
+<ln id="EXP1_Kumbaya_Gold_Desc">Победите Миротворца на сложности 9 или выше.</ln>
+
+<ln id="EXP1_YouGuysAreMean_Bronze">3. Вы Ребята Молодцы</ln>
+<ln id="EXP1_YouGuysAreMean_Bronze_Desc">Победите Эстафетчика на любой сложности.</ln>
+
+<ln id="EXP1_YouGuysAreMean_Silver">3. Вы Ребята Молодцы</ln>
+<ln id="EXP1_YouGuysAreMean_Silver_Desc">Победите Эстафетчика на сложности 7 или выше.</ln>
+
+<ln id="EXP1_YouGuysAreMean_Gold">3. Вы Ребята Молодцы</ln>
+<ln id="EXP1_YouGuysAreMean_Gold_Desc">Победите Эстафетчика на сложности 9 или выше.</ln>
+
+<!--3. Minor Factions-->
+<ln id="EXP1_DiscountsNotAccepted_Silver">3. Скидки Не Действуют</ln>
+<ln id="EXP1_DiscountsNotAccepted_Silver_Desc">Победите с включённой фракцией Торговцев Zenith'ов на любой сложности.</ln>
+
+<ln id="EXP1_ForgetTheIndigenous_Silver">3. Забудь О Своих Корнях</ln>
+<ln id="EXP1_ForgetTheIndigenous_Silver_Desc">Победите с включённой фракцией Шахтёров Zenith'ов (интенсивность >= 4) на любой сложности.</ln>
+
+<ln id="EXP1_PowerOfTheSunInMyHand_Silver">3. Мощь Солнца В Моих Руках</ln>
+<ln id="EXP1_PowerOfTheSunInMyHand_Silver_Desc">Победите с включённой Сферой Дайсона Zenith'ов (интенсивность >= 4) на любой сложности.</ln>
+
+<ln id="EXP1_Insatiable_Silver">3. Ненасытный</ln>
+<ln id="EXP1_Insatiable_Silver_Desc">Победите с включённой фракцией Пожиратель Zenith'ов на любой сложности.</ln>
+
+<!--4. Hard AI Types-->
+
+<ln id="EXP1_PipeDown_Bronze">4. Снизь Свой Тон!</ln>
+<ln id="EXP1_PipeDown_Bronze_Desc">Победите Паникёра на любой сложности.</ln>
+
+<ln id="EXP1_PipeDown_Silver">4. Снизь Свой Тон!</ln>
+<ln id="EXP1_PipeDown_Silver_Desc">Победите Паникёра на сложности 7 или выше.</ln>
+
+<ln id="EXP1_PipeDown_Gold">4. Снизь Свой Тон!</ln>
+<ln id="EXP1_PipeDown_Gold_Desc">Победите Паникёра на сложности 9 или выше.</ln>
+
+<ln id="EXP1_BulletproofVest_Bronze">4. Бронежилет</ln>
+<ln id="EXP1_BulletproofVest_Bronze_Desc">Победите Налётчика на любой сложности.</ln>
+
+<ln id="EXP1_BulletproofVest_Silver">4. Бронежилет</ln>
+<ln id="EXP1_BulletproofVest_Silver_Desc">Победите Налётчика на сложности 7 или выше.</ln>
+
+<ln id="EXP1_BulletproofVest_Gold">4. Бронежилет</ln>
+<ln id="EXP1_BulletproofVest_Gold_Desc">Победите Налётчика на сложности 9 или выше.</ln>
+
+<ln id="EXP1_TheBiggerTheyAre_Bronze">4. Чем Они Больше...</ln>
+<ln id="EXP1_TheBiggerTheyAre_Bronze_Desc">Победите Големита на любой сложности.</ln>
+
+<ln id="EXP1_TheBiggerTheyAre_Silver">4. Чем Они Больше...</ln>
+<ln id="EXP1_TheBiggerTheyAre_Silver_Desc">Победите Големита на сложности 7 или выше.</ln>
+
+<ln id="EXP1_TheBiggerTheyAre_Gold">4. Чем Они Больше...</ln>
+<ln id="EXP1_TheBiggerTheyAre_Gold_Desc">Победите Големита на сложности 9 или выше.</ln>
+
+<ln id="EXP1_IHateRaspberry_Bronze">4. Я Ненавижу Малину!</ln>
+<ln id="EXP1_IHateRaspberry_Bronze_Desc">Победите Глушителя Радаров на любой сложности.</ln>
+
+<ln id="EXP1_IHateRaspberry_Silver">4. Я Ненавижу Малину!</ln>
+<ln id="EXP1_IHateRaspberry_Silver_Desc">Победите Глушителя Радаров на сложности 7 или выше.</ln>
+
+<ln id="EXP1_IHateRaspberry_Gold">4. Я Ненавижу Малину!</ln>
+<ln id="EXP1_IHateRaspberry_Gold_Desc">Победите Глушителя Радаров на сложности 9 или выше.</ln>
+</root>

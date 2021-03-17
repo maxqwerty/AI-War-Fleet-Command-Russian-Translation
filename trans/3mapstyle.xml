@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<ln id="EXP3_Grid">Решётка</ln>
+<ln id="EXP3_Crosshatch">Сетка</ln>
+<ln id="EXP3_MazeRecursiveBacktracker">Лабиринт A</ln>
+<ln id="EXP3_MazeRecursiveBacktrackerEasy">Лабиринт A Прост</ln>
+<ln id="EXP3_MazeRecursiveBacktrackerAngled">Лабиринт B</ln>
+<ln id="EXP3_MazeRecursiveBacktrackerAngledEasy">Лабиринт B Прост</ln>
+<ln id="EXP3_MazePrims">Лабиринт C</ln>
+<ln id="EXP3_MazePrimsAngled">Лабиринт D</ln>
+</root>

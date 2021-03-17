@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+
+<ln id="HeroHasAdvancedToLevelAndHasUnlockPointsToSpend">{0} улучшен до уровня {1} и имеет {2} очков (клик, чтобы потратить)</ln>
+<ln id="Cheat_GainXP">gain xp</ln>
+<ln id="Cheat_AddDarkSpire">tenebrae</ln>
+<ln id="Cheat_GiveAllChampionUnlocks">facilitate communications</ln>
+<ln id="Cheat_GiveChampionManyLevels">terminate hostilities</ln>
+
+<ln id="BHumanMinerRewardShips">ЭПСИЛОН</ln>
+<ln id="NHumanMinerRewardShips">Корабли остатков Эпсилон Эридана</ln>
+<ln id="DHumanMinerRewardShips">Боевые корабли, разработанные остатками на Эпсилон Эридана. Конструкция включает некоторые Теневые реликвии, найденные в межзвёздном пространстве.</ln>
+
+<ln id="BHumanResistanceRewardShips">ТЕРРА</ln>
+<ln id="NHumanResistanceRewardShips">Корабли В Память О Земле</ln>
+<ln id="DHumanResistanceRewardShips">Боевые корабли, разработанные группой сопротивления "В Память О Земле". Конструкция включает некоторые Теневые реликвии, найденные в межзвёздном пространстве.</ln>
+
+<ln id="BZenithRefugeeRewardShips">ТЛОЛП</ln>
+<ln id="NZenithRefugeeRewardShips">Корабли Разрушенных Столпов</ln>
+<ln id="DZenithRefugeeRewardShips">Боевые корабли, разработанные Разрушенными Столпами Zenith'ов. Конструкция включает некоторые Теневые реликвии, найденные в межзвёздном пространстве.</ln>
+
+<ln id="BNeinzulMournerRewardShips">ПЛАКАЛЬ</ln>
+<ln id="NNeinzulMournerRewardShips">Корабли Плакальщиков Neinzul'ов</ln>
+<ln id="DNeinzulMournerRewardShips">Боевые корабли, разработанные Плакальщиками Neinzul'ов. Конструкция включает некоторые Теневые реликвии, найденные в межзвёздном пространстве.</ln>
+
+<ln id="BGraySpireRewardShips">СЕРЫЙ</ln>
+<ln id="NGraySpireRewardShips">Корабли Серых Spire'ов</ln>
+<ln id="DGraySpireRewardShips">Боевые корабли, разработанные Серыми Spire'ами. Конструкция включает некоторые Теневые реликвии, найденные в межзвёздном пространстве.</ln>
+
+<ln id="BHeroHumanAbilities">СПОСОБ</ln>
+<ln id="NHeroHumanAbilities">Способности Чемпионов Людей</ln>
+<ln id="DHeroHumanAbilities">Специальные способности, доступные Теневому кораблю в форме Человеческой технологии.</ln>
+
+<ln id="BHeroZenithAbilities">СПОСОБ</ln>
+<ln id="NHeroZenithAbilities">Способности Чемпионов Zenith'ов</ln>
+<ln id="DHeroZenithAbilities">Специальные способности, доступные Теневому кораблю в форме технологии Zenith'ов.</ln>
+
+<ln id="BHeroNeinzulAbilities">СПОСОБ</ln>
+<ln id="NHeroNeinzulAbilities">Способности Чемпионов Neinzul'ов</ln>
+<ln id="DHeroNeinzulAbilities">Специальные способности, доступные Теневому кораблю в форме технологии Neinzul'ов.</ln>
+
+<ln id="BHeroSpireAbilities">СПОСОБ</ln>
+<ln id="NHeroSpireAbilities">Способности Чемпионов Spire'ов</ln>
+<ln id="DHeroSpireAbilities">Специальные способности, доступные Теневому кораблю в форме технологии современных Spire'ов.</ln>
+
+<ln id="BSpireCorvette">SКОРВ</ln>
+<ln id="NSpireCorvette">Корветы Spire'ов</ln>
+<ln id="DSpireCorvette">Модульный корабли размером со звездолёт, разработанный с помощью модернизации боевых чертежей Имперских Spire'ов с человеческими технологиями.</ln>
+
+<ln id="TAITHeroic">Героический</ln>
+<ln id="NAITHeroic">В основном сложный ИИ, который также добавляет Чемпионские корабли в каждую волну (в дополнение к обычным звездолётам). Также периодически создаёт Чемпионов на одной из своих планет, которые присоединяются к главным силам ИИ, угрожающим Вам. На больших уровнях использует больших Чемпионов.
+
+Прим.: Чемпионы, подконтрольные ИИ, не похожи на человеческих: они не проходят сквозь синие червоточины, не зарабатывают опыт и не восстанавливаются при уничтожении. Просто большие противные модульные корабли.</ln>
+<ln id="UAITHeroic">Корабли Чемпионы</ln>
+
+<ln id="TAITFortressKing">Король Крепости</ln>
+<ln id="NAITFortressKing">В основном сложный ИИ, который имеет Модульные Крепости в местах большинства командных станций. Ожидайте много боли.</ln>
+<ln id="UAITFortressKing">Командная Станция Модульной Крепости</ln>
+
+<ln id="NClustersSimple">Планеты организованы в небольшое количество кластеров, каждый из которых имеет несколько червоточин, ведущих в другие кластеры. Планеты внутри кластера имеют определённое количество связей с другими планетами в пределах кластера.</ln>
+<ln id="NClustersMicrocosm">Планеты организованы в небольшое количество кластеров, каждый из которых имеет несколько червоточин, ведущих в другие кластеры. Внутренняя организация кластера различается от кластера к кластеру.</ln>
+
+</root>

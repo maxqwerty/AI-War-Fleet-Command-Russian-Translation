@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<ln id="Chivalric">Рыцарь</ln>
+<ln id="Artillerist">Артиллерист</ln>
+<ln id="Bouncer">Вышибала</ln>
+<ln id="Exotic">Экзотик</ln>
+<ln id="Reservist">Резервист</ln>
+<ln id="Vorpal">Вострый</ln>
+<ln id="Vengeful">Мстительный</ln>
+<ln id="ViciousExotic">Злобный Экзотик</ln>
+</root>

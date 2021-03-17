@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<ln id="ShowdownDevice">Проявительное Устройство</ln>
+<ln id="LightningTorpedoFrigate">Фрегат Молниевых Торпед</ln>
+<ln id="ZenithDevestator">Опустошитель Zenith'ов</ln>
+<ln id="ProtectorStarship">Звездолёт Защитник</ln>
+<ln id="NeinzulCombatCarrier">Авианосец Neinzul'ов</ln>
+<ln id="NeinzulRailpod">Рельсопод Neinzul'ов</ln>
+<ln id="ZenithHydra">Гидра Zenith'ов</ln>
+<ln id="LightningTorpedo">Молниевая Торпеда</ln>
+<ln id="YounglingShrike">Юнл Сорокопут</ln>
+<ln id="ImplosionDrone">Дрон Внутревзрыва</ln>
+<ln id="ShredderDrone">Дрон Шреддер</ln>
+<ln id="ZenithHydraHead">Голова Гидры Zenith'ов</ln>
+</root>

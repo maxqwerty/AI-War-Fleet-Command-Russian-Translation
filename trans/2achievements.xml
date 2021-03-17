@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<!--Notes:  You do not need to localize the _AltOrder entries, unless you need to make them consistent with the prefix sorting.  Those are for sorting only.-->
+
+<!--2. Basic AI Types-->
+
+<ln id="EXP2_BeatNeinzulViralEnthusiast_Bronze">2. Вакцинатор</ln>
+<ln id="EXP2_BeatNeinzulViralEnthusiast_Bronze_Desc">Победите Вирусного Энтузиаста Neinzul'ов на любой сложности.</ln>
+
+<ln id="EXP2_BeatNeinzulViralEnthusiast_Silver">2. Вакцинатор</ln>
+<ln id="EXP2_BeatNeinzulViralEnthusiast_Silver_Desc">Победите Вирусного Энтузиаста Neinzul'ов на сложности 7 или выше.</ln>
+
+<ln id="EXP2_BeatNeinzulViralEnthusiast_Gold">2. Вакцинатор</ln>
+<ln id="EXP2_BeatNeinzulViralEnthusiast_Gold_Desc">Победите Вирусного Энтузиаста Neinzul'ов на сложности 9 или выше.</ln>
+
+<ln id="EXP2_BeatSupportCorps_Bronze">2. Рука Помощи Сломала Ноготь</ln>
+<ln id="EXP2_BeatSupportCorps_Bronze_Desc">Победите Отдел Поддержки на любой сложности.</ln>
+
+<ln id="EXP2_BeatSupportCorps_Silver">2. Рука Помощи Сломала Ноготь</ln>
+<ln id="EXP2_BeatSupportCorps_Silver_Desc">Победите Отдел Поддержки на сложности 7 или выше.</ln>
+
+<ln id="EXP2_BeatSupportCorps_Gold">2. Рука Помощи Сломала Ноготь</ln>
+<ln id="EXP2_BeatSupportCorps_Gold_Desc">Победите Отдел Поддержки на сложности 9 или выше.</ln>
+
+<!--3. Moderate AI Types-->
+
+<ln id="EXP2_BeatNeinzulClusterBomber_Bronze">3. Борьба С Вредителями</ln>
+<ln id="EXP2_BeatNeinzulClusterBomber_Bronze_Desc">Победите Кластерного Бомбера Neinzul'ов на любой сложности.</ln>
+
+<ln id="EXP2_BeatNeinzulClusterBomber_Silver">3. Борьба С Вредителями</ln>
+<ln id="EXP2_BeatNeinzulClusterBomber_Silver_Desc">Победите Кластерного Бомбера Neinzul'ов на сложности 7 или выше.</ln>
+
+<ln id="EXP2_BeatNeinzulClusterBomber_Gold">3. Борьба С Вредителями</ln>
+<ln id="EXP2_BeatNeinzulClusterBomber_Gold_Desc">Победите Кластерного Бомбера Neinzul'ов на сложности 9 или выше.</ln>
+
+<ln id="EXP2_BeatNeinzulYoungster_Bronze">3. Ты Был Бы Хорошим Учителем</ln>
+<ln id="EXP2_BeatNeinzulYoungster_Bronze_Desc">Победите Детёныша Neinzul'ов на любой сложности.</ln>
+
+<ln id="EXP2_BeatNeinzulYoungster_Silver">3. Ты Был Бы Хорошим Учителем</ln>
+<ln id="EXP2_BeatNeinzulYoungster_Silver_Desc">Победите Детёныша Neinzul'ов на сложности 7 или выше.</ln>
+
+<ln id="EXP2_BeatNeinzulYoungster_Gold">3. Ты Был Бы Хорошим Учителем</ln>
+<ln id="EXP2_BeatNeinzulYoungster_Gold_Desc">Победите Детёныша Neinzul'ов на сложности 9 или выше.</ln>
+
+<!--3. Minor Factions-->
+
+<ln id="EXP2_WonWithNeinzulPreservationWarden_Silver">3. Явное предначертание</ln>
+<ln id="EXP2_WonWithNeinzulPreservationWarden_Silver_Desc">Победите с включённой фракцией Заповедных Стражей Neinzul'ов (интенсивность >= 4) на любой сложности.</ln>
+
+<ln id="EXP2_WonWithNeinzulRoamingEnclaves_Silver">3. Конец Пути</ln>
+<ln id="EXP2_WonWithNeinzulRoamingEnclaves_Silver_Desc">Победите с включённой фракцией Скитающихся Анклавов Neinzul'ов (интенсивность >= 4) на любой сложности.</ln>
+
+<ln id="EXP2_WonWithNeinzulRocketryCorps_Silver">3. Давай Сыграем В Игру?</ln>
+<ln id="EXP2_WonWithNeinzulRocketryCorps_Silver_Desc">Победите с включённой фракцией Ракетный Корпус Neinzul'ов (интенсивность >= 4) на любой сложности.</ln>
+
+<!--4. Hard AI Types-->
+
+<ln id="EXP2_BeatNeinzulNester_Bronze">4. Истребитель Neinzul'ов</ln>
+<ln id="EXP2_BeatNeinzulNester_Bronze_Desc">Победите Гнездового Neinzul'ов на любой сложности.</ln>
+
+<ln id="EXP2_BeatNeinzulNester_Silver">4. Истребитель Neinzul'ов</ln>
+<ln id="EXP2_BeatNeinzulNester_Silver_Desc">Победите Гнездового Neinzul'ов на сложности 7 или выше.</ln>
+
+<ln id="EXP2_BeatNeinzulNester_Gold">4. Истребитель Neinzul'ов</ln>
+<ln id="EXP2_BeatNeinzulNester_Gold_Desc">Победите Гнездового Neinzul'ов на сложности 9 или выше.</ln>
+
+<ln id="EXP2_BeatWarpJumper_Bronze">4. Прыжок, Хлопок, Взрыв</ln>
+<ln id="EXP2_BeatWarpJumper_Bronze_Desc">Победите Создателя Помех на любой сложности.</ln>
+
+<ln id="EXP2_BeatWarpJumper_Silver">4. Прыжок, Хлопок, Взрыв</ln>
+<ln id="EXP2_BeatWarpJumper_Silver_Desc">Победите Создателя Помех на сложности 7 или выше.</ln>
+
+<ln id="EXP2_BeatWarpJumper_Gold">4. Прыжок, Хлопок, Взрыв</ln>
+<ln id="EXP2_BeatWarpJumper_Gold_Desc">Победите Создателя Помех на сложности 9 или выше.</ln>
+
+<!--4. AI Plots-->
+
+<ln id="EXP2_WonWithHybridHives_Gold">4. Дыра В Стене</ln>
+<ln id="EXP2_WonWithHybridHives_Gold_Desc">Победите с включённым сценарием Ульи Гибридов на любой сложности.</ln>
+
+<ln id="EXP2_WonWithAdvancedHybridHives_Gold">4. Должно Быть Застрял В Возникшем Веществе</ln>
+<ln id="EXP2_WonWithAdvancedHybridHives_Gold_Desc">Победите с включённым сценарием Улучшенные Гибриды на любой сложности.</ln>
+
+</root>

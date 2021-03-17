@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+<ln id="AllUnits">Все(Юниты)</ln>
+<ln id="AllFirepower">Все(Мощь)</ln>
+<ln id="MyUnits">Мои(Юниты)</ln>
+<ln id="MyFirepower">Мои(Мощь)</ln>
+<ln id="AlliedUnits">Союзные(Юниты)</ln>
+<ln id="AlliedFirepower">Союзные(Мощь)</ln>
+<ln id="MyAndAlliedUnits">Мои и Союзные(Юниты)</ln>
+<ln id="MyAndAlliedFirepower">Мои и Союзные(Мощь)</ln>
+<ln id="MobileMilitaryUnits">Мобильные Войска(Юниты)</ln>
+<ln id="MobileMilitaryFirepower">Мобильные Войска(Мощь)</ln>
+<ln id="Length">Длина</ln>
+</root>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+
+<ln id="TAITAlarmist">Паникёр</ln>
+<ln id="NAITAlarmist">Использует Посты Тревоги (обычные или специальных сил) на всех своих планетах. Создаёт массивные кросс-планетные атаки, пока игрок осторожно не уничтожит эти посты.
+ </ln>
+<ln id="UAITAlarmist">Пост Тревоги, Пост Тревоги Специальных Сил</ln>
+
+<ln id="TAITRaidEngine">Налётчик</ln>
+<ln id="NAITRaidEngine">Использует Налётчиков на большинстве своих планет. Создаёт очень частые, краткосрочные, жестокие волны в дополнение к нормальным волнам, пока игрок осторожно не уничтожит налётчиков.
+ </ln>
+<ln id="UAITRaidEngine">Налётчик</ln>
+
+<ln id="TAITCamouflager">Камуфляж</ln>
+<ln id="NAITCamouflager">Все его мобильные корабли выглядят как безобидные куски мусора, когда не двигаются и не стреляют.
+ </ln>
+
+<ln id="TAITExperimentalist">Экспериментатор</ln>
+<ln id="NAITExperimentalist">Агрессивный ИИ, использующий смесь экспериментальных кораблей вместе с обычными. Отправляет немного большие волны, а оборонительные сооружения слабы.
+ </ln>
+<ln id="EAITExperimentalist">Все экспериментальные корабли.</ln>
+
+<ln id="TAITStarfleetCommander">Космический Командор</ln>
+<ln id="NAITStarfleetCommander">Агрессивный ИИ, использующий 4X количество боевых кораблей в каждой атакующей волне. Отправляет немного большие волны, а оборонительные сооружения слабы.
+ </ln>
+
+<ln id="TAITZenithDescendant">Потомок Zenith'ов</ln>
+<ln id="NAITZenithDescendant">Агрессивный ИИ, использующий только корабли Zenith'ов. Отправляет немного большие волны, а оборонительные сооружения слабы.
+ </ln>
+<ln id="EAITZenithDescendant">Все корабли Zenith'ов.</ln>
+
+<ln id="TAITGolemite">Големит</ln>
+<ln id="NAITGolemite">Имеет полнофункциональных големов на большинстве своих планет.
+ </ln>
+<ln id="UAITGolemite">Големы</ln>
+
+<ln id="TAITSpeedRacer">Гонщик</ln>
+<ln id="NAITSpeedRacer">Все его мобильные корабли были улучшены, получив экстримальную скорость. Отправляет немного большие волны, а оборонительные сооружения слабы.
+ </ln>
+
+<ln id="TAITPeacemaker">Миротворец</ln>
+<ln id="NAITPeacemaker">Использует противоголемные, противозвездолётные, противобоеголовочные, и т.п. корабли на всех своих планетах.
+ </ln>
+<ln id="EAITPeacemaker">Орбитальные Драйверы Очистки, Главные Перехватчики Боеголовок</ln>
+
+<ln id="TAITRadarJammer">Глушитель Радаров</ln>
+<ln id="NAITRadarJammer">Устанавливает Глушители Радаров на всех своих планетах, что делает дальнобойные корабли очень неэффективными.
+ </ln>
+<ln id="EAITRadarJammer">Глушитель Радаров</ln>
+
+<ln id="TAITOneWayDoormaster">Властелин Дверей</ln>
+<ln id="NAITOneWayDoormaster">Устанавливает Машины Чёрной Дыры на всех своих планетах, что делает каждый рейд на его планету захваченным в одностороннюю ловушку, пока Машина Чёрной Дыры не будет уничтожена.
+ </ln>
+<ln id="EAITOneWayDoormaster">Машины Чёрной Дыры</ln>
+
+<ln id="TAITTagTeamer">Эстафетчик</ln>
+<ln id="NAITTagTeamer">Обороняющийся ИИ, чьи стражи очень быстры и не остаются у своих постов. Это делает их более сложными для атаки.
+ </ln>
+
+<ln id="TAITShieldNinny">Шут с Щитом</ln>
+<ln id="NAITShieldNinny">Планеты сильно защищены, часто с усилителями для брони союзников или ингибиторами для брони врагов, но этот ИИ никогда не посылает волн на игрока.
+ </ln>
+<ln id="EAITShieldNinny">Планетарный Усилитель, Планетарный Ингибитор</ln>
+
+<ln id="TAITGravDriller">Гравидрель</ln>
+<ln id="NAITGravDriller">Агрессивный ИИ со Станциями Гравидрелей на большинстве своих планет. Гравидрели отключают телепортируюущихся юнитов и сильно замедляют остальных юнитов, но захваченными дают много бесплатных ресурсов и энергии. Отправляет немного большие волны, а оборонительные сооружения слабы.
+ </ln>
+<ln id="EAITGravDriller">Станция Гравидрели</ln>
+ 
+<ln id="DistributionFound">Распределяющий Узел Уничтожен! Захвачен </ln>
+<ln id="DistributionFoundAnd"> и </ln>
+<ln id="TrojanDistributionFound">Троянский Распределяющий Узел уничтожен! Осталось </ln>
+
+<ln id="Warn_MiningGolem1">Голем Шахтёр уничтожит </ln>
+<ln id="Warn_MiningGolem2"> через </ln>
+<ln id="Warn_Devourer">Голем Пожиратель на </ln>
+
+<!--Map Styles-->
+<ln id="NMapTree">Связи между планетами делятся на длинные и разветвляющиеся пряди.</ln>
+<ln id="NMapSpokes">Соединения планет сконцентрированы вокруг ключевых зон.</ln>
+<ln id="NMapSnake">Соединения планет связаны вместе в длинную линию, или набора линий.</ln>
+<ln id="NMapVines">Соединения планет связаны в длинную линию с "листьями" через каждый небольшой промежуток.</ln>
+<ln id="NMapLattice">Планеты расположены по упорядоченным клеткам с массивными решётчатыми связями между ними.</ln>
+
+<!--Cheats-->
+<ln id="Cheat_BustedTeensy">busted teensy</ln>
+<ln id="Cheat_Teensy">teensy</ln>
+<ln id="Cheat_BustedOhm">busted ohm</ln>
+<ln id="Cheat_Ohm">ohm</ln>
+<ln id="Cheat_BustedShinra">busted shinra</ln>
+<ln id="Cheat_Shinra">shinra</ln>
+<ln id="Cheat_BustedCurse">busted curse me</ln>
+<ln id="Cheat_Curse">curse me</ln>
+<ln id="Cheat_BustedTroll">busted its a troll</ln>
+<ln id="Cheat_Troll">its a troll</ln>
+<ln id="Cheat_BustedAndTheHegemon">busted and the hegemon</ln>
+<ln id="Cheat_AndTheHegemon">and the hegemon</ln>
+<ln id="Cheat_BustedZombieBots">busted zombie bots</ln>
+<ln id="Cheat_ZombieBots">zombie bots</ln>
+<ln id="Cheat_GoGoTradePact">go go trade pact</ln>
+<ln id="Cheat_SpawnMiners">spawn miners</ln>
+<ln id="Cheat_CallingMrMiles">calling mr miles</ln>
+<ln id="Cheat_InvokeUnicron">invoke unicron</ln>
+</root>

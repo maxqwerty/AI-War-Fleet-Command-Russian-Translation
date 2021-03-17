@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<!--Notes:  You do not need to localize the _AltOrder entries, unless you need to make them consistent with the prefix sorting.  Those are for sorting only.-->
+
+<!--2. Basic AI Types-->
+<ln id="EXP3_TheBestIceCream_Bronze">2. Самое Лучшее Мороженое</ln>
+<ln id="EXP3_TheBestIceCream_Bronze_Desc">Победите тип ИИ "Ваниль" на любой сложности.</ln>
+
+<ln id="EXP3_TheBestIceCream_Silver">2. Самое Лучшее Мороженое</ln>
+<ln id="EXP3_TheBestIceCream_Silver_Desc">Победите тип ИИ "Ваниль" на сложности 7 или выше.</ln>
+
+<ln id="EXP3_TheBestIceCream_Gold">2. Самое Лучшее Мороженое</ln>
+<ln id="EXP3_TheBestIceCream_Gold_Desc">Победите тип ИИ "Ваниль" на сложности 9 или выше.</ln>
+
+<!--3. Moderate AI Types-->
+
+<ln id="EXP3_BeatSpireling_Bronze">3. Отбой</ln>
+<ln id="EXP3_BeatSpireling_Bronze_Desc">Победите тип ИИ "Spireling" на любой сложности.</ln>
+
+<ln id="EXP3_BeatSpireling_Silver">3. Отбой</ln>
+<ln id="EXP3_BeatSpireling_Silver_Desc">Победите тип ИИ "Spireling" на сложности 7 или выше.</ln>
+
+<ln id="EXP3_BeatSpireling_Gold">3. Отбой</ln>
+<ln id="EXP3_BeatSpireling_Gold_Desc">Победите тип ИИ "Spireling" на сложности 9 или выше.</ln>
+
+<ln id="EXP3_BeatThief_Bronze">3. Хозяин был дома. С оружиём.</ln>
+<ln id="EXP3_BeatThief_Bronze_Desc">Победите тип ИИ "Вор" на любой сложности.</ln>
+
+<ln id="EXP3_BeatThief_Silver">3. Хозяин был дома. С оружиём.</ln>
+<ln id="EXP3_BeatThief_Silver_Desc">Победите тип ИИ "Вор" на сложности 7 или выше.</ln>
+
+<ln id="EXP3_BeatThief_Gold">3. Хозяин был дома. С оружиём.</ln>
+<ln id="EXP3_BeatThief_Gold_Desc">Победите тип ИИ "Вор" на сложности 9 или выше.</ln>
+
+<!--3. Minor Factions-->
+
+<ln id="EXP3_WonWithFallenSpire_AssistedGuerilla_Silver">3. У Меня Получилось С Помощью Друзей</ln>
+<ln id="EXP3_WonWithFallenSpire_AssistedGuerilla_Silver_Desc">Победите с включённой фракцией Падших Spire'ов (интенсивность >= 4), создав союз с беженцами, но до строительства Галактического Капитолия.</ln>
+
+<ln id="EXP3_WonWithFallenSpire_Empire_Gold">3. Входя Через Переднюю Дверь</ln>
+<ln id="EXP3_WonWithFallenSpire_Empire_Gold_Desc">Победите с включённой фракцией Падших Spire'ов (интенсивность >= 4), построив Галактический Капитолий, но не запуская альтернативный путь выигрыша.</ln>
+
+<ln id="EXP3_WonWithFallenSpire_Alliance_Gold">3. Империя Наносит Ответный Удар</ln>
+<ln id="EXP3_WonWithFallenSpire_Alliance_Gold_Desc">Победите с включённой фракцией Падших Spire'ов (интенсивность >= 4), и победите с помощью альтернативного сценария.</ln>
+
+<ln id="EXP3_WonWithSpireCivilianLeaders_Silver">3. Гражданские Вечно Мешают</ln>
+<ln id="EXP3_WonWithSpireCivilianLeaders_Silver_Desc">Победите с включённой фракцией Гражданских Лидеров Spire'ов.</ln>
+
+<!--4. Hard AI Types-->
+<ln id="EXP3_TheBestBagel_Bronze">4. Лучший Бублик</ln>
+<ln id="EXP3_TheBestBagel_Bronze_Desc">Победите тип ИИ "Всё" на любой сложности.</ln>
+
+<ln id="EXP3_TheBestBagel_Silver">4. Лучший Бублик</ln>
+<ln id="EXP3_TheBestBagel_Silver_Desc">Победите тип ИИ "Всё" на сложности 7 или выше.</ln>
+
+<ln id="EXP3_TheBestBagel_Gold">4. Лучший Бублик</ln>
+<ln id="EXP3_TheBestBagel_Gold_Desc">Победите тип ИИ "Всё" на сложности 9 или выше.</ln>
+
+<ln id="EXP3_BeatRetaliatory_Bronze">4. Месть не наш путь</ln>
+<ln id="EXP3_BeatRetaliatory_Bronze_Desc">Победите тип ИИ "Репрессивный" на любой сложности.</ln>
+
+<ln id="EXP3_BeatRetaliatory_Silver">4. Месть не наш путь</ln>
+<ln id="EXP3_BeatRetaliatory_Silver_Desc">Победите тип ИИ "Репрессивный" на сложности 7 или выше.</ln>
+
+<ln id="EXP3_BeatRetaliatory_Gold">4. Месть не наш путь</ln>
+<ln id="EXP3_BeatRetaliatory_Gold_Desc">Победите тип ИИ "Репрессивный" на сложности 9 или выше.</ln>
+
+<ln id="EXP3_BeatCraftySpire_Bronze">4. Перехитрил</ln>
+<ln id="EXP3_BeatCraftySpire_Bronze_Desc">Победите тип ИИ "Хитрый Spire" на любой сложности.</ln>
+
+<ln id="EXP3_BeatCraftySpire_Silver">4. Перехитрил</ln>
+<ln id="EXP3_BeatCraftySpire_Silver_Desc">Победите тип ИИ "Хитрый Spire" на сложности 7 или выше.</ln>
+
+<ln id="EXP3_BeatCraftySpire_Gold">4. Перехитрил</ln>
+<ln id="EXP3_BeatCraftySpire_Gold_Desc">Победите тип ИИ "Хитрый Spire" на сложности 9 или выше.</ln>
+
+<ln id="EXP3_BeatExtremeRaider_Bronze">4. Экстремальный Неудачник</ln>
+<ln id="EXP3_BeatExtremeRaider_Bronze_Desc">Победите тип ИИ "Экстремальный Налётчик" на любой сложности.</ln>
+
+<ln id="EXP3_BeatExtremeRaider_Silver">4. Экстремальный Неудачник</ln>
+<ln id="EXP3_BeatExtremeRaider_Silver_Desc">Победите тип ИИ "Экстремальный Налётчик" на сложности 7 или выше.</ln>
+
+<ln id="EXP3_BeatExtremeRaider_Gold">4. Экстремальный Неудачник</ln>
+<ln id="EXP3_BeatExtremeRaider_Gold_Desc">Победите тип ИИ "Экстремальный Налётчик" на сложности 9 или выше.</ln>
+
+<ln id="EXP3_BeatSpireHammer_Bronze">4. Наш молот больше</ln>
+<ln id="EXP3_BeatSpireHammer_Bronze_Desc">Победите тип ИИ "Молот Spire'ов" на любой сложности.</ln>
+
+<ln id="EXP3_BeatSpireHammer_Silver">4. Наш молот больше</ln>
+<ln id="EXP3_BeatSpireHammer_Silver_Desc">Победите тип ИИ "Молот Spire'ов" на сложности 7 или выше.</ln>
+
+<ln id="EXP3_BeatSpireHammer_Gold">4. Наш молот больше</ln>
+<ln id="EXP3_BeatSpireHammer_Gold_Desc">Победите тип ИИ "Молот Spire'ов" на сложности 9 или выше.</ln>
+
+<!--4. AI Plots-->
+
+<ln id="EXP3_WonWithBeachheads_Gold">4. Возвращайся В Море</ln>
+<ln id="EXP3_WonWithBeachheads_Gold_Desc">Победите с включённым сценарием Плацдармы на любой сложности.</ln>
+
+<!--5. Fallen Spire Insane Achievements-->
+<ln id="EXP3_IHaveABadFeelingAboutThis_Bronze">5. У Меня Плохое Предчувствие</ln>
+<ln id="EXP3_IHaveABadFeelingAboutThis_Bronze_Desc">Завершите первый "эпизод" Падших Spire'ов с двумя ИИ сложности 10 и 8 человеческими домашними мирами.</ln>
+
+</root>

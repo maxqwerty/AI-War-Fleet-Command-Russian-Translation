@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+
+<ln id="NomadBeacon_Full">Кочевой Маяк</ln>
+<ln id="NomadBeacon_Short">Кочевой Маяк</ln>
+<ln id="NomadBeacon_Desc">Древний артефакт Zenith'ов, как-то связанный с мистическими Кочевыми Планетами.</ln>
+
+<ln id="NomadBeaconBroken_Full">Сломанный Кочевой Маяк</ln>
+<ln id="NomadBeaconBroken_Short">Сломанный Кочевой Маяк</ln>
+<ln id="NomadBeaconBroken_Desc">Древний артефакт Zenith'ов, как-то связанный с мистическими Кочевыми Планетами.
+
+Если этот маяк находится в руках ИИ, то будьте осторожны, так как ИИ по какой-то причине нервничает из-за него и укрепляет планету; чтобы уничтожить Маяк, нужно уничтожить ИИ. Если вы хотите реактивировать Маяк, то нужно использовать Хакера Кочевого Маяка на планете до уничтожения командной станции.
+
+Этот артефакт очень стар и повреждён, его нужно полностью восстановить, прежде чем он будет работать.
+Вам также потребуется много энергии (500k), чтобы его запустить.</ln>
+
+<ln id="ExodianBlade_Full">Exodian Blade</ln>
+<ln id="ExodianBlade_Short">Exodian Blade</ln>
+<ln id="ExodianBlade_Desc">Древний артефакт Spire'ов... по крайней мере, мы так считаем.</ln>
+
+<ln id="ExodianBladeBroken_Full">Сломанный Exodian Blade</ln>
+<ln id="ExodianBladeBroken_Short">Сломанный Exodian Blade</ln>
+<ln id="ExodianBladeBroken_Desc">Древний артефакт Spire'ов... по крайней мере, мы так считаем.
+
+Этот артефакт очень стар и повреждён, его нужно полностью восстановить, прежде чем он будет работать.
+Вам также потребуется много энергии (500k), чтобы его запустить.</ln>
+
+<ln id="BeamDrone_Full">Лучевой Дрон</ln>
+<ln id="BeamDrone_Short">Лу-Д I</ln>
+<ln id="BeamDrone_Wave">Лучевые Дроны</ln>
+<ln id="BeamDrone_Desc">Маленький, недолгоживущий дрон. В общем, всего лиш двигатель, приделанный к реактору и главному эмитеру с Тяжёлой Тяговой Пушки. Для оборудования обеспечения сохранности и радиаторов не осталось места. Поэтому сможет сделать только пару выстрелов, прежде чем взорвётся.</ln>
+
+<ln id="BeamDroneII_Full">Лучевой Дрон II</ln>
+<ln id="BeamDroneII_Short">Лу-Д II</ln>
+
+<ln id="BeamDroneIII_Full">Лучевой Дрон III</ln>
+<ln id="BeamDroneIII_Short">Лу-Д III</ln>
+
+<ln id="BeamDroneIV_Full">Лучевой Дрон IV</ln>
+<ln id="BeamDroneIV_Short">Лу-Д IV</ln>
+
+<ln id="BeamDroneV_Full">Главный Лучевой Дрон</ln>
+<ln id="BeamDroneV_Short">Лу-Д V</ln>
+<ln id="RailDrone_Full">Рельсодрон</ln>
+
+<ln id="RailDrone_Short">Ре-Д I</ln>
+<ln id="RailDrone_Wave">Рельсодроны</ln>
+<ln id="RailDrone_Desc">Маленький, недолгоживущий дрон, вооружённый средним рельсотроном.</ln>
+
+<ln id="RailDroneII_Full">Рельсодрон II</ln>
+<ln id="RailDroneII_Short">Ре-Д II</ln>
+
+<ln id="RailDroneIII_Full">Рельсодрон III</ln>
+<ln id="RailDroneIII_Short">Ре-Д III</ln>
+
+<ln id="RailDroneIV_Full">Рельсодрон IV</ln>
+<ln id="RailDroneIV_Short">Ре-Д IV</ln>
+
+<ln id="RailDroneV_Full">Главный Рельсодрон</ln>
+<ln id="RailDroneV_Short">Ре-Д V</ln>
+
+<ln id="SpiderDrone_Full">Паук Дрон</ln>
+<ln id="SpiderDrone_Short">Пау-Д I</ln>
+<ln id="SpiderDrone_Wave">Пауки Дроны</ln>
+<ln id="SpiderDrone_Desc">Маленький, недолгоживущий дрон, вооружённый средним рельсотроном. Броня слабее, чем у Рельсодронов, но наносит урон двигателям.</ln>
+
+<ln id="SpiderDroneII_Full">Паук Дрон II</ln>
+<ln id="SpiderDroneII_Short">Пау-Д II</ln>
+
+<ln id="SpiderDroneIII_Full">Паук Дрон III</ln>
+<ln id="SpiderDroneIII_Short">Пау-Д III</ln>
+
+<ln id="SpiderDroneIV_Full">Паук Дрон IV</ln>
+<ln id="SpiderDroneIV_Short">Пау-Д IV</ln>
+
+<ln id="SpiderDroneV_Full">Главный Паук Дрон</ln>
+<ln id="SpiderDroneV_Short">Пау-Д V</ln>
+
+<ln id="GravDrone_Full">Гравидрон</ln>
+<ln id="GravDrone_Short">Гр-Д I</ln>
+<ln id="GravDrone_Wave">Гравидроны</ln>
+<ln id="GravDrone_Desc">Маленький, недолгоживущий дрон, слабовооружённый, но генерирующий поле, замедляющее вражеские корабли.</ln>
+
+<ln id="GravDroneII_Full">Гравидрон II</ln>
+<ln id="GravDroneII_Short">Гр-Д II</ln>
+
+<ln id="GravDroneIII_Full">Гравидрон III</ln>
+<ln id="GravDroneIII_Short">Гр-Д III</ln>
+
+<ln id="GravDroneIV_Full">Гравидрон IV</ln>
+<ln id="GravDroneIV_Short">Гр-Д IV</ln>
+
+<ln id="GravDroneV_Full">Главный Гравидрон</ln>
+<ln id="GravDroneV_Short">Гр-Д V</ln>
+
+<ln id="Powerslaver_Full">Поработитель</ln>
+<ln id="Powerslaver_Short">Раб I</ln>
+<ln id="Powerslaver_Wave">Поработители</ln>
+<ln id="Powerslaver_Desc">Сам по себе слаб, но может целиком поглощать вражеские корабли и использовать их мощь для собственного оружия.</ln>
+
+<ln id="PowerslaverII_Full">Поработитель II</ln>
+<ln id="PowerslaverII_Short">Раб II</ln>
+
+<ln id="PowerslaverIII_Full">Поработитель III</ln>
+<ln id="PowerslaverIII_Short">Раб III</ln>
+
+<ln id="PowerslaverIV_Full">Поработитель IV</ln>
+<ln id="PowerslaverIV_Short">Раб IV</ln>
+
+<ln id="PowerslaverV_Full">Главный Поработитель</ln>
+<ln id="PowerslaverV_Short">Раб V</ln>
+
+<ln id="TranslocatorStarship_Full">Транспортный Звездолёт</ln>
+<ln id="TranslocatorStarship_Short">Тр-З I</ln>
+<ln id="TranslocatorStarship_Wave">Транспортные Звездолёты</ln>
+<ln id="TranslocatorStarship_Desc">Юнит звездолётного класса, вооружённый несколькими средними рельсотронами, отбрасывающими вражеские цели.</ln>
+
+<ln id="TranslocatorStarshipII_Full">Транспортный Звездолёт II</ln>
+<ln id="TranslocatorStarshipII_Short">Тр-З II</ln>
+
+<ln id="TranslocatorStarshipIII_Full">Транспортный Звездолёт III</ln>
+<ln id="TranslocatorStarshipIII_Short">Тр-З III</ln>
+
+<ln id="TranslocatorStarshipIV_Full">Транспортный Звездолёт IV</ln>
+<ln id="TranslocatorStarshipIV_Short">Тр-З IV</ln>
+
+<ln id="TranslocatorStarshipV_Full">Главный Транспортный Звездолёт</ln>
+<ln id="TranslocatorStarshipV_Short">Тр-З V</ln>
+
+<ln id="TranslocatorGuardian_Full">Транспортный Страж</ln>
+<ln id="TranslocatorGuardian_Short">Тр-С I</ln>
+<ln id="TranslocatorGuardian_Wave">Транспортные Стражи</ln>
+<ln id="TranslocatorGuardian_Desc">Вооружён несколькими средними рельсотронами, отбрасывающими вражеские цели.</ln>
+
+<ln id="TranslocatorGuardianII_Full">Транспортный Страж II</ln>
+<ln id="TranslocatorGuardianII_Short">Тр-З II</ln>
+
+<ln id="TranslocatorGuardianIII_Full">Транспортный Страж III</ln>
+<ln id="TranslocatorGuardianIII_Short">Тр-З III</ln>
+
+<ln id="TranslocatorGuardianIV_Full">Транспортный Страж IV</ln>
+<ln id="TranslocatorGuardianIV_Short">Тр-З IV</ln>
+
+<ln id="TranslocatorGuardianV_Full">Главный Транспортный Страж</ln>
+<ln id="TranslocatorGuardianV_Short">Тр-З V</ln>
+
+<ln id="DevastatorGuardian_Full">Опустошитель Страж</ln>
+<ln id="DevastatorGuardian_Short">Оп-З I</ln>
+<ln id="DevastatorGuardian_Wave">Опустошители Стражи</ln>
+<ln id="DevastatorGuardian_Desc">Основанный на технологиях Zenith'ов, используемых для уничтожения юнитов Spire'ов с тяжёлыми щитами, этот страж полностью игнорирует щиты. Тем не менее, не может стрелять по мелким целям.</ln>
+
+<ln id="DevastatorGuardianII_Full">Опустошитель Страж II</ln>
+<ln id="DevastatorGuardianII_Short">Оп-З II</ln>
+
+<ln id="DevastatorGuardianIII_Full">Опустошитель Страж III</ln>
+<ln id="DevastatorGuardianIII_Short">Оп-З III</ln>
+
+<ln id="DevastatorGuardianIV_Full">Опустошитель Страж IV</ln>
+<ln id="DevastatorGuardianIV_Short">Оп-З IV</ln>
+
+<ln id="DevastatorGuardianV_Full">Главный Опустошитель Страж</ln>
+<ln id="DevastatorGuardianV_Short">Оп-З V</ln>
+
+<ln id="LightningStarship_Full">Молниевый Звездолёт</ln>
+<ln id="LightningStarship_Short">Мол-З I</ln>
+<ln id="LightningStarship_Wave">Молниевые Звездолёты</ln>
+<ln id="LightningStarship_Desc">Юнит звездолётного типа, построенный вокруг огромного генератора, стреляющего электрическими зарядами по 200 ближайшим вражеским кораблям. Может концентрировать огонь по группе (доступных целей) больше 40. По группам меньше 40 часть энергии теряется.</ln>
+
+<ln id="LightningStarshipII_Full">Молниевый Звездолёт II</ln>
+<ln id="LightningStarshipII_Short">Мол-З II</ln>
+
+<ln id="LightningStarshipIII_Full">Молниевый Звездолёт III</ln>
+<ln id="LightningStarshipIII_Short">Мол-З III</ln>
+
+<ln id="LightningStarshipIV_Full">Молниевый Звездолёт IV</ln>
+<ln id="LightningStarshipIV_Short">Мол-З IV</ln>
+
+<ln id="LightningStarshipV_Full">Главный Молниевый Звездолёт</ln>
+<ln id="LightningStarshipV_Short">Мол-З V</ln>
+
+<ln id="CombatCarrierGuardian_Full">Комбинированный Страж</ln>
+<ln id="CombatCarrierGuardian_Short">КЗ I</ln>
+<ln id="CombatCarrierGuardian_Wave">Комбинированные Стражи</ln>
+<ln id="CombatCarrierGuardian_Desc">Адаптированная технология Neinzul'ов, при опасности выпускающая Лучевых, Рельсо-, Паучьих и Грави- Дронов.</ln>
+
+<ln id="CombatCarrierGuardianII_Full">Комбинированный Страж II</ln>
+<ln id="CombatCarrierGuardianII_Short">КЗ II</ln>
+
+<ln id="CombatCarrierGuardianIII_Full">Комбинированный Страж III</ln>
+<ln id="CombatCarrierGuardianIII_Short">КЗ III</ln>
+
+<ln id="CombatCarrierGuardianIV_Full">Комбинированный Страж IV</ln>
+<ln id="CombatCarrierGuardianIV_Short">КЗ IV</ln>
+
+<ln id="CombatCarrierGuardianV_Full">Главный Комбинированный Страж</ln>
+<ln id="CombatCarrierGuardianV_Short">КЗ V</ln>
+
+<ln id="NeinzulCombatCarrier_Full">Комбинатор Neinzul'ов</ln>
+<ln id="NeinzulCombatCarrier_Short">N-К I</ln>
+<ln id="NeinzulCombatCarrier_Wave">Комбинаторы Neinzul'ов</ln>
+<ln id="NeinzulCombatCarrier_Desc">При появлении врагов этот корабль периодически выпускает группы специальных недолгоживущих дронов, атакующих корабли. В отличие от Иглового Звездолёта Анклава, Лазерных, РСЗО и Ракетных Дронов, Комбинатор создаёт Лучевых, Рельсо-, Паучьих и Грави- Дронов.
+
+Создаётся на Звездолётной Верфи (или в Продвинутой Звездолётной Верфи для МодIV).</ln>
+
+<ln id="NeinzulCombatCarrierII_Full">Комбинатор Neinzul'ов II</ln>
+<ln id="NeinzulCombatCarrierII_Short">N-К II</ln>
+
+<ln id="NeinzulCombatCarrierIII_Full">Комбинатор Neinzul'ов III</ln>
+<ln id="NeinzulCombatCarrierIII_Short">N-К III</ln>
+
+<ln id="NeinzulCombatCarrierIV_Full">Комбинатор Neinzul'ов IV</ln>
+<ln id="NeinzulCombatCarrierIV_Short">N-К IV</ln>
+
+<ln id="CoreNeinzulCombatCarrier_Full">Главный Комбинатор Neinzul'ов</ln>
+<ln id="CoreNeinzulCombatCarrier_Short">N-К V</ln>
+
+</root>

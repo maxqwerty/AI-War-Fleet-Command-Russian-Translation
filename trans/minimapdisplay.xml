@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+<ln id="Normal">Нормально</ln>
+<ln id="MilitaryShips">Военные корабли (Зажмите F5)</ln>
+<ln id="ResourcesAndWormholes">Ресурсы и червоточины (Зажмите F6)</ln>
+<ln id="EnemyShips">Вражеские корабли (Зажмите F7)</ln>
+<ln id="Length">Длина</ln>
+</root>

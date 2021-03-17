@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<ln id="None">Нет</ln>
+<ln id="Unused"></ln>
+<ln id="Unlock">Открыть</ln>
+
+<ln id="CategoryEconomy_Button">ЭКОН</ln>
+<ln id="CategoryEconomy_Name">Экономические технологии</ln>
+<ln id="CategoryEconomy_Description">Технологии, улучшающие вашу экономику.</ln>
+
+<ln id="CategoryDefense_Button">ЗАЩ</ln>
+<ln id="CategoryDefense_Name">Защитные технологии</ln>
+<ln id="CategoryDefense_Description">Технологии, расширяющие возможности защиты, кроме турелей.</ln>
+
+<ln id="CategoryTurret_Button">ТУР</ln>
+<ln id="CategoryTurret_Name">Технологии турелей</ln>
+<ln id="CategoryTurret_Description">Технологии, улучшающие турели.</ln>
+
+<ln id="CategoryIIthruIII_Button">I-III</ln>
+<ln id="CategoryIIthruIII_Name">Технологии нападения уровней I-III.</ln>
+<ln id="CategoryIIthruIII_Description">Второй и третий уровни улучшений технологий нападения.</ln>
+
+<ln id="CategoryStarship_Button">ЗВЗ</ln>
+<ln id="CategoryStarship_Name">Технологии звездолётов</ln>
+<ln id="CategoryStarship_Description">Технологии, открывающие новые типы звездолётов.</ln>
+
+<ln id="CategoryControlNodes_Button">КНТР</ln>
+<ln id="CategoryControlNodes_Name">Контрольные узлы</ln>
+<ln id="CategoryControlNodes_Description">Технологии, открывающие новые способы контроля жизни вашей цивилизации.</ln>
+
+<ln id="CategoryUnlockShipDesignHackedBonusTypes_Button">НАУК</ln>
+<ln id="CategoryUnlockShipDesignHackedBonusTypes_Name">Технологии Продвинутой Лаборатории</ln>
+<ln id="CategoryUnlockShipDesignHackedBonusTypes_Description">Проект корабля, основанный на захваченной Продвинутой Лаборатории ИИ.
+Заметка: по одному на планету.</ln>
+
+</root>

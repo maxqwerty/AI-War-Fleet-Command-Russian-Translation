@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+<ln id="Normal">Нормально</ln>
+<ln id="My_Ships">Мои корабли</ln>
+<ln id="Allied_Ships">Корабли Союзников</ln>
+<ln id="My_And_Allied_Ships">Дружественные Корабли</ln>
+<ln id="Resources_Used">Добываемые Ресурсы</ln>
+<ln id="Metal_Used">Добывается Металла</ln>
+<ln id="Knowledge_Found">Собрано Науки</ln>
+<ln id="My_Science_Labs">Мои Лаборатории</ln>
+<ln id="Scouts_And_Missiles">Скауты и Ракеты</ln>
+<ln id="Last_Scouted">Разведано последний раз</ln>
+<ln id="Starships">Звездолёты</ln>
+<ln id="Starship_Constructors">Звездолётные Верфи</ln>
+<ln id="All_Constructors">Все Верфи</ln>
+<ln id="Incoming_Waves">Приближающиеся Волны</ln>
+<ln id="Hostile_Wormholes">Вражеские Червоточины</ln>
+<ln id="Unexplored_Wormholes">Неизученные Червоточины</ln>
+<ln id="Nebula_Wormholes">Червоточины Туманностей</ln>
+<ln id="Champions">Чемпионы</ln>
+<ln id="Detected_Hybrids">Замечены Гибриды</ln>
+<ln id="Detected_HybridFacilities">Обнаруженые Гибридные Заводы</ln>
+<ln id="DetectedAdvancedResearchStations">Обнаруженые Прод Лаб</ln>
+<ln id="DetectedAdvancedFactories">Обнаруженые Продвинутые Фабрики</ln>
+<ln id="DetectedAdvancedStarshipConstructors">Обнаруженые Продвинутые Звездные Верфи</ln>
+<ln id="DetectedAIPReducers">Обнаруженые Замедлители Прогресса ИИ</ln>
+<ln id="DetectedAIDesignBackupServers">Обнаруженые Бекапы Конструкций</ln>
+<ln id="DetectedFabricators">Обнаруженныее Заводы</ln>
+<ln id="DetectedCoreShieldGeneratorsAPrimary">Обнаруженый Генератор Щита Ядра A-Основн.</ln>
+<ln id="DetectedCoreShieldGeneratorsBSecondary">Обнаруженый Генератор Щита Ядра B-Вторичн.</ln>
+<ln id="DetectedCoreShieldGeneratorsCSecondary">Обнаруженый Генератор Щита Ядра C-Вторичн.</ln>
+<ln id="DetectedCoreShieldGeneratorsDSecondary">Обнаруженый Генератор Щита Ядра D-Вторичн.</ln>
+<ln id="DetectedCoreShieldGeneratorsESecondary">Обнаруженый Генератор Щита Ядра E-Вторичн.</ln>
+<ln id="DetectedBrokenGolems">Обнаруженые Испорченные Супероружия</ln>
+<ln id="DetectedAsteroids">Обнаруженые Spirecraft Астероиды</ln>
+<ln id="DetectedCoreShieldGenerators">Обнаруженые Генераторы Щита Ядра</ln>
+<ln id="DetectedThreat">Обнаруженая Угроза</ln>
+<ln id="DetectedMinorFactionObjects">Обнаруженые Строения Фракций</ln>
+<ln id="Custom">Ручной Поиск (Узкий)</ln>
+<ln id="CustomShipType">Ручной Поиск (Широкий)</ln>
+<ln id="DistanceToHiddenExodianBlade">Изгнанник</ln>
+<ln id="Length">Длина</ln>
+</root>

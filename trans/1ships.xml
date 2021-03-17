@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<ln id="ZenithBombardment_Full">Бомбардир Zenith'ов</ln>
+<ln id="ZenithBombardment_Short">Бомбардир I</ln>
+<ln id="ZenithBombardment_Wave">Бомбардиры Zenith'ов</ln>
+<ln id="ZenithBombardment_Desc">Стреляет очень мощными, очень дальнобойными бомбами антиматерии, но очень дорогой и долго перезаряжается.</ln>
+
+<ln id="ZenithBombardmentII_Full">Бомбардир Zenith'ов Модель II</ln>
+<ln id="ZenithBombardmentII_Short">Бомбардир II</ln>
+
+<ln id="ZenithBombardmentIII_Full">Бомбардир Zenith'ов Модель III</ln>
+<ln id="ZenithBombardmentIII_Short">Бомбардир III</ln>
+
+<ln id="ZenithBombardmentIV_Full">Бомбардир Zenith'ов Модель IV</ln>
+<ln id="ZenithBombardmentIV_Short">Бомбардир IV</ln>
+
+<ln id="CoreZenithBombardment_Full">Бомбардир Zenith'ов Модель V</ln>
+<ln id="CoreZenithBombardment_Short">Бомбардир V</ln>
+
+<ln id="ZenithAutoBomb_Full">АвтоБомб Zenith'ов</ln>
+<ln id="ZenithAutoBomb_Short">АвтоБомб I</ln>
+<ln id="ZenithAutoBomb_Wave">АвтоБомбы Zenith'ов</ln>
+<ln id="ZenithAutoBomb_Desc">Суицидальный юнит, уничтожающий себяпри атаке, чтобы нанести врагам урон по площади.</ln>
+
+<ln id="ZenithAutoBombII_Full">АвтоБомб Zenith'ов Модель II</ln>
+<ln id="ZenithAutoBombII_Short">АвтоБомб II</ln>
+
+<ln id="ZenithAutoBombIII_Full">АвтоБомб Zenith'ов Модель III</ln>
+<ln id="ZenithAutoBombIII_Short">АвтоБомб III</ln>
+
+<ln id="ZenithAutoBombIV_Full">АвтоБомб Zenith'ов Модель IV</ln>
+<ln id="ZenithAutoBombIV_Short">АвтоБомб IV</ln>
+
+<ln id="CoreZenithAutoBomb_Full">АвтоБомб Zenith'ов Модель V</ln>
+<ln id="CoreZenithAutoBomb_Short">АвтоБомб V</ln>
+
+<ln id="GrenadeLauncher_Full">Гранатомёт</ln>
+<ln id="GrenadeLauncher_Short">Гранатомёт I</ln>
+<ln id="GrenadeLauncher_Wave">Гранатомёты</ln>
+<ln id="GrenadeLauncher_Desc">Запускает гранаты средней мощности на среднее расстояние. Гранаты взрываются при контакте и наносят урон по площади.</ln>
+
+<ln id="GrenadeLauncherII_Full">Гранатомёт Модель II</ln>
+<ln id="GrenadeLauncherII_Short">Гранатомёт  II</ln>
+
+<ln id="GrenadeLauncherIII_Full">Гранатомёт Модель III</ln>
+<ln id="GrenadeLauncherIII_Short">Гранатомёт III</ln>
+
+<ln id="GrenadeLauncherIV_Full">Гранатомёт Модель IV</ln>
+<ln id="GrenadeLauncherIV_Short">Гранатомёт IV</ln>
+
+<ln id="CoreGrenadeLauncher_Full">Гранатомёт Модель V</ln>
+<ln id="CoreGrenadeLauncher_Short">Гранатомёт V</ln>
+
+<ln id="ArmoredGolem_Full">Бронированный Голем</ln>
+<ln id="ArmoredGolem_Short">Бронированный Голем</ln>
+<ln id="ArmoredGolem_Desc">Этот невероятно жёсткий Голем может пробить даже самую сильную броню интенсивными волнами плазменного огня.
+</ln>
+
+<ln id="ArmoredGolemAI_Full">Бронированный Голем (ИИ)</ln>
+<ln id="ArmoredGolemAI_Short">Бронированный Голем - ИИ</ln>
+
+<ln id="ArmoredGolemAIAdvanced_Full">Бронированный Голем (ИИ)</ln>
+<ln id="ArmoredGolemAIAdvanced_Short">Бронированный Голем - ИИ</ln>
+
+<ln id="ArmoredGolemBroken_Full">Сломанный Бронированный Голем</ln>
+<ln id="ArmoredGolemBroken_Short">Сломанный Бронированный Голем</ln>
+<ln id="ArmoredGolemBroken_Desc">Этот невероятно жёсткий Голем может пробить даже самую сильную броню интенсивными волнами плазменного огня.
+Этот Голем старый и сломанный; он должен быть восстановлен перед тем, как сможет работать.
+У Вас должно быть достаточно энергии, чтобы запитать Голема (200К для Среднего, иначе 20К) перед тем, как он оживёт.</ln>
+
+<ln id="ArtilleryGolem_Full">Голем Артиллерист</ln>
+<ln id="ArtilleryGolem_Short">Голем Артиллерист</ln>
+<ln id="ArtilleryGolem_Desc">Стреляет экстремально мощными артиллеристскими снарядами на дальние расстояния. Очень медленный, жёсткий. Хорош в уничтожении хорошо защищённых целей.
+</ln>
+
+<ln id="ArtilleryGolemAI_Full">Голем Артиллерист (ИИ)</ln>
+<ln id="ArtilleryGolemAI_Short">Голем Артиллерист - ИИ</ln>
+
+<ln id="ArtilleryGolemAIAdvanced_Full">Голем Артиллерист (ИИ)</ln>
+<ln id="ArtilleryGolemAIAdvanced_Short">Голем Артиллерист - ИИ</ln>
+
+<ln id="ArtilleryGolemBroken_Full">Сломанный Голем Артиллерист</ln>
+<ln id="ArtilleryGolemBroken_Short">Сломанный Голем Артиллерист</ln>
+<ln id="ArtilleryGolemBroken_Desc">Стреляет экстремально мощными артиллеристскими снарядами на дальние расстояния. Очень медленный, жёсткий. Хорош в уничтожении хорошо защищённых целей.
+Этот Голем старый и сломанный; он должен быть восстановлен перед тем, как сможет работать.
+У Вас должно быть достаточно энергии, чтобы запитать Голема (150К для Среднего, иначе 15К) перед тем, как он оживёт.</ln>
+
+<ln id="BlackWidowGolem_Full">Голем Чёрная Вдова</ln>
+<ln id="BlackWidowGolem_Short">Голем Чёрная Вдова</ln>
+<ln id="BlackWidowGolem_Desc">Этот быстрый, похожий на паука Голем может поймать и обездвижить большие группы кораблей с помощью множества дальнобойных парализующих тяговых лучей и мощных, уничтожающих двигатели, многострелных пушек.
+</ln>
+
+<ln id="BlackWidowGolemAI_Full">Голем Чёрная Вдова (ИИ)</ln>
+<ln id="BlackWidowGolemAI_Short">Голем Чёрная Вдова - ИИ</ln>
+
+<ln id="BlackWidowGolemAIAdvanced_Full">Голем Чёрная Вдова (ИИ)</ln>
+<ln id="BlackWidowGolemAIAdvanced_Short">Голем Чёрная Вдова - ИИ</ln>
+
+<ln id="BlackWidowGolemBroken_Full">Сломанный Голем Чёрная Голем</ln>
+<ln id="BlackWidowGolemBroken_Short">Сломанный Голем Чёрная Голем</ln>
+<ln id="BlackWidowGolemBroken_Desc">Этот быстрый, похожий на паука Голем может поймать и обездвижить большие группы кораблей с помощью множества дальнобойных парализующих тяговых лучей и мощных, уничтожающих двигатели, многострелных пушек.
+Этот Голем старый и сломанный; он должен быть восстановлен перед тем, как сможет работать.
+У Вас должно быть достаточно энергии, чтобы запитать Голема (170К для Среднего, иначе 17К) перед тем, как он оживёт.</ln>
+
+<ln id="AlarmPost_Full">Пост Тревоги</ln>
+<ln id="AlarmPost_Short">Тревога</ln>
+<ln id="AlarmPost_Desc">Когда Командная Станция ИИ уничтожается на планете Поста Тревоги или на соседней планете, все не-Стражи на текущей планете оставляют свои посты и идут в атаку. Если же атакован или уничтожен сам Пост Тревоги, то шанс потревожить стражей составит 50%.</ln>
+
+<ln id="AlarmPostSpecialForces_Full">Пост Тревоги Специальных Сил</ln>
+<ln id="AlarmPostSpecialForces_Short">Тревога Спец. Сил</ln>
+<ln id="AlarmPostSpecialForces_Desc">Когда Командная Станция ИИ уничтожается на планете Поста Тревоги или на соседней планете, все корабли "специальных сил" по всей галактике становятся агрессивными и атакуют людей. Если же атакован или уничтожен сам Пост Тревоги, то (к счастью) нет шансов пробудить корабли спец. сил.</ln>
+
+<ln id="RaidEngine_Full">Налётчик</ln>
+<ln id="RaidEngine_Short">Налётчик</ln>
+<ln id="RaidEngine_Desc">Запускает грубые волны на свою собственную планету или соседние с ней, если они не под контролем
+ИИ, или если игрок держит на них военные корабли. Если у игрока нет Сенсора на этих планетах,
+то волны будут приходит без предупреждения. Эти волны возврящаются через 4 минуты, содержат смешанные типы кораблей ИИ и используют
+технический уровень планеты, если он выше уровня текущей волны ИИ.</ln>
+
+<ln id="OneShotRaidEngineNoAIP_Full">Однострельный Налётчик</ln>
+<ln id="OneShotRaidEngineNoAIP_Short">ОС Налётчик</ln>
+<ln id="OneShotRaidEngineNoAIP_Desc">Запускает грубые волны на свою собственную планету или соседние с ней, если они не под контролем ИИ, или если игрок держит на них военные корабли. Если у игрока нет Сенсора на этих планетах, то волны будут приходит без предупреждения. Эти волны возврящаются через 4 минуты, содержат смешанные типы кораблей ИИ и используют технический уровень планеты, если он выше уровня текущей волны ИИ.
+
+Это особая структура была куплена у Торговца Zenith'ов и не увеличивает Прогресс ИИ при уничтожении и расходуется после первого срабатывания.</ln>
+
+<ln id="CloakerStarship_Full">Скрытый Звездолёт</ln>
+<ln id="CloakerStarship_Short">Звезд:Скрытый I</ln>
+<ln id="CloakerStarship_Desc">Звездолёт, скрывающий другие корабли рядом с собой, даже если эти корабли обычно не умеют скрываться. Также даёт противоснайперскую и защиту против тёмной материи для всех кораблей рядом с ним.</ln>
+
+<ln id="CloakerStarshipII_Full">Скрытый Звездолёт Модель II</ln>
+<ln id="CloakerStarshipII_Short">Звезд:Скрытый II</ln>
+
+<ln id="CloakerStarshipIII_Full">Скрытый Звездолёт Модель III</ln>
+<ln id="CloakerStarshipIII_Short">Звезд:Скрытый III</ln>
+<ln id="CloakerStarshipIII_Wave">Звездолёты</ln>
+
+<ln id="ZenithElectricBomber_Full">ЭлектроБомбер Zenith'ов</ln>
+<ln id="ZenithElectricBomber_Short">ЭлектроБомбер I</ln>
+<ln id="ZenithElectricBomber_Wave">ЭлектроБомберы</ln>
+<ln id="ZenithElectricBomber_Desc">Большой Бомбардир, обеспечивающий огромную полезную нагрузку.</ln>
+
+<ln id="ZenithElectricBomberII_Full">ЭлектроБомбер Zenith'ов Модель II</ln>
+<ln id="ZenithElectricBomberII_Short">ЭлектроБомбер II</ln>
+
+<ln id="ZenithElectricBomberIII_Full">ЭлектроБомбер Zenith'ов Модель III</ln>
+<ln id="ZenithElectricBomberIII_Short">ЭлектроБомбер III</ln>
+
+<ln id="ZenithElectricBomberIV_Full">ЭлектроБомбер Zenith'ов Модель IV</ln>
+<ln id="ZenithElectricBomberIV_Short">ЭлектроБомбер IV</ln>
+
+<ln id="CoreZenithElectricBomber_Full">ЭлектроБомбер Zenith'ов Модель V</ln>
+<ln id="CoreZenithElectricBomber_Short">ЭлектроБомбер V</ln>
+
+<ln id="SentinelFrigate_Full">Фрегат-Часовой</ln>
+<ln id="SentinelFrigate_Short">Фрегат-Часовой I</ln>
+<ln id="SentinelFrigate_Wave">Фрегат-Часовой</ln>
+<ln id="SentinelFrigate_Desc">Мощный фрегат с экстремально дальнобойными пушкам Энергетических Волн (блокируются противоснайперским укрытием). Включает бортовой улучшенный сенсор.</ln>
+
+<ln id="SentinelFrigateII_Full">Фрегат-Часовой Модель II</ln>
+<ln id="SentinelFrigateII_Short">Фрегат-Часовой II</ln>
+
+<ln id="SentinelFrigateIII_Full">Фрегат-Часовой Модель III</ln>
+<ln id="SentinelFrigateIII_Short">Фрегат-Часовой III</ln>
+
+<ln id="SentinelFrigateIV_Full">Фрегат-Часовой Модель IV</ln>
+<ln id="SentinelFrigateIV_Short">Фрегат-Часовой IV</ln>
+
+<ln id="CoreSentinelFrigate_Full">Фрегат-Часовой Модель V</ln>
+<ln id="CoreSentinelFrigate_Short">Фрегат-Часовой V</ln>
+
+<ln id="ZenithMirror_Full">Зеркало Zenith'ов</ln>
+<ln id="ZenithMirror_Short">Зеркало I</ln>
+<ln id="ZenithMirror_Wave">Зеркала Zenith'ов</ln>
+<ln id="ZenithMirror_Desc">Основная атака средней мощности, но имеет уникальную возможность обращать все выстрелы против атакующего. С такой защитой, часто может нанести этим способом значительно больше урона, чем ему нанесли.
+Может быть повержен площадными или ракетными атаками, которые не может отразить.
+Также не может отразить атаку с более дальнего расстояния, чем сам стреляет.
+
+Прим.: у Зеркала много жизней, но все атакующие наносят ему 10X от нормального повреждения (это убирает любой множитель, который может быть против брони зеркал). Это делает отражение выстрела более опасным.</ln>
+
+<ln id="ZenithMirrorII_Full">Зеркало Zenith'ов Модель II</ln>
+<ln id="ZenithMirrorII_Short">Зеркало II</ln>
+
+<ln id="ZenithMirrorIII_Full">Зеркало Zenith'ов Модель III</ln>
+<ln id="ZenithMirrorIII_Short">Зеркало III</ln>
+
+<ln id="ZenithMirrorIV_Full">Зеркало Zenith'ов Модель IV</ln>
+<ln id="ZenithMirrorIV_Short">Зеркало IV</ln>
+
+<ln id="CoreZenithMirror_Full">Зеркало Zenith'ов Модель V</ln>
+<ln id="CoreZenithMirror_Short">Зеркало V</ln>
+
+<ln id="ZenithParalyzer_Full">Паралич Zenith'ов</ln>
+<ln id="ZenithParalyzer_Short">Паралич I</ln>
+<ln id="ZenithParalyzer_Wave">Параличи Zenith'ов</ln>
+<ln id="ZenithParalyzer_Desc">Очень слабая атака, но наносит временный паралич целям, в которых попадает.
+Отлично работает совместно с другими типами.</ln>
+
+<ln id="ZenithParalyzerII_Full">Паралич Zenith'ов Модель II</ln>
+<ln id="ZenithParalyzerII_Short">Паралич II</ln>
+
+<ln id="ZenithParalyzerIII_Full">Паралич Zenith'ов Модель III</ln>
+<ln id="ZenithParalyzerIII_Short">Паралич III</ln>
+
+<ln id="ZenithParalyzerIV_Full">Паралич Zenith'ов Модель IV</ln>
+<ln id="ZenithParalyzerIV_Short">Паралич IV</ln>
+
+<ln id="CoreZenithParalyzer_Full">Паралич Zenith'ов Модель V</ln>
+<ln id="CoreZenithParalyzer_Short">Паралич V</ln>
+
+<ln id="ShieldBooster_Full">Усилитель Брони</ln>
+<ln id="ShieldBooster_Short">Усилитель Брони I</ln>
+<ln id="ShieldBooster_Wave">Усилители Брони</ln>
+<ln id="ShieldBooster_Desc">Усиливает броню соседних кораблей вашей команды.</ln>
+
+<ln id="ShieldBoosterII_Full">Усилитель Брони Модель II</ln>
+<ln id="ShieldBoosterII_Short">Усилитель Брони II</ln>
+
+<ln id="ShieldBoosterIII_Full">Усилитель Брони Модель III</ln>
+<ln id="ShieldBoosterIII_Short">Усилитель Брони III</ln>
+
+<ln id="ShieldBoosterIV_Full">Усилитель Брони Модель IV</ln>
+<ln id="ShieldBoosterIV_Short">Усилитель Брони IV</ln>
+
+<ln id="CoreShieldBooster_Full">Усилитель Брони Модель V</ln>
+<ln id="CoreShieldBooster_Short">Усилитель Брони V</ln>
+
+<ln id="ZenithBeamFrigate_Full">Лучевой Фрегат Zenith'ов</ln>
+<ln id="ZenithBeamFrigate_Short">Лучевой Фрегат I</ln>
+<ln id="ZenithBeamFrigate_Wave">Лучевые Фрегаты Zenith'ов</ln>
+<ln id="ZenithBeamFrigate_Desc">Стреляет мощным лучевым оружием, которое поражает до 9 вражеских кораблей на линии. Если целей на линии больше, то получающие повреждения выбираются случайно.</ln>
+
+<ln id="ZenithBeamFrigateII_Full">Лучевой Фрегат Zenith'ов Модель II</ln>
+<ln id="ZenithBeamFrigateII_Short">Лучевой Фрегат II</ln>
+
+<ln id="ZenithBeamFrigateIII_Full">Лучевой Фрегат Zenith'ов Модель III</ln>
+<ln id="ZenithBeamFrigateIII_Short">Лучевой Фрегат III</ln>
+
+<ln id="ZenithBeamFrigateIV_Full">Лучевой Фрегат Zenith'ов Модель IV</ln>
+<ln id="ZenithBeamFrigateIV_Short">Лучевой Фрегат IV</ln>
+
+<ln id="CoreZenithBeamFrigate_Full">Лучевой Фрегат Zenith'ов Модель V</ln>
+<ln id="CoreZenithBeamFrigate_Short">Лучевой Фрегат V</ln>
+
+<ln id="MercenaryZenithBeamFrigate_Full">Наёмный Лучевой Фрегат Zenith'ов</ln>
+<ln id="MercenaryZenithBeamFrigate_Short">Наём Лучевой Фрегат</ln>
+<ln id="MercenaryZenithBeamFrigate_Wave">Лучевые Фрегаты Zenith'ов</ln>
+<ln id="MercenaryZenithBeamFrigate_Desc">Стреляет мощным лучевым оружием, которое поражает до 9 вражеских кораблей на линии. Если целей на линии больше, то получающие повреждения выбираются случайно.
+Идентичен Лучевому Фрегату Zenith'ов Модели IV, кроме 10-кратной стоимости и большего предела по количеству.</ln>
+
+<ln id="ZenithChameleon_Full">Хамелеон Zenith'ов</ln>
+<ln id="ZenithChameleon_Short">Хамелеон I</ln>
+<ln id="ZenithChameleon_Wave">Хамелеоны Zenith'ов</ln>
+<ln id="ZenithChameleon_Desc">Бомбардир средней дальности, принимающий образ обломков и неуничтожим, когда не двигается.</ln>
+
+<ln id="ZenithChameleonII_Full">Хамелеон Zenith'ов Модель II</ln>
+<ln id="ZenithChameleonII_Short">Хамелеон II</ln>
+
+<ln id="ZenithChameleonIII_Full">Хамелеон Zenith'ов Модель III</ln>
+<ln id="ZenithChameleonIII_Short">Хамелеон III</ln>
+
+<ln id="ZenithChameleonIV_Full">Хамелеон Zenith'ов Модель IV</ln>
+<ln id="ZenithChameleonIV_Short">Хамелеон IV</ln>
+
+<ln id="CoreZenithChameleon_Full">Хамелеон Zenith'ов Модель V</ln>
+<ln id="CoreZenithChameleon_Short">Хамелеон V</ln>
+
+<ln id="ZenithPolarizer_Full">Поляризатор Zenith'ов</ln>
+<ln id="ZenithPolarizer_Short">Поляризатор I</ln>
+<ln id="ZenithPolarizer_Wave">Поляризаторы Zenith'ов</ln>
+<ln id="ZenithPolarizer_Desc">Высокая бронепробиваемость, наносит больше урона бронированным кораблям.</ln>
+
+<ln id="ZenithPolarizerII_Full">Поляризатор Zenith'ов Модель II</ln>
+<ln id="ZenithPolarizerII_Short">Поляризатор II</ln>
+
+<ln id="ZenithPolarizerIII_Full">Поляризатор Zenith'ов Модель III</ln>
+<ln id="ZenithPolarizerIII_Short">Поляризатор III</ln>
+
+<ln id="ZenithPolarizerIV_Full">Поляризатор Zenith'ов Модель IV</ln>
+<ln id="ZenithPolarizerIV_Short">Поляризатор IV</ln>
+
+<ln id="CoreZenithPolarizer_Full">Поляризатор Zenith'ов Модель V</ln>
+<ln id="CoreZenithPolarizer_Short">Поляризатор V</ln>
+
+<ln id="ZenithViralShredder_Full">Вирусный Шреддер Zenith'ов</ln>
+<ln id="ZenithViralShredder_Short">Вирусный Шреддер I</ln>
+<ln id="ZenithViralShredder_Wave">Вирусные Шреддеры Zenith'ов</ln>
+<ln id="ZenithViralShredder_Desc">Корабль ближнего боя, создающий строительную точку когда атакован, которая создаёт бесплатную копию корабля при достаточном накоплении. Эта репликация стоит части здоровья репликатора, и не произойдёт при низком уровне здоровья. Также, когда владелец контролирует больше шреддеров определённого уровня, чем поддерживает обычное ограничение, очки стоимости репликации возрастают экспоненциально.</ln>
+
+<ln id="ZenithViralShredderII_Full">Вирусный Шреддер Zenith'ов Модель II</ln>
+<ln id="ZenithViralShredderII_Short">Вирусный Шреддер II</ln>
+
+<ln id="ZenithViralShredderIII_Full">Вирусный Шреддер Zenith'ов Модель III</ln>
+<ln id="ZenithViralShredderIII_Short">Вирусный Шреддер III</ln>
+
+<ln id="ZenithViralShredderIV_Full">Вирусный Шреддер Zenith'ов Модель IV</ln>
+<ln id="ZenithViralShredderIV_Short">Вирусный Шреддер IV</ln>
+
+<ln id="CoreZenithViralShredder_Full">Вирусный Шреддер Zenith'ов Модель V</ln>
+<ln id="CoreZenithViralShredder_Short">Вирусный Шреддер V</ln>
+
+<ln id="ImpulseReactionEmitter_Full">Реактивный Излучатель</ln>
+<ln id="ImpulseReactionEmitter_Short">Реактивный Излучатель I</ln>
+<ln id="ImpulseReactionEmitter_Wave">Реактивные Излучатели</ln>
+<ln id="ImpulseReactionEmitter_Desc">Атакует снарядами, реагирующими с источниками энергии врага, нанося больше урона кораблям с высоким потреблением энергии.</ln>
+
+<ln id="ImpulseReactionEmitterII_Full">Реактивный Излучатель Модель II</ln>
+<ln id="ImpulseReactionEmitterII_Short">Реактивный Излучатель II</ln>
+
+<ln id="ImpulseReactionEmitterIII_Full">Реактивный Излучатель Модель III</ln>
+<ln id="ImpulseReactionEmitterIII_Short">Реактивный Излучатель III</ln>
+
+<ln id="ImpulseReactionEmitterIV_Full">Реактивный Излучатель Модель IV</ln>
+<ln id="ImpulseReactionEmitterIV_Short">Реактивный Излучатель IV</ln>
+
+<ln id="CoreImpulseReactionEmitter_Full">Реактивный Излучатель Модель V</ln>
+<ln id="CoreImpulseReactionEmitter_Short">Реактивный Излучатель V</ln>
+
+<ln id="AcidSprayer_Full">Распылитель Кислоты</ln>
+<ln id="AcidSprayer_Short">Распылитель Кислоты I</ln>
+<ln id="AcidSprayer_Wave">Распылители Кислоты</ln>
+<ln id="AcidSprayer_Desc">Стреляет кислотой на близком расстоянии. Хорош в растворении экзотических корпусов.</ln>
+
+<ln id="AcidSprayerII_Full">Распылитель Кислоты Модель II</ln>
+<ln id="AcidSprayerII_Short">Распылитель Кислоты II</ln>
+
+<ln id="AcidSprayerIII_Full">Распылитель Кислоты Модель III</ln>
+<ln id="AcidSprayerIII_Short">Распылитель Кислоты III</ln>
+
+<ln id="AcidSprayerIV_Full">Распылитель Кислоты Модель IV</ln>
+<ln id="AcidSprayerIV_Short">Распылитель Кислоты IV</ln>
+
+<ln id="CoreAcidSprayer_Full">Распылитель Кислоты Модель V</ln>
+<ln id="CoreAcidSprayer_Short">Распылитель Кислоты V</ln>
+
+<ln id="ZenithPowerGenerator_Full">Энергогенератор Zenith'ов</ln>
+<ln id="ZenithPowerGenerator_Short">ЭнерГен Z</ln>
+<ln id="ZenithPowerGenerator_Desc">Продвинутый генератор энергии Zenith'ов, производящий большое количество бесплатной энергии.
+При уничтожении увеличивает Прогресс ИИ.</ln>
+
+<ln id="ZenithSpaceTimeManipulator_Full">Манипулятор П-Временем Zenith'ов</ln>
+<ln id="ZenithSpaceTimeManipulator_Short">П-Вермя Z</ln>
+<ln id="ZenithSpaceTimeManipulator_Desc">Инопланетный корабль, увеличивающий скорость всех дружественных нефракционных кораблей в текущей системе.
+Эффект суммируется при присутствии нескольких Манипуляторов Пространсвом-Временем.</ln>
+
+<ln id="TurretTrain_Full">Турельный Звёздный Поезд</ln>
+<ln id="TurretTrain_Short">Турель ЗвздПоезд I</ln>
+<ln id="TurretTrain_Desc">Почти неуничтожимый робот-курьер. Уничтожьте Звёздные Станции, чтобы изменить маршрут.</ln>
+
+<ln id="TurretTrainII_Full">Турельный Звёздный Поезд Модель II</ln>
+<ln id="TurretTrainII_Short">Турель ЗвздПоезд II</ln>
+
+<ln id="TurretTrainIII_Full">Турельный Звёздный Поезд Модель III</ln>
+<ln id="TurretTrainIII_Short">Турель ЗвздПоезд III</ln>
+
+<ln id="WarbirdStarship_Full">Звездолёт Птица Войны</ln>
+<ln id="WarbirdStarship_Short">Звзд:Птица</ln>
+<ln id="WarbirdStarship_Desc">Экстремально быстрый звездолёт, с системой скрытия и многоприцельной системой энергетического взрыва.
+Хорош в уничтожении целых орд вражеских кораблей.</ln>
+
+<ln id="BeamStarship_Full">Лучевой Звездолёт</ln>
+<ln id="BeamStarship_Short">Звзд:Луч</ln>
+<ln id="BeamStarship_Desc">Стреляет очень мощным дальнобойным лучевым оружием, поражающим до 9 противников на одной линии.</ln>
+
+<ln id="SpeedBooster_Full">Ускоритель</ln>
+<ln id="SpeedBooster_Short">Усил:Ускорение</ln>
+<ln id="SpeedBooster_Desc">Мобильный корабль, ускоряющий дружественные корабли, не принадлежащие фракциям, в текущей системе на небольшое значение.
+Эффект суммируется при присутствии нескольких Ускорителей.</ln>
+
+<ln id="DecoyDrone_Full">Дрон-Приманка</ln>
+<ln id="DecoyDrone_Short">Усил:Приманка</ln>
+<ln id="DecoyDrone_Desc">Жёсткий, с высоким здоровьем корабль, без существенного вооружения. Принимает весь огонь от вражеских кораблей на себя в пределах своей зоны защиты.
+Враги, стреляющие через энергетические поля, (такие, как снайперы и диверсанты) также способны стрелять мимо Приманки.</ln>
+
+<ln id="Translocator_Full">Транслокатор</ln>
+<ln id="Translocator_Short">Усил:Таранслок</ln>
+<ln id="Translocator_Desc">Телепортирующийся Истребитель средней мощности, стреляющий снарядами, которые при попадании телепортируют врагов подальше в пределах текущей планеты.</ln>
+
+<ln id="MicroParasite_Full">Микропаразит</ln>
+<ln id="MicroParasite_Short">Усил:МикроПаразит</ln>
+<ln id="MicroParasite_Desc">Переманивает вражеские корабли, которые убивает (корабль будет иметь здоровье = урон нанесённый переманивателем).
+В целом очень слаб, но весьма умело захватывает для Вас высокоуровневые цели, если выживает.</ln>
+
+<ln id="RegeneratorGolem_Full">Голем Регенератор</ln>
+<ln id="RegeneratorGolem_Short">Regen Голем</ln>
+<ln id="RegeneratorGolem_Desc">Не очень хорош в вооружении, но способен использовать своё собственное здоровье, чтобы воскресить союзные мобильные корабли, убитые на текущей планете. Воскрешенные корабли телепортируются к Голему с полным здоровьем без каких-либо затрат, кроме здоровья Голема. Способность к восстановлению прекращается, когда у Голема остаётся меньше 10% здоровья.</ln>
+
+<ln id="RegeneratorGolemAI_Full">Голем Регенератор (ИИ)</ln>
+<ln id="RegeneratorGolemAI_Short">Голем Регенератор- ИИ</ln>
+
+<ln id="RegeneratorGolemAIAdvanced_Full">Голем Регенератор (ИИ)</ln>
+<ln id="RegeneratorGolemAIAdvanced_Short">Голем Регенератор - ИИ</ln>
+
+<ln id="RegeneratorGolemBroken_Full">Сломанный Голем Регенератор</ln>
+<ln id="RegeneratorGolemBroken_Short">Сломанный Голем Регенератор</ln>
+<ln id="RegeneratorGolemBroken_Desc">Не очень хорош в вооружении, но способен использовать своё собственное здоровье, чтобы воскресить союзные мобильные корабли, убитые на текущей планете. Воскрешенные корабли телепортируются к Голему с полным здоровьем без каких-либо затрат, кроме здоровья Голема. Способность к восстановлению прекращается, когда у Голема остаётся меньше 10% здоровья.
+Этот Голем старый и сломанный; он должен быть восстановлен перед тем, как сможет работать.
+У Вас должно быть достаточно энергии, чтобы запитать Голема (250К для Среднего, иначе 25К) перед тем, как он оживёт.</ln>
+
+<ln id="CursedGolem_Full">Проклятый Голем</ln>
+<ln id="CursedGolem_Short">Проклятый Голем</ln>
+<ln id="CursedGolem_Desc">Проклятый Голем менее долговечен, чем другие големы, но может проецировать свою большую огневую мощь на бесконечное расстояние.</ln>
+
+<ln id="CursedGolemBroken_Full">Сломанный Проклятый Голем</ln>
+<ln id="CursedGolemBroken_Short">Сломанный Проклятый Голем</ln>
+<ln id="CursedGolemBroken_Desc">Проклятый Голем менее долговечен, чем другие големы, но может проецировать свою большую огневую мощь на бесконечное расстояние.
+Этот Голем старый и сломанный; он должен быть восстановлен перед тем, как сможет работать.
+У Вас должно быть достаточно энергии, чтобы запитать Голема (150К для Среднего, иначе 15К) перед тем, как он оживёт.</ln>
+
+<ln id="CoreWarheadInterceptor_Full">Главный Перехватчик Боеголовок</ln>
+<ln id="CoreWarheadInterceptor_Short">Перехватчик Боеголовок</ln>
+<ln id="CoreWarheadInterceptor_Wave">Перехватчики Боеголовок</ln>
+<ln id="CoreWarheadInterceptor_Desc">Продвинутое оружие уничтожает боеголовки (которые взрываются без нанесения урона и влияния на Прогресс ИИ).</ln>
+
+<ln id="OrbitalMassDriver_Full">Орбитальный Драйвер Очистки</ln>
+<ln id="OrbitalMassDriver_Short">Орбитальный Драйвер Очистки</ln>
+<ln id="OrbitalMassDriver_Desc">Продвинутое оружие посылает снаряды, созданные из железных астероидов, наносящий тяжёлые повреждения звездолётам, стражам и големам, но не может стрелять по другим целям.</ln>
+
+<ln id="ExperimentalEngineer_Full">Экспериментальный Инженер</ln>
+<ln id="ExperimentalEngineer_Short">Эксп:Инженер</ln>
+<ln id="ExperimentalEngineer_Desc">Чинит повреждённые корабли или ускоряет строительство других кораблей.
+Если не получает специальную команду на контроллер, то автоматически восстанавливает ближайшие корабли.
+Продвинутый прототип, способный восстановить себя так же, как и другие корабли.</ln>
+
+<ln id="BoosterTrain_Full">Звёздный Поезд Ускоритель</ln>
+<ln id="BoosterTrain_Short">ЗвздПоезд Ускор I</ln>
+<ln id="BoosterTrain_Desc">Почти неуничтожимый робот-курьер. Ускоряет большинство кораблей ИИ на планете. Уничтожьте Звёздные Станции, чтобы изменить маршрут.</ln>
+
+<ln id="BoosterTrainII_Full">Звёздный Поезд Ускоритель Модель II</ln>
+<ln id="BoosterTrainII_Short">ЗвздПоезд Ускор II</ln>
+
+<ln id="BoosterTrainIII_Full">Звёздный Поезд Ускоритель Модель III</ln>
+<ln id="BoosterTrainIII_Short">ЗвздПоезд Ускор III</ln>
+
+<ln id="RegeneratorTrain_Full">Звёздный Поезд Регенератор</ln>
+<ln id="RegeneratorTrain_Short">ЗвздПоезд Реген I</ln>
+<ln id="RegeneratorTrain_Desc">Почти неуничтожимый робот-курьер. Использует своё собственное здоровье, чтобы воскресить мобильные корабли ИИ, уничтоженные на той же планете. Воскрешённые корабли телепортируются на другую планету ИИ с полным здоровьем без затрат, кроме здоровья поезда. Уничтожьте Звёздные Станции, чтобы изменить маршрут.</ln>
+
+<ln id="RegeneratorTrainII_Full">Звёздный Поезд Регенератор Модель II</ln>
+<ln id="RegeneratorTrainII_Short">ЗвздПоезд Реген II</ln>
+
+<ln id="RegeneratorTrainIII_Full">Звёздный Поезд Регенератор Модель III</ln>
+<ln id="RegeneratorTrainIII_Short">ЗвздПоезд Реген III</ln>
+
+<ln id="RadarJammer_Full">Глушитель</ln>
+<ln id="RadarJammer_Short">Глушитель</ln>
+<ln id="RadarJammer_Desc">Уменьшает вдвое эффективную дальность всех кораблей на планете.</ln>
+
+<ln id="RadarJammerII_Full">Глушитель Модель II</ln>
+<ln id="RadarJammerII_Short">Глушитель II</ln>
+<ln id="RadarJammerII_Desc">Уменьшает вдвое эффективную дальность всех вражеских кораблей на планете.</ln>
+
+<ln id="PlanetaryShieldBooster_Full">Планетарный Усилитель</ln>
+<ln id="PlanetaryShieldBooster_Short">Усил. Брони</ln>
+<ln id="PlanetaryShieldBooster_Desc">Даёт бонус к броне всем союзным кораблям на текущей планете, делая их менее восприимчивыми к урону.
+Также, вдвое уменьшает урон по союзным силовым полям.</ln>
+
+<ln id="PlanetaryShieldInhibitor_Full">(Стар.) Планетарный Ингибитор</ln>
+<ln id="PlanetaryShieldInhibitor_Short">Ингибитор</ln>
+<ln id="PlanetaryShieldInhibitor_Desc">Отключает броню вражеских кораблей на текущей планете, делая их более восприимчивыми к урону.
+Также отключает вражеские силовые поля.
+
+Это старая версия юнита, и она создаётся только читами.</ln>
+
+<ln id="NewPlanetaryArmorInhibitor_Full">Планетарный Ингибитор</ln>
+<ln id="NewPlanetaryArmorInhibitor_Short">Инг. Брони</ln>
+<ln id="NewPlanetaryArmorInhibitor_Desc">Отключает броню вражеских кораблей на текущей планете, делая их более восприимчивыми к урону.
+Также наносит вражеским силовым полям двойной урон.</ln>
+
+<ln id="InterplanetaryMunitionsBooster_Full">Межпланетарный Усилитель Боеприпасов</ln>
+<ln id="InterplanetaryMunitionsBooster_Short">Интер Усил Боеп</ln>
+<ln id="InterplanetaryMunitionsBooster_Desc">Удваивает силу атаки союзных кораблей на этой планете и на всех соседних планетах.</ln>
+
+<ln id="BlackHoleMachine_Full">Машина Чёрной Дыры</ln>
+<ln id="BlackHoleMachine_Short">Машина Чёрной Дыры</ln>
+<ln id="BlackHoleMachine_Desc">Предотвращает возможность вражеских кораблей (кроме Скаутов) уйти с этой планеты через червоточины,
+хотя вражеские корабли могут входить на планету через червоточины как обычно.</ln>
+
+<ln id="BlackHoleMachineNoAIP_Desc">Предотвращает возможность вражеских кораблей (кроме Скаутов) уйти с этой планеты через червоточины,
+хотя вражеские корабли могут входить на планету через червоточины как обычно.
+
+Это особая структура была куплена у Торговца Zenith'ов и не увеличивает Прогресс ИИ при уничтожении.</ln>
+
+<ln id="GravityDrillStation_Full">Станция-Гравидрель</ln>
+<ln id="GravityDrillStation_Short">Гравидрель</ln>
+<ln id="GravityDrillStation_Desc">Большая станция, проделывающая дыру в пространстве-времени, чтобы создать энергию и металл для игрока, владеющего ей. Также становится причиной планетарного эффекта, уменьшающего скорость большинства кораблей.</ln>
+
+<ln id="ZenithReserveShipsI_Full">Резерв Zenith'ов</ln>
+<ln id="ZenithReserveShipsI_Short">Резерв Z I</ln>
+<ln id="ZenithReserveShipsI_Desc">Уничтожьте, чтобы получить большой набор кораблей Zenith'ов Модели I в собственное использование (в счёт роста Прогресса ИИ).
+Даёт большое количество кораблей, которые сразу же активируются, поэтому убедитесь, что у Вас имеется от 20К до 40К доступной энергии, чтобы их содержать.</ln>
+
+<ln id="ZenithReserveShipsII_Full">Резерв Zenith'ов Модель II</ln>
+<ln id="ZenithReserveShipsII_Short">Резерв Z II</ln>
+<ln id="ZenithReserveShipsII_Desc">Уничтожьте, чтобы получить большой набор кораблей Zenith'ов Модели II в собственное использование (в счёт роста Прогресса ИИ).
+Даёт большое количество кораблей, которые сразу же активируются, поэтому убедитесь, что у Вас имеется от 20К до 40К доступной энергии, чтобы их содержать.</ln>
+
+<ln id="ZenithReserveShipsIII_Full">Резерв Zenith'ов Модель III</ln>
+<ln id="ZenithReserveShipsIII_Short">Резерв Z III</ln>
+<ln id="ZenithReserveShipsIII_Desc">Уничтожьте, чтобы получить большой набор кораблей Zenith'ов Модели III в собственное использование (в счёт роста Прогресса ИИ).
+Даёт большое количество кораблей, которые сразу же активируются, поэтому убедитесь, что у Вас имеется от 20К до 40К доступной энергии, чтобы их содержать.</ln>
+
+<ln id="ZenithReserveShipsIV_Full">Резерв Zenith'ов Модель IV</ln>
+<ln id="ZenithReserveShipsIV_Short">Резерв Z IV</ln>
+<ln id="ZenithReserveShipsIV_Desc">Уничтожьте, чтобы получить большой набор кораблей Zenith'ов Модели IV в собственное использование (в счёт роста Прогресса ИИ).
+Даёт большое количество кораблей, которые сразу же активируются, поэтому убедитесь, что у Вас имеется от 20К до 40К доступной энергии, чтобы их содержать.</ln>
+
+<ln id="ZenithReserveShipsV_Full">Резерв Zenith'ов Модель V</ln>
+<ln id="ZenithReserveShipsV_Short">Резерв Z V</ln>
+<ln id="ZenithReserveShipsV_Desc">Уничтожьте, чтобы получить большой набор кораблей Zenith'ов Модели V в собственное использование (в счёт роста Прогресса ИИ).
+Даёт большое количество кораблей, которые сразу же активируются, поэтому убедитесь, что у Вас имеется от 20К до 40К доступной энергии, чтобы их содержать.</ln>
+
+<ln id="DistributionNode_Full">Точка Распределения</ln>
+<ln id="DistributionNode_Short">Распределение</ln>
+<ln id="DistributionNode_Desc">Уничтожьте, чтобы получить значительный кусок металла (от 600К до 800К) для игрока, разрушившего его (в счёт роста Прогресса ИИ).</ln>
+
+<ln id="AICoProcessor_Full">Со-Процессор ИИ</ln>
+<ln id="AICoProcessor_Short">Со-Процессор ИИ</ln>
+<ln id="AICoProcessor_Desc">Уничтожение Со-Процессора обычно увеличивает Прогресс ИИ на 20.
+Тем не менее, при уничтожении последнего Со-Процессора, Прогресс ИИ упадёт на значительный уровень - 120 (105 на сложности 8+, 90 на сложности 9+), так что идеально было бы уничтожить их одновременно.
+Со-Процессоры также имеют поддержку на своих планетах.</ln>
+
+<ln id="AISuperTerminal_Full">Супертерминал ИИ</ln>
+<ln id="AISuperTerminal_Short">Супертерминал ИИ</ln>
+<ln id="AISuperTerminal_Desc">Когда люди захватят планету, на которой он находится, он предоставит прямой доступ к главной сети ИИ, с помощью которого можно сильно повредить возможности обработки данных для ИИ. Периодически (примерно раз в 5 сек.) он уменьшает Прогресс ИИ на 1, но с другой стороны, увеличивает минимальный уровень Прогресса ИИ на 0.2 (0.25 на сложности 8+, 0.33 на сложности 9+). При каждой итеррации терминал будет создавать корабли ИИ (не всегда прямо из терминала) пропорционально количеству очков Взлома, совершённого до сих пор людьми в течение игры (включая уменьшение Прогресса ИИ через Терминал). Для получения описания Прогресса ИИ, наведите курсор мыши на изображение величины Прогресса ИИ вверху экрана. Большинство создаваемых кораблей - зомби, которые очень агрессивны и имеют иммунитет к переманиванию.
+
+Через определённое время защитная реакция терминала, вероятно, станет подавляющей, так что убедитесь, что сможете уничтожить терминал прежде, чем потеряете контроль над планетой, иначе Вы можете проиграть.</ln>
+
+<ln id="EMPMine_Full">Мина Вдовы</ln>
+<ln id="EMPMine_Short">Мина Вдовы</ln>
+<ln id="EMPMine_Wave">Мины Вдовы</ln>
+<ln id="EMPMine_Desc">Вражеские корабли, проходящие слишком близко к этой невидимой ловушке, получат тяжёлый урон. Минное поле тоже получает урон и уничтожается.  
+
+Корабль, попавший в минное поле и выживший, парализуется на 10 секунд и получает урон двигателю. Парализация и урон двигателю (но не урон корпусу) также действует на рядом стоящие корабли. Очень полезно для остановки крупных кораблей, у которых нет способности избегать мины или иммунитета к параличу.</ln>
+
+<ln id="EMPMineRemains_Full">Мина Вдовы (Останки)</ln>
+<ln id="EMPMineRemains_Short">Останки Мины Вдовы</ln>
+<ln id="EMPMineRemains_Desc">Бесполезные останки взорвавшейся Мины Вдовы. Уничтожьте, чтобы расчистить область для застройки или прикажите Восстановителю Останков восстановить их. 
+
+Останки, принадлежащие врагу, могут быть собраны Дроном Очистки.</ln>
+
+<ln id="AreaMine_Full">Минное Поле</ln>
+<ln id="AreaMine_Short">Поле Мин</ln>
+<ln id="AreaMine_Wave">Минные Поля</ln>
+<ln id="AreaMine_Desc">Вражеские корабли, проходящие слишком близко к этой невидимой ловушке, получат урон. Минное Поле тоже получает урон и уничтожается.
+
+Взрыв от этого минного поля действует на ближайшие корабли. Очевидно, они полезны в уничтожении больших групп кораблей, но они также полезны для повреждения кораблей, способных обходить мины -- эти корабли могут получить урон от взрыва Минного Поля, которое сработало из-за другого корабля.</ln>
+
+<ln id="AreaMineRemains_Full">Минное Поле (Останки)</ln>
+<ln id="AreaMineRemains_Short">Останки Минного Поля</ln>
+<ln id="AreaMineRemains_Desc">Бесполезные останки взорвавшейся Минного Поля. Уничтожьте, чтобы расчистить область для застройки или прикажите Восстановителю Останков восстановить их. 
+
+Останки, принадлежащие врагу, могут быть собраны Дроном Очистки.</ln>
+
+<ln id="HiveGolem_Full">Голем Улей</ln>
+<ln id="HiveGolem_Short">Голем Улей</ln>
+<ln id="HiveGolem_Desc">Большой, медленный транспорт, который автоматически со временем наполняется до 500 маленькими осиными кораблями. Когда осы выгружаются, они автоматически распространяются и атакуют вражеские корабли на текущей планете; ими нельзя управлять, они не покидают планету и медленно теряют здоровье в течение 3х минут.</ln>
+
+<ln id="HiveGolemBroken_Full">Сломанный Голем Улей</ln>
+<ln id="HiveGolemBroken_Short">Сломанный Голем Улей</ln>
+<ln id="HiveGolemBroken_Desc">Большой, медленный транспорт, который автоматически со временем наполняется до 500 маленькими осиными кораблями. Когда осы выгружаются, они автоматически распространяются и атакуют вражеские корабли на текущей планете; ими нельзя управлять, они не покидают планету и медленно теряют здоровье в течение 3х минут.
+Этот Голем старый и сломанный; он должен быть восстановлен перед тем, как сможет работать.
+У Вас должно быть достаточно энергии, чтобы запитать Голема (200К для Среднего, иначе 20К) перед тем, как он оживёт.</ln>
+
+<ln id="Wasp_Full">Оса</ln>
+<ln id="Wasp_Short">Оса</ln>
+<ln id="Wasp_Desc">Очень быстрый и противный рукопашный корабль -- теряет здоровье в течение 3х минут, затем саморазрушается.
+Создаётся Големом Ульем, при разгрузке не контролируется, но атакует врагов на своей планете. Игроки не могут отдавать прямых приказов Осам.</ln>
+
+<ln id="BotnetGolem_Full">Голем Ботнет</ln>
+<ln id="BotnetGolem_Short">Голем Ботнет</ln>
+<ln id="BotnetGolem_Desc">Переманивает вражеские корабли, которых убивает (здоровье этих кораблей = полный урон, нанесённый големом). Переманенные корабли становятся Зомби Ботами, которых нельзя контролировать, но они будут беспощадно атаковать врагов, пока не погибнут. Зомби Боты полетят на планету врага, если врагов на их планете нет, и не могут быть переманены. Этот Голем не может атаковать неподвижные цели, неатакующие корабли или с иммунитетом к переманиванию.</ln>
+
+<ln id="BotnetGolemAI_Full">Botnet Голем (AI)</ln>
+<ln id="BotnetGolemAI_Short">Botnet Голем - AI</ln>
+
+<ln id="BotnetGolemBroken_Full">Сломанный Голем Ботнет</ln>
+<ln id="BotnetGolemBroken_Short">Сломанный Голем Ботнет</ln>
+<ln id="BotnetGolemBroken_Desc">Переманивает вражеские корабли, которых убивает (здоровье этих кораблей = полный урон, нанесённый големом). Переманенные корабли становятся Зомби Ботами, которых нельзя контролировать, но они будут беспощадно атаковать врагов, пока не погибнут. Зомби Боты полетят на планету врага, если врагов на их планете нет, и не могут быть переманены. Этот Голем не может атаковать неподвижные цели, неатакующие корабли или с иммунитетом к переманиванию.
+Этот Голем старый и сломанный; он должен быть восстановлен перед тем, как сможет работать.
+У Вас должно быть достаточно энергии, чтобы запитать Голема (800К для Среднего, иначе 80К) перед тем, как он оживёт.</ln>
+
+<ln id="DevourerGolem_Full">Голем Пожиратель</ln>
+<ln id="DevourerGolem_Short">Голем Пожиратель</ln>
+<ln id="DevourerGolem_Desc">Этот неуничтожимый Голем медленно перемещается по галактике, поглощая все 
+мобильные военные корабли не Модели V на планете, которую посещает, чтобы усилить и починить себя.  
+Его атакующая мощь так высока, что он мгновенно уничтожает большинство кораблей, 
+Но он атакует только корабли не Модели V, которые подвижны и обладают способностью стрелять (или Скаутов).
+Единственный способ выжить - улететь на другую планету, пока пожиратель не улетит.</ln>
+
+<ln id="MiningGolem_Full">Голем Шахтёр</ln>
+<ln id="MiningGolem_Short">Голем Шахтёр</ln>
+<ln id="MiningGolem_Desc">Этот Голем прибыл из глубокого космоса с одной целью: поглотить планету, к которой движется.
+Он будет стрелять по человеческим кораблям, которые приблизятся к нему, но также испускает особый сигнал, чтобы корабли ИИ воспринимали его как безвредного.
+Поглощение планеты потребует времени, но как только это произойдёт, то произойдёт подобный взрыв, как будто сработало 
+ядерное оружие -- уничтожение всех ресурсов и делая планету неспособной предоставлять ресурсы.
+Этот процесс влияет на корабли на планете, поэтому это не вызовет роста Прогресса ИИ, если была поглощена планета ИИ.</ln>
+
+<ln id="ZenithTradeShip_Full">Торговый Корабль Zenith'ов</ln>
+<ln id="ZenithTradeShip_Short">Торговец Z</ln>
+<ln id="ZenithTradeShip_Desc">Эти нейтральные (и неуязвимые) торговцы рады торговать с людьми и ИИ, хотя они требуют много взамен, а их изделия различаются для ИИ и для людей. Торговый корабль медленно путешествует по галактике, и получив поддержку от Вашей команды, вся команда сможет использовать его, чтобы строить очень дорогие и мощные корабли, которые нельзя построить никаким другим способом. ИИ будет использовать его, чтобы построить новые Врата или Звёздные Станции, но они делают покупки в 1% случаев, когда торговец выходит из их системы.</ln>
+
+<ln id="DysonSphereGolem_Full">Голем Сфера Дайсона</ln>
+<ln id="DysonSphereGolem_Short">Сфера Дайсона</ln>
+<ln id="DysonSphereGolem_Desc">Этот массивный неподвижный Голем скрывается на краю орбиты планеты -- обычное оружие не может нанести ему урон. 
+Если Вы освободите планету от ИИ, сфера поймёт Ваши добрые намерения и поможет на соседних планетах.
+Если Вы захватите планету, то сфера будет атаковать Вас, пока Вы не сдадите планету.</ln>
+
+<ln id="DysonGatling_Full">Гатлинг Дайсона</ln>
+<ln id="DysonGatling_Short">Гатлинг Дайсона</ln>
+<ln id="DysonGatling_Desc">Этот крупногабаритный, автоматизированный инопланетный корабль стреляет молниеносными энергетическими всплесками на большую дистанцию.
+В зависимости от настроя Сферы Дайсона на момент своего создания, они будут атаковать либо ИИ, либо людей.
+
+Нейтральный Гатлинг Дайсона не может стрелять по целям Модели V.
+Нейтральные или дружественные к людям Гатлинги Дайсона не атакуют цели ИИ, которые могут выпустить корабли ИИ (Охранные Посты, Командные Станции, и т.п.).</ln>
+</root>

@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<!--Notes:  You do not need to localize the _AltOrder entries, unless you need to make them consistent with the prefix sorting.  Those are for sorting only.-->
+<ln id="None">Нет</ln>
+
+<!--1. General Achievements-->
+<ln id="FirstLoss">1. Первое поражение</ln>
+<ln id="FirstLoss_Desc">Проиграть ИИ любого уровня сложности.</ln>
+
+<ln id="First10Loss">1. Первое поражение на 10-м уровне ИИ</ln>
+<ln id="First10Loss_Desc">Проиграть ИИ на 10-м уровне сложности или выше.</ln>
+
+<ln id="FirstVictory_Silver">1. Первая победа</ln>
+<ln id="FirstVictory_Silver_Desc">Выиграй у ИИ любого уровня сложности.</ln>
+
+<ln id="FirstCoOpGameComplete">1. Первая совместная игра</ln>
+<ln id="FirstCoOpGameComplete_Desc">Закончи игру, играя совместно хотя бы с одним игроком.</ln>
+
+<ln id="PointsFiveHundredK_Ingame_Bronze">1. 500 000 очков</ln>
+<ln id="PointsFiveHundredK_Ingame_Bronze_Desc">Набери пятьсот тысяч очков в матче.</ln>
+<ln id="PointsFiveHundredK_Ingame_Bronze_AltOrder">1. Points 1</ln>
+
+<ln id="PointsOneMillion_Ingame_Silver">1. 1 000 000 очков</ln>
+<ln id="PointsOneMillion_Ingame_Silver_Desc">Набери один миллион очков в матче.</ln>
+<ln id="PointsOneMillion_Ingame_Silver_AltOrder">1. Points 2</ln>
+
+<ln id="PointsFiveMillion_Ingame_Silver">1. 5 000 000 очков</ln>
+<ln id="PointsFiveMillion_Ingame_Silver_Desc">Набери пять миллионов очков в матче.</ln>
+<ln id="PointsFiveMillion_Ingame_Silver_AltOrder">1. Points 3</ln>
+
+<ln id="PointsTenMillion_Ingame_Gold">1. 10 000 000 очков</ln>
+<ln id="PointsTenMillion_Ingame_Gold_Desc">Набери десять миллионов очков в матче.</ln>
+<ln id="PointsTenMillion_Ingame_Gold_AltOrder">1. Points 4</ln>
+
+<ln id="TimeOneHour_Ingame_Bronze">1. Разминка: 1 час кампании</ln>
+<ln id="TimeOneHour_Ingame_Bronze_Desc">Продержись один час согласно счётчику времени кампании.</ln>
+<ln id="TimeOneHour_Ingame_Bronze_AltOrder">1. Time 1</ln>
+
+<ln id="TimeFiveHours_Ingame_Bronze">1. Втянулся: 5 часов кампании</ln>
+<ln id="TimeFiveHours_Ingame_Bronze_Desc">Продержись пять часов согласно счётчику времени кампании.</ln>
+<ln id="TimeFiveHours_Ingame_Bronze_AltOrder">1. Time 2</ln>
+
+<ln id="TimeTenHours_Ingame_Bronze">1. Конец близко? 10 часов кампании</ln>
+<ln id="TimeTenHours_Ingame_Bronze_Desc">Продержись десять часов согласно счётчику времени кампании.</ln>
+<ln id="TimeTenHours_Ingame_Bronze_AltOrder">1. Time 3</ln>
+
+<ln id="TimeFifteenHours_Ingame_Silver">1. Долгая игра: 15 часов кампании</ln>
+<ln id="TimeFifteenHours_Ingame_Silver_Desc">Продержись пятнадцать часов согласно счётчику времени кампании.</ln>
+<ln id="TimeFifteenHours_Ingame_Silver_AltOrder">1. Time 4</ln>
+
+<ln id="TimeTwentyFourHours_Ingame_Gold">1. Упорный: 24 часа кампании</ln>
+<ln id="TimeTwentyFourHours_Ingame_Gold_Desc">Продержись сутки согласно счётчику времени кампании.</ln>
+<ln id="TimeTwentyFourHours_Ingame_Gold_AltOrder">1. Time 5</ln>
+
+<ln id="TimeThirtySixHours_Ingame_Gold">1. Эпическая битва: 36 часов кампании</ln>
+<ln id="TimeThirtySixHours_Ingame_Gold_Desc">Продержись тридцать шесть часов согласно счётчику времени кампании.</ln>
+<ln id="TimeThirtySixHours_Ingame_Gold_AltOrder">1. Time 6</ln>
+
+<ln id="Kill30K_Ingame_Bronze">1. Убийца: Воин</ln>
+<ln id="Kill30K_Ingame_Bronze_Desc">Уничтожь не менее 30 000 кораблей в матче.</ln>
+<ln id="Kill30K_Ingame_Bronze_AltOrder">1. Kills 1</ln>
+
+<ln id="Kill75K_Ingame_Silver">1. Убийца: Безжалостный</ln>
+<ln id="Kill75K_Ingame_Silver_Desc">Уничтожь не менее 75 000 кораблей в матче.</ln>
+<ln id="Kill75K_Ingame_Silver_AltOrder">1. Kills 2</ln>
+
+<ln id="Kill200K_Ingame_Gold">1. Убийца: Геноцид</ln>
+<ln id="Kill200K_Ingame_Gold_Desc">Уничтожь не менее 200 000 кораблей в матче.</ln>
+<ln id="Kill200K_Ingame_Gold_AltOrder">1. Kills 3</ln>
+
+<ln id="Lose30K_Ingame_Bronze">1. Потери: Мы переживём это</ln>
+<ln id="Lose30K_Ingame_Bronze_Desc">Потеряй не менее 30 000 кораблей в матче.</ln>
+<ln id="Lose30K_Ingame_Bronze_AltOrder">1. Losses 1</ln>
+
+<ln id="Lose75K_Ingame_Silver">1. Потери: Ради общего блага</ln>
+<ln id="Lose75K_Ingame_Silver_Desc">Потеряй не менее 75 000 кораблей в матче.</ln>
+<ln id="Lose75K_Ingame_Silver_AltOrder">1. Losses 2</ln>
+
+<ln id="Lose200K_Ingame_Gold">1. Потери: Что мы наделали...</ln>
+<ln id="Lose200K_Ingame_Gold_Desc">Потеряй не менее 200 000 кораблей в матче.</ln>
+<ln id="Lose200K_Ingame_Gold_AltOrder">1. Losses 3</ln>
+
+<ln id="Energy50kExcess_Ingame_Bronze">1. На чёрный день: 300 000 энергии</ln>
+<ln id="Energy50kExcess_Ingame_Bronze_Desc">Достигни мощности энергосети 300 000 единиц.</ln>
+<ln id="Energy50kExcess_Ingame_Bronze_AltOrder">1. Energy 1</ln>
+
+<ln id="Energy150kExcess_Ingame_Silver">1. Забота о будущем: 600 000 энергии</ln>
+<ln id="Energy150kExcess_Ingame_Silver_Desc">Достигни мощности энергосети 600 000 единиц.</ln>
+<ln id="Energy150kExcess_Ingame_Silver_AltOrder">1. Energy 2</ln>
+
+<ln id="Energy300kExcess_Ingame_Silver">1. Гасите свет! 900 000 энергии</ln>
+<ln id="Energy300kExcess_Ingame_Silver_Desc">Достигни мощности энергосети 900 000 единиц.</ln>
+<ln id="Energy300kExcess_Ingame_Silver_AltOrder">1. Energy 3</ln>
+
+<ln id="Energy2mExcess_Ingame_Gold">1. Кто-нибудь читал эти планы? 12 000 000 энергии</ln>
+<ln id="Energy2mExcess_Ingame_Gold_Desc">Достигни мощности энергосети 12 000 000 единиц.</ln>
+<ln id="Energy2mExcess_Ingame_Gold_AltOrder">1. Energy 3</ln>
+
+<ln id="Reclaim1K_Ingame_Bronze">1. Переманивание: О, клёво!</ln>
+<ln id="Reclaim1K_Ingame_Bronze_Desc">Перемани не менее 1 000 вражеских кораблей за матч.</ln>
+<ln id="Reclaim1K_Ingame_Bronze_AltOrder">1. Reclamation 1</ln>
+
+<ln id="Reclaim5K_Ingame_Silver">1. Переманивание: Вор</ln>
+<ln id="Reclaim5K_Ingame_Silver_Desc">Перемани не менее 5 000 вражеских кораблей за матч.</ln>
+<ln id="Reclaim5K_Ingame_Silver_AltOrder">1. Reclamation 2</ln>
+
+<ln id="Reclaim15K_Ingame_Gold">1. Переманивание: Опытный вор</ln>
+<ln id="Reclaim15K_Ingame_Gold_Desc">Перемани не менее 15 000 вражеских кораблей за матч.</ln>
+<ln id="Reclaim15K_Ingame_Gold_AltOrder">1. Reclamation 3</ln>
+
+<ln id="Reclaim30K_Ingame_Gold">1. Переманивание: Я люблю паразитировать</ln>
+<ln id="Reclaim30K_Ingame_Gold_Desc">Перемани не менее 30 000 вражеских кораблей за матч.</ln>
+<ln id="Reclaim30K_Ingame_Gold_AltOrder">1. Reclamation 4</ln>
+
+<ln id="Scrap100_Ingame_Bronze">1. Утиль: Мне нужен металлолом!</ln>
+<ln id="Scrap100_Ingame_Bronze_Desc">Утилизируй не менее 100 кораблей за матч.</ln>
+<ln id="Scrap100_Ingame_Bronze_AltOrder">1. Scrap 1</ln>
+
+<ln id="Scrap1000_Ingame_Bronze">1. Утиль: Не понравился их вид</ln>
+<ln id="Scrap1000_Ingame_Bronze_Desc">Утилизируй не менее 1 000 кораблей за матч.</ln>
+<ln id="Scrap1000_Ingame_Bronze_AltOrder">1. Scrap 2</ln>
+
+<ln id="Scrap10000_Ingame_Silver">1. Утиль: Складывай их в кучу</ln>
+<ln id="Scrap10000_Ingame_Silver_Desc">Утилизируй не менее 10 000 кораблей за матч.</ln>
+<ln id="Scrap10000_Ingame_Silver_AltOrder">1. Scrap 3</ln>
+
+<ln id="Scrap20000_Ingame_Gold">1. Утиль: Зачем ты их строишь?</ln>
+<ln id="Scrap20000_Ingame_Gold_Desc">Утилизируй не менее 20 000 кораблей за матч.</ln>
+<ln id="Scrap20000_Ingame_Gold_AltOrder">1. Scrap 4</ln>
+
+<ln id="Control2Planets_Ingame_Bronze">1. Владение 2</ln>
+<ln id="Control2Planets_Ingame_Bronze_Desc">Ваша команда должна владеть двумя планетами помимо домашних.</ln>
+<ln id="Control2Planets_Ingame_Bronze_AltOrder">1. Control 1</ln>
+
+<ln id="Control5Planets_Ingame_Bronze">1. Владение 5</ln>
+<ln id="Control5Planets_Ingame_Bronze_Desc">Ваша команда должна владеть пятью планетами помимо домашних.</ln>
+<ln id="Control5Planets_Ingame_Bronze_AltOrder">1. Control 2</ln>
+
+<ln id="Control15Planets_Ingame_Bronze">1. Владение 15</ln>
+<ln id="Control15Planets_Ingame_Bronze_Desc">Ваша команда должна владеть пятнадцатью планетами помимо домашних.</ln>
+<ln id="Control15Planets_Ingame_Bronze_AltOrder">1. Control 3</ln>
+
+<ln id="Control25Planets_Ingame_Silver">1. Владение 25</ln>
+<ln id="Control25Planets_Ingame_Silver_Desc">Ваша команда должна владеть двадцатью пятью планетами помимо домашних.</ln>
+<ln id="Control25Planets_Ingame_Silver_AltOrder">1. Control 4</ln>
+
+<ln id="Control35Planets_Ingame_Silver">1. Владение 35</ln>
+<ln id="Control35Planets_Ingame_Silver_Desc">Ваша команда должна владеть тридцатью пятью планетами помимо домашних.</ln>
+<ln id="Control35Planets_Ingame_Silver_AltOrder">1. Control 5</ln>
+
+<ln id="Win10Planets_Ingame_Bronze">1. Победа на карте с 10 планетами</ln>
+<ln id="Win10Planets_Ingame_Bronze_Desc">Выиграй кампанию на карте с десятью планетами.</ln>
+<ln id="Win10Planets_Ingame_Bronze_AltOrder">1. Win 1</ln>
+
+<ln id="Win40Planets_Ingame_Silver">1. Победа на карте с 40 планетами</ln>
+<ln id="Win40Planets_Ingame_Silver_Desc">Выиграй кампанию на карте с сорока планетами.</ln>
+<ln id="Win40Planets_Ingame_Silver_AltOrder">1. Win 2</ln>
+
+<ln id="Win80Planets_Ingame_Silver">1. Победа на карте с 80 планетами</ln>
+<ln id="Win80Planets_Ingame_Silver_Desc">Выиграй кампанию на карте с восьмьюдесятью планетами.</ln>
+<ln id="Win80Planets_Ingame_Silver_AltOrder">1. Win 3</ln>
+
+<ln id="Win100Planets_Ingame_Gold">1. Победа на карте со 100 планетами</ln>
+<ln id="Win100Planets_Ingame_Gold_Desc">Выиграй кампанию на карте с сотней планет.</ln>
+<ln id="Win100Planets_Ingame_Gold_AltOrder">1. Win 4</ln>
+
+<ln id="Win120Planets_Ingame_Gold">1. Победа на карте со 120 планетами</ln>
+<ln id="Win120Planets_Ingame_Gold_Desc">Выиграй кампанию на карте со ста двадцатью планетами.</ln>
+<ln id="Win120Planets_Ingame_Gold_AltOrder">1. Win 5</ln>
+
+<!--2. Basic AI Types-->
+<ln id="Detrencher_Bronze">2. Разрушитель окопов</ln>
+<ln id="Detrencher_Bronze_Desc">Победи Окопавшегося на любой сложности.</ln>
+
+<ln id="Detrencher_Silver">2. Разрушитель окопов</ln>
+<ln id="Detrencher_Silver_Desc">Победи Окопавшегося на сложности 7 или выше.</ln>
+
+<ln id="Detrencher_Gold">2. Разрушитель окопов</ln>
+<ln id="Detrencher_Gold_Desc">Победи Окопавшегося на сложности 9 или выше.</ln>
+
+<ln id="FortBuster_Bronze">2. Осада крепости</ln>
+<ln id="FortBuster_Bronze_Desc">Победи Повелителя крепости на любой сложности.</ln>
+
+<ln id="FortBuster_Silver">2. Осада крепости</ln>
+<ln id="FortBuster_Silver_Desc">Победи Повелителя крепости на сложности 7 или выше.</ln>
+
+<ln id="FortBuster_Gold">2. Осада крепости</ln>
+<ln id="FortBuster_Gold_Desc">Победи Повелителя крепости на сложности 9 или выше.</ln>
+
+<ln id="BrokenSledge_Bronze">2. Сломанный молот</ln>
+<ln id="BrokenSledge_Bronze_Desc">Победи Молота на любой сложности.</ln>
+
+<ln id="BrokenSledge_Silver">2. Сломанный молот</ln>
+<ln id="BrokenSledge_Silver_Desc">Победи Молота на сложности 7 или выше.</ln>
+
+<ln id="BrokenSledge_Gold">2. Сломанный молот</ln>
+<ln id="BrokenSledge_Gold_Desc">Победи Молота на сложности 9 или выше.</ln>
+
+<ln id="TurtleSoup_Bronze">2. Черепаший суп</ln>
+<ln id="TurtleSoup_Bronze_Desc">Победи Черепаху на любой сложности.</ln>
+
+<ln id="TurtleSoup_Silver">2. Черепаший суп</ln>
+<ln id="TurtleSoup_Silver_Desc">Победи Черепаху на сложности 7 или выше.</ln>
+
+<ln id="TurtleSoup_Gold">2. Черепаший суп</ln>
+<ln id="TurtleSoup_Gold_Desc">Победи Черепаху на сложности 9 или выше.</ln>
+
+<ln id="TrainWreck_Bronze">2. Под откос</ln>
+<ln id="TrainWreck_Bronze_Desc">Победи Машиниста на любой сложности.</ln>
+
+<ln id="TrainWreck_Silver">2. Под откос</ln>
+<ln id="TrainWreck_Silver_Desc">Победи Машиниста на сложности 7 или выше.</ln>
+
+<ln id="TrainWreck_Gold">2. Под откос</ln>
+<ln id="TrainWreck_Gold_Desc">Победи Машиниста на сложности 9 или выше.</ln>
+
+<ln id="WhatADud_Bronze">2. Невзорвавшаяся мина</ln>
+<ln id="WhatADud_Bronze_Desc">Победи Миноукладчика на любой сложности.</ln>
+
+<ln id="WhatADud_Silver">2. Невзорвавшаяся мина</ln>
+<ln id="WhatADud_Silver_Desc">Победи Миноукладчика на сложности 7 или выше.</ln>
+
+<ln id="WhatADud_Gold">2. Невзорвавшаяся мина</ln>
+<ln id="WhatADud_Gold_Desc">Победи Миноукладчика на сложности 9 или выше.</ln>
+
+<ln id="TankBuster_Bronze">2. Противотанковый снаряд</ln>
+<ln id="TankBuster_Bronze_Desc">Победи Танка на любой сложности.</ln>
+
+<ln id="TankBuster_Silver">2. Противотанковый снаряд</ln>
+<ln id="TankBuster_Silver_Desc">Победи Танка на сложности 7 или выше.</ln>
+
+<ln id="TankBuster_Gold">2. Противотанковый снаряд</ln>
+<ln id="TankBuster_Gold_Desc">Победи Танка на сложности 9 или выше.</ln>
+
+<!--3. Moderate AI Types-->
+<ln id="RaidFail_Bronze">3. Провальный рейд</ln>
+<ln id="RaidFail_Bronze_Desc">Победи Налётчика на любой сложности.</ln>
+
+<ln id="RaidFail_Silver">3. Провальный рейд</ln>
+<ln id="RaidFail_Silver_Desc">Победи Налётчика на сложности 7 или выше.</ln>
+
+<ln id="RaidFail_Gold">3. Провальный рейд</ln>
+<ln id="RaidFail_Gold_Desc">Победи Налётчика на сложности 9 или выше.</ln>
+
+<ln id="TrulyMad_Bronze">3. Настоящий псих</ln>
+<ln id="TrulyMad_Bronze_Desc">Победи Сумасшедшего бомбиста на любой сложности.</ln>
+
+<ln id="TrulyMad_Silver">3. Настоящий псих</ln>
+<ln id="TrulyMad_Silver_Desc">Победи Сумасшедшего бомбиста на сложности 7 или выше.</ln>
+
+<ln id="TrulyMad_Gold">3. Настоящий псих</ln>
+<ln id="TrulyMad_Gold_Desc">Победи Сумасшедшего бомбиста на сложности 9 или выше.</ln>
+
+<ln id="NotHungry_Bronze">3. Дезинфектор</ln>
+<ln id="NotHungry_Bronze_Desc">Победи Паразита на любой сложности.</ln>
+
+<ln id="NotHungry_Silver">3. Дезинфектор</ln>
+<ln id="NotHungry_Silver_Desc">Победи Паразита на сложности 7 или выше.</ln>
+
+<ln id="NotHungry_Gold">3. Дезинфектор</ln>
+<ln id="NotHungry_Gold_Desc">Победи Паразита на сложности 9 или выше.</ln>
+
+<ln id="ISawThat_Bronze">3. Я тебя видел</ln>
+<ln id="ISawThat_Bronze_Desc">Победи Мастера Маскировки на любой сложности.</ln>
+
+<ln id="ISawThat_Silver">3. Я тебя видел</ln>
+<ln id="ISawThat_Silver_Desc">Победи Мастера Маскировки на сложности 7 или выше.</ln>
+
+<ln id="ISawThat_Gold">3. Я тебя видел</ln>
+<ln id="ISawThat_Gold_Desc">Победи Мастера Маскировки на сложности 9 или выше.</ln>
+
+<ln id="CounterThis_Bronze">3. Мастер шпионажа</ln>
+<ln id="CounterThis_Bronze_Desc">Победи Контршпиона на любой сложности.</ln>
+
+<ln id="CounterThis_Silver">3. Мастер шпионажа</ln>
+<ln id="CounterThis_Silver_Desc">Победи Контршпиона на сложности 7 или выше.</ln>
+
+<ln id="CounterThis_Gold">3. Мастер шпионажа</ln>
+<ln id="CounterThis_Gold_Desc">Победи Контршпиона на сложности 9 или выше.</ln>
+
+<ln id="ElectricTurtleSoup_Bronze">3. Горячий черепаший суп</ln>
+<ln id="ElectricTurtleSoup_Bronze_Desc">Победи Телепортирующуюся Черепаху на любой сложности.</ln>
+
+<ln id="ElectricTurtleSoup_Silver">3. Горячий черепаший суп</ln>
+<ln id="ElectricTurtleSoup_Silver_Desc">Победи Телепортирующуюся Черепаху на сложности 7 или выше.</ln>
+
+<ln id="ElectricTurtleSoup_Gold">3. Горячий черепаший суп</ln>
+<ln id="ElectricTurtleSoup_Gold_Desc">Победи Телепортирующуюся Черепаху на сложности 9 или выше.</ln>
+
+<ln id="CaughtInTheAct_Bronze">3. Пойман с поличным</ln>
+<ln id="CaughtInTheAct_Bronze_Desc">Победи Взломщика на любой сложности.</ln>
+
+<ln id="CaughtInTheAct_Silver">3. Пойман с поличным</ln>
+<ln id="CaughtInTheAct_Silver_Desc">Победи Взломщика на сложности 7 или выше.</ln>
+
+<ln id="CaughtInTheAct_Gold">3. Пойман с поличным</ln>
+<ln id="CaughtInTheAct_Gold_Desc">Победи Взломщика на сложности 9 или выше.</ln>
+
+<ln id="BrokenLegs_Bronze">3. Костолом</ln>
+<ln id="BrokenLegs_Bronze_Desc">Победи Ассасина на любой сложности.</ln>
+
+<ln id="BrokenLegs_Silver">3. Костолом</ln>
+<ln id="BrokenLegs_Silver_Desc">Победи Ассасина на сложности 7 или выше.</ln>
+
+<ln id="BrokenLegs_Gold">3. Костолом</ln>
+<ln id="BrokenLegs_Gold_Desc">Победи Ассасина на сложности 9 или выше.</ln>
+
+<ln id="PickOnSomeoneElse_Bronze">3. Задирай другого</ln>
+<ln id="PickOnSomeoneElse_Bronze_Desc">Победи Задиру на любой сложности.</ln>
+
+<ln id="PickOnSomeoneElse_Silver">3. Задирай другого</ln>
+<ln id="PickOnSomeoneElse_Silver_Desc">Победи Задиру на сложности 7 или выше.</ln>
+
+<ln id="PickOnSomeoneElse_Gold">3. Задирай другого</ln>
+<ln id="PickOnSomeoneElse_Gold_Desc">Победи Задиру на сложности 9 или выше.</ln>
+
+<!--3. Minor Factions-->
+<ln id="AreWeNotOnTheSameSide_Silver">3. Разве мы не на одной стороне?</ln>
+<ln id="AreWeNotOnTheSameSide_Silver_Desc">Победи с включённой фракцией Мародёры на любой сложности.</ln>
+
+<ln id="LookAtMyFriends_Bronze">3. Поглядите на моих друзей!</ln>
+<ln id="LookAtMyFriends_Bronze_Desc">Победи с включённой фракцией Бойцы Сопротивления на любой сложности.</ln>
+
+<ln id="TemperTantrums_Silver">3. Приступ гнева</ln>
+<ln id="TemperTantrums_Silver_Desc">Победи с включённой фракцией Восставшие Колонии на любой сложности.</ln>
+
+<ln id="WonWithAstroTrains_Bronze">3. Цена измены</ln>
+<ln id="WonWithAstroTrains_Bronze_Desc">Выиграйти с включённым Космическим Поездом ИИ (интенсивность >= 4) на любой сложности.</ln>
+
+<!--4. Hard AI Types-->
+<ln id="TheGlowSlowlyDies_Bronze">4. Меркнущий свет</ln>
+<ln id="TheGlowSlowlyDies_Bronze_Desc">Победи Кровопийцу на любой сложности.</ln>
+
+<ln id="TheGlowSlowlyDies_Silver">4. Меркнущий свет</ln>
+<ln id="TheGlowSlowlyDies_Silver_Desc">Победи Кровопийцу на сложности 7 или выше.</ln>
+
+<ln id="TheGlowSlowlyDies_Gold">4. Меркнущий свет</ln>
+<ln id="TheGlowSlowlyDies_Gold_Desc">Победи Кровопийцу на сложности 9 или выше.</ln>
+
+<ln id="IAmBadlyBurned_Bronze">4. Сильный ожог</ln>
+<ln id="IAmBadlyBurned_Bronze_Desc">Победи Выжигателя на любой сложности.</ln>
+
+<ln id="IAmBadlyBurned_Silver">4. Сильный ожог</ln>
+<ln id="IAmBadlyBurned_Silver_Desc">Победи Выжигателя на сложности 7 или выше.</ln>
+
+<ln id="IAmBadlyBurned_Gold">4. Сильный ожог</ln>
+<ln id="IAmBadlyBurned_Gold_Desc">Победи Выжигателя на сложности 9 или выше.</ln>
+
+<ln id="TurnOnTheLights_Bronze">4. Да будет свет</ln>
+<ln id="TurnOnTheLights_Bronze_Desc">Победи Повелителя тени на любой сложности.</ln>
+
+<ln id="TurnOnTheLights_Silver">4. Да будет свет</ln>
+<ln id="TurnOnTheLights_Silver_Desc">Победи Повелителя тени на сложности 7 или выше.</ln>
+
+<ln id="TurnOnTheLights_Gold">4. Да будет свет</ln>
+<ln id="TurnOnTheLights_Gold_Desc">Победи Повелителя тени на сложности 9 или выше.</ln>
+
+<ln id="ManDown_Bronze">4. Боец ранен!</ln>
+<ln id="ManDown_Bronze_Desc">Победи Командира спецназа на любой сложности.</ln>
+
+<ln id="ManDown_Silver">4. Боец ранен!</ln>
+<ln id="ManDown_Silver_Desc">Победи Командира спецназа на сложности 7 или выше.</ln>
+
+<ln id="ManDown_Gold">4. Боец ранен!</ln>
+<ln id="ManDown_Gold_Desc">Победи Командира спецназа на сложности 9 или выше.</ln>
+
+<ln id="TechnoHouse_Bronze">4. Технодом</ln>
+<ln id="TechnoHouse_Bronze_Desc">Победи Окопавшегося технолога на любой сложности.</ln>
+
+<ln id="TechnoHouse_Silver">4. Технодом</ln>
+<ln id="TechnoHouse_Silver_Desc">Победи Окопавшегося технолога на сложности 7 или выше.</ln>
+
+<ln id="TechnoHouse_Gold">4. Технодом</ln>
+<ln id="TechnoHouse_Gold_Desc">Победи Окопавшегося технолога на сложности 9 или выше.</ln>
+
+<ln id="TechnoDancer_Bronze">4. Танцор техно</ln>
+<ln id="TechnoDancer_Bronze_Desc">Победи Налётчика-технолога на любой сложности.</ln>
+
+<ln id="TechnoDancer_Silver">4. Танцор техно</ln>
+<ln id="TechnoDancer_Silver_Desc">Победи Налётчика-технолога на сложности 7 или выше.</ln>
+
+<ln id="TechnoDancer_Gold">4. Танцор техно</ln>
+<ln id="TechnoDancer_Gold_Desc">Победи Налётчика-технолога на сложности 9 или выше.</ln>
+
+<ln id="FancyHammer_Bronze">4. Элитный молот</ln>
+<ln id="FancyHammer_Bronze_Desc">Победи Молота-технолога на любой сложности.</ln>
+
+<ln id="FancyHammer_Silver">4. Элитный молот</ln>
+<ln id="FancyHammer_Silver_Desc">Победи Молота-технолога на сложности 7 или выше.</ln>
+
+<ln id="FancyHammer_Gold">4. Элитный молот</ln>
+<ln id="FancyHammer_Gold_Desc">Победи Молота-технолога на сложности 9 или выше.</ln>
+
+<ln id="IvoryTower_Bronze">4. Башня из слоновой кости</ln>
+<ln id="IvoryTower_Bronze_Desc">Победи Черепаху-технолога на любой сложности.</ln>
+
+<ln id="IvoryTower_Silver">4. Башня из слоновой кости</ln>
+<ln id="IvoryTower_Silver_Desc">Победи Черепаху-технолога на сложности 7 или выше.</ln>
+
+<ln id="IvoryTower_Gold">4. Башня из слоновой кости</ln>
+<ln id="IvoryTower_Gold_Desc">Победи Черепаху-технолога на сложности 9 или выше.</ln>
+
+<ln id="UltimateLeech_Bronze">4. Суперпиявка</ln>
+<ln id="UltimateLeech_Bronze_Desc">Победи Паразита-технолога на любой сложности.</ln>
+
+<ln id="UltimateLeech_Silver">4. Суперпиявка</ln>
+<ln id="UltimateLeech_Silver_Desc">Победи Паразита-технолога на сложности 7 или выше.</ln>
+
+<ln id="UltimateLeech_Gold">4. Суперпиявка</ln>
+<ln id="UltimateLeech_Gold_Desc">Победи Паразита-технолога на сложности 9 или выше.</ln>
+
+<ln id="PeeledAndRoasted_Bronze">4. Раскатанный в блин</ln>
+<ln id="PeeledAndRoasted_Bronze_Desc">Победи Ядро на любой сложности.</ln>
+
+<ln id="PeeledAndRoasted_Silver">4. Раскатанный в блин</ln>
+<ln id="PeeledAndRoasted_Silver_Desc">Победи Ядро на сложности 7 или выше.</ln>
+
+<ln id="PeeledAndRoasted_Gold">4. Раскатанный в блин</ln>
+<ln id="PeeledAndRoasted_Gold_Desc">Победи Ядро на сложности 9 или выше.</ln>
+
+<!--4. AI Plots-->
+
+<ln id="WonWithAvenger_Gold">4. Может ли что-нибудь Вас остановить?</ln>
+<ln id="WonWithAvenger_Gold_Desc">Победи с включеным сценарием Мститель на любой сложности.</ln>
+
+<!--5. Very Hard Challenges-->
+<ln id="ExtremeKSaver_Ingame_Gold">5. Хранитель тайн</ln>
+<ln id="ExtremeKSaver_Ingame_Gold_Desc">Накопи 50,000 единиц Науки в игре.</ln>
+
+<ln id="MaxedOutResources_Ingame_Gold">5. Забит до отказа</ln>
+<ln id="MaxedOutResources_Ingame_Gold_Desc">Накопи 999,999 единиц металла и кристаллов в игре.</ln>
+
+<ln id="First10Victory_Gold">5. Совершенный</ln>
+<ln id="First10Victory_Gold_Desc">Победи ИИ на уровне сложности 10 или выше.</ln>
+<ln id="First10Victory_Gold_AltOrder">5. Совершенный 1</ln>
+
+<ln id="FirstDouble10Victory_Gold">5. Дважды Совершенный</ln>
+<ln id="FirstDouble10Victory_Gold_Desc">Победи двух ИИ на уровне сложности 10 или выше.</ln>
+<ln id="FirstDouble10Victory_Gold_AltOrder">5. Совершенный 2</ln>
+
+<ln id="Full10Victory_Gold">5. Богоподобный</ln>
+<ln id="Full10Victory_Gold_Desc">Победи ИИ на уровне сложности 10 или выше, без положительного гандикапа у людей и отрицательного у ИИ.</ln>
+<ln id="Full10Victory_Gold_AltOrder">5. Совершенный 3</ln>
+
+<ln id="Full10DoubleVictory_Gold">5. Дважды Богоподобный</ln>
+<ln id="Full10DoubleVictory_Gold_Desc">Победи двух ИИ на уровне сложности 10 или выше, без положительного гандикапа у людей и отрицательного у ИИ.</ln>
+<ln id="Full10DoubleVictory_Gold_AltOrder">5. Совершенный 4</ln>
+
+<ln id="WinGameWithNukedGalaxy_Gold">5. Есть только один способ убедиться</ln>
+<ln id="WinGameWithNukedGalaxy_Gold_Desc">Выиграть против 2 ИИ после ядерного удара. По. Каждой. Отдельной. Планете. В. Галактике.</ln>
+<ln id="WinGameWithNukedGalaxy_Gold_AltOrder">5. Ядерное уничтожение 1</ln>
+
+<ln id="Control50Planets_Ingame_Gold">5. Владение 50</ln>
+<ln id="Control50Planets_Ingame_Gold_Desc">Ваша команда должна владеть пятьюдесятью планетами помимо домашних.</ln>
+<ln id="Control50Planets_Ingame_Gold_AltOrder">5. Владение 1</ln>
+
+<ln id="Control80Planets_Ingame_Gold">5. Владение 80</ln>
+<ln id="Control80Planets_Ingame_Gold_Desc">Ваша команда должна владеть восьмьюдесятью планетами помимо домашних.</ln>
+<ln id="Control80Planets_Ingame_Gold_AltOrder">5. Владение 2</ln>
+
+<ln id="Control110Planets_Ingame_Gold">5. Владение 110</ln>
+<ln id="Control110Planets_Ingame_Gold_Desc">Ваша команда должна владеть ста десятью планетами помимо домашних.</ln>
+<ln id="Control110Planets_Ingame_Gold_AltOrder">5. Владение 3</ln>
+
+<ln id="Length">Длина</ln>
+
+<ln id="1Prefix">1.</ln>
+<ln id="2Prefix">2.</ln>
+<ln id="3Prefix">3.</ln>
+<ln id="4Prefix">4.</ln>
+<ln id="5Prefix">5.</ln>
+</root>

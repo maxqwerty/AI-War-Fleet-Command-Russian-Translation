@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<ln id="SurveyMarker">Субкосмический Сигнал</ln>
+<ln id="Shard">Осколок</ln>
+<ln id="SurveyShip">Корабль Исследования</ln>
+<ln id="SubspaceReceiver">Субкосмический Приёмник</ln>
+<ln id="RefugeeShip">Корабль Беженцев</ln>
+<ln id="RefugeeOutpost">Застава Беженцев</ln>
+<ln id="SpireFrigate">Фрегат Spire'ов</ln>
+<ln id="SpireColonyShip">Корабль Колония Spire'ов</ln>
+<ln id="SpireCityFacility">Городской Комплекс Spire'ов</ln>
+<ln id="SpireDestroyer">Уничтожитель Spire'ов</ln>
+<ln id="SpireCruiser">Крейсер Spire'ов</ln>
+<ln id="SpireBattleship">Линкор Spire'ов</ln>
+<ln id="SpireDreadnought">Дредноут Spire'ов</ln>
+<ln id="SpireSuperDreadnought">Супер Дредноут Spire'ов</ln>
+<ln id="SpireArmorRotter">Бронированная Дрянь</ln>
+<ln id="SpireBladeSpawner">Спаунер Лезвий</ln>
+<ln id="SpireBlade">Лезвие Spire'ов</ln>
+<ln id="SpireGravityDrain">ГравиСток</ln>
+<ln id="SpireGravityRipper">ГравиРиппер</ln>
+<ln id="SpireMaw">Пасть</ln>
+<ln id="SpireMiniRam">Мини Таран</ln>
+<ln id="SpireStealthBattleship">Хитрый Линкор</ln>
+<ln id="SpireTeleportingLeech">Телепортирующийся Лич</ln>
+<ln id="SpireTractorPlatform">Тяговая Платформа</ln>
+<ln id="SpireCivilians">Гражданские Spire'ов</ln>
+<ln id="SpirecraftAttritioner">SC Истощитель</ln>
+<ln id="SpirecraftImplosion">SC Имплозия</ln>
+<ln id="SpirecraftIon">SC Транс</ln>
+<ln id="SpirecraftJumpship">SC Прыгун</ln>
+<ln id="SpirecraftMartyr">SC Мученик</ln>
+<ln id="SpirecraftPenetrator">SC Вторгатель</ln>
+<ln id="SpirecraftRam">SC Таран</ln>
+<ln id="SpirecraftScout">SC Скаут</ln>
+<ln id="SpirecraftShieldBearer">SC Щитоносец</ln>
+<ln id="SpirecraftSiegeTower">SC Осадная Башня</ln>
+<ln id="SpireExoGalacticTransceiver">Экзогалактический Трансивер</ln>
+<ln id="AIBeachhead">Плацдарм ИИ</ln>
+</root>

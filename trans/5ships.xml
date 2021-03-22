@@ -62,136 +62,136 @@
 
 Эта особая командная станция представляет собой усиленную версию и вооружена мощным дальнобойным "отбрасывающим" рельсотроном, который отбрасывает большинство юнитов подальше от станции.</ln>
 
-<ln id="AIGuardPost_Sniper_Full">ИИ Снайпер Охранный Пост</ln>
+<ln id="AIGuardPost_Sniper_Full">ИИ Снайпер Караульный Пост</ln>
 <ln id="AIGuardPost_Sniper_Short">Пост (Снайпер I)</ln>
 <ln id="AIGuardPost_Sniper_Desc">Вооружён мощными рельсотронами с бесконечной дальностью поражения.</ln>
-<ln id="AIGuardPost_SniperII_Full">ИИ Снайпер Охранный Пост Модель II</ln>
+<ln id="AIGuardPost_SniperII_Full">ИИ Снайпер Караульный Пост Модель II</ln>
 <ln id="AIGuardPost_SniperII_Short">Пост (Снайпер II)</ln>
-<ln id="AIGuardPost_SniperIII_Full">ИИ Снайпер Охранный Пост Модель III</ln>
+<ln id="AIGuardPost_SniperIII_Full">ИИ Снайпер Караульный Пост Модель III</ln>
 <ln id="AIGuardPost_SniperIII_Short">Пост (Снайпер III)</ln>
-<ln id="AIGuardPost_SniperIV_Full">ИИ Снайпер Охранный Пост Модель IV</ln>
+<ln id="AIGuardPost_SniperIV_Full">ИИ Снайпер Караульный Пост Модель IV</ln>
 <ln id="AIGuardPost_SniperIV_Short">Пост (Снайпер IV)</ln>
-<ln id="AIGuardPost_SniperV_Full">ИИ Снайпер Охранный Пост Модель V</ln>
+<ln id="AIGuardPost_SniperV_Full">ИИ Снайпер Караульный Пост Модель V</ln>
 <ln id="AIGuardPost_SniperV_Short">Пост (Снайпер V)</ln>
 
-<ln id="AIGuardPost_Spider_Full">ИИ Паук Охранный Пост</ln>
+<ln id="AIGuardPost_Spider_Full">ИИ Паук Караульный Пост</ln>
 <ln id="AIGuardPost_Spider_Short">Пост (Паук I)</ln>
 <ln id="AIGuardPost_Spider_Desc">Вооружён тяжёлым "дробовиковым" оружием, созданным для уничтожения двигателей вражеских юнитов.</ln>
-<ln id="AIGuardPost_SpiderII_Full">ИИ Паук Охранный Пост Модель II</ln>
+<ln id="AIGuardPost_SpiderII_Full">ИИ Паук Караульный Пост Модель II</ln>
 <ln id="AIGuardPost_SpiderII_Short">Пост (Паук II)</ln>
-<ln id="AIGuardPost_SpiderIII_Full">ИИ Паук Охранный Пост Модель III</ln>
+<ln id="AIGuardPost_SpiderIII_Full">ИИ Паук Караульный Пост Модель III</ln>
 <ln id="AIGuardPost_SpiderIII_Short">Пост (Паук III)</ln>
-<ln id="AIGuardPost_SpiderIV_Full">ИИ Паук Охранный Пост Модель IV</ln>
+<ln id="AIGuardPost_SpiderIV_Full">ИИ Паук Караульный Пост Модель IV</ln>
 <ln id="AIGuardPost_SpiderIV_Short">Пост (Паук IV)</ln>
-<ln id="AIGuardPost_SpiderV_Full">ИИ Паук Охранный Пост Модель V</ln>
+<ln id="AIGuardPost_SpiderV_Full">ИИ Паук Караульный Пост Модель V</ln>
 <ln id="AIGuardPost_SpiderV_Short">Пост (Паук V)</ln>
 
-<ln id="AIGuardPost_Tractor_Full">ИИ Тягач Охранный Пост</ln>
+<ln id="AIGuardPost_Tractor_Full">ИИ Тягач Караульный Пост</ln>
 <ln id="AIGuardPost_Tractor_Short">Пост (Тягач I)</ln>
 <ln id="AIGuardPost_Tractor_Desc">В дополнение к своему оружию, имеет батарею тяговых лучей.</ln>
-<ln id="AIGuardPost_TractorII_Full">ИИ Тягач Охранный Пост Модель II</ln>
+<ln id="AIGuardPost_TractorII_Full">ИИ Тягач Караульный Пост Модель II</ln>
 <ln id="AIGuardPost_TractorII_Short">Пост (Тягач II)</ln>
-<ln id="AIGuardPost_TractorIII_Full">ИИ Тягач Охранный Пост Модель III</ln>
+<ln id="AIGuardPost_TractorIII_Full">ИИ Тягач Караульный Пост Модель III</ln>
 <ln id="AIGuardPost_TractorIII_Short">Пост (Тягач III)</ln>
-<ln id="AIGuardPost_TractorIV_Full">ИИ Тягач Охранный Пост Модель IV</ln>
+<ln id="AIGuardPost_TractorIV_Full">ИИ Тягач Караульный Пост Модель IV</ln>
 <ln id="AIGuardPost_TractorIV_Short">Пост (Тягач IV)</ln>
-<ln id="AIGuardPost_TractorV_Full">ИИ Тягач Охранный Пост Модель V</ln>
+<ln id="AIGuardPost_TractorV_Full">ИИ Тягач Караульный Пост Модель V</ln>
 <ln id="AIGuardPost_TractorV_Short">Пост (Тягач V)</ln>
 
-<ln id="AIGuardPost_Widow_Full">ИИ Вдова Охранный Пост</ln>
+<ln id="AIGuardPost_Widow_Full">ИИ Вдова Караульный Пост</ln>
 <ln id="AIGuardPost_Widow_Short">Пост (Вдова I)</ln>
 <ln id="AIGuardPost_Widow_Desc">В дополнение к своему оружию, имеет батарею тяговых лучей, которые также парализуют своих жертв.</ln>
-<ln id="AIGuardPost_WidowII_Full">ИИ Вдова Охранный Пост Модель II</ln>
+<ln id="AIGuardPost_WidowII_Full">ИИ Вдова Караульный Пост Модель II</ln>
 <ln id="AIGuardPost_WidowII_Short">Пост (Вдова II)</ln>
-<ln id="AIGuardPost_WidowIII_Full">ИИ Вдова Охранный Пост Модель III</ln>
+<ln id="AIGuardPost_WidowIII_Full">ИИ Вдова Караульный Пост Модель III</ln>
 <ln id="AIGuardPost_WidowIII_Short">Пост (Вдова III)</ln>
-<ln id="AIGuardPost_WidowIV_Full">ИИ Вдова Охранный Пост Модель IV</ln>
+<ln id="AIGuardPost_WidowIV_Full">ИИ Вдова Караульный Пост Модель IV</ln>
 <ln id="AIGuardPost_WidowIV_Short">Пост (Вдова IV)</ln>
-<ln id="AIGuardPost_WidowV_Full">ИИ Вдова Охранный Пост Модель V</ln>
+<ln id="AIGuardPost_WidowV_Full">ИИ Вдова Караульный Пост Модель V</ln>
 <ln id="AIGuardPost_WidowV_Short">Пост (Вдова V)</ln>
 
-<ln id="AIGuardPost_Tachyon_Full">ИИ Тахионный Охранный Пост</ln>
+<ln id="AIGuardPost_Tachyon_Full">ИИ Тахионный Караульный Пост</ln>
 <ln id="AIGuardPost_Tachyon_Short">Пост (Тахион I)</ln>
 <ln id="AIGuardPost_Tachyon_Desc">В дополнение к своему оружию, имеет мощный тахионный излучатель для поиска скрывающихся юнитов.</ln>
-<ln id="AIGuardPost_TachyonII_Full">ИИ Тахионный Охранный Пост Модель II</ln>
+<ln id="AIGuardPost_TachyonII_Full">ИИ Тахионный Караульный Пост Модель II</ln>
 <ln id="AIGuardPost_TachyonII_Short">Пост (Тахион II)</ln>
-<ln id="AIGuardPost_TachyonIII_Full">ИИ Тахионный Охранный Пост Модель III</ln>
+<ln id="AIGuardPost_TachyonIII_Full">ИИ Тахионный Караульный Пост Модель III</ln>
 <ln id="AIGuardPost_TachyonIII_Short">Пост (Тахион III)</ln>
-<ln id="AIGuardPost_TachyonIV_Full">ИИ Тахионный Охранный Пост Модель IV</ln>
+<ln id="AIGuardPost_TachyonIV_Full">ИИ Тахионный Караульный Пост Модель IV</ln>
 <ln id="AIGuardPost_TachyonIV_Short">Пост (Тахион IV)</ln>
-<ln id="AIGuardPost_TachyonV_Full">ИИ Тахионный Охранный Пост Модель V</ln>
+<ln id="AIGuardPost_TachyonV_Full">ИИ Тахионный Караульный Пост Модель V</ln>
 <ln id="AIGuardPost_TachyonV_Short">Пост (Тахион V)</ln>
 
-<ln id="AIGuardPost_Gravity_Full">ИИ Гравитационный Охранный Пост</ln>
+<ln id="AIGuardPost_Gravity_Full">ИИ Гравитационный Караульный Пост</ln>
 <ln id="AIGuardPost_Gravity_Short">Пост (Грави I)</ln>
 <ln id="AIGuardPost_Gravity_Desc">В дополнение к своему оружию, имеет гравитационный генератор, замедляющий ближайших врагов.</ln>
-<ln id="AIGuardPost_GravityII_Full">ИИ Гравитационный Охранный Пост Модель II</ln>
+<ln id="AIGuardPost_GravityII_Full">ИИ Гравитационный Караульный Пост Модель II</ln>
 <ln id="AIGuardPost_GravityII_Short">Пост (Грави II)</ln>
-<ln id="AIGuardPost_GravityIII_Full">ИИ Гравитационный Охранный Пост Модель III</ln>
+<ln id="AIGuardPost_GravityIII_Full">ИИ Гравитационный Караульный Пост Модель III</ln>
 <ln id="AIGuardPost_GravityIII_Short">Пост (Грави III)</ln>
-<ln id="AIGuardPost_GravityIV_Full">ИИ Гравитационный Охранный Пост Модель IV</ln>
+<ln id="AIGuardPost_GravityIV_Full">ИИ Гравитационный Караульный Пост Модель IV</ln>
 <ln id="AIGuardPost_GravityIV_Short">Пост (Грави IV)</ln>
-<ln id="AIGuardPost_GravityV_Full">ИИ Гравитационный Охранный Пост Модель V</ln>
+<ln id="AIGuardPost_GravityV_Full">ИИ Гравитационный Караульный Пост Модель V</ln>
 <ln id="AIGuardPost_GravityV_Short">Пост (Грави V)</ln>
 
-<ln id="AIGuardPost_MunitionsBoosting_Full">ИИ Усилитель Боеприпасов Охранный Пост</ln>
+<ln id="AIGuardPost_MunitionsBoosting_Full">ИИ Усилитель Боеприпасов Караульный Пост</ln>
 <ln id="AIGuardPost_MunitionsBoosting_Short">Пост (Усилитель Боеприпасов I)</ln>
 <ln id="AIGuardPost_MunitionsBoosting_Desc">В дополнение к своему оружию, усиливает атакующую мощь ближайших союзников.</ln>
-<ln id="AIGuardPost_MunitionsBoostingII_Full">ИИ Усилитель Боеприпасов Охранный Пост Модель II</ln>
+<ln id="AIGuardPost_MunitionsBoostingII_Full">ИИ Усилитель Боеприпасов Караульный Пост Модель II</ln>
 <ln id="AIGuardPost_MunitionsBoostingII_Short">Пост (Усилитель Боеприпасов II)</ln>
-<ln id="AIGuardPost_MunitionsBoostingIII_Full">ИИ Усилитель Боеприпасов Охранный Пост Модель III</ln>
+<ln id="AIGuardPost_MunitionsBoostingIII_Full">ИИ Усилитель Боеприпасов Караульный Пост Модель III</ln>
 <ln id="AIGuardPost_MunitionsBoostingIII_Short">Пост (Усилитель Боеприпасов III)</ln>
-<ln id="AIGuardPost_MunitionsBoostingIV_Full">ИИ Усилитель Боеприпасов Охранный Пост Модель IV</ln>
+<ln id="AIGuardPost_MunitionsBoostingIV_Full">ИИ Усилитель Боеприпасов Караульный Пост Модель IV</ln>
 <ln id="AIGuardPost_MunitionsBoostingIV_Short">Пост (Усилитель Боеприпасов IV)</ln>
-<ln id="AIGuardPost_MunitionsBoostingV_Full">ИИ Усилитель Боеприпасов Охранный Пост Модель V</ln>
+<ln id="AIGuardPost_MunitionsBoostingV_Full">ИИ Усилитель Боеприпасов Караульный Пост Модель V</ln>
 <ln id="AIGuardPost_MunitionsBoostingV_Short">Пост (Усилитель Боеприпасов V)</ln>
 
-<ln id="AIGuardPost_Plasma_Full">ИИ Плазменный Охранный Пост</ln>
+<ln id="AIGuardPost_Plasma_Full">ИИ Плазменный Караульный Пост</ln>
 <ln id="AIGuardPost_Plasma_Short">Пост (Плазма I)</ln>
 <ln id="AIGuardPost_Plasma_Desc">Фактически построен вокруг мощной плазменной пушки, наносящей интенсивный урон одиночной цели и уменьшенный урон по площади вокруг цели. При стрельбе по силовому полю, наносит урон нескольким целям под этим полем.</ln>
-<ln id="AIGuardPost_PlasmaII_Full">ИИ Плазменный Охранный Пост Модель II</ln>
+<ln id="AIGuardPost_PlasmaII_Full">ИИ Плазменный Караульный Пост Модель II</ln>
 <ln id="AIGuardPost_PlasmaII_Short">Пост (Плазма II)</ln>
-<ln id="AIGuardPost_PlasmaIII_Full">ИИ Плазменный Охранный Пост Модель III</ln>
+<ln id="AIGuardPost_PlasmaIII_Full">ИИ Плазменный Караульный Пост Модель III</ln>
 <ln id="AIGuardPost_PlasmaIII_Short">Пост (Плазма III)</ln>
-<ln id="AIGuardPost_PlasmaIV_Full">ИИ Плазменный Охранный Пост Модель IV</ln>
+<ln id="AIGuardPost_PlasmaIV_Full">ИИ Плазменный Караульный Пост Модель IV</ln>
 <ln id="AIGuardPost_PlasmaIV_Short">Пост (Плазма IV)</ln>
-<ln id="AIGuardPost_PlasmaV_Full">ИИ Плазменный Охранный Пост Модель V</ln>
+<ln id="AIGuardPost_PlasmaV_Full">ИИ Плазменный Караульный Пост Модель V</ln>
 <ln id="AIGuardPost_PlasmaV_Short">Пост (Плазма V)</ln>
 
-<ln id="AIGuardPost_Enclave_Full">ИИ Анклав Охранный Пост</ln>
+<ln id="AIGuardPost_Enclave_Full">ИИ Анклав Караульный Пост</ln>
 <ln id="AIGuardPost_Enclave_Short">Пост (Анклав I)</ln>
 <ln id="AIGuardPost_Enclave_Desc">В дополнение к своему оружию, содержит внутренние производственные и ангарные сооружения для некоторого числа атакующих дронов, которые будут запущены при появлении врага.</ln>
-<ln id="AIGuardPost_EnclaveII_Full">ИИ Анклав Охранный Пост Модель II</ln>
+<ln id="AIGuardPost_EnclaveII_Full">ИИ Анклав Караульный Пост Модель II</ln>
 <ln id="AIGuardPost_EnclaveII_Short">Пост (Анклав II)</ln>
-<ln id="AIGuardPost_EnclaveIII_Full">ИИ Анклав Охранный Пост Модель III</ln>
+<ln id="AIGuardPost_EnclaveIII_Full">ИИ Анклав Караульный Пост Модель III</ln>
 <ln id="AIGuardPost_EnclaveIII_Short">Пост (Анклав III)</ln>
-<ln id="AIGuardPost_EnclaveIV_Full">ИИ Анклав Охранный Пост Модель IV</ln>
+<ln id="AIGuardPost_EnclaveIV_Full">ИИ Анклав Караульный Пост Модель IV</ln>
 <ln id="AIGuardPost_EnclaveIV_Short">Пост (Анклав IV)</ln>
-<ln id="AIGuardPost_EnclaveV_Full">ИИ Анклав Охранный Пост Модель V</ln>
+<ln id="AIGuardPost_EnclaveV_Full">ИИ Анклав Караульный Пост Модель V</ln>
 <ln id="AIGuardPost_EnclaveV_Short">Пост (Анклав V)</ln>
 
-<ln id="AIGuardPost_Implosion_Full">ИИ Имплозийный Охранный Пост</ln>
+<ln id="AIGuardPost_Implosion_Full">ИИ Имплозийный Караульный Пост</ln>
 <ln id="AIGuardPost_Implosion_Short">Пост (Имплозия I)</ln>
 <ln id="AIGuardPost_Implosion_Desc">Использует несколько мощных имплозийных пушек, наносящих урон из рассчёта процента здоровья цели, что делает его очень эффективным против больших юнитов.</ln>
-<ln id="AIGuardPost_ImplosionII_Full">ИИ Имплозийный Охранный Пост Модель II</ln>
+<ln id="AIGuardPost_ImplosionII_Full">ИИ Имплозийный Караульный Пост Модель II</ln>
 <ln id="AIGuardPost_ImplosionII_Short">Пост (Имплозия II)</ln>
-<ln id="AIGuardPost_ImplosionIII_Full">ИИ Имплозийный Охранный Пост Модель III</ln>
+<ln id="AIGuardPost_ImplosionIII_Full">ИИ Имплозийный Караульный Пост Модель III</ln>
 <ln id="AIGuardPost_ImplosionIII_Short">Пост (Имплозия III)</ln>
-<ln id="AIGuardPost_ImplosionIV_Full">ИИ Имплозийный Охранный Пост Модель IV</ln>
+<ln id="AIGuardPost_ImplosionIV_Full">ИИ Имплозийный Караульный Пост Модель IV</ln>
 <ln id="AIGuardPost_ImplosionIV_Short">Пост (Имплозия IV)</ln>
-<ln id="AIGuardPost_ImplosionV_Full">ИИ Имплозийный Охранный Пост Модель V</ln>
+<ln id="AIGuardPost_ImplosionV_Full">ИИ Имплозийный Караульный Пост Модель V</ln>
 <ln id="AIGuardPost_ImplosionV_Short">Пост (Имплозия V)</ln>
 
-<ln id="AIGuardPost_Disassembler_Full">ИИ Дизассемблер Охранный Пост</ln>
+<ln id="AIGuardPost_Disassembler_Full">ИИ Дизассемблер Караульный Пост</ln>
 <ln id="AIGuardPost_Disassembler_Short">Пост (Дизассемблер I)</ln>
 <ln id="AIGuardPost_Disassembler_Desc">В дополнение к своему оружию, также проглатывает вражеские звездолёты целиком и разбирает их. При уничтожении поста, выжившие проглоченные корабли высвободятся.</ln>
-<ln id="AIGuardPost_DisassemblerII_Full">ИИ Дизассемблер Охранный Пост Модель II</ln>
+<ln id="AIGuardPost_DisassemblerII_Full">ИИ Дизассемблер Караульный Пост Модель II</ln>
 <ln id="AIGuardPost_DisassemblerII_Short">Пост (Дизассемблер II)</ln>
-<ln id="AIGuardPost_DisassemblerIII_Full">ИИ Дизассемблер Охранный Пост Модель III</ln>
+<ln id="AIGuardPost_DisassemblerIII_Full">ИИ Дизассемблер Караульный Пост Модель III</ln>
 <ln id="AIGuardPost_DisassemblerIII_Short">Пост (Дизассемблер III)</ln>
-<ln id="AIGuardPost_DisassemblerIV_Full">ИИ Дизассемблер Охранный Пост Модель IV</ln>
+<ln id="AIGuardPost_DisassemblerIV_Full">ИИ Дизассемблер Караульный Пост Модель IV</ln>
 <ln id="AIGuardPost_DisassemblerIV_Short">Пост (Дизассемблер IV)</ln>
-<ln id="AIGuardPost_DisassemblerV_Full">ИИ Дизассемблер Охранный Пост Модель V</ln>
+<ln id="AIGuardPost_DisassemblerV_Full">ИИ Дизассемблер Караульный Пост Модель V</ln>
 <ln id="AIGuardPost_DisassemblerV_Short">Пост (Дизассемблер V)</ln>
 
 <ln id="AIGuardian_Widow_Full">ИИ Вдова Страж</ln>
@@ -509,9 +509,9 @@
 <ln id="CoreYounglingShrike_Full">Юнлинг Сорокопут Neinzul'ов Модель V</ln>
 <ln id="CoreYounglingShrike_Short">Юнл Сорокопут V</ln>
 
-<ln id="AICoreImplosionDroneHostGuardPost_Full">ИИ Главный Охранный Пост Имплозийных Дронов</ln>
+<ln id="AICoreImplosionDroneHostGuardPost_Full">ИИ Главный Караульный Пост Имплозийных Дронов</ln>
 <ln id="AICoreImplosionDroneHostGuardPost_Short">Пост (Внут Д)</ln>
-<ln id="AICoreImplosionDroneHostGuardPost_Desc">Этот охранный пост вооружён несколькими высокомощными имплозийными пушками, особенно опасными для больших целей, но к счастью довольно недальнобойными, чем большинство имплозийного оружия. К сожалению, этот пост также запускает "Имплозийных Дронов", которые (более далнобойны и саморазрушаются при выстреле) заряжают вражеские корабли несколькими низкоэнергетическими имплозийными зарядами.
+<ln id="AICoreImplosionDroneHostGuardPost_Desc">Этот Караульный Пост вооружён несколькими высокомощными имплозийными пушками, особенно опасными для больших целей, но к счастью довольно недальнобойными, чем большинство имплозийного оружия. К сожалению, этот пост также запускает "Имплозийных Дронов", которые (более далнобойны и саморазрушаются при выстреле) заряжают вражеские корабли несколькими низкоэнергетическими имплозийными зарядами.
 
 Должен быть уничтожен до того, как Командной Станции ИИ на этой планете может быть нанесён урон.  Если это домашняя планета ИИ, все Генераторы Щита Ядра должны быть уничтожены прежде, чем может быть уничтожен.</ln>
 
@@ -520,23 +520,23 @@
 <ln id="ImplosionDrone_Wave">Имплозийные Дроны</ln>
 <ln id="ImplosionDrone_Desc">Дрон, созданный Постом Имплозийных Дронов. Старается подойти достаточно близко к кораблям врага, чтобы выстрелить из имплозийной пушки. Во время выстрела дрон разрушается(но не наносит площадного урона).</ln>
 
-<ln id="AICoreArachnidGuardPost_Full">ИИ Главный Охранный Пост Арахнид</ln>
+<ln id="AICoreArachnidGuardPost_Full">ИИ Главный Караульный Пост Арахнид</ln>
 <ln id="AICoreArachnidGuardPost_Short">Пост (Г-Ар)</ln>
-<ln id="AICoreArachnidGuardPost_Desc">Этот охранный пост вооружён массивной мощной артиллеристской пушкой, созданной, чтобы калечить или уничтожать крупные цели. Не может срелять по маленьким целям.
+<ln id="AICoreArachnidGuardPost_Desc">Этот Караульный Пост вооружён массивной мощной артиллеристской пушкой, созданной, чтобы калечить или уничтожать крупные цели. Не может срелять по маленьким целям.
 
 Проглатывает вражеские звездолёты, подошедшие слишком близко.
 
 Должен быть уничтожен до того, как Командной Станции ИИ на этой планете может быть нанесён урон.  Если это домашняя планета ИИ, все Генераторы Щита Ядра должны быть уничтожены прежде, чем может быть уничтожен.</ln>
 
-<ln id="AICoreRiotControlGuardPost_Full">ИИ Главный Охранный Пост Контроля Мятежа</ln>
+<ln id="AICoreRiotControlGuardPost_Full">ИИ Главный Караульный Пост Контроля Мятежа</ln>
 <ln id="AICoreRiotControlGuardPost_Short">Пост (Мятеж)</ln>
-<ln id="AICoreRiotControlGuardPost_Desc">Эттот пост стреляет множеством снарядов, которые не очень мощны, но наносят значительные повреждения двигателям. Также, этот пост излучает множество тяговых лучей, парализуюя своих жерств.
+<ln id="AICoreRiotControlGuardPost_Desc">Эттот Караульный Пост стреляет множеством снарядов, которые не очень мощны, но наносят значительные повреждения двигателям. Также, этот пост излучает множество тяговых лучей, парализуюя своих жерств.
 
 Должен быть уничтожен до того, как Командной Станции ИИ на этой планете может быть нанесён урон.  Если это домашняя планета ИИ, все Генераторы Щита Ядра должны быть уничтожены прежде, чем может быть уничтожен.</ln>
 
-<ln id="AICoreShredderDroneGuardPost_Full">ИИ Главный Охранный Пост Дронов Шреддеров</ln>
+<ln id="AICoreShredderDroneGuardPost_Full">ИИ Главный Караульный Пост Дронов Шреддеров</ln>
 <ln id="AICoreShredderDroneGuardPost_Short">Пост (Разр Д)</ln>
-<ln id="AICoreShredderDroneGuardPost_Desc">Этот пост вооружён мощным дробовиком, но его главная опастность в том, что при получении урона он создаёт "Дронов Шреддеров", которые атакуют человеческие корабли. Если шреддер нанесёт достаточно урона, то он скопирует себя самого. После жизни в течение 30 секунд автоматически самоустраняется и восстанавливает часть здоровья Поста Дронов Шреддеров (если пост ещё жив).
+<ln id="AICoreShredderDroneGuardPost_Desc">Этот Караульный Пост вооружён мощным дробовиком, но его главная опастность в том, что при получении урона он создаёт "Дронов Шреддеров", которые атакуют человеческие корабли. Если шреддер нанесёт достаточно урона, то он скопирует себя самого. После жизни в течение 30 секунд автоматически самоустраняется и восстанавливает часть здоровья Караульного Поста Дронов Шреддеров (если пост ещё жив).
 
 Должен быть уничтожен до того, как Командной Станции ИИ на этой планете может быть нанесён урон.  Если это домашняя планета ИИ, все Генераторы Щита Ядра должны быть уничтожены прежде, чем может быть уничтожен.</ln>
 
@@ -545,9 +545,9 @@
 <ln id="ShredderDrone_Wave">Дроны Шреддеры</ln>
 <ln id="ShredderDrone_Desc">Дрон, созданный Постом Дронов Шреддеров. Пытается ударить человеческий корабль и скопировать себя, если нанесёт достаточно повреждения. Если дрон будет жив ещё 30 секунд после создания, то он автоматически самоустраняется и восстанавливает часть здоровья посту Дронов Шреддеров (если пост ещё жив).</ln>
 
-<ln id="AICoreHunterKillerFactoryGuardPost_Full">ИИ Главный Охранный Пост Фабрики Охотника/Киллера</ln>
+<ln id="AICoreHunterKillerFactoryGuardPost_Full">ИИ Главный Караульный Пост Фабрики Охотника/Киллера</ln>
 <ln id="AICoreHunterKillerFactoryGuardPost_Short">Пост (О/К)</ln>
-<ln id="AICoreHunterKillerFactoryGuardPost_Desc">Этот пост вооружён мощными пушками Энергетических Волн, но большая опасность не в них: если юнит ИИ умирает на этой или соседней планете, или если соседняя планета не принадлежит ИИ, этот фабрика запускает грозного Охотника/Киллера. После запуска одного, фабрика строит следующего в течение 30 минут.
+<ln id="AICoreHunterKillerFactoryGuardPost_Desc">Этот Караульный Пост вооружён мощными пушками Энергетических Волн, но большая опасность не в них: если юнит ИИ умирает на этой или соседней планете, или если соседняя планета не принадлежит ИИ, этот фабрика запускает грозного Охотника/Киллера. После запуска одного, фабрика строит следующего в течение 30 минут.
 
 Должен быть уничтожен до того, как Командной Станции ИИ на этой планете может быть нанесён урон.  Если это домашняя планета ИИ, все Генераторы Щита Ядра должны быть уничтожены прежде, чем может быть уничтожен.</ln>
 

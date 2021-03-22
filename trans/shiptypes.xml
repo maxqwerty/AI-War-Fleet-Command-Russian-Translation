@@ -26,8 +26,8 @@
 <ln id="MLRS">РСЗО</ln>
 <ln id="Raptor">Раптор</ln>
 <ln id="Astro_Train">Звёздный поезд</ln>
-<ln id="Command_Post">Пост охраны</ln>
-<ln id="WormholeGuardPost">Пост охраны червоточины</ln>
+<ln id="Command_Post">Караульный Пост</ln>
+<ln id="WormholeGuardPost">Караульный Пост Червоточины</ln>
 <ln id="CoreTurretController">Основной Контроллер Турели</ln>
 <ln id="Plane">Разв.</ln>
 <ln id="Shield">Сил. поле</ln>

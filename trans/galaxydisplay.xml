@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <root>
 <ln id="Normal">Нормально</ln>
 <ln id="My_Ships">Мои корабли</ln>
@@ -33,7 +33,7 @@
 <ln id="DetectedCoreShieldGeneratorsESecondary">Обнаруженый Генератор Щита Ядра E-Вторичн.</ln>
 <ln id="DetectedBrokenGolems">Обнаруженые Испорченные Супероружия</ln>
 <ln id="DetectedAsteroids">Обнаруженые Spirecraft Астероиды</ln>
-<ln id="DetectedCoreShieldGenerators">Обнаруженые Генераторы Щита Ядра</ln>
+<ln id="DetectedCoreShieldGenerators">Обнаруженые Главные Генераторы Щита</ln>
 <ln id="DetectedThreat">Обнаруженая Угроза</ln>
 <ln id="DetectedMinorFactionObjects">Обнаруженые Строения Фракций</ln>
 <ln id="Custom">Ручной Поиск (Узкий)</ln>

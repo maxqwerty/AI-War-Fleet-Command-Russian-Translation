@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <root>
 
 <ln id="AICommandStation_Needler_Full">ИИ Игловая Командная Станция</ln>
@@ -194,155 +194,155 @@
 <ln id="AIGuardPost_DisassemblerV_Full">ИИ Дизассемблер Караульный Пост Модель V</ln>
 <ln id="AIGuardPost_DisassemblerV_Short">Пост (Дизассемблер V)</ln>
 
-<ln id="AIGuardian_Widow_Full">ИИ Вдова Страж</ln>
-<ln id="AIGuardian_Widow_Short">Защит (Вдова I)</ln>
+<ln id="AIGuardian_Widow_Full">Страж ИИ Вдова</ln>
+<ln id="AIGuardian_Widow_Short">Страж (Вдова I)</ln>
 <ln id="AIGuardian_Widow_Desc">Особенно неприятный вариант Тягового Стража, который также парализует своих жертв.</ln>
-<ln id="AIGuardian_WidowII_Full">ИИ Вдова Страж Модель II</ln>
-<ln id="AIGuardian_WidowII_Short">Защит (Вдова II)</ln>
-<ln id="AIGuardian_WidowIII_Full">ИИ Вдова Страж Модель III</ln>
-<ln id="AIGuardian_WidowIII_Short">Защит (Вдова III)</ln>
-<ln id="AIGuardian_WidowIV_Full">ИИ Вдова Страж Модель IV</ln>
-<ln id="AIGuardian_WidowIV_Short">Защит (Вдова IV)</ln>
-<ln id="AIGuardian_WidowV_Full">ИИ Вдова Страж Модель V</ln>
-<ln id="AIGuardian_WidowV_Short">Защит (Вдова V)</ln>
+<ln id="AIGuardian_WidowII_Full">Страж ИИ Вдова Модель II</ln>
+<ln id="AIGuardian_WidowII_Short">Страж (Вдова II)</ln>
+<ln id="AIGuardian_WidowIII_Full">Страж ИИ Вдова Модель III</ln>
+<ln id="AIGuardian_WidowIII_Short">Страж (Вдова III)</ln>
+<ln id="AIGuardian_WidowIV_Full">Страж ИИ Вдова Модель IV</ln>
+<ln id="AIGuardian_WidowIV_Short">Страж (Вдова IV)</ln>
+<ln id="AIGuardian_WidowV_Full">Страж ИИ Вдова Модель V</ln>
+<ln id="AIGuardian_WidowV_Short">Страж (Вдова V)</ln>
 
-<ln id="AIGuardian_MunitionsBoosting_Full">ИИ Усилитель Боеприпасов Страж</ln>
+<ln id="AIGuardian_MunitionsBoosting_Full">Страж ИИ Усилитель Боеприпасов</ln>
 <ln id="AIGuardian_MunitionsBoosting_Short">Страж (УБ I)</ln>
 <ln id="AIGuardian_MunitionsBoosting_Desc">Опасен сам по себе, но реальная опаность в том, что этот страж усиливает атакующую мощь ближайших союзников.</ln>
-<ln id="AIGuardian_MunitionsBoostingII_Full">ИИ Усилитель Боеприпасов Страж Модель II</ln>
+<ln id="AIGuardian_MunitionsBoostingII_Full">Страж ИИ Усилитель Боеприпасов Модель II</ln>
 <ln id="AIGuardian_MunitionsBoostingII_Short">Страж (УБ II)</ln>
-<ln id="AIGuardian_MunitionsBoostingIII_Full">ИИ Усилитель Боеприпасов Страж Модель III</ln>
+<ln id="AIGuardian_MunitionsBoostingIII_Full">Страж ИИ Усилитель Боеприпасов Модель III</ln>
 <ln id="AIGuardian_MunitionsBoostingIII_Short">Страж (УБ III)</ln>
-<ln id="AIGuardian_MunitionsBoostingIV_Full">ИИ Усилитель Боеприпасов Страж Модель IV</ln>
+<ln id="AIGuardian_MunitionsBoostingIV_Full">Страж ИИ Усилитель Боеприпасов Модель IV</ln>
 <ln id="AIGuardian_MunitionsBoostingIV_Short">Страж (УБ IV)</ln>
-<ln id="AIGuardian_MunitionsBoostingV_Full">ИИ Усилитель Боеприпасов Страж Модель V</ln>
+<ln id="AIGuardian_MunitionsBoostingV_Full">Страж ИИ Усилитель Боеприпасов Модель V</ln>
 <ln id="AIGuardian_MunitionsBoostingV_Short">Страж (УБ V)</ln>
 
-<ln id="AIGuardian_Needler_Full">ИИ Игольчатый Страж</ln>
+<ln id="AIGuardian_Needler_Full">Страж ИИ Игольчатый</ln>
 <ln id="AIGuardian_Needler_Short">Страж (Игольчат I)</ln>
 <ln id="AIGuardian_Needler_Desc">Стреляет пучками игл. Нужно разобраться осторожно.</ln>
-<ln id="AIGuardian_NeedlerII_Full">ИИ Игольчатый Страж Модель II</ln>
+<ln id="AIGuardian_NeedlerII_Full">Страж ИИ Игольчатый Модель II</ln>
 <ln id="AIGuardian_NeedlerII_Short">Страж (Игольчат II)</ln>
-<ln id="AIGuardian_NeedlerIII_Full">ИИ Игольчатый Страж Модель III</ln>
+<ln id="AIGuardian_NeedlerIII_Full">Страж ИИ Игольчатый Модель III</ln>
 <ln id="AIGuardian_NeedlerIII_Short">Страж (Игольчат III)</ln>
-<ln id="AIGuardian_NeedlerIV_Full">ИИ Игольчатый Страж Модель IV</ln>
+<ln id="AIGuardian_NeedlerIV_Full">Страж ИИ Игольчатый Модель IV</ln>
 <ln id="AIGuardian_NeedlerIV_Short">Страж (Игольчат IV)</ln>
-<ln id="AIGuardian_NeedlerV_Full">ИИ Игольчатый Страж Модель V</ln>
+<ln id="AIGuardian_NeedlerV_Full">Страж ИИ Игольчатый Модель V</ln>
 <ln id="AIGuardian_NeedlerV_Short">Страж (Игольчат V)</ln>
 
-<ln id="AIGuardian_MLRS_Full">ИИ РСЗО Страж</ln>
+<ln id="AIGuardian_MLRS_Full">Страж ИИ РСЗО</ln>
 <ln id="AIGuardian_MLRS_Short">Страж (РСЗО I)</ln>
 <ln id="AIGuardian_MLRS_Desc">Стреляет ракетами. МНОГО ракет.</ln>
-<ln id="AIGuardian_MLRSII_Full">ИИ РСЗО Страж Модель II</ln>
+<ln id="AIGuardian_MLRSII_Full">Страж ИИ РСЗО Модель II</ln>
 <ln id="AIGuardian_MLRSII_Short">Страж (РСЗО II)</ln>
-<ln id="AIGuardian_MLRSIII_Full">ИИ РСЗО Страж Модель III</ln>
+<ln id="AIGuardian_MLRSIII_Full">Страж ИИ РСЗО Модель III</ln>
 <ln id="AIGuardian_MLRSIII_Short">Страж (РСЗО III)</ln>
-<ln id="AIGuardian_MLRSIV_Full">ИИ РСЗО Страж Модель IV</ln>
+<ln id="AIGuardian_MLRSIV_Full">Страж ИИ РСЗО Модель IV</ln>
 <ln id="AIGuardian_MLRSIV_Short">Страж (РСЗО IV)</ln>
-<ln id="AIGuardian_MLRSV_Full">ИИ РСЗО Страж Модель V</ln>
+<ln id="AIGuardian_MLRSV_Full">Страж ИИ РСЗО Модель V</ln>
 <ln id="AIGuardian_MLRSV_Short">Страж (РСЗО V)</ln>
 
-<ln id="AIGuardian_Infiltration_Full">ИИ Проникновения Страж</ln>
+<ln id="AIGuardian_Infiltration_Full">Страж ИИ Проникновения</ln>
 <ln id="AIGuardian_Infiltration_Short">Страж (Проникновение I)</ln>
 <ln id="AIGuardian_Infiltration_Desc">Подлый. Смертоносный.
 
 Остерегайтесь его иммунитета к силовым полям.</ln>
-<ln id="AIGuardian_InfiltrationII_Full">ИИ Проникновения Страж Модель II</ln>
+<ln id="AIGuardian_InfiltrationII_Full">Страж ИИ Проникновения Модель II</ln>
 <ln id="AIGuardian_InfiltrationII_Short">Страж (Проникновение II)</ln>
-<ln id="AIGuardian_InfiltrationIII_Full">ИИ Проникновения Страж Модель III</ln>
+<ln id="AIGuardian_InfiltrationIII_Full">Страж ИИ Проникновения Модель III</ln>
 <ln id="AIGuardian_InfiltrationIII_Short">Страж (Проникновение III)</ln>
-<ln id="AIGuardian_InfiltrationIV_Full">ИИ Проникновения Страж Модель IV</ln>
+<ln id="AIGuardian_InfiltrationIV_Full">Страж ИИ Проникновения Модель IV</ln>
 <ln id="AIGuardian_InfiltrationIV_Short">Страж (Проникновение IV)</ln>
-<ln id="AIGuardian_InfiltrationV_Full">ИИ Проникновения Страж Модель V</ln>
+<ln id="AIGuardian_InfiltrationV_Full">Страж ИИ Проникновения Модель V</ln>
 <ln id="AIGuardian_InfiltrationV_Short">Страж (Проникновение V)</ln>
 
-<ln id="AIGuardian_Shield_Full">ИИ Шитовой Страж</ln>
+<ln id="AIGuardian_Shield_Full">Страж ИИ Шитовой</ln>
 <ln id="AIGuardian_Shield_Short">Страж (Щит I)</ln>
 <ln id="AIGuardian_Shield_Desc">Сам по себе не так опасен, как другие Стражи, но его способность защищать союзников может оказаться более опасной, чем могла бы быть дополнительная огневая мощь.</ln>
-<ln id="AIGuardian_ShieldII_Full">ИИ Шитовой Страж Модель II</ln>
+<ln id="AIGuardian_ShieldII_Full">Страж ИИ Шитовой Модель II</ln>
 <ln id="AIGuardian_ShieldII_Short">Страж (Щит II)</ln>
-<ln id="AIGuardian_ShieldIII_Full">ИИ Шитовой Страж Модель III</ln>
+<ln id="AIGuardian_ShieldIII_Full">Страж ИИ Шитовой Модель III</ln>
 <ln id="AIGuardian_ShieldIII_Short">Страж (Щит III)</ln>
-<ln id="AIGuardian_ShieldIV_Full">ИИ Шитовой Страж Модель IV</ln>
+<ln id="AIGuardian_ShieldIV_Full">Страж ИИ Шитовой Модель IV</ln>
 <ln id="AIGuardian_ShieldIV_Short">Страж (Щит IV)</ln>
-<ln id="AIGuardian_ShieldV_Full">ИИ Шитовой Страж Модель V</ln>
+<ln id="AIGuardian_ShieldV_Full">Страж ИИ Шитовой Модель V</ln>
 <ln id="AIGuardian_ShieldV_Short">Страж (Щит V)</ln>
 
-<ln id="AIGuardian_Plasma_Full">ИИ Плазменный Страж</ln>
+<ln id="AIGuardian_Plasma_Full">Страж ИИ Плазменный</ln>
 <ln id="AIGuardian_Plasma_Short">Страж (Плазма I)</ln>
 <ln id="AIGuardian_Plasma_Desc">Было у ИИ оружие. Он прицепил к оружию двигатель. Теперь вы смотрите на это оружие.
 
 Если что-то к несчастью может быть подстрелено из этого оружия, оно получит много урона. Другие соседние объекты также получат урон. Если стреляет по силовым полям, то обеъекты под этим полем также получают урон.</ln>
-<ln id="AIGuardian_PlasmaII_Full">ИИ Плазменный Страж Модель II</ln>
+<ln id="AIGuardian_PlasmaII_Full">Страж ИИ Плазменный Модель II</ln>
 <ln id="AIGuardian_PlasmaII_Short">Страж (Плазма II)</ln>
-<ln id="AIGuardian_PlasmaIII_Full">ИИ Плазменный Страж Модель III</ln>
+<ln id="AIGuardian_PlasmaIII_Full">Страж ИИ Плазменный Модель III</ln>
 <ln id="AIGuardian_PlasmaIII_Short">Страж (Плазма III)</ln>
-<ln id="AIGuardian_PlasmaIV_Full">ИИ Плазменный Страж Модель IV</ln>
+<ln id="AIGuardian_PlasmaIV_Full">Страж ИИ Плазменный Модель IV</ln>
 <ln id="AIGuardian_PlasmaIV_Short">Страж (Плазма IV)</ln>
-<ln id="AIGuardian_PlasmaV_Full">ИИ Плазменный Страж Модель V</ln>
+<ln id="AIGuardian_PlasmaV_Full">Страж ИИ Плазменный Модель V</ln>
 <ln id="AIGuardian_PlasmaV_Short">Страж (Плазма V)</ln>
 
 <ln id="DireGuardianLair_Full">Логово Ужасного Стража</ln>
 <ln id="DireGuardianLair_Short">УЗ Логово</ln>
 <ln id="DireGuardianLair_Desc">Спокоен, пока его планета не объявит тревогу или не будет захвачена. Пробуждаясь, строит опасных "Ужасных" Стражов, которые могут нанести большой ущерб человеческим силам. Вы можете уничтожить логово, чтобы предотвратить это производство, но имейте в виду, что значительная группа этих Ужасных Стражов появится на месте разрушения логова.</ln>
 
-<ln id="AIDireGuardian_Needler_Full">ИИ Игольчатый Ужасный Страж</ln>
+<ln id="AIDireGuardian_Needler_Full">Ужасный Страж ИИ Игольчатый</ln>
 <ln id="AIDireGuardian_Needler_Short">Ужасный С (Игольчат)</ln>
 <ln id="AIDireGuardian_Needler_Desc">Эта ужасная машина стреляет пучками игл.</ln>
 
-<ln id="AIDireGuardian_Laser_Full">ИИ Лазерный Ужасный Страж</ln>
+<ln id="AIDireGuardian_Laser_Full">Ужасный Страж ИИ Лазерный</ln>
 <ln id="AIDireGuardian_Laser_Short">Ужасный С (Лазер)</ln>
 <ln id="AIDireGuardian_Laser_Desc">Вооружён несколькими мощными лазерными пушками, которые создают брешь в рядах противника.</ln>
 
-<ln id="AIDireGuardian_MLRS_Full">ИИ РСЗО Ужасный Страж</ln>
+<ln id="AIDireGuardian_MLRS_Full">Ужасный Страж ИИ РСЗО</ln>
 <ln id="AIDireGuardian_MLRS_Short">Ужасный С (РСЗО)</ln>
 <ln id="AIDireGuardian_MLRS_Desc">Стреляет множеством мощных ракет по врагам, неудачно попавшим в радиус атаки.</ln>
 
-<ln id="AIDireGuardian_Implosion_Full">ИИ Имплозийный Ужасный Страж</ln>
+<ln id="AIDireGuardian_Implosion_Full">Ужасный Страж ИИ Имплозийный</ln>
 <ln id="AIDireGuardian_Implosion_Short">Ужасный С (Имплозийный)</ln>
 <ln id="AIDireGuardian_Implosion_Desc">Вооружён десятком мощных имплозийных пушек, наносящих урон по целям с большим здоровьем.</ln>
 
-<ln id="AIDireGuardian_Sniper_Full">ИИ Снайпер Ужасный Страж</ln>
+<ln id="AIDireGuardian_Sniper_Full">Ужасный Страж ИИ Снайпер</ln>
 <ln id="AIDireGuardian_Sniper_Short">Ужасный С (Снайпер)</ln>
 <ln id="AIDireGuardian_Sniper_Desc">Вооружён мощными рельсотронами с бесконечной дальностью поражения.</ln>
 
-<ln id="AIDireGuardian_Spider_Full">ИИ Паук Ужасный Страж</ln>
+<ln id="AIDireGuardian_Spider_Full">Ужасный Страж ИИ Паук</ln>
 <ln id="AIDireGuardian_Spider_Short">Ужасный С (Паук)</ln>
 <ln id="AIDireGuardian_Spider_Desc">Вооружён тяжёлым "дробовиковым" оружием, созданным для уничтожения двигателей вражеских юнитов.</ln>
 
-<ln id="AIDireGuardian_Tractor_Full">ИИ Тягач Ужасный Страж</ln>
+<ln id="AIDireGuardian_Tractor_Full">Ужасный Страж ИИ Тягач</ln>
 <ln id="AIDireGuardian_Tractor_Short">Ужасный С (Тягач)</ln>
 <ln id="AIDireGuardian_Tractor_Desc">Использует невероятно мощный набор тяговых лучей, которые отбрасывают вражеские корабли.</ln>
 
-<ln id="AIDireGuardian_Widow_Full">ИИ Вдова Ужасный Страж</ln>
+<ln id="AIDireGuardian_Widow_Full">Ужасный Страж ИИ Вдова</ln>
 <ln id="AIDireGuardian_Widow_Short">Ужасный С (Вдова)</ln>
 <ln id="AIDireGuardian_Widow_Desc">Использует невероятно мощный набор тяговых лучей, которые отбрасывают вражеские корабли и парализуют их.</ln>
 
-<ln id="AIDireGuardian_Disassembler_Full">ИИ Дизассемблер Ужасный Страж</ln>
-<ln id="AIDireGuardian_Disassembler_Short">Ужасный С (Дизассемблер)</ln>
+<ln id="AIDireGuardian_Disassembler_Full">Ужасный Страж ИИ Проглот</ln>
+<ln id="AIDireGuardian_Disassembler_Short">Ужасный С (Проглот)</ln>
 <ln id="AIDireGuardian_Disassembler_Desc">Может полностью проглотить вражеский звездолёт, постепенно разбирая его внутри себя. Если Страж будет уничтожен, выжившие проглоченные корабли высвободятся.</ln>
 
-<ln id="AIDireGuardian_Gravity_Full">ИИ Гравитационный Ужасный Страж</ln>
+<ln id="AIDireGuardian_Gravity_Full">Ужасный Страж ИИ Гравитационный</ln>
 <ln id="AIDireGuardian_Gravity_Short">Ужасный С (Гравитац)</ln>
 <ln id="AIDireGuardian_Gravity_Desc">Использует невероятно мощный гравитационный генератор, замедляющий вражеских юнитов в широкой зоне вокруг себя.</ln>
 
-<ln id="AIDireGuardian_MunitionsBoosting_Full">ИИ Усилитель Боеприпасов Ужасный Страж</ln>
+<ln id="AIDireGuardian_MunitionsBoosting_Full">Ужасный Страж ИИ Усилитель Боеприпасов</ln>
 <ln id="AIDireGuardian_MunitionsBoosting_Short">Ужасный С (Усилитель Боеприпасов)</ln>
 <ln id="AIDireGuardian_MunitionsBoosting_Desc">Поддерживает мощное усиление союзных кораблей на большом расстоянии.</ln>
 
-<ln id="AIDireGuardian_Infiltration_Full">ИИ Проникновения Ужасный Страж</ln>
+<ln id="AIDireGuardian_Infiltration_Full">Ужасный Страж ИИ Проникновения</ln>
 <ln id="AIDireGuardian_Infiltration_Short">Ужасный С (Проникновение)</ln>
 <ln id="AIDireGuardian_Infiltration_Desc">Экстремально смертельная машина, с возможностью оставаться скрытой до удара и проходить и стрелять сквозь ваши силовые поля.</ln>
 
-<ln id="AIDireGuardian_Artillery_Full">ИИ Артиллерист Ужасный Страж</ln>
+<ln id="AIDireGuardian_Artillery_Full">Ужасный Страж ИИ Артиллерист</ln>
 <ln id="AIDireGuardian_Artillery_Short">Ужасный С (Артиллерист)</ln>
 <ln id="AIDireGuardian_Artillery_Desc">Стреляет экстремально мощными энергетическими артиллеристскими снарядами.</ln>
 
-<ln id="AIDireGuardian_Raider_Full">ИИ Налётчик Ужасный Страж</ln>
+<ln id="AIDireGuardian_Raider_Full">Ужасный Страж ИИ Налётчик</ln>
 <ln id="AIDireGuardian_Raider_Short">Ужасный С (Налётчик)</ln>
 <ln id="AIDireGuardian_Raider_Desc">Очень быстрый и стреляет множеством высокоэнергетичесных снарядов.</ln>
 
-<ln id="AIDireGuardian_Shield_Full">ИИ Щитовой Ужасный Страж</ln>
+<ln id="AIDireGuardian_Shield_Full">Ужасный Страж ИИ Щитовой</ln>
 <ln id="AIDireGuardian_Shield_Short">Ужасный С (Щит)</ln>
 <ln id="AIDireGuardian_Shield_Desc">Защищает ближайших союзных юнитов своим сверхмощным генератором силового поля.</ln>
 

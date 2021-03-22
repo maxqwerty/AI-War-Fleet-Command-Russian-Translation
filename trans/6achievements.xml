@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <root>
 
 <ln id="EXP6_DestroyedAIHWWithNomad_Gold">5. Бууум! Проблема Решена</ln>
@@ -13,7 +13,7 @@
 <ln id="EXP6_BeatMime_Gold">4. Не Доверяй Мимам</ln>
 <ln id="EXP6_BeatMime_Gold_Desc">Победите ИИ "Мима" на сложности 9 или выше.</ln>
 
-<ln id="EXP6_BeatVanguard_Bronze">4. Теперь Защитников Достаточно</ln>
+<ln id="EXP6_BeatVanguard_Bronze">4. Теперь Стражей Достаточно</ln>
 <ln id="EXP6_BeatVanguard_Bronze_Desc">Победите ИИ "Авангард" на любой сложности.</ln>
 
 <ln id="EXP6_BeatVanguard_Silver">4. Защищай!</ln>

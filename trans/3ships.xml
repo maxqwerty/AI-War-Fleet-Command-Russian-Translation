@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <root>
 <ln id="FallenSpire_InitialSurveyMarker_Full">Субкосмический Сигнал</ln>
 <ln id="FallenSpire_InitialSurveyMarker_Short">Сигнал</ln>
@@ -271,125 +271,125 @@
 
 Должен быть уничтожен прежде чем люди смогут нанести урон Командной Станции ИИ на этой планете. Если это домашняя планета ИИ, все Генераторы Щита Ядра должны быть уничтожены прежде, чем может быть уничтожен.</ln>
 
-<ln id="AIGuardianCarrier_Full">Страж Анклава ИИ</ln>
+<ln id="AIGuardianCarrier_Full">Страж ИИ Анклава</ln>
 <ln id="AIGuardianCarrier_Short">Страж (Анклав I)</ln>
 <ln id="AIGuardianCarrier_Desc">Страж средней мощности, с очень большим здоровьем, создающий внутри себя атакующих дронов, пока не придёт время натравить их на силы людей.</ln>
-<ln id="AIGuardianCarrierII_Full">Страж Анклава ИИ Модель II</ln>
+<ln id="AIGuardianCarrierII_Full">Страж ИИ Анклава Модель II</ln>
 <ln id="AIGuardianCarrierII_Short">Страж (Анклав II)</ln>
-<ln id="AIGuardianCarrierIII_Full">Страж Анклава ИИ Модель III</ln>
+<ln id="AIGuardianCarrierIII_Full">Страж ИИ Анклава Модель III</ln>
 <ln id="AIGuardianCarrierIII_Short">Страж (Анклав III)</ln>
-<ln id="AIGuardianCarrierIV_Full">Страж Анклава ИИ Модель IV</ln>
+<ln id="AIGuardianCarrierIV_Full">Страж ИИ Анклава Модель IV</ln>
 <ln id="AIGuardianCarrierIV_Short">Страж (Анклав IV)</ln>
-<ln id="AIGuardianCarrierV_Full">Страж Анклава ИИ Модель V</ln>
+<ln id="AIGuardianCarrierV_Full">Страж ИИ Анклава Модель V</ln>
 <ln id="AIGuardianCarrierV_Short">Страж (Анклав V)</ln>
 
-<ln id="AIGuardianEMP_Full">Страж ЭМИ ИИ</ln>
+<ln id="AIGuardianEMP_Full">Страж ИИ ЭМИ</ln>
 <ln id="AIGuardianEMP_Short">Страж (ЭМИ I)</ln>
 <ln id="AIGuardianEMP_Desc">Быстрый Страж средней мощности, испускающий ЭМИ на всю планету, действующей только на корабли людей -- оглушает все корабли людей без иммунитета к ЭМИ на планете -- когда они приходят через червоточины или уходят через них.</ln>
-<ln id="AIGuardianEMPII_Full">Страж ЭМИ ИИ Модель II</ln>
+<ln id="AIGuardianEMPII_Full">Страж ИИ ЭМИ Модель II</ln>
 <ln id="AIGuardianEMPII_Short">Страж (ЭМИ II)</ln>
-<ln id="AIGuardianEMPIII_Full">Страж ЭМИ ИИ Модель III</ln>
+<ln id="AIGuardianEMPIII_Full">Страж ИИ ЭМИ Модель III</ln>
 <ln id="AIGuardianEMPIII_Short">Страж (ЭМИ III)</ln>
-<ln id="AIGuardianEMPIV_Full">Страж ЭМИ ИИ Модель IV</ln>
+<ln id="AIGuardianEMPIV_Full">Страж ИИ ЭМИ Модель IV</ln>
 <ln id="AIGuardianEMPIV_Short">Страж (ЭМИ IV)</ln>
-<ln id="AIGuardianEMPV_Full">Страж ЭМИ ИИ Модель V</ln>
+<ln id="AIGuardianEMPV_Full">Страж ИИ ЭМИ Модель V</ln>
 <ln id="AIGuardianEMPV_Short">Страж (ЭМИ V)</ln>
 
-<ln id="AIGuardianSelfDestruction_Full">Страж Самоуничтожения ИИ</ln>
+<ln id="AIGuardianSelfDestruction_Full">Страж ИИ Самоуничтожения</ln>
 <ln id="AIGuardianSelfDestruction_Short">Страж (СамоУнич. I)</ln>
 <ln id="AIGuardianSelfDestruction_Desc">Исключительно хрупкий, но довольно злой. Умирая, излучает сильный взрыв с уроном по площади.</ln>
-<ln id="AIGuardianSelfDestructionII_Full">Страж Самоуничтожения ИИ Модель II</ln>
+<ln id="AIGuardianSelfDestructionII_Full">Страж ИИ Самоуничтожения Модель II</ln>
 <ln id="AIGuardianSelfDestructionII_Short">Страж (СамоУнич. II)</ln>
-<ln id="AIGuardianSelfDestructionIII_Full">Страж Самоуничтожения ИИ Модель III</ln>
+<ln id="AIGuardianSelfDestructionIII_Full">Страж ИИ Самоуничтожения Модель III</ln>
 <ln id="AIGuardianSelfDestructionIII_Short">Страж (СамоУнич. III)</ln>
-<ln id="AIGuardianSelfDestructionIV_Full">Страж Самоуничтожения ИИ Модель IV</ln>
+<ln id="AIGuardianSelfDestructionIV_Full">Страж ИИ Самоуничтожения Модель IV</ln>
 <ln id="AIGuardianSelfDestructionIV_Short">Страж (СамоУнич. IV)</ln>
-<ln id="AIGuardianSelfDestructionV_Full">Страж Самоуничтожения ИИ Модель V</ln>
+<ln id="AIGuardianSelfDestructionV_Full">Страж ИИ Самоуничтожения Модель V</ln>
 <ln id="AIGuardianSelfDestructionV_Short">Страж (СамоУнич. V)</ln>
 
-<ln id="AIGuardianSpecialForcesRally_Full">Страж Реле Специальных Сил ИИ</ln>
+<ln id="AIGuardianSpecialForcesRally_Full">Страж ИИ Реле Специальных Сил</ln>
 <ln id="AIGuardianSpecialForcesRally_Short">Страж (Спец. Силы I)</ln>
 <ln id="AIGuardianSpecialForcesRally_Desc">Работает как мобильный пост наступления для кораблей специальных сил ИИ. Как и Караульный Пост Специальных Сил, новые корабли ии будут появляться около этого Стража при каждом появлении подкрепления, но этот Страж не считается за Караульный Пост во всех важных случаях (для ограничения количества кораблей ИИ на планету и т.п.).</ln>
-<ln id="AIGuardianSpecialForcesRallyII_Full">Страж Реле Специальных Сил Модель II</ln>
+<ln id="AIGuardianSpecialForcesRallyII_Full">Страж ИИ Реле Специальных Сил Модель II</ln>
 <ln id="AIGuardianSpecialForcesRallyII_Short">Страж (Спец. Силы II)</ln>
-<ln id="AIGuardianSpecialForcesRallyIII_Full">Страж Реле Специальных Сил Модель III</ln>
+<ln id="AIGuardianSpecialForcesRallyIII_Full">Страж ИИ Реле Специальных Сил Модель III</ln>
 <ln id="AIGuardianSpecialForcesRallyIII_Short">Страж (Спец. Силы III)</ln>
-<ln id="AIGuardianSpecialForcesRallyIV_Full">Страж Реле Специальных Сил Модель IV</ln>
+<ln id="AIGuardianSpecialForcesRallyIV_Full">Страж ИИ Реле Специальных Сил Модель IV</ln>
 <ln id="AIGuardianSpecialForcesRallyIV_Short">Страж (Спец. Силы IV)</ln>
-<ln id="AIGuardianSpecialForcesRallyV_Full">Страж Реле Специальных Сил Модель V</ln>
+<ln id="AIGuardianSpecialForcesRallyV_Full">Страж ИИ Реле Специальных Сил Модель V</ln>
 <ln id="AIGuardianSpecialForcesRallyV_Short">Страж (Спец. Силы V)</ln>
 
-<ln id="AIGuardianVampire_Full">Страж Вампир ИИ</ln>
+<ln id="AIGuardianVampire_Full">Страж ИИ Вампир</ln>
 <ln id="AIGuardianVampire_Short">Страж (Вампир I)</ln>
 <ln id="AIGuardianVampire_Desc">Крепкий боец дальнего боя, восстанавливающий себя, нанося урон противнику.</ln>
-<ln id="AIGuardianVampireII_Full">Страж Вампир ИИ Модель II</ln>
+<ln id="AIGuardianVampireII_Full">Страж ИИ Вампир Модель II</ln>
 <ln id="AIGuardianVampireII_Short">Страж (Вампир II)</ln>
-<ln id="AIGuardianVampireIII_Full">Страж Вампир ИИ Модель III</ln>
+<ln id="AIGuardianVampireIII_Full">Страж ИИ Вампир Модель III</ln>
 <ln id="AIGuardianVampireIII_Short">Страж (Вампир III)</ln>
-<ln id="AIGuardianVampireIV_Full">Страж Вампир ИИ Модель IV</ln>
+<ln id="AIGuardianVampireIV_Full">Страж ИИ Вампир Модель IV</ln>
 <ln id="AIGuardianVampireIV_Short">Страж (Вампир IV)</ln>
-<ln id="AIGuardianVampireV_Full">Страж Вампир ИИ Модель V</ln>
+<ln id="AIGuardianVampireV_Full">Страж ИИ Вампир Модель V</ln>
 <ln id="AIGuardianVampireV_Short">Страж (Вампир V)</ln>
 
-<ln id="AIGuardianWarpGate_Full">Страж Пространственных Врат ИИ</ln>
+<ln id="AIGuardianWarpGate_Full">Страж ИИ Пространственных Врат</ln>
 <ln id="AIGuardianWarpGate_Short">Страж (Прос Врата I)</ln>
 <ln id="AIGuardianWarpGate_Desc">Боец с большим здоровьем и короткой дистанцией, работающий как подвижные Врата. Осторожнее с ним, атакуя на Вашей территории, он может привлечь рейд в неожиданные места, которые недоступны ИИ с помощью обычных врат. В частности, охота на домашние миры людей.</ln>
-<ln id="AIGuardianWarpGateII_Full">Страж Пространственных Врат ИИ Модель II</ln>
+<ln id="AIGuardianWarpGateII_Full">Страж ИИ Пространственных Врат Модель II</ln>
 <ln id="AIGuardianWarpGateII_Short">Страж (Врата II)</ln>
-<ln id="AIGuardianWarpGateIII_Full">Страж Пространственных Врат ИИ Модель III</ln>
+<ln id="AIGuardianWarpGateIII_Full">Страж ИИ Пространственных Врат Модель III</ln>
 <ln id="AIGuardianWarpGateIII_Short">Страж (Врата III)</ln>
-<ln id="AIGuardianWarpGateIV_Full">Страж Пространственных Врат ИИ Модель IV</ln>
+<ln id="AIGuardianWarpGateIV_Full">Страж ИИ Пространственных Врат Модель IV</ln>
 <ln id="AIGuardianWarpGateIV_Short">Страж (Врата IV)</ln>
-<ln id="AIGuardianWarpGateV_Full">Страж Пространственных Врат ИИ Модель V</ln>
+<ln id="AIGuardianWarpGateV_Full">Страж ИИ Пространственных Врат Модель V</ln>
 <ln id="AIGuardianWarpGateV_Short">Страж (Врата V)</ln>
 
-<ln id="AIGuardianZombie_Full">Страж Зомби ИИ</ln>
+<ln id="AIGuardianZombie_Full">Страж ИИ Зомби</ln>
 <ln id="AIGuardianZombie_Short">Страж (Зомби I)</ln>
 <ln id="AIGuardianZombie_Desc">Переманивает вражеские корабли, которых убивает (здоровье переманенных кораблей = урон, нанесённый переманивателем). Переманенные корабли обращаются в Зомби Ботов, которых нельзя контролировать, но они будут безжалостно атаковать корабли противников, пока не умрут. Зомби боты путешествуют на планеты противников, если противников не остаётся, а также имеют иммунитет к переманиванию. Страж не атакует недвигающиеся корабли, неатакующие или с иммунитетом к переманиванию.</ln>
-<ln id="AIGuardianZombieII_Full">Страж Зомби ИИ Модель II</ln>
+<ln id="AIGuardianZombieII_Full">Страж ИИ Зомби Модель II</ln>
 <ln id="AIGuardianZombieII_Short">Страж (Зомби II)</ln>
-<ln id="AIGuardianZombieIII_Full">Страж Зомби ИИ Модель III</ln>
+<ln id="AIGuardianZombieIII_Full">Страж ИИ Зомби Модель III</ln>
 <ln id="AIGuardianZombieIII_Short">Страж (Зомби III)</ln>
-<ln id="AIGuardianZombieIV_Full">Страж Зомби ИИ Модель IV</ln>
+<ln id="AIGuardianZombieIV_Full">Страж ИИ Зомби Модель IV</ln>
 <ln id="AIGuardianZombieIV_Short">Страж (Зомби IV)</ln>
-<ln id="AIGuardianZombieV_Full">Страж Зомби ИИ Модель V</ln>
+<ln id="AIGuardianZombieV_Full">Страж ИИ Зомби Модель V</ln>
 <ln id="AIGuardianZombieV_Short">Страж (Зомби V)</ln>
 
-<ln id="AIGuardianGravity_Full">Страж Гравитационный ИИ</ln>
+<ln id="AIGuardianGravity_Full">Страж ИИ Гравитационный</ln>
 <ln id="AIGuardianGravity_Short">Страж (Гравит. I)</ln>
 <ln id="AIGuardianGravity_Desc">Огромный эффект гравитационного искажения замедляет корабли противников на обширной территории. Средняя огневая мощь, предназначенная для звездолётов и других крупных целей.</ln>
-<ln id="AIGuardianGravityII_Full">Страж Гравитационный ИИ Модель II</ln>
+<ln id="AIGuardianGravityII_Full">Страж ИИ Гравитационный Модель II</ln>
 <ln id="AIGuardianGravityII_Short">Страж (Гравит. II)</ln>
-<ln id="AIGuardianGravityIII_Full">Страж Гравитационный ИИ Модель III</ln>
+<ln id="AIGuardianGravityIII_Full">Страж ИИ Гравитационный Модель III</ln>
 <ln id="AIGuardianGravityIII_Short">Страж (Гравит. III)</ln>
-<ln id="AIGuardianGravityIV_Full">Страж Гравитационный ИИ Модель IV</ln>
+<ln id="AIGuardianGravityIV_Full">Страж ИИ Гравитационный Модель IV</ln>
 <ln id="AIGuardianGravityIV_Short">Страж (Гравит. IV)</ln>
-<ln id="AIGuardianGravityV_Full">Страж Гравитационный ИИ Модель V</ln>
+<ln id="AIGuardianGravityV_Full">Страж ИИ Гравитационный Модель V</ln>
 <ln id="AIGuardianGravityV_Short">Страж (Гравит. V)</ln>
 
-<ln id="AIGuardianSpireImplosion_Full">Страж Имплозии Spire'ов ИИ</ln>
+<ln id="AIGuardianSpireImplosion_Full">Страж ИИ Имплозии Spire'ов</ln>
 <ln id="AIGuardianSpireImplosion_Short">Страж (S Имплозия I)</ln>
 <ln id="AIGuardianSpireImplosion_Desc">Средней дальности, среднего здоровья артиллеристское оружие, наносящее урон, зависящий от оставшегося процента здоровья врага (не менее 1 повреждения). Наиболее эффективен против кораблей с большим количеством оставшегоя здоровья.</ln>
-<ln id="AIGuardianSpireImplosionII_Full">Страж Имплозии Spire'ов ИИ Модель II</ln>
+<ln id="AIGuardianSpireImplosionII_Full">Страж ИИ Имплозии Spire'ов Модель II</ln>
 <ln id="AIGuardianSpireImplosionII_Short">Страж (S Имплозия II)</ln>
-<ln id="AIGuardianSpireImplosionIII_Full">Страж Имплозии Spire'ов ИИ Модель III</ln>
+<ln id="AIGuardianSpireImplosionIII_Full">Страж ИИ Имплозии Spire'ов Модель III</ln>
 <ln id="AIGuardianSpireImplosionIII_Short">Страж (S Имплозия III)</ln>
-<ln id="AIGuardianSpireImplosionIV_Full">Страж Имплозии Spire'ов ИИ Модель IV</ln>
+<ln id="AIGuardianSpireImplosionIV_Full">Страж ИИ Имплозии Spire'ов Модель IV</ln>
 <ln id="AIGuardianSpireImplosionIV_Short">Страж (S Имплозия IV)</ln>
-<ln id="AIGuardianSpireImplosionV_Full">Страж Имплозии Spire'ов ИИ Модель V</ln>
+<ln id="AIGuardianSpireImplosionV_Full">Страж ИИ Имплозии Spire'ов Модель V</ln>
 <ln id="AIGuardianSpireImplosionV_Short">Страж (S Имплозия V)</ln>
 
-<ln id="AIGuardianStarshipDisassembler_Full">Страж Дизассемблер ИИ</ln>
-<ln id="AIGuardianStarshipDisassembler_Short">Страж (Дизассемблер I)</ln>
+<ln id="AIGuardianStarshipDisassembler_Full">Страж ИИ Проглот</ln>
+<ln id="AIGuardianStarshipDisassembler_Short">Страж (Проглот I)</ln>
 <ln id="AIGuardianStarshipDisassembler_Desc">Большой инопланетный Страж, проглатывающий вражеские звездолёты и постоянно повреждает их. При уничтожении Стража, они выпадают наружу с теми жизнями, которые у них остались. Внешние орудия также стреляют по противникам на ближнем расстоянии, пока он жуёт проглоченные корабли.</ln>
-<ln id="AIGuardianStarshipDisassemblerII_Full">Страж Дизассемблер ИИ Модель II</ln>
-<ln id="AIGuardianStarshipDisassemblerII_Short">Страж (Дизассемблер II)</ln>
-<ln id="AIGuardianStarshipDisassemblerIII_Full">Страж Дизассемблер ИИ Модель III</ln>
-<ln id="AIGuardianStarshipDisassemblerIII_Short">Страж (Дизассемблер III)</ln>
-<ln id="AIGuardianStarshipDisassemblerIV_Full">Страж Дизассемблер ИИ Модель IV</ln>
-<ln id="AIGuardianStarshipDisassemblerIV_Short">Страж (Дизассемблер IV)</ln>
-<ln id="AIGuardianStarshipDisassemblerV_Full">Страж Дизассемблер ИИ Модель V</ln>
-<ln id="AIGuardianStarshipDisassemblerV_Short">Страж (Дизассемблер V)</ln>
+<ln id="AIGuardianStarshipDisassemblerII_Full">Страж ИИ Проглот Модель II</ln>
+<ln id="AIGuardianStarshipDisassemblerII_Short">Страж (Проглот II)</ln>
+<ln id="AIGuardianStarshipDisassemblerIII_Full">Страж ИИ Проглот Модель III</ln>
+<ln id="AIGuardianStarshipDisassemblerIII_Short">Страж (Проглот III)</ln>
+<ln id="AIGuardianStarshipDisassemblerIV_Full">Страж ИИ Проглот Модель IV</ln>
+<ln id="AIGuardianStarshipDisassemblerIV_Short">Страж (Проглот IV)</ln>
+<ln id="AIGuardianStarshipDisassemblerV_Full">Страж ИИ Проглот Модель V</ln>
+<ln id="AIGuardianStarshipDisassemblerV_Short">Страж (Проглот V)</ln>
 
 <ln id="SpireArmorRotter_Full">Уничтожитель Брони Spire'ов</ln>
 <ln id="SpireArmorRotter_Short">Уничтожитель Брони I</ln>

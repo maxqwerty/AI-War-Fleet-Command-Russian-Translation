@@ -129,23 +129,23 @@
 <ln id="Scrap20000_Ingame_Gold_AltOrder">1. Scrap 4</ln>
 
 <ln id="Control2Planets_Ingame_Bronze">1. Владение 2</ln>
-<ln id="Control2Planets_Ingame_Bronze_Desc">Ваша команда должна владеть двумя планетами помимо домашних.</ln>
+<ln id="Control2Planets_Ingame_Bronze_Desc">Ваша команда должна владеть двумя планетами помимо Столичных.</ln>
 <ln id="Control2Planets_Ingame_Bronze_AltOrder">1. Control 1</ln>
 
 <ln id="Control5Planets_Ingame_Bronze">1. Владение 5</ln>
-<ln id="Control5Planets_Ingame_Bronze_Desc">Ваша команда должна владеть пятью планетами помимо домашних.</ln>
+<ln id="Control5Planets_Ingame_Bronze_Desc">Ваша команда должна владеть пятью планетами помимо Столичных.</ln>
 <ln id="Control5Planets_Ingame_Bronze_AltOrder">1. Control 2</ln>
 
 <ln id="Control15Planets_Ingame_Bronze">1. Владение 15</ln>
-<ln id="Control15Planets_Ingame_Bronze_Desc">Ваша команда должна владеть пятнадцатью планетами помимо домашних.</ln>
+<ln id="Control15Planets_Ingame_Bronze_Desc">Ваша команда должна владеть пятнадцатью планетами помимо Столичных.</ln>
 <ln id="Control15Planets_Ingame_Bronze_AltOrder">1. Control 3</ln>
 
 <ln id="Control25Planets_Ingame_Silver">1. Владение 25</ln>
-<ln id="Control25Planets_Ingame_Silver_Desc">Ваша команда должна владеть двадцатью пятью планетами помимо домашних.</ln>
+<ln id="Control25Planets_Ingame_Silver_Desc">Ваша команда должна владеть двадцатью пятью планетами помимо Столичных.</ln>
 <ln id="Control25Planets_Ingame_Silver_AltOrder">1. Control 4</ln>
 
 <ln id="Control35Planets_Ingame_Silver">1. Владение 35</ln>
-<ln id="Control35Planets_Ingame_Silver_Desc">Ваша команда должна владеть тридцатью пятью планетами помимо домашних.</ln>
+<ln id="Control35Planets_Ingame_Silver_Desc">Ваша команда должна владеть тридцатью пятью планетами помимо Столичных.</ln>
 <ln id="Control35Planets_Ingame_Silver_AltOrder">1. Control 5</ln>
 
 <ln id="Win10Planets_Ingame_Bronze">1. Победа на карте с 10 планетами</ln>
@@ -451,15 +451,15 @@
 <ln id="WinGameWithNukedGalaxy_Gold_AltOrder">5. Ядерное уничтожение 1</ln>
 
 <ln id="Control50Planets_Ingame_Gold">5. Владение 50</ln>
-<ln id="Control50Planets_Ingame_Gold_Desc">Ваша команда должна владеть пятьюдесятью планетами помимо домашних.</ln>
+<ln id="Control50Planets_Ingame_Gold_Desc">Ваша команда должна владеть пятьюдесятью планетами помимо Столичных.</ln>
 <ln id="Control50Planets_Ingame_Gold_AltOrder">5. Владение 1</ln>
 
 <ln id="Control80Planets_Ingame_Gold">5. Владение 80</ln>
-<ln id="Control80Planets_Ingame_Gold_Desc">Ваша команда должна владеть восьмьюдесятью планетами помимо домашних.</ln>
+<ln id="Control80Planets_Ingame_Gold_Desc">Ваша команда должна владеть восьмьюдесятью планетами помимо Столичных.</ln>
 <ln id="Control80Planets_Ingame_Gold_AltOrder">5. Владение 2</ln>
 
 <ln id="Control110Planets_Ingame_Gold">5. Владение 110</ln>
-<ln id="Control110Planets_Ingame_Gold_Desc">Ваша команда должна владеть ста десятью планетами помимо домашних.</ln>
+<ln id="Control110Planets_Ingame_Gold_Desc">Ваша команда должна владеть ста десятью планетами помимо Столичных.</ln>
 <ln id="Control110Planets_Ingame_Gold_AltOrder">5. Владение 3</ln>
 
 <ln id="Length">Длина</ln>

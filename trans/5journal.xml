@@ -5,7 +5,7 @@
 <ln id="Journal_ShowdownDevices_OneControlled_LongTitle">Мы восстановили записи о странном устройстве, обнаруженном на ранее захваченной планете.</ln>
 <ln id="Journal_ShowdownDevices_OneControlled_Text">
 От: Док. Дороти В. Лангсторм
-Ксенобиологическая Лаб, Домашняя Станция
+Ксенобиологическая Лаб, Столичная Станция
 
 Для: Главнокомандуюущий $playerName
 
@@ -29,7 +29,7 @@
 <ln id="Journal_ShowdownDevices_TwoControlled_LongTitle">Мы восстановили новую запись об этих странных устройствах.</ln>
 <ln id="Journal_ShowdownDevices_TwoControlled_Text">
 От: Док. Дороти В. Лангсторм
-Ксенобиологическая Лаб, Домашняя Станция
+Ксенобиологическая Лаб, Столичная Станция
 
 Для: Главнокомандуюущий $playerName
 
@@ -51,7 +51,7 @@
 <ln id="Journal_ShowdownDevices_ThreeControlled_LongTitle">Мы восстановили последнюю запись об этих странных устройствах.</ln>
 <ln id="Journal_ShowdownDevices_ThreeControlled_Text">
 От: Док. Дороти В. Лангсторм
-Ксенобиологическая Лаб, Домашняя Станция
+Ксенобиологическая Лаб, Столичная Станция
 
 Для: Главнокомандуюущий $playerName
 

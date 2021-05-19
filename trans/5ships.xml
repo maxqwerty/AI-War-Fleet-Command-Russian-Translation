@@ -282,68 +282,68 @@
 <ln id="AIGuardian_PlasmaV_Full">Страж ИИ Плазменный Модель V</ln>
 <ln id="AIGuardian_PlasmaV_Short">Страж (Плазма V)</ln>
 
-<ln id="DireGuardianLair_Full">Логово Ужасного Стража</ln>
-<ln id="DireGuardianLair_Short">УЗ Логово</ln>
-<ln id="DireGuardianLair_Desc">Спокоен, пока его планета не объявит тревогу или не будет захвачена. Пробуждаясь, строит опасных "Ужасных" Стражов, которые могут нанести большой ущерб человеческим силам. Вы можете уничтожить логово, чтобы предотвратить это производство, но имейте в виду, что значительная группа этих Ужасных Стражов появится на месте разрушения логова.</ln>
+<ln id="DireGuardianLair_Full">Логово Зловещих Стражей</ln>
+<ln id="DireGuardianLair_Short">ЗЛ Логово</ln>
+<ln id="DireGuardianLair_Desc">Спокоен, пока его планета не объявит тревогу или не будет захвачена. Пробуждаясь, строит опасных "Зловещих" Стражей, которые могут нанести большой ущерб человеческим силам. Вы можете уничтожить логово, чтобы предотвратить это производство, но имейте в виду, что значительная группа этих Зловещих Стражей появится на месте разрушения логова.</ln>
 
-<ln id="AIDireGuardian_Needler_Full">Ужасный Страж ИИ Игольчатый</ln>
-<ln id="AIDireGuardian_Needler_Short">Ужасный С (Игольчат)</ln>
-<ln id="AIDireGuardian_Needler_Desc">Эта ужасная машина стреляет пучками игл.</ln>
+<ln id="AIDireGuardian_Needler_Full">Зловещий Страж ИИ Игольчатый</ln>
+<ln id="AIDireGuardian_Needler_Short">Зловещий С (Игольчат)</ln>
+<ln id="AIDireGuardian_Needler_Desc">Эта зловещая машина стреляет пучками игл.</ln>
 
-<ln id="AIDireGuardian_Laser_Full">Ужасный Страж ИИ Лазерный</ln>
-<ln id="AIDireGuardian_Laser_Short">Ужасный С (Лазер)</ln>
+<ln id="AIDireGuardian_Laser_Full">Зловещий Страж ИИ Лазерный</ln>
+<ln id="AIDireGuardian_Laser_Short">Зловещий С (Лазер)</ln>
 <ln id="AIDireGuardian_Laser_Desc">Вооружён несколькими мощными лазерными пушками, которые создают брешь в рядах противника.</ln>
 
-<ln id="AIDireGuardian_MLRS_Full">Ужасный Страж ИИ РСЗО</ln>
-<ln id="AIDireGuardian_MLRS_Short">Ужасный С (РСЗО)</ln>
+<ln id="AIDireGuardian_MLRS_Full">Зловещий Страж ИИ РСЗО</ln>
+<ln id="AIDireGuardian_MLRS_Short">Зловещий С (РСЗО)</ln>
 <ln id="AIDireGuardian_MLRS_Desc">Стреляет множеством мощных ракет по врагам, неудачно попавшим в радиус атаки.</ln>
 
-<ln id="AIDireGuardian_Implosion_Full">Ужасный Страж ИИ Имплозийный</ln>
-<ln id="AIDireGuardian_Implosion_Short">Ужасный С (Имплозийный)</ln>
+<ln id="AIDireGuardian_Implosion_Full">Зловещий Страж ИИ Имплозийный</ln>
+<ln id="AIDireGuardian_Implosion_Short">Зловещий С (Имплозийный)</ln>
 <ln id="AIDireGuardian_Implosion_Desc">Вооружён десятком мощных имплозийных пушек, наносящих урон по целям с большим здоровьем.</ln>
 
-<ln id="AIDireGuardian_Sniper_Full">Ужасный Страж ИИ Снайпер</ln>
-<ln id="AIDireGuardian_Sniper_Short">Ужасный С (Снайпер)</ln>
+<ln id="AIDireGuardian_Sniper_Full">Зловещий Страж ИИ Снайпер</ln>
+<ln id="AIDireGuardian_Sniper_Short">Зловещий С (Снайпер)</ln>
 <ln id="AIDireGuardian_Sniper_Desc">Вооружён мощными рельсотронами с бесконечной дальностью поражения.</ln>
 
-<ln id="AIDireGuardian_Spider_Full">Ужасный Страж ИИ Паук</ln>
-<ln id="AIDireGuardian_Spider_Short">Ужасный С (Паук)</ln>
+<ln id="AIDireGuardian_Spider_Full">Зловещий Страж ИИ Паук</ln>
+<ln id="AIDireGuardian_Spider_Short">Зловещий С (Паук)</ln>
 <ln id="AIDireGuardian_Spider_Desc">Вооружён тяжёлым "дробовиковым" оружием, созданным для уничтожения двигателей вражеских юнитов.</ln>
 
-<ln id="AIDireGuardian_Tractor_Full">Ужасный Страж ИИ Тягач</ln>
-<ln id="AIDireGuardian_Tractor_Short">Ужасный С (Тягач)</ln>
+<ln id="AIDireGuardian_Tractor_Full">Зловещий Страж ИИ Тягач</ln>
+<ln id="AIDireGuardian_Tractor_Short">Зловещий С (Тягач)</ln>
 <ln id="AIDireGuardian_Tractor_Desc">Использует невероятно мощный набор тяговых лучей, которые отбрасывают вражеские корабли.</ln>
 
-<ln id="AIDireGuardian_Widow_Full">Ужасный Страж ИИ Вдова</ln>
-<ln id="AIDireGuardian_Widow_Short">Ужасный С (Вдова)</ln>
+<ln id="AIDireGuardian_Widow_Full">Зловещий Страж ИИ Вдова</ln>
+<ln id="AIDireGuardian_Widow_Short">Зловещий С (Вдова)</ln>
 <ln id="AIDireGuardian_Widow_Desc">Использует невероятно мощный набор тяговых лучей, которые отбрасывают вражеские корабли и парализуют их.</ln>
 
-<ln id="AIDireGuardian_Disassembler_Full">Ужасный Страж ИИ Проглот</ln>
-<ln id="AIDireGuardian_Disassembler_Short">Ужасный С (Проглот)</ln>
+<ln id="AIDireGuardian_Disassembler_Full">Зловещий Страж ИИ Проглот</ln>
+<ln id="AIDireGuardian_Disassembler_Short">Зловещий С (Проглот)</ln>
 <ln id="AIDireGuardian_Disassembler_Desc">Может полностью проглотить вражеский звездолёт, постепенно разбирая его внутри себя. Если Страж будет уничтожен, выжившие проглоченные корабли высвободятся.</ln>
 
-<ln id="AIDireGuardian_Gravity_Full">Ужасный Страж ИИ Гравитационный</ln>
-<ln id="AIDireGuardian_Gravity_Short">Ужасный С (Гравитац)</ln>
+<ln id="AIDireGuardian_Gravity_Full">Зловещий Страж ИИ Гравитационный</ln>
+<ln id="AIDireGuardian_Gravity_Short">Зловещий С (Гравитац)</ln>
 <ln id="AIDireGuardian_Gravity_Desc">Использует невероятно мощный гравитационный генератор, замедляющий вражеских юнитов в широкой зоне вокруг себя.</ln>
 
-<ln id="AIDireGuardian_MunitionsBoosting_Full">Ужасный Страж ИИ Усилитель Боеприпасов</ln>
-<ln id="AIDireGuardian_MunitionsBoosting_Short">Ужасный С (Усилитель Боеприпасов)</ln>
+<ln id="AIDireGuardian_MunitionsBoosting_Full">Зловещий Страж ИИ Усилитель Боеприпасов</ln>
+<ln id="AIDireGuardian_MunitionsBoosting_Short">Зловещий С (Усилитель Боеприпасов)</ln>
 <ln id="AIDireGuardian_MunitionsBoosting_Desc">Поддерживает мощное усиление союзных кораблей на большом расстоянии.</ln>
 
-<ln id="AIDireGuardian_Infiltration_Full">Ужасный Страж ИИ Проникновения</ln>
-<ln id="AIDireGuardian_Infiltration_Short">Ужасный С (Проникновение)</ln>
+<ln id="AIDireGuardian_Infiltration_Full">Зловещий Страж ИИ Проникновения</ln>
+<ln id="AIDireGuardian_Infiltration_Short">Зловещий С (Проникновение)</ln>
 <ln id="AIDireGuardian_Infiltration_Desc">Экстремально смертельная машина, с возможностью оставаться скрытой до удара и проходить и стрелять сквозь ваши силовые поля.</ln>
 
-<ln id="AIDireGuardian_Artillery_Full">Ужасный Страж ИИ Артиллерист</ln>
-<ln id="AIDireGuardian_Artillery_Short">Ужасный С (Артиллерист)</ln>
+<ln id="AIDireGuardian_Artillery_Full">Зловещий Страж ИИ Артиллерист</ln>
+<ln id="AIDireGuardian_Artillery_Short">Зловещий С (Артиллерист)</ln>
 <ln id="AIDireGuardian_Artillery_Desc">Стреляет экстремально мощными энергетическими артиллеристскими снарядами.</ln>
 
-<ln id="AIDireGuardian_Raider_Full">Ужасный Страж ИИ Налётчик</ln>
-<ln id="AIDireGuardian_Raider_Short">Ужасный С (Налётчик)</ln>
+<ln id="AIDireGuardian_Raider_Full">Зловещий Страж ИИ Налётчик</ln>
+<ln id="AIDireGuardian_Raider_Short">Зловещий С (Налётчик)</ln>
 <ln id="AIDireGuardian_Raider_Desc">Очень быстрый и стреляет множеством высокоэнергетичесных снарядов.</ln>
 
-<ln id="AIDireGuardian_Shield_Full">Ужасный Страж ИИ Щитовой</ln>
-<ln id="AIDireGuardian_Shield_Short">Ужасный С (Щит)</ln>
+<ln id="AIDireGuardian_Shield_Full">Зловещий Страж ИИ Щитовой</ln>
+<ln id="AIDireGuardian_Shield_Short">Зловещий С (Щит)</ln>
 <ln id="AIDireGuardian_Shield_Desc">Защищает ближайших союзных юнитов своим сверхмощным генератором силового поля.</ln>
 
 <ln id="ShowdownDevice_Full">Проявительное Устройство</ln>

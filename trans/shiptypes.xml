@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
 <ln id="None">Нет</ln>
-<ln id="Scout">Скаут</ln>
+<ln id="Scout">Разведчик</ln>
 <ln id="Fighter">Истребитель</ln>
 <ln id="Raider">Рейдер</ln>
 <ln id="Constructor">Строитель</ln>
@@ -10,7 +10,7 @@
 <ln id="Cruiser">Фрегат</ln>
 <ln id="Tank">Танк</ln>
 <ln id="Command_Station">Командная станция</ln>
-<ln id="Scout_Starship">Звездолёт-скаут</ln>
+<ln id="Scout_Starship">Звездолёт-разведчик</ln>
 <ln id="Resource">Ресурсы</ln>
 <ln id="Sensor">Сенсор</ln>
 <ln id="Lazer_Gatling">Лазерный Гатлинг</ln>

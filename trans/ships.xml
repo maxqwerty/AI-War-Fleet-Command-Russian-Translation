@@ -470,21 +470,21 @@
 <ln id="GravitationalTurretIII_Short">Грави III</ln>
 <ln id="GravitationalTurretIII_Desc">Очень сильно замедляет вражеские корабли на большом радиусе действия.</ln>
 
-<ln id="ScoutDrone_Full">Дрон-Скаут</ln>
-<ln id="ScoutDrone_Short">Скаут I</ln>
-<ln id="ScoutDrone_Wave">Скауты</ln>
+<ln id="ScoutDrone_Full">Дрон-Разведчик</ln>
+<ln id="ScoutDrone_Short">Разведчик I</ln>
+<ln id="ScoutDrone_Wave">Разведчики</ln>
 <ln id="ScoutDrone_Desc">Необходим для разведки на вражеских планетах и сбора развединформации.
-Старайтесь брать с собой по крайней мере одного скаута в каждый рейд, чтобы получить полную Информацию о Планете.</ln>
+Старайтесь брать с собой по крайней мере одного разведчика в каждый рейд, чтобы получить полную Информацию о Планете.</ln>
 
-<ln id="ArmoredScout_Full">Дрон-Скаут Модель II</ln>
-<ln id="ArmoredScout_Short">Скаут II</ln>
+<ln id="ArmoredScout_Full">Дрон-Разведчик Модель II</ln>
+<ln id="ArmoredScout_Short">Разведчик II</ln>
 
-<ln id="StealthScout_Full">Дрон-Скаут Модель III</ln>
-<ln id="StealthScout_Short">Скаут III</ln>
+<ln id="StealthScout_Full">Дрон-Разведчик Модель III</ln>
+<ln id="StealthScout_Short">Разведчик III</ln>
 
-<ln id="TachyonScout_Full">Дрон-Скаут Модель IV</ln>
-<ln id="TachyonScout_Short">Скаут IV</ln>
-<ln id="TachyonScout_Wave">Скауты</ln>
+<ln id="TachyonScout_Full">Дрон-Разведчик Модель IV</ln>
+<ln id="TachyonScout_Short">Разведчик IV</ln>
+<ln id="TachyonScout_Wave">Разведчики</ln>
 <ln id="TachyonScout_Desc">Совершенный разведчик, испускает тахионные лучи и в то же время обладает иммунитетом к вражеским тахионным лучам.
 Этот корабль совершенно невозможно засечь, но это даётся ценой очень низкой скорости.</ln>
 
@@ -959,7 +959,7 @@
 
 <ln id="AIGuardianSniper_Full">Страж ИИ - Снайпер</ln>
 <ln id="AIGuardianSniper_Short">Страж (Снайпер I)</ln>
-<ln id="AIGuardianSniper_Desc">Дальнобойный рельсотрон устраняет незащищённые корабли.  Убедитесь, что у Вас есть Звездолёт Скаут, чтобы защитить свои корабли, пока снайпер не будет уничтожен!</ln>
+<ln id="AIGuardianSniper_Desc">Дальнобойный рельсотрон устраняет незащищённые корабли.  Убедитесь, что у Вас есть Звездолёт Разведчик, чтобы защитить свои корабли, пока снайпер не будет уничтожен!</ln>
 <ln id="AIGuardianSniperII_Full">Страж ИИ - Снайпер Модель II</ln>
 <ln id="AIGuardianSniperII_Short">Страж (Снайпер II)</ln>
 <ln id="AIGuardianSniperIII_Full">Страж ИИ - Снайпер Модель III</ln>
@@ -995,7 +995,7 @@
 
 <ln id="AIGuardianTachyon_Full">Страж ИИ - Тахионный</ln>
 <ln id="AIGuardianTachyon_Short">Страж (Тахион I)</ln>
-<ln id="AIGuardianTachyon_Desc">Неподвижный юнит, ждущий в червоточинах, способен раскрыть Скаутов.  После уничтожения ИИ не будет его восстанавливать, так что Вы можете проделать свои флотом путь для скаутов, если они не способны продвигаться в этом направлении.</ln>
+<ln id="AIGuardianTachyon_Desc">Неподвижный юнит, ждущий в червоточинах, способен раскрыть Разведчиков.  После уничтожения ИИ не будет его восстанавливать, так что Вы можете проделать свои флотом путь для разведчиков, если они не способны продвигаться в этом направлении.</ln>
 <ln id="AIGuardianTachyonII_Full">Страж ИИ - Тахионный Модель II</ln>
 <ln id="AIGuardianTachyonII_Short">Страж (Тахион II)</ln>
 <ln id="AIGuardianTachyonIII_Full">Страж ИИ - Тахионный Модель III</ln>
@@ -1207,7 +1207,7 @@
 
 <ln id="AdvancedStarshipConstructor_Full">Продвинутая Звездолётная Верфь</ln>
 <ln id="AdvancedStarshipConstructor_Short">Звезд Верфь IV</ln>
-<ln id="AdvancedStarshipConstructor_Desc">Захватите, чтобы строить звездолёты Модели IV, для которых уже открыта Модель III (Разоблачитель и Бунтовой звездолёты не имеют МодIV, а МодIV Звездолёта-Скаута доступна в обычной Звёздолётной Верфи).  Защищайте её!</ln>
+<ln id="AdvancedStarshipConstructor_Desc">Захватите, чтобы строить звездолёты Модели IV, для которых уже открыта Модель III (Разоблачитель и Бунтовой звездолёты не имеют МодIV, а МодIV Звездолёта-Разведчика доступна в обычной Звёздолётной Верфи).  Защищайте её!</ln>
 
 <ln id="AdvancedStarshipConstructorFoldout_Full">Раскладная Продвинутая Звездолётная Верфь</ln>
 <ln id="AdvancedStarshipConstructorFoldout_Short">Раскладная Верфь IV</ln>
@@ -1283,19 +1283,19 @@
 
 <ln id="ScoutStarship_Full">Звездолёт-Cкаут</ln>
 <ln id="ScoutStarship_Short">Звезд:Cкаут</ln>
-<ln id="ScoutStarship_Desc">Не может атаковать, но маскируется, излучает тахионные лучи, поддерживает противоснайперское укрытие, и действует как Скаут.</ln>
+<ln id="ScoutStarship_Desc">Не может атаковать, но маскируется, излучает тахионные лучи, поддерживает противоснайперское укрытие, и действует как Разведчик.</ln>
 
 <ln id="ScoutStarshipII_Full">Звездолёт-Cкаут Модель II</ln>
 <ln id="ScoutStarshipII_Short">Звезд:Cкаут II</ln>
-<ln id="ScoutStarshipII_Desc">Не может атаковать, но маскируется, излучает тахионные лучи, поддерживает противоснайперское укрытие, и действует как Скаут.</ln>
+<ln id="ScoutStarshipII_Desc">Не может атаковать, но маскируется, излучает тахионные лучи, поддерживает противоснайперское укрытие, и действует как Разведчик.</ln>
 
 <ln id="ScoutStarshipIII_Full">Звездолёт-Cкаут Модель III</ln>
 <ln id="ScoutStarshipIII_Short">Звезд:Cкаут III</ln>
-<ln id="ScoutStarshipIII_Desc">Не может атаковать, но маскируется, излучает тахионные лучи, поддерживает противоснайперское укрытие, и действует как Скаут.</ln>
+<ln id="ScoutStarshipIII_Desc">Не может атаковать, но маскируется, излучает тахионные лучи, поддерживает противоснайперское укрытие, и действует как Разведчик.</ln>
 
 <ln id="ScoutStarshipIV_Full">Звездолёт-Cкаут Модель IV</ln>
 <ln id="ScoutStarshipIV_Short">Звезд:Cкаут IV</ln>
-<ln id="ScoutStarshipIV_Desc">Не может атаковать, но постоянно скрыт, излучает тахионные лучи, поддерживает противоснайперское и противоракетное укрытие, и действует как Скаут.</ln>
+<ln id="ScoutStarshipIV_Desc">Не может атаковать, но постоянно скрыт, излучает тахионные лучи, поддерживает противоснайперское и противоракетное укрытие, и действует как Разведчик.</ln>
 
 <ln id="RaidStarship_Full">Рейдовый Звездолёт</ln>
 <ln id="RaidStarship_Short">Звезд:Рейд</ln>
@@ -1797,8 +1797,8 @@
 <ln id="EyeBot_Full">Глаз-Бот</ln>
 <ln id="EyeBot_Short">Глаз-Бот I</ln>
 <ln id="EyeBot_Wave">Глаз-Боты</ln>
-<ln id="EyeBot_Desc">Работает как Скаут, проходит через Силовые Поля, непробиваем для ракет.
-Имеет скрытие и усилитель скрытия как обычный Скаут.</ln>
+<ln id="EyeBot_Desc">Работает как Разведчик, проходит через Силовые Поля, непробиваем для ракет.
+Имеет скрытие и усилитель скрытия как обычный Разведчик.</ln>
 
 <ln id="EyeBotII_Full">Глаз-Бот Модель II</ln>
 <ln id="EyeBotII_Short">Глаз-Бот II</ln>

@@ -604,18 +604,18 @@
 <ln id="SpirecraftAttritionerV_Full">Истощитель Spirecraft Модель V</ln>
 <ln id="SpirecraftAttritionerV_Short">SC Истощитель V</ln>
 
-<ln id="SpirecraftScout_Full">Скаут Spirecraft</ln>
-<ln id="SpirecraftScout_Short">SC Скаут I</ln>
-<ln id="SpirecraftScout_Wave">Скауты Spirecraft</ln>
-<ln id="SpirecraftScout_Desc">Эти Скауты постоянно скрыты, но проходя через каждую червоточину из зоны обеспечения питания их здоровье уменьшается  (на 50/34/25/20/17%, для Мод I/II/III/IV/V соответственно), но он также быстро восстанавливает здоровье на союзных планетах.</ln>
-<ln id="SpirecraftScoutII_Full">Скаут Spirecraft Модель II</ln>
-<ln id="SpirecraftScoutII_Short">SC Скаут II</ln>
-<ln id="SpirecraftScoutIII_Full">Скаут Spirecraft Модель III</ln>
-<ln id="SpirecraftScoutIII_Short">SC Скаут III</ln>
-<ln id="SpirecraftScoutIV_Full">Скаут Spirecraft Модель IV</ln>
-<ln id="SpirecraftScoutIV_Short">SC Скаут IV</ln>
-<ln id="SpirecraftScoutV_Full">Скаут Spirecraft Модель V</ln>
-<ln id="SpirecraftScoutV_Short">SC Скаут V</ln>
+<ln id="SpirecraftScout_Full">Разведчик Spirecraft</ln>
+<ln id="SpirecraftScout_Short">SC Разведчик I</ln>
+<ln id="SpirecraftScout_Wave">Разведчики Spirecraft</ln>
+<ln id="SpirecraftScout_Desc">Эти Разведчики постоянно скрыты, но проходя через каждую червоточину из зоны обеспечения питания их здоровье уменьшается  (на 50/34/25/20/17%, для Мод I/II/III/IV/V соответственно), но он также быстро восстанавливает здоровье на союзных планетах.</ln>
+<ln id="SpirecraftScoutII_Full">Разведчик Spirecraft Модель II</ln>
+<ln id="SpirecraftScoutII_Short">SC Разведчик II</ln>
+<ln id="SpirecraftScoutIII_Full">Разведчик Spirecraft Модель III</ln>
+<ln id="SpirecraftScoutIII_Short">SC Разведчик III</ln>
+<ln id="SpirecraftScoutIV_Full">Разведчик Spirecraft Модель IV</ln>
+<ln id="SpirecraftScoutIV_Short">SC Разведчик IV</ln>
+<ln id="SpirecraftScoutV_Full">Разведчик Spirecraft Модель V</ln>
+<ln id="SpirecraftScoutV_Short">SC Разведчик V</ln>
 
 <ln id="SpirecraftIon_Full">Транслокатор Spirecraft</ln>
 <ln id="SpirecraftIon_Short">SC Трансл I</ln>
@@ -633,7 +633,7 @@
 <ln id="SpirecraftPenetrator_Full">Вторгатель Spirecraft</ln>
 <ln id="SpirecraftPenetrator_Short">SC Вторгатель I</ln>
 <ln id="SpirecraftPenetrator_Wave">Вторгатели Spirecraft</ln>
-<ln id="SpirecraftPenetrator_Desc">Скрытый корабль, не способный стрелять по большинству мелких кораблей и которому нужно вручную указывать точку стрельбы. Наносит абсолютно астрономические повреждения, затем разоблачается и не способен стрелять в течение получаса. Этот корабль Слепой, поэтому требует наличия Скаута или подобного корабля, чтобы увидеть цель, но в противном случае он работает как волк-одиночка, доставляя свою полезную нагрузку, а затем возвращаясь в дружественное пространство, чтобы отдохнуть и восстановиться.</ln>
+<ln id="SpirecraftPenetrator_Desc">Скрытый корабль, не способный стрелять по большинству мелких кораблей и которому нужно вручную указывать точку стрельбы. Наносит абсолютно астрономические повреждения, затем разоблачается и не способен стрелять в течение получаса. Этот корабль Слепой, поэтому требует наличия Разведчика или подобного корабля, чтобы увидеть цель, но в противном случае он работает как волк-одиночка, доставляя свою полезную нагрузку, а затем возвращаясь в дружественное пространство, чтобы отдохнуть и восстановиться.</ln>
 <ln id="SpirecraftPenetratorII_Full">Вторгатель Spirecraft Модель II</ln>
 <ln id="SpirecraftPenetratorII_Short">SC Вторгатель II</ln>
 <ln id="SpirecraftPenetratorIII_Full">Вторгатель Spirecraft Модель III</ln>

@@ -3205,17 +3205,17 @@ x<ln id="PlayerNameCannotBeBlank">Имя игрока не может быть �
 
 <ln id="NoneSelected">Не выбрано</ln>
 <ln id="LoadingImage">Загружаю картинку</ln>
-<ln id="StatsWindowTab_Name_ResourceFlowBreakout">Загрузка Ресурсов</ln>
+<ln id="StatsWindowTab_Name_ResourceFlowBreakout">Поток Ресурсов</ln>
 <ln id="StatsWindowTab_Name_GalaxyStats">Галактика</ln>
 <ln id="StatsWindowTab_Name_Scores">Счёт</ln>
 <ln id="StatsWindowTab_Name_Objectives">Задачи</ln>
 <ln id="StatsWindowTab_Name_Chat">Сообщения</ln>
-<ln id="StatsWindowTab_Name_Reference">Ссылка</ln>
+<ln id="StatsWindowTab_Name_Reference">Взаимосвязи</ln>
 <ln id="StatsWindowTab_Name_Journal">Журнал</ln>
 <ln id="StatsWindowTab_Name_StatsMilitary">Военные</ln>
 <ln id="StatsWindowTab_Name_StatsEconomy">Экономика</ln>
 <ln id="StatsWindowTab_Name_StatsTechnology">Технология</ln>
-<ln id="StatsWindowTab_Name_StatsShipsByPlayer">Корабли по Игрокам</ln>
+<ln id="StatsWindowTab_Name_StatsShipsByPlayer">Корабли Игроков</ln>
 <ln id="StatsWindowTab_Name_StatsTypesByPlayer">Типы Кораблей</ln>
 
 <ln id="StatsWindow_liveDataGridPlayerLabel">Отображаемые данные Игрока</ln>
@@ -3456,7 +3456,7 @@ x<ln id="PlayerNameCannotBeBlank">Имя игрока не может быть �
 <ln id="Objective_CannotDestroySecondAIHomeCommandStationUntilCoreShieldNetworkDisabled">(Нужно сначала уничтожить Главную Сеть Щитов) Уничтожьте первую Столичную Командную Станцию ИИ</ln>
 <ln id="Objective_CannotDestroySecondAIHomeCommandStationUntilCoreShieldNetworkDisabled_Tooltip">Вам известно расположение этой Столичной Командной Станции ИИ, но сначала Вы должны уничтожить Главную Сеть Щитов.</ln>
 
-<ln id="Objective_Survive">Выживите</ln>
+<ln id="Objective_Survive">Выжить</ln>
 <ln id="Objective_Survive_Tooltip">Если Вы потеряете свою Столичную Командную Станцию, то Вы проиграете.
 
 Если Вы начали игру с несколькими мирами, то потеря ЛЮБОЙ Столичной Командной Станции будет означать проигрыш.

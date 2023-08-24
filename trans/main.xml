@@ -15,7 +15,7 @@
 <ln id="MainMen_btnAchievements">Достижения</ln>
 <ln id="MainMen_lblProfile">Текущий Профиль:</ln>
 <ln id="Intro_header1">AI WAR</ln>
-<ln id="Intro_header2">Звёздный флот</ln>
+<ln id="Intro_header2">Fleet Command</ln>
 <ln id="Intro_story1">Восемьсот лет шла гражданская война.</ln>
 <ln id="Intro_story2">Орбиты планет до сих пор в обломках жертв войны.</ln>
 <ln id="Intro_story3">Гражданская война кончилась. Мы научились сотрудничать.</ln>
@@ -526,7 +526,7 @@ x<ln id="PlayerNameCannotBeBlank">Имя игрока не может быть �
 <ln id="BuyLicense">Купить ключ</ln>
 <ln id="InvalidKeyT">Неверный лицензионный ключ</ln>
 <ln id="InvalidKeyMidfix">для </ln>
-<ln id="InvalidKeyBaseGameSuffix">AI War: Звёздный флот (Игра)</ln>
+<ln id="InvalidKeyBaseGameSuffix">AI War: Fleet Command (Игра)</ln>
 <ln id="InvalidKey1">Вы ввели неверный лицензионный ключ.</ln>
 <ln id="InvalidKey2">Пожалуйста, убедитесь, что ввели ключ верно вместе с дефисами.</ln>
 <ln id="LicenseKey_Succesful_Header">Поздравляем! Вы успешно активировали:</ln>

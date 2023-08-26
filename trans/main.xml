@@ -242,7 +242,7 @@
 <ln id="ExileSurvey_VeryDistant">далеко</ln>
 
 <ln id="ResidualHackingResponse">Энергичная реакция ИИ на Взлом {0} на {1}</ln>
-<ln id="ExpectResidualHackingResponse">Ожидается реакция ИИ на Взлом на {0} с Мощью {2} за {1}</ln>
+<ln id="ExpectResidualHackingResponse">Ожидается реакция ИИ на Взлом на {0} с Мощью {2} через {1}</ln>
 
 <ln id="Warn_HackingSuspicion">Ожидаемая реакция ИИ на дальнейший Взлом: </ln>
 <ln id="Warn_HackingSuspicionDescriptor_1">Очень низкий</ln>

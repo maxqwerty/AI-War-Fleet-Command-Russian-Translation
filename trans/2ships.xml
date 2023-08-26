@@ -356,14 +356,14 @@
 <ln id="NeinzulBomber_Short">N. Бомбер</ln>
 <ln id="NeinzulBomber_Desc">Крошечные бомбардировщики, двигающиеся невероятно быстро и эффективны в больших группах. Не застрахованы от тяговых лучей, имеют тенденцию подавлять их большим числом.</ln>
 
-<ln id="NeinzulPreservationBomber_Full">Neinzul'ов Заповедный Бомбер</ln>
-<ln id="NeinzulPreservationBomber_Short">N. З. Бомбер</ln>
+<ln id="NeinzulPreservationBomber_Full">Заповедный Бомбер Neinzul'ов</ln>
+<ln id="NeinzulPreservationBomber_Short">З. Бомбер N.</ln>
 <ln id="NeinzulPreservationBomber_Desc">Крошечные бомбардировщики, двигающиеся невероятно быстро и эффективны в больших группах. Не застрахованы от тяговых лучей, имеют тенденцию подавлять их большим числом.
 
 Этот конкретный Бомбер контролируется Заповедными Стражами Neinzul'ов.</ln>
 
-<ln id="NeinzulViralSwarmer_Full">Neinzul'ов Вирусный Паразит</ln>
-<ln id="NeinzulViralSwarmer_Short">N. Вирусный Паразит</ln>
+<ln id="NeinzulViralSwarmer_Full">Вирусный Паразит Neinzul'ов</ln>
+<ln id="NeinzulViralSwarmer_Short">Вирусный Паразит N.</ln>
 <ln id="NeinzulViralSwarmer_Desc">Крошечные корабли с малым уровнем здоровья и низкой атакующей силой, теряющие со временем здоровья так же, как и остальные корабли Юнлингов. Тем не менее, они способны к самовоссозданию, а также поглощают молнии, ядерный урон и урон от ЭМИ.</ln>
 
 <ln id="NeinzulSilo_Full">Силос Neinzul'ов</ln>

@@ -26,11 +26,11 @@
 <ln id="DetectedAIPReducers">Обнаруженые Замедлители Прогресса ИИ</ln>
 <ln id="DetectedAIDesignBackupServers">Обнаруженые Бекапы Конструкций</ln>
 <ln id="DetectedFabricators">Обнаруженныее Заводы</ln>
-<ln id="DetectedCoreShieldGeneratorsAPrimary">Обнаруженый Генератор Щита Ядра A-Основн.</ln>
-<ln id="DetectedCoreShieldGeneratorsBSecondary">Обнаруженый Генератор Щита Ядра B-Вторичн.</ln>
-<ln id="DetectedCoreShieldGeneratorsCSecondary">Обнаруженый Генератор Щита Ядра C-Вторичн.</ln>
-<ln id="DetectedCoreShieldGeneratorsDSecondary">Обнаруженый Генератор Щита Ядра D-Вторичн.</ln>
-<ln id="DetectedCoreShieldGeneratorsESecondary">Обнаруженый Генератор Щита Ядра E-Вторичн.</ln>
+<ln id="DetectedCoreShieldGeneratorsAPrimary">Обнаруженый Генератор Защитного Экрана A-Основн.</ln>
+<ln id="DetectedCoreShieldGeneratorsBSecondary">Обнаруженый Генератор Защитного Экрана B-Вторичн.</ln>
+<ln id="DetectedCoreShieldGeneratorsCSecondary">Обнаруженый Генератор Защитного Экрана C-Вторичн.</ln>
+<ln id="DetectedCoreShieldGeneratorsDSecondary">Обнаруженый Генератор Защитного Экрана D-Вторичн.</ln>
+<ln id="DetectedCoreShieldGeneratorsESecondary">Обнаруженый Генератор Защитного Экрана E-Вторичн.</ln>
 <ln id="DetectedBrokenGolems">Обнаруженые Испорченные Супероружия</ln>
 <ln id="DetectedAsteroids">Обнаруженые Spirecraft Астероиды</ln>
 <ln id="DetectedCoreShieldGenerators">Обнаруженые Главные Генераторы Щита</ln>

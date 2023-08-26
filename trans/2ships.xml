@@ -366,46 +366,46 @@
 <ln id="NeinzulViralSwarmer_Short">Вирусный Паразит N.</ln>
 <ln id="NeinzulViralSwarmer_Desc">Крошечные корабли с малым уровнем здоровья и низкой атакующей силой, теряющие со временем здоровья так же, как и остальные корабли Юнлингов. Тем не менее, они способны к самовоссозданию, а также поглощают молнии, ядерный урон и урон от ЭМИ.</ln>
 
-<ln id="NeinzulSilo_Full">Силос Neinzul'ов</ln>
-<ln id="NeinzulSilo_Short">Силос N.</ln>
-<ln id="NeinzulSilo_Desc">Это иммитация древнего Силоса Ракетных Корпусов Neinzul'ов, но былf недавно построенf Гибридными Ульями Neinzul'ов - ИИ.
-В отличие от Силоса Ракетных Корпусов, этот силос не неуязвим.
+<ln id="NeinzulSilo_Full">Шахта Neinzul'ов</ln>
+<ln id="NeinzulSilo_Short">Шахта N.</ln>
+<ln id="NeinzulSilo_Desc">Это имитация древней Шахты Ракетного Корпуса Neinzul'ов, но была недавно построена Гибридными Ульями Neinzul'ов - ИИ.
+В отличие от Шахт Ракетных Корпусов, эта шахта не неуязвима.
 
 Пока он существует, то он создаёт Молниевые либо ЭМИ боеголовки каждую четверть часа и посылает их на планеты людей.
 Эти боеголовки не повышают Прогресс ИИ при детонации.
 Также, попадая на планеты людей, они влияют на корабли как людей, так и ИИ при детонации.</ln>
 
-<ln id="NeinzulSiloII_Full">Силос Neinzul'ов Модель II</ln>
-<ln id="NeinzulSiloII_Short">Силос N. II</ln>
+<ln id="NeinzulSiloII_Full">Шахта Neinzul'ов Модель II</ln>
+<ln id="NeinzulSiloII_Short">Шахта N. II</ln>
 
-<ln id="NeinzulSiloIII_Full">Силос Neinzul'ов Модель III</ln>
-<ln id="NeinzulSiloIII_Short">Силос N. III</ln>
+<ln id="NeinzulSiloIII_Full">Шахта Neinzul'ов Модель III</ln>
+<ln id="NeinzulSiloIII_Short">Шахта N. III</ln>
 
-<ln id="NeinzulSiloIV_Full">Силос Neinzul'ов Модель IV</ln>
-<ln id="NeinzulSiloIV_Short">Силос N. IV</ln>
+<ln id="NeinzulSiloIV_Full">Шахта Neinzul'ов Модель IV</ln>
+<ln id="NeinzulSiloIV_Short">Шахта N. IV</ln>
 
-<ln id="NeinzulSiloV_Full">Силос Neinzul'ов Модель V</ln>
-<ln id="NeinzulSiloV_Short">Силос N. V</ln>
+<ln id="NeinzulSiloV_Full">Шахта Neinzul'ов Модель V</ln>
+<ln id="NeinzulSiloV_Short">Шахта N. V</ln>
 
-<ln id="NeinzulMinorFactionSilo_Full">Силос Ракетных Корпусов Neinzul'ов</ln>
-<ln id="NeinzulMinorFactionSilo_Short">Р. К. Силос N.</ln>
+<ln id="NeinzulMinorFactionSilo_Full">Шахта Ракетного Корпуса Neinzul'ов</ln>
+<ln id="NeinzulMinorFactionSilo_Short">Шахта Р. К. N.</ln>
 <ln id="NeinzulMinorFactionSilo_Desc">Когда на планете срабатывает тревога, он создаёт Молниевые либо ЭМИ боеголовки каждую четверть часа и посылает их на ближайшие планеты людей.
 Эти боеголовки не повышают Прогресс ИИ при детонации.
 Также, попадая на планеты людей, они влияют на корабли как людей, так и ИИ при детонации. Корабли ИИ не стреляют по этим боеголовкам, так как они в курсе.
 
-Этот силос имеет особую форму защиты, которая делает его полностью неразрушимым.</ln>
+Эта шахта имеет особую форму защиты, которая делает его полностью неразрушимым.</ln>
 
-<ln id="NeinzulMinorFactionSiloII_Full">Силос Ракетных Корпусов Neinzul'ов Модель II</ln>
-<ln id="NeinzulMinorFactionSiloII_Short">Р. К. Силос N. II</ln>
+<ln id="NeinzulMinorFactionSiloII_Full">Шахт Ракетного Корпуса Neinzul'ов Модель II</ln>
+<ln id="NeinzulMinorFactionSiloII_Short">Шахта Р. К. N. II</ln>
 
-<ln id="NeinzulMinorFactionSiloIII_Full">Силос Ракетных Корпусов Neinzul'ов Модель III</ln>
-<ln id="NeinzulMinorFactionSiloIII_Short">Р. К. Силос N. III</ln>
+<ln id="NeinzulMinorFactionSiloIII_Full">Шахт Ракетного Корпуса Neinzul'ов Модель III</ln>
+<ln id="NeinzulMinorFactionSiloIII_Short">Шахта Р. К. N. III</ln>
 
-<ln id="NeinzulMinorFactionSiloIV_Full">Силос Ракетных Корпусов Neinzul'ов Модель IV</ln>
-<ln id="NeinzulMinorFactionSiloIV_Short">Р. К. Силос N. IV</ln>
+<ln id="NeinzulMinorFactionSiloIV_Full">Шахт Ракетного Корпуса Neinzul'ов Модель IV</ln>
+<ln id="NeinzulMinorFactionSiloIV_Short">Шахта Р. К. N. IV</ln>
 
-<ln id="NeinzulMinorFactionSiloV_Full">Силос Ракетных Корпусов Neinzul'ов Модель V</ln>
-<ln id="NeinzulMinorFactionSiloV_Short">Р. К. Силос N. V</ln>
+<ln id="NeinzulMinorFactionSiloV_Full">Шахт Ракетного Корпуса Neinzul'ов Модель V</ln>
+<ln id="NeinzulMinorFactionSiloV_Short">Шахта Р. К. N. V</ln>
 
 <ln id="DefenseConstructionModule_Full">Модуль Строительства Защиты</ln>
 <ln id="DefenseConstructionModule_Short">Защ СМод I </ln>

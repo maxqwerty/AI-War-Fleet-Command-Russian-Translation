@@ -728,14 +728,14 @@
 <ln id="StationUpgradeFoldoutLogisticsIII_Short">Дом-Лог-III</ln>
 <ln id="StationUpgradeFoldoutLogisticsIII_Desc">Открытие Логистической Командной Станции МодIII даёт это улучшенное строение (которое имеет те же свойства, что и Логистическая Командная Станция МодIII) к Вашей Столичной Командной Станции.</ln>
 
-<ln id="OrbitalCommandStationAI_Full">ИИ Орбитальная Командная Станция</ln>
+<ln id="OrbitalCommandStationAI_Full">Орбитальная Командная Станция ИИ</ln>
 <ln id="OrbitalCommandStationAI_Short">Кмнд (ИИ)</ln>
 <ln id="OrbitalCommandStationAI_Desc">Нервный центр каждой планетарной базы ИИ.  Уничтожьте, чтобы значительно снизить возможности ИИ к вызову подкреплений.</ln>
 
-<ln id="OrbitalCommandStationIIAI_Full">ИИ Орбитальная Командная Станция Модель II</ln>
+<ln id="OrbitalCommandStationIIAI_Full">Орбитальная Командная Станция ИИ Модель II</ln>
 <ln id="OrbitalCommandStationIIAI_Short">Кмнд II (ИИ)</ln>
 
-<ln id="OrbitalCommandStationIIIAI_Full">ИИ Орбитальная Командная Станция Модель III</ln>
+<ln id="OrbitalCommandStationIIIAI_Full">Орбитальная Командная Станция ИИ Модель III</ln>
 <ln id="OrbitalCommandStationIIIAI_Short">Кмнд III (ИИ)</ln>
 
 <ln id="StationUpgradeFoldoutEconII_Full">Экономическая Столичная Под-Станция II</ln>
@@ -769,116 +769,116 @@
 <ln id="OrbitalCommandStationHomeCoreIII_Full">Ядро Столичной Орбитальной Командной Станции Модель III</ln>
 <ln id="OrbitalCommandStationHomeCoreIII_Short">Кмнд Дом Ядро III</ln>
 
-<ln id="AISpireShieldSphereGuardPost_Full">ИИ Караульный Пост Защитной Сферы Spire'ов</ln>
+<ln id="AISpireShieldSphereGuardPost_Full">Караульный Пост ИИ Защитной Сферы Spire'ов</ln>
 <ln id="AISpireShieldSphereGuardPost_Short">Пост (Spir-Щит I)</ln>
 <ln id="AISpireShieldSphereGuardPost_Desc">Инопланетная технология с относительно небольшими орудиями, но дополненная впечатляющим Защитным Полем.</ln>
-<ln id="AISpireShieldSphereGuardPostII_Full">ИИ Караульный Пост Защитной Сферы Spire'ов II</ln>
+<ln id="AISpireShieldSphereGuardPostII_Full">Караульный Пост ИИ Защитной Сферы Spire'ов II</ln>
 <ln id="AISpireShieldSphereGuardPostII_Short">Пост (Spir-Щит II)</ln>
-<ln id="AISpireShieldSphereGuardPostIII_Full">ИИ Караульный Пост Защитной Сферы Spire'ов III</ln>
+<ln id="AISpireShieldSphereGuardPostIII_Full">Караульный Пост ИИ Защитной Сферы Spire'ов III</ln>
 <ln id="AISpireShieldSphereGuardPostIII_Short">Пост (Spir-Щит III)</ln>
-<ln id="AISpireShieldSphereGuardPostIV_Full">ИИ Караульный Пост Защитной Сферы Spire'ов IV</ln>
+<ln id="AISpireShieldSphereGuardPostIV_Full">Караульный Пост ИИ Защитной Сферы Spire'ов IV</ln>
 <ln id="AISpireShieldSphereGuardPostIV_Short">Пост (Spir-Щит IV)</ln>
-<ln id="AISpireShieldSphereGuardPostV_Full">ИИ Караульный Пост Защитной Сферы Spire'ов V</ln>
+<ln id="AISpireShieldSphereGuardPostV_Full">Караульный Пост ИИ Защитной Сферы Spire'ов V</ln>
 <ln id="AISpireShieldSphereGuardPostV_Short">Пост (Spir-Щит V)</ln>
 
-<ln id="AIShortRangeGuardPost_Full">ИИ Игловой Караульный Пост</ln>
+<ln id="AIShortRangeGuardPost_Full">Игловой Караульный Пост ИИ</ln>
 <ln id="AIShortRangeGuardPost_Short">Пост (Игловой I)</ln>
 <ln id="AIShortRangeGuardPost_Desc">Основной Караульный Пост ИИ, оборудованный несколькими тяжёлоигольными излучателями.</ln>
-<ln id="AIShortRangeGuardPostII_Full">ИИ Игловой Караульный Пост Модель II</ln>
+<ln id="AIShortRangeGuardPostII_Full">Игловой Караульный Пост ИИ Модель II</ln>
 <ln id="AIShortRangeGuardPostII_Short">Пост (Игловой II)</ln>
-<ln id="AIShortRangeGuardPostIII_Full">ИИ Игловой Караульный Пост Модель III</ln>
+<ln id="AIShortRangeGuardPostIII_Full">Игловой Караульный Пост ИИ Модель III</ln>
 <ln id="AIShortRangeGuardPostIII_Short">Пост (Игловой III)</ln>
-<ln id="AIShortRangeGuardPostIV_Full">ИИ Игловой Караульный Пост Модель IV</ln>
+<ln id="AIShortRangeGuardPostIV_Full">Игловой Караульный Пост ИИ Модель IV</ln>
 <ln id="AIShortRangeGuardPostIV_Short">Пост (Игловой IV)</ln>
-<ln id="AIShortRangeGuardPostV_Full">ИИ Игловой Караульный Пост Модель V</ln>
+<ln id="AIShortRangeGuardPostV_Full">Игловой Караульный Пост ИИ Модель V</ln>
 <ln id="AIShortRangeGuardPostV_Short">Пост (Игловой V)</ln>
 
-<ln id="AIStealthGuardPost_Full">ИИ Маскировочный Караульный Пост</ln>
+<ln id="AIStealthGuardPost_Full">Маскировочный Караульный Пост ИИ</ln>
 <ln id="AIStealthGuardPost_Short">Пост (Маскировщик I)</ln>
 <ln id="AIStealthGuardPost_Desc">Основной Караульный Пост ИИ без орудий, но имеющий устройство, скрывающее ближайшие корабли ИИ. Сам Пост не может скрыться.</ln>
-<ln id="AIStealthGuardPostII_Full">ИИ Маскировочный Караульный Пост Модель II</ln>
+<ln id="AIStealthGuardPostII_Full">Маскировочный Караульный Пост ИИ Модель II</ln>
 <ln id="AIStealthGuardPostII_Short">Пост (Маскировщик II)</ln>
-<ln id="AIStealthGuardPostIII_Full">ИИ Маскировочный Караульный Пост Модель III</ln>
+<ln id="AIStealthGuardPostIII_Full">Маскировочный Караульный Пост ИИ Модель III</ln>
 <ln id="AIStealthGuardPostIII_Short">Пост (Маскировщик III)</ln>
-<ln id="AIStealthGuardPostIV_Full">ИИ Маскировочный Караульный Пост Модель IV</ln>
+<ln id="AIStealthGuardPostIV_Full">Маскировочный Караульный Пост ИИ Модель IV</ln>
 <ln id="AIStealthGuardPostIV_Short">Пост (Маскировщик IV)</ln>
-<ln id="AIStealthGuardPostV_Full">ИИ Маскировочный Караульный Пост Модель V</ln>
+<ln id="AIStealthGuardPostV_Full">Маскировочный Караульный Пост ИИ Модель V</ln>
 <ln id="AIStealthGuardPostV_Short">Пост (Маскировщик V)</ln>
 
-<ln id="AIMLRSGuardPost_Full">ИИ РСЗО Караульный Пост</ln>
+<ln id="AIMLRSGuardPost_Full">РСЗО Караульный Пост ИИ</ln>
 <ln id="AIMLRSGuardPost_Short">Пост (РСЗО I)</ln>
 <ln id="AIMLRSGuardPost_Desc">Основной Караульный Пост ИИ, вооружённый батареями РСЗО.</ln>
-<ln id="AIMLRSGuardPostII_Full">ИИ РСЗО Караульный Пост Модель II</ln>
+<ln id="AIMLRSGuardPostII_Full">РСЗО Караульный Пост ИИ Модель II</ln>
 <ln id="AIMLRSGuardPostII_Short">Пост (РСЗО II)</ln>
-<ln id="AIMLRSGuardPostIII_Full">ИИ РСЗО Караульный Пост Модель III</ln>
+<ln id="AIMLRSGuardPostIII_Full">РСЗО Караульный Пост ИИ Модель III</ln>
 <ln id="AIMLRSGuardPostIII_Short">Пост (РСЗО III)</ln>
-<ln id="AIMLRSGuardPostIV_Full">ИИ РСЗО Караульный Пост Модель IV</ln>
+<ln id="AIMLRSGuardPostIV_Full">РСЗО Караульный Пост ИИ Модель IV</ln>
 <ln id="AIMLRSGuardPostIV_Short">Пост (РСЗО IV)</ln>
-<ln id="AIMLRSGuardPostV_Full">ИИ РСЗО Караульный Пост Модель V</ln>
+<ln id="AIMLRSGuardPostV_Full">РСЗО Караульный Пост ИИ Модель V</ln>
 <ln id="AIMLRSGuardPostV_Short">Пост (РСЗО V)</ln>
 
-<ln id="AIMissileGuardPost_Full">ИИ Ракетный Караульный Пост</ln>
+<ln id="AIMissileGuardPost_Full">Ракетный Караульный Пост ИИ</ln>
 <ln id="AIMissileGuardPost_Short">Пост (Ракеты I)</ln>
 <ln id="AIMissileGuardPost_Desc">Основной Караульный Пост ИИ, вооружённый одиночными дальнобойными высокомощными ракетами.</ln>
-<ln id="AIMissileGuardPostII_Full">ИИ Ракетный Караульный Пост Модель II</ln>
+<ln id="AIMissileGuardPostII_Full">Ракетный Караульный Пост ИИ Модель II</ln>
 <ln id="AIMissileGuardPostII_Short">Пост (Ракеты II)</ln>
-<ln id="AIMissileGuardPostIII_Full">ИИ Ракетный Караульный Пост Модель III</ln>
+<ln id="AIMissileGuardPostIII_Full">Ракетный Караульный Пост ИИ Модель III</ln>
 <ln id="AIMissileGuardPostIII_Short">Пост (Ракеты III)</ln>
-<ln id="AIMissileGuardPostIV_Full">ИИ Ракетный Караульный Пост Модель IV</ln>
+<ln id="AIMissileGuardPostIV_Full">Ракетный Караульный Пост ИИ Модель IV</ln>
 <ln id="AIMissileGuardPostIV_Short">Пост (Ракеты IV)</ln>
-<ln id="AIMissileGuardPostV_Full">ИИ Ракетный Караульный Пост Модель V</ln>
+<ln id="AIMissileGuardPostV_Full">Ракетный Караульный Пост ИИ Модель V</ln>
 <ln id="AIMissileGuardPostV_Short">Пост (Ракеты V)</ln>
 
-<ln id="AIArachnidGuardPost_Full">ИИ Анти-Звездолётный Арахнидовый Караульный Пост</ln>
+<ln id="AIArachnidGuardPost_Full">Анти-Звездолётный Арахнидовый Караульный Пост ИИ</ln>
 <ln id="AIArachnidGuardPost_Short">Пост (Арахнид I)</ln>
 <ln id="AIArachnidGuardPost_Desc">Караульный Пост ИИ средней дальности, который не может стрелять по большинству подвижных малых целей.  Но его высокомощные лазеры могут нанести тяжкие повреждения Звездолётам, Крепостям, Силовым Полям, Караульными Постам, Стражам и Турелям.</ln>
-<ln id="AIArachnidGuardPostII_Full">ИИ Анти-Звездолётный Арахнидовый Караульный Пост Модель II</ln>
+<ln id="AIArachnidGuardPostII_Full">Анти-Звездолётный Арахнидовый Караульный Пост ИИ Модель II</ln>
 <ln id="AIArachnidGuardPostII_Short">Пост (Арахнид II)</ln>
-<ln id="AIArachnidGuardPostIII_Full">ИИ Анти-Звездолётный Арахнидовый Караульный Пост Модель III</ln>
+<ln id="AIArachnidGuardPostIII_Full">Анти-Звездолётный Арахнидовый Караульный Пост ИИ Модель III</ln>
 <ln id="AIArachnidGuardPostIII_Short">Пост (Арахнид III)</ln>
-<ln id="AIArachnidGuardPostIV_Full">ИИ Анти-Звездолётный Арахнидовый Караульный Пост Модель IV</ln>
+<ln id="AIArachnidGuardPostIV_Full">Анти-Звездолётный Арахнидовый Караульный Пост ИИ Модель IV</ln>
 <ln id="AIArachnidGuardPostIV_Short">Пост (Арахнид IV)</ln>
-<ln id="AIArachnidGuardPostV_Full">ИИ Анти-Звездолётный Арахнидовый Караульный Пост Модель V</ln>
+<ln id="AIArachnidGuardPostV_Full">Анти-Звездолётный Арахнидовый Караульный Пост ИИ Модель V</ln>
 <ln id="AIArachnidGuardPostV_Short">Пост (Арахнид V)</ln>
 
-<ln id="AIPassiveGuardPost_Full">ИИ Лазерный Караульный Пост</ln>
+<ln id="AIPassiveGuardPost_Full">Лазерный Караульный Пост ИИ</ln>
 <ln id="AIPassiveGuardPost_Short">Пост (Лазер I)</ln>
 <ln id="AIPassiveGuardPost_Desc">Основной Караульный Пост ИИ, вооружённый несколькими тяжёлыми лазерными батареями.</ln>
-<ln id="AIPassiveGuardPostII_Full">ИИ Лазерный Караульный Пост Модель II</ln>
+<ln id="AIPassiveGuardPostII_Full">Лазерный Караульный Пост ИИ Модель II</ln>
 <ln id="AIPassiveGuardPostII_Short">Пост (Лазер II)</ln>
-<ln id="AIPassiveGuardPostIII_Full">ИИ Лазерный Караульный Пост Модель III</ln>
+<ln id="AIPassiveGuardPostIII_Full">Лазерный Караульный Пост ИИ Модель III</ln>
 <ln id="AIPassiveGuardPostIII_Short">Пост (Лазер III)</ln>
-<ln id="AIPassiveGuardPostIV_Full">ИИ Лазерный Караульный Пост Модель IV</ln>
+<ln id="AIPassiveGuardPostIV_Full">Лазерный Караульный Пост ИИ Модель IV</ln>
 <ln id="AIPassiveGuardPostIV_Short">Пост (Лазер IV)</ln>
-<ln id="AIPassiveGuardPostV_Full">ИИ Лазерный Караульный Пост Модель V</ln>
+<ln id="AIPassiveGuardPostV_Full">Лазерный Караульный Пост ИИ Модель V</ln>
 <ln id="AIPassiveGuardPostV_Short">Пост (Лазер V)</ln>
 
-<ln id="AICommandStationShieldGuardPost_Full">ИИ Защитный Караульный Пост Командной Станции</ln>
+<ln id="AICommandStationShieldGuardPost_Full">Защитный Караульный Пост ИИ Командной Станции</ln>
 <ln id="AICommandStationShieldGuardPost_Short">Пост (Ком-Защ I)</ln>
 <ln id="AICommandStationShieldGuardPost_Desc">Караульный Пост ИИ с малой площадью поражения и средним вооружением.
 
 Должен быть уничтожен до того, как Командной Станции ИИ на этой планете может быть нанесён урон.</ln>
-<ln id="AICommandStationShieldGuardPostII_Full">ИИ Защитный Караульный Пост Командной Станции Модель II</ln>
+<ln id="AICommandStationShieldGuardPostII_Full">Защитный Караульный Пост ИИ Командной Станции Модель II</ln>
 <ln id="AICommandStationShieldGuardPostII_Short">Пост (Ком-Защ II)</ln>
-<ln id="AICommandStationShieldGuardPostIII_Full">ИИ Защитный Караульный Пост Командной Станции Модель III</ln>
+<ln id="AICommandStationShieldGuardPostIII_Full">Защитный Караульный Пост ИИ Командной Станции Модель III</ln>
 <ln id="AICommandStationShieldGuardPostIII_Short">Пост (Ком-Защ III)</ln>
-<ln id="AICommandStationShieldGuardPostIV_Full">ИИ Защитный Караульный Пост Командной Станции Модель IV</ln>
+<ln id="AICommandStationShieldGuardPostIV_Full">Защитный Караульный Пост ИИ Командной Станции Модель IV</ln>
 <ln id="AICommandStationShieldGuardPostIV_Short">Пост (Ком-Защ IV)</ln>
-<ln id="AICommandStationShieldGuardPostV_Full">ИИ Защитный Караульный Пост Командной Станции Модель V</ln>
+<ln id="AICommandStationShieldGuardPostV_Full">Защитный Караульный Пост ИИ Командной Станции Модель V</ln>
 <ln id="AICommandStationShieldGuardPostV_Short">Пост (Ком-Защ V)</ln>
 
-<ln id="AIWarpCounterattackGuardPost_Full">ИИ Контратакующий Караульный Пост</ln>
+<ln id="AIWarpCounterattackGuardPost_Full">Контратакующий Караульный Пост ИИ</ln>
 <ln id="AIWarpCounterattackGuardPost_Short">Пост (Контр I)</ln>
 <ln id="AIWarpCounterattackGuardPost_Desc">Караульный Пост ИИ, практически не вооружённый, но с мощной возможностью, при малейшей опасности, отправлять контратакующую волну на любую человеческую планету без Генератора Помех (независимо от наличия Врат).
 
 Контратака запускается, если уничтожается Караульный Пост или Командная Станция на этой планете. Должен быть уничтожен до того, как Командной Станции ИИ на этой планете может быть нанесён урон.</ln>
-<ln id="AIWarpCounterattackGuardPostII_Full">ИИ Контратакующий Караульный Пост Модель II</ln>
+<ln id="AIWarpCounterattackGuardPostII_Full">Контратакующий Караульный Пост ИИ Модель II</ln>
 <ln id="AIWarpCounterattackGuardPostII_Short">Пост (Контр II)</ln>
-<ln id="AIWarpCounterattackGuardPostIII_Full">ИИ Контратакующий Караульный Пост Модель III</ln>
+<ln id="AIWarpCounterattackGuardPostIII_Full">Контратакующий Караульный Пост ИИ Модель III</ln>
 <ln id="AIWarpCounterattackGuardPostIII_Short">Пост (Контр III)</ln>
-<ln id="AIWarpCounterattackGuardPostIV_Full">ИИ Контратакующий Караульный Пост Модель IV</ln>
+<ln id="AIWarpCounterattackGuardPostIV_Full">Контратакующий Караульный Пост ИИ Модель IV</ln>
 <ln id="AIWarpCounterattackGuardPostIV_Short">Пост (Контр IV)</ln>
-<ln id="AIWarpCounterattackGuardPostV_Full">ИИ Контратакующий Караульный Пост Модель V</ln>
+<ln id="AIWarpCounterattackGuardPostV_Full">Контратакующий Караульный Пост ИИ Модель V</ln>
 <ln id="AIWarpCounterattackGuardPostV_Short">Пост (Контр V)</ln>
 
 <ln id="WormholeCommandPost_Full">Караульный Пост Червоточины</ln>
@@ -893,61 +893,61 @@
 
 Это особое строение было куплено у Продавца Zenith'ов.</ln>
 
-<ln id="AIHomeCommandStation_Full">ИИ Столичная Командная Станция</ln>
+<ln id="AIHomeCommandStation_Full">Столичная Командная Станция ИИ</ln>
 <ln id="AIHomeCommandStation_Short">Кмнд (ИИ Дом)</ln>
 <ln id="AIHomeCommandStation_Desc">Столичная Командная Станция ИИ не может получить урон, пока все Главные Караульные Посты ИИ на этой планете не будут уничтожены.
 
 Первая команда, уничтожившая все Столичные Командные Станции противников, побеждает в игре.</ln>
 
-<ln id="AICoreElectricGuardPost_Full">ИИ Главный Электрический Караульный Пост</ln>
+<ln id="AICoreElectricGuardPost_Full">Главный Электрический Караульный Пост ИИ</ln>
 <ln id="AICoreElectricGuardPost_Short">Пост (Глав Электрич)</ln>
 <ln id="AICoreElectricGuardPost_Desc">Создаёт грозную крупную область электрического урона.
 
 Должен быть уничтожен до того, как Командной Станции ИИ на этой планете может быть нанесён урон.  Если это Столичная планета ИИ, все Главные Генераторы Щита должны быть уничтожены прежде, чем может быть уничтожен.</ln>
 
-<ln id="AICoreMissileGuardPost_Full">ИИ Главный Ракетный Караульный Пост</ln>
+<ln id="AICoreMissileGuardPost_Full">Главный Ракетный Караульный Пост ИИ</ln>
 <ln id="AICoreMissileGuardPost_Short">Пост (Глав Ракет)</ln>
 <ln id="AICoreMissileGuardPost_Desc">Выпускает грозные, дальнобойные, высокомощные ракеты.
 
 Должен быть уничтожен до того, как Командной Станции ИИ на этой планете может быть нанесён урон.  Если это Столичная планета ИИ, все Главные Генераторы Щита должны быть уничтожены прежде, чем может быть уничтожен.</ln>
 
-<ln id="AICoreSentinelGuardPost_Full">ИИ Главный Сторожевой Караульный Пост</ln>
+<ln id="AICoreSentinelGuardPost_Full">Главный Сторожевой Караульный Пост ИИ</ln>
 <ln id="AICoreSentinelGuardPost_Short">Пост (Глав Сторож)</ln>
 <ln id="AICoreSentinelGuardPost_Desc">Этот подвижный Караульный Пост приходит после флота людей, ведя на буксире своих Стражей, стреляющих лучевым оружием.
 
 Должен быть уничтожен до того, как Командной Станции ИИ на этой планете может быть нанесён урон.  Если это Столичная планета ИИ, все Главные Генераторы Щита должны быть уничтожены прежде, чем может быть уничтожен.</ln>
 
-<ln id="AICoreLeechGuardPost_Full">ИИ Главный Караульный Пост - Лич</ln>
+<ln id="AICoreLeechGuardPost_Full">Главный Караульный Пост ИИ - Лич</ln>
 <ln id="AICoreLeechGuardPost_Short">Пост (Глав Лич)</ln>
 <ln id="AICoreLeechGuardPost_Desc">Восстанавливает вражеские корабли, которые убивает (жизнь Восстановленного корабля = половина урона, нанесённого восстановителем).
 
 Должен быть уничтожен до того, как Командной Станции ИИ на этой планете может быть нанесён урон.  Если это Столичная планета ИИ, все Главные Генераторы Щита должны быть уничтожены прежде, чем может быть уничтожен.</ln>
 
-<ln id="AICoreZenithBombardGuardPost_Full">ИИ Главный Караульный Пост - Бомбардир Zenith'ов</ln>
+<ln id="AICoreZenithBombardGuardPost_Full">Главный Караульный Пост ИИ - Бомбардир Zenith'ов</ln>
 <ln id="AICoreZenithBombardGuardPost_Short">Пост (Глав Z Бомбардир)</ln>
 <ln id="AICoreZenithBombardGuardPost_Desc">Инопланетная технология, производящая бомбардировку средней мощности на очень большом расстоянии.
 
 Должен быть уничтожен до того, как Командной Станции ИИ на этой планете может быть нанесён урон.  Если это Столичная планета ИИ, все Главные Генераторы Щита должны быть уничтожены прежде, чем может быть уничтожен.</ln>
 
-<ln id="AICoreZenithFortressGuardPost_Full">ИИ Главный Караульный Пост - Крепость Zenith'ов</ln>
+<ln id="AICoreZenithFortressGuardPost_Full">Главный Караульный Пост ИИ - Крепость Zenith'ов</ln>
 <ln id="AICoreZenithFortressGuardPost_Short">Пост (Глав Z Крепость)</ln>
 <ln id="AICoreZenithFortressGuardPost_Desc">Инопланетная неподвижная крепость, излучающая массивные волны пламени на коротком расстоянии.
 
 Должен быть уничтожен до того, как Командной Станции ИИ на этой планете может быть нанесён урон.  Если это Столичная планета ИИ, все Главные Генераторы Щита должны быть уничтожены прежде, чем может быть уничтожен.</ln>
 
-<ln id="AICoreSpireShieldSphere_Full">ИИ Главный Караульный Пост Защитной Сферы Spire'ов</ln>
+<ln id="AICoreSpireShieldSphere_Full">Главный Караульный Пост ИИ Защитной Сферы Spire'ов</ln>
 <ln id="AICoreSpireShieldSphere_Short">Пост (Глав Spire Щит)</ln>
 <ln id="AICoreSpireShieldSphere_Desc">Инопланетная технология, относительно слабо вооружённая, но имеющая впечатляющее силовое поле.
 
 Должен быть уничтожен до того, как Командной Станции ИИ на этой планете может быть нанесён урон.  Если это Столичная планета ИИ, все Главные Генераторы Щита должны быть уничтожены прежде, чем может быть уничтожен.</ln>
 
-<ln id="AICoreNeinzulSpawnerGuardPost_Full">ИИ Главный Караульный Пост - Создатель Neinzul'ов</ln>
+<ln id="AICoreNeinzulSpawnerGuardPost_Full">Главный Караульный Пост ИИ - Создатель Neinzul'ов</ln>
 <ln id="AICoreNeinzulSpawnerGuardPost_Short">Пост (Глав Созд N.)</ln>
 <ln id="AICoreNeinzulSpawnerGuardPost_Desc">Инопланетная технология создающая мощных короткоживущих Тараканов-Юнлингов Neinzul'ов.
 
 Должен быть уничтожен до того, как Командной Станции ИИ на этой планете может быть нанесён урон.  Если это Столичная планета ИИ, все Главные Генераторы Щита должны быть уничтожены прежде, чем может быть уничтожен.</ln>
 
-<ln id="AICoreNeinzulMeleeGuardPost_Full">ИИ Главный Караульный Пост - Свалка Neinzul'ов</ln>
+<ln id="AICoreNeinzulMeleeGuardPost_Full">Главный Караульный Пост ИИ - Свалка Neinzul'ов</ln>
 <ln id="AICoreNeinzulMeleeGuardPost_Short">Пост (Глав Свалка N.)</ln>
 <ln id="AICoreNeinzulMeleeGuardPost_Desc">Этот инопланетный подвижный Караульный Пост приходит после флота людей, ведя на буксире своих Защитников, пережёвывающих все корабли, которых касается, вращающимися лопастями.
 
@@ -1133,16 +1133,16 @@
 <ln id="CoreThreateningEye_Full">Главный Глаз Угрозы</ln>
 <ln id="CoreThreateningEye_Short">Гл Глаз Угрозы</ln>
 
-<ln id="AIHunterKiller_Full">ИИ Охотник/Киллер</ln>
+<ln id="AIHunterKiller_Full">Охотник/Киллер ИИ</ln>
 <ln id="AIHunterKiller_Short">Охотник/Киллер I</ln>
 <ln id="AIHunterKiller_Desc">Экстремально мощный звездолёт ИИ, специализированный на уничтожении всех следов человеческой цивилизации.</ln>
-<ln id="AIHunterKillerII_Full">ИИ Охотник/Киллер Модель II</ln>
+<ln id="AIHunterKillerII_Full">Охотник/Киллер ИИ Модель II</ln>
 <ln id="AIHunterKillerII_Short">Охотник/Киллер II</ln>
-<ln id="AIHunterKillerIII_Full">ИИ Охотник/Киллер Модель III</ln>
+<ln id="AIHunterKillerIII_Full">Охотник/Киллер ИИ Модель III</ln>
 <ln id="AIHunterKillerIII_Short">Охотник/Киллер III</ln>
-<ln id="AIHunterKillerIV_Full">ИИ Охотник/Киллер Модель IV</ln>
+<ln id="AIHunterKillerIV_Full">Охотник/Киллер ИИ Модель IV</ln>
 <ln id="AIHunterKillerIV_Short">Охотник/Киллер IV</ln>
-<ln id="AIHunterKillerV_Full">ИИ Охотник/Киллер Модель V</ln>
+<ln id="AIHunterKillerV_Full">Охотник/Киллер ИИ Модель V</ln>
 <ln id="AIHunterKillerV_Short">Охотник/Киллер V</ln>
 
 <ln id="Sensor_Full">Продвинутый Сенсор Пространства</ln>
@@ -1314,19 +1314,19 @@
 <ln id="RaidStarshipV_Full">Рейдовый Звездолёт Модель V</ln>
 <ln id="RaidStarshipV_Short">Звезд:Рейд V</ln>
 
-<ln id="AIRaidStarship_Full">ИИ Рейдовый Звездолёт</ln>
+<ln id="AIRaidStarship_Full">Рейдовый Звездолёт ИИ</ln>
 <ln id="AIRaidStarship_Short">Звезд:Рейд</ln>
 
-<ln id="AIRaidStarshipII_Full">ИИ Рейдовый Звездолёт Модель II</ln>
+<ln id="AIRaidStarshipII_Full">Рейдовый Звездолёт ИИ Модель II</ln>
 <ln id="AIRaidStarshipII_Short">Звезд:Рейд II</ln>
 
-<ln id="AIRaidStarshipIII_Full">ИИ Рейдовый Звездолёт Модель III</ln>
+<ln id="AIRaidStarshipIII_Full">Рейдовый Звездолёт ИИ Модель III</ln>
 <ln id="AIRaidStarshipIII_Short">Звезд:Рейд III</ln>
 
-<ln id="AIRaidStarshipIV_Full">ИИ Рейдовый Звездолёт Модель IV</ln>
+<ln id="AIRaidStarshipIV_Full">Рейдовый Звездолёт ИИ Модель IV</ln>
 <ln id="AIRaidStarshipIV_Short">Звезд:Рейд IV</ln>
 
-<ln id="AIRaidStarshipV_Full">ИИ Рейдовый Звездолёт Модель V</ln>
+<ln id="AIRaidStarshipV_Full">Рейдовый Звездолёт ИИ Модель V</ln>
 <ln id="AIRaidStarshipV_Short">Звезд:Рейд V</ln>
 
 <ln id="LeechStarship_Full">Звездолёт-Лич</ln>
@@ -1624,12 +1624,12 @@
 
 Чинит все близлежащие корабли.  После перемещения требует 60 секунд на перезарядку, прежде чем сможет снова чинить.</ln>
 
-<ln id="AIFortressI_Full">ИИ Крепость</ln>
+<ln id="AIFortressI_Full">Крепость ИИ</ln>
 <ln id="AIFortressI_Desc">Экстремально большая, мощная и дорогая подвижная защитная постройка.  Также чинит все близлежащие корабли.</ln>
 <ln id="AIFortressI_Short">Креп I (AI)</ln>
-<ln id="AIFortressII_Full">ИИ Крепость Модель II</ln>
+<ln id="AIFortressII_Full">Крепость ИИ Модель II</ln>
 <ln id="AIFortressII_Short">Креп II (AI)</ln>
-<ln id="AIFortressIII_Full">ИИ Крепость Модель III</ln>
+<ln id="AIFortressIII_Full">Крепость ИИ Модель III</ln>
 <ln id="AIFortressIII_Short">Креп III (AI)</ln>
 
 <ln id="LightForceFieldGenerator_Full">Генератор Силового Поля</ln>
@@ -2061,7 +2061,7 @@
 В отличие от обычных Врат, эти не повышают Прогресс ИИ после смерти, так что можете свободно их уничтожить при первой возможности.</ln>
 
 <ln id="WormholeAI_Full">Экзогалактическая Червоточина</ln>
-<ln id="WormholeAI_Short">ИИ Червоточина</ln>
+<ln id="WormholeAI_Short">Червоточина ИИ</ln>
 <ln id="WormholeAI_Desc">Односторонняя червоточина, ведущая куда-то за пределы Галактики. Таинственная сила не позволяет Вашим кораблям пройти через неё. Эта червоточина не может быть уничтожена, и будет пропускать вражеские корабли пока Вы не покончите с обоими ИИ и не выиграете войну.</ln>
 
 <ln id="IntragalacticWarpGateSpaceDock_Full">Внутрегалактические Врата - Верфь</ln>
@@ -2267,37 +2267,37 @@
 <ln id="AdvancedResearchStation_Short">Прдв Лаборатория</ln>
 <ln id="AdvancedResearchStation_Desc">Хранит продвинутые технологии ИИ. Захватите, чтобы получить доступ к новому типу кораблей для своей команды, строящихся на Верфях, а также бонус в 500 Науки. Вы не можете уничтожить её, но если она уничтожится после Вашего захвата, Вы потеряете технологию, предоставляемую ей. Может собирать Науку, но не с вражеских планет.</ln>
 
-<ln id="AITroopAccelerator_Full">ИИ Усилитель Войск</ln>
+<ln id="AITroopAccelerator_Full">Усилитель Войск ИИ</ln>
 <ln id="AITroopAccelerator_Short">Усил. Войск</ln>
 <ln id="AITroopAccelerator_Desc">Продвинутая технология ИИ, позволяющая получать подкрепления на планете в удвоенном размере.
 Уничтожение этого юнита увеличит Прогресс ИИ на 10.</ln>
  
-<ln id="CoreShieldGeneratorGroupAPrime_Full">Главный Генератор Щита (Группа A-Основная)</ln>
-<ln id="CoreShieldGeneratorGroupAPrime_Short">Глав Щит (A-Основ)</ln>
+<ln id="CoreShieldGeneratorGroupAPrime_Full">Генератор Защитного Экрана (Группа A-Основная)</ln>
+<ln id="CoreShieldGeneratorGroupAPrime_Short">Защитный Экран (A-Основ)</ln>
 <ln id="CoreShieldGeneratorGroupAPrime_Desc">Должен быть уничтожен прежде, чем Главные Караульные Посты ИИ и Столичная Командная Станция ИИ смогут получить повреждения. Планета, на которой установлен Генератор Щита, должна находиться под контролем людей, прежде чем он может быть уничтожен.
 
 Генераторы Щита группы A-Основной связаны очень сильной сетью. Все, кроме одного, генераторы должны быть уничтожены, прежде чем последний генератор самоуничтожится.</ln>
 
-<ln id="CoreShieldGeneratorGroupBSecondary_Full">Главный Генератор Щита (Группа B-Вторичная)</ln>
-<ln id="CoreShieldGeneratorGroupBSecondary_Short">Глав Щит (B-Вторич)</ln>
+<ln id="CoreShieldGeneratorGroupBSecondary_Full">Генератор Защитного Экрана (Группа B-Вторичная)</ln>
+<ln id="CoreShieldGeneratorGroupBSecondary_Short">Защитный Экран (B-Вторич)</ln>
 <ln id="CoreShieldGeneratorGroupBSecondary_Desc">Должен быть уничтожен прежде, чем Главные Караульные Посты ИИ и Столичная Командная Станция ИИ смогут получить повреждения. Планета, на которой установлен Генератор Щита, должна находиться под контролем людей, прежде чем он может быть уничтожен.
 
 Генераторы Щита группы B-Вторичной связаны слабой сетью. Уничтожьте один генератор из группы, и остальные самоуничтожатся.</ln>
 
-<ln id="CoreShieldGeneratorGroupCSecondary_Full">Главный Генератор Щита (Группа C-Вторичная)</ln>
-<ln id="CoreShieldGeneratorGroupCSecondary_Short">Глав Щит (C-Вторич)</ln>
+<ln id="CoreShieldGeneratorGroupCSecondary_Full">Генератор Защитного Экрана (Группа C-Вторичная)</ln>
+<ln id="CoreShieldGeneratorGroupCSecondary_Short">Защитный Экран (C-Вторич)</ln>
 <ln id="CoreShieldGeneratorGroupCSecondary_Desc">Должен быть уничтожен прежде, чем Главные Караульные Посты ИИ и Столичная Командная Станция ИИ смогут получить повреждения. Планета, на которой установлен Генератор Щита, должна находиться под контролем людей, прежде чем он может быть уничтожен.
 
 Генераторы Щита группы C-Вторичной связаны слабой сетью. Уничтожьте один генератор из группы, и остальные самоуничтожатся.</ln>
 
-<ln id="CoreShieldGeneratorGroupDSecondary_Full">Главный Генератор Щита (Группа D-Вторичная)</ln>
-<ln id="CoreShieldGeneratorGroupDSecondary_Short">Глав Щит (D-Вторич)</ln>
+<ln id="CoreShieldGeneratorGroupDSecondary_Full">Генератор Защитного Экрана (Группа D-Вторичная)</ln>
+<ln id="CoreShieldGeneratorGroupDSecondary_Short">Защитный Экран (D-Вторич)</ln>
 <ln id="CoreShieldGeneratorGroupDSecondary_Desc">Должен быть уничтожен прежде, чем Главные Караульные Посты ИИ и Столичная Командная Станция ИИ смогут получить повреждения. Планета, на которой установлен Генератор Щита, должна находиться под контролем людей, прежде чем он может быть уничтожен.
 
 Генераторы Щита группы D-Вторичной связаны слабой сетью. Уничтожьте один генератор из группы, и остальные самоуничтожатся.</ln>
 
-<ln id="CoreShieldGeneratorGroupESecondary_Full">Главный Генератор Щита (Группа E-Вторичная)</ln>
-<ln id="CoreShieldGeneratorGroupESecondary_Short">Глав Щит (E-Вторич)</ln>
+<ln id="CoreShieldGeneratorGroupESecondary_Full">Генератор Защитного Экрана (Группа E-Вторичная)</ln>
+<ln id="CoreShieldGeneratorGroupESecondary_Short">Защитный Экран (E-Вторич)</ln>
 <ln id="CoreShieldGeneratorGroupESecondary_Desc">Должен быть уничтожен прежде, чем Главные Караульные Посты ИИ и Столичная Командная Станция ИИ смогут получить повреждения. Планета, на которой установлен Генератор Щита, должна находиться под контролем людей, прежде чем он может быть уничтожен.
 
 Генераторы Щита группы E-Вторичной связаны слабой сетью. Уничтожьте один генератор из группы, и остальные самоуничтожатся.</ln>
@@ -2308,21 +2308,21 @@
 
 Если ИИ понадобится сохранить дополнительные корабли, а на планете уже есть Казарма, то ИИ построит вместо этого Перевозчика.</ln>
 
-<ln id="AICarrier_Full">ИИ Перевозчик</ln>
-<ln id="AICarrier_Short">ИИ Перевозчик</ln>
+<ln id="AICarrier_Full">Перевозчик ИИ</ln>
+<ln id="AICarrier_Short">Перевозчик ИИ</ln>
 <ln id="AICarrier_Desc">Содержит орды юнитов ИИ, когда их становится слишком много, чтобы им путешествовать раздельно.
 
 Корабли, содержащиеся внутри, не могут стрелять по наружным целям, но Перевозчик использует их силу для своих собственных орудий и выдаёт больше выстрелов за залп в зависимости от количества содержащихся кораблей. Полностью нагруженный Перевозчик может нанести много повреждений.
 
 Находясь под обстрелом, внутренние корабли Перевозчика принимают на себя урон вместо него. При уничтожении последнего корабля (или его выбросе) Перевозчик уничтожается.</ln>
-<ln id="AICarrierII_Full">ИИ Перевозчик Модель II</ln>
-<ln id="AICarrierII_Short">ИИ Перевозчик II</ln>
-<ln id="AICarrierIII_Full">ИИ Перевозчик Модель III</ln>
-<ln id="AICarrierIII_Short">ИИ Перевозчик III</ln>
-<ln id="AICarrierIV_Full">ИИ Перевозчик Модель IV</ln>
-<ln id="AICarrierIV_Short">ИИ Перевозчик IV</ln>
-<ln id="AICarrierV_Full">ИИ Перевозчик Модель V</ln>
-<ln id="AICarrierV_Short">ИИ Перевозчик V</ln>
+<ln id="AICarrierII_Full">Перевозчик ИИ Модель II</ln>
+<ln id="AICarrierII_Short">Перевозчик ИИ II</ln>
+<ln id="AICarrierIII_Full">Перевозчик ИИ Модель III</ln>
+<ln id="AICarrierIII_Short">Перевозчик ИИ III</ln>
+<ln id="AICarrierIV_Full">Перевозчик ИИ Модель IV</ln>
+<ln id="AICarrierIV_Short">Перевозчик ИИ IV</ln>
+<ln id="AICarrierV_Full">Перевозчик ИИ Модель V</ln>
+<ln id="AICarrierV_Short">Перевозчик ИИ V</ln>
 
 <ln id="CaptiveHumanSettlement_Full">Захваченное Поселение Людей</ln>
 <ln id="CaptiveHumanSettlement_Short">Захваченное Поселение</ln>
@@ -2345,7 +2345,7 @@
 <ln id="SuperFortress_Short">Суперкрепость</ln>
 <ln id="SuperFortress_Desc">Невероятно мощная Крепость с большой дальностью действия. Способна перемещаться по планете, но слишком большая для прохода через червоточины. Также чинит ближайшие корабли. После перемещения требует 60 сек. прежде чем сможет чинить снова.</ln>
 
-<ln id="AISuperFortress_Full">ИИ Суперкрепость</ln>
+<ln id="AISuperFortress_Full">Суперкрепость ИИ</ln>
 <ln id="AISuperFortress_Short">Суперкрепость (ИИ)</ln>
 <ln id="AISuperFortress_Desc">Невероятно мощная неподвижная Крепость с большой дальностью действия. Только Бомбардировщики и танки имеют шанс противостоять ей.</ln>
 
@@ -2355,13 +2355,13 @@
 <ln id="Avenger_Desc">Массивная спутникообразная космическая станция, созданная ИИ как последний способ обороны против натиска людей.
 Если Командная Станция ИИ, к которой он относится, уничтожится, Мститель оправдает своё имя.</ln>
 
-<ln id="AIMothership_Full">ИИ Материнский Корабль</ln>
+<ln id="AIMothership_Full">Материнский Корабль ИИ</ln>
 <ln id="AIMothership_Short">Мат. Корабль</ln>
 <ln id="AIMothership_Desc">Колоссальный бронированный планетоид. ИИ обычно считает, что даже вся галактика Млечный Путь не стоит внимания Материнского Корабля... Что же Вы такого сделали?
 
 Этот корабль содержит узел Главной Сети Щитов и должен быть уничтожен прежде, чем Главный Караульный Пост ИИ и Командная Станция ИИ смогут получить повреждения.</ln>
 
-<ln id="AIGalacticControlShip_Full">ИИ Корабль Контроля Галактики</ln>
+<ln id="AIGalacticControlShip_Full">Корабль Контроля Галактики ИИ</ln>
 <ln id="AIGalacticControlShip_Short">ККГ</ln>
 <ln id="AIGalacticControlShip_Desc">Подвижная форма Столичной Командной Станции ИИ. Освободившись от ныне прекратившей своё существование Пространственной Сети, этот монстр теперь может применить всю свою непостижимую мощь для одной цели:
 

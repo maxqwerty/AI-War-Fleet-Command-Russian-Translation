@@ -439,11 +439,11 @@
 <ln id="FirstDouble10Victory_Gold_AltOrder">5. Совершенный 2</ln>
 
 <ln id="Full10Victory_Gold">5. Богоподобный</ln>
-<ln id="Full10Victory_Gold_Desc">Победи ИИ на уровне сложности 10 или выше, без положительного гандикапа у людей и отрицательного у ИИ.</ln>
+<ln id="Full10Victory_Gold_Desc">Победи ИИ на уровне сложности 10 или выше, без положительного множителя ресурсов у людей и отрицательного у ИИ.</ln>
 <ln id="Full10Victory_Gold_AltOrder">5. Совершенный 3</ln>
 
 <ln id="Full10DoubleVictory_Gold">5. Дважды Богоподобный</ln>
-<ln id="Full10DoubleVictory_Gold_Desc">Победи двух ИИ на уровне сложности 10 или выше, без положительного гандикапа у людей и отрицательного у ИИ.</ln>
+<ln id="Full10DoubleVictory_Gold_Desc">Победи двух ИИ на уровне сложности 10 или выше, без множителя ресурсов у людей и отрицательного у ИИ.</ln>
 <ln id="Full10DoubleVictory_Gold_AltOrder">5. Совершенный 4</ln>
 
 <ln id="WinGameWithNukedGalaxy_Gold">5. Есть только один способ убедиться</ln>

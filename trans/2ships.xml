@@ -283,77 +283,77 @@
 Эта конкретная Куница контролируется Скитающимися Анклавами Neinzul'ов.</ln>
 
 <ln id="NeinzulNest_Full">Гнездо Neinzul'ов</ln>
-<ln id="NeinzulNest_Short">N. Гнездо</ln>
+<ln id="NeinzulNest_Short">Гнездо N.</ln>
 <ln id="NeinzulNest_Desc">Неподвижный спаунер для Юнлингов Neinzul'ов. Уничтожение корабля ИИ на его планете или соседней планете разозлит гнездо и высвободит корабли из него, чтобы атаковать Вас. Взятие под контроль соседней планеты (или самой планеты) также разозлит гнездо.</ln>
 
 <ln id="NeinzulNestII_Full">Гнездо Neinzul'ов Модель II</ln>
-<ln id="NeinzulNestII_Short">N. Гнездо II</ln>
+<ln id="NeinzulNestII_Short">Гнездо N. II</ln>
 
 <ln id="NeinzulNestIII_Full">Гнездо Neinzul'ов Модель III</ln>
-<ln id="NeinzulNestIII_Short">N. Гнездо III</ln>
+<ln id="NeinzulNestIII_Short">Гнездо N. III</ln>
 
 <ln id="NeinzulNestIV_Full">Гнездо Neinzul'ов Модель IV</ln>
-<ln id="NeinzulNestIV_Short">N. Гнездо IV</ln>
+<ln id="NeinzulNestIV_Short">Гнездо N. IV</ln>
 
 <ln id="NeinzulNestV_Full">Гнездо Neinzul'ов Модель V</ln>
-<ln id="NeinzulNestV_Short">N. Гнездо V</ln>
+<ln id="NeinzulNestV_Short">Гнездо N. V</ln>
 
 <ln id="NeinzulCluster_Full">Кластер Neinzul'ов</ln>
-<ln id="NeinzulCluster_Short">N. Кластер</ln>
+<ln id="NeinzulCluster_Short">Кластер N.</ln>
 <ln id="NeinzulCluster_Desc">Неподвижное оборонительное оружие, изобретённое Neinzul'ами. Дальнобойное, оно стреляет сильными одиночными снарядами. Также производит и хранит в течение долгого времени корабли Neinzul'ов. Когда корабли игрока атакуют его или проходят слишком близко, внутренние корабли злятся и нападают.</ln>
 
 <ln id="NeinzulClusterII_Full">Кластер Neinzul'ов Модель II</ln>
-<ln id="NeinzulClusterII_Short">N. Кластер II</ln>
+<ln id="NeinzulClusterII_Short">Кластер N. II</ln>
 
 <ln id="NeinzulClusterIII_Full">Кластер Neinzul'ов Модель III</ln>
-<ln id="NeinzulClusterIII_Short">N. Кластер III</ln>
+<ln id="NeinzulClusterIII_Short">Кластер N. III</ln>
 
 <ln id="NeinzulClusterIV_Full">Кластер Neinzul'ов Модель IV</ln>
-<ln id="NeinzulClusterIV_Short">N. Кластер IV</ln>
+<ln id="NeinzulClusterIV_Short">Кластер N. IV</ln>
 
 <ln id="NeinzulClusterV_Full">Кластер Neinzul'ов Модель V</ln>
-<ln id="NeinzulClusterV_Short">N. Кластер V</ln>
+<ln id="NeinzulClusterV_Short">Кластер N. V</ln>
 
 <ln id="NeinzulPrivacyCluster_Full">Приватный Кластер Neinzul'ов</ln>
-<ln id="NeinzulPrivacyCluster_Short">N. П. Кластер</ln>
+<ln id="NeinzulPrivacyCluster_Short">П. Кластер N.</ln>
 <ln id="NeinzulPrivacyCluster_Desc">Неподвижное защитное оружие, созданное Neinzul'ами. На дальних дистанциях стреляет сильными одиночными снарядами. Также создаёт и хранит корабли Neinzul'ов время от времени. Когда корабли игрока атакуют его или проходят слишком близко, этот корабль злится и нападает.
 
 Это редкий вариант, который злится даже в присутствии простого Разведчика.</ln>
 
 <ln id="NeinzulBomberCluster_Full">Кластер Бомберов Neinzul'ов</ln>
-<ln id="NeinzulBomberCluster_Short">N. Кластер Бомберов</ln>
+<ln id="NeinzulBomberCluster_Short">Кластер N. Бомберов</ln>
 <ln id="NeinzulBomberCluster_Desc">Неподвижное оборонительное оружие, изобретённое Neinzul'ами. Дальнобойное, оно стреляет сильными одиночными снарядами. Также производит и хранит в течение долгого времени Бомберов Neinzul'ов. Когда корабли игрока атакуют его или проходят слишком близко, эти корабли злятся и нападают.</ln>
 
 <ln id="NeinzulBomberClusterII_Full">Кластер Бомберов Neinzul'ов Модель II</ln>
-<ln id="NeinzulBomberClusterII_Short">N. Кластер Бомберов II</ln>
+<ln id="NeinzulBomberClusterII_Short">Кластер N. Бомберов II</ln>
 
 <ln id="NeinzulBomberClusterIII_Full">Кластер Бомберов Neinzul'ов Модель III</ln>
-<ln id="NeinzulBomberClusterIII_Short">N. Кластер Бомберов III</ln>
+<ln id="NeinzulBomberClusterIII_Short">Кластер N. Бомберов III</ln>
 
 <ln id="NeinzulBomberClusterIV_Full">Кластер Бомберов Neinzul'ов Модель IV</ln>
-<ln id="NeinzulBomberClusterIV_Short">N. Кластер Бомберов IV</ln>
+<ln id="NeinzulBomberClusterIV_Short">Кластер N. Бомберов IV</ln>
 
 <ln id="NeinzulBomberClusterV_Full">Кластер Бомберов Neinzul'ов Модель V</ln>
-<ln id="NeinzulBomberClusterV_Short">N. Кластер Бомберов V</ln>
+<ln id="NeinzulBomberClusterV_Short">Кластер N. Бомберов V</ln>
 
 <ln id="NeinzulViralCluster_Full">Вирусный Кластер Neinzul'ов</ln>
-<ln id="NeinzulViralCluster_Short">N. Вирусный Кластер</ln>
+<ln id="NeinzulViralCluster_Short">Вирусный N. Кластер</ln>
 <ln id="NeinzulViralCluster_Desc">Неподвижное оборонительное оружие, изобретённое Neinzul'ами. Дальнобойное, оно стреляет сильными одиночными снарядами. Также производит и хранит в течение долгого времени Вирусных Паразитов Neinzul'ов. Когда корабли игрока атакуют его или проходят слишком близко, эти корабли злятся и нападают.</ln>
 
 <ln id="NeinzulViralClusterII_Full">Вирусный Кластер Neinzul'ов Модель II</ln>
-<ln id="NeinzulViralClusterII_Short">N. Вирусный Кластер II</ln>
+<ln id="NeinzulViralClusterII_Short">Вирусный N. Кластер II</ln>
 
 <ln id="NeinzulViralClusterIII_Full">Вирусный Кластер Neinzul'ов Модель III</ln>
-<ln id="NeinzulViralClusterIII_Short">N. Вирусный Кластер III</ln>
+<ln id="NeinzulViralClusterIII_Short">Вирусный N. Кластер III</ln>
 
 <ln id="NeinzulViralClusterIV_Full">Вирусный Кластер Neinzul'ов Модель IV</ln>
-<ln id="NeinzulViralClusterIV_Short">N. Вирусный Кластер IV</ln>
+<ln id="NeinzulViralClusterIV_Short">Вирусный N. Кластер IV</ln>
 
 <ln id="NeinzulViralClusterV_Full">Вирусный Кластер Neinzul'ов Модель V</ln>
-<ln id="NeinzulViralClusterV_Short">N. Вирусный Кластер V</ln>
+<ln id="NeinzulViralClusterV_Short">Вирусный N. Кластер V</ln>
 
 <ln id="NeinzulBomber_Full">Бомбер Neinzul'ов</ln>
-<ln id="NeinzulBomber_Short">N. Бомбер</ln>
+<ln id="NeinzulBomber_Short">Бомбер N.</ln>
 <ln id="NeinzulBomber_Desc">Крошечные бомбардировщики, двигающиеся невероятно быстро и эффективны в больших группах. Не застрахованы от тяговых лучей, имеют тенденцию подавлять их большим числом.</ln>
 
 <ln id="NeinzulPreservationBomber_Full">Заповедный Бомбер Neinzul'ов</ln>
@@ -367,7 +367,7 @@
 <ln id="NeinzulViralSwarmer_Desc">Крошечные корабли с малым уровнем здоровья и низкой атакующей силой, теряющие со временем здоровья так же, как и остальные корабли Юнлингов. Тем не менее, они способны к самовоссозданию, а также поглощают молнии, ядерный урон и урон от ЭМИ.</ln>
 
 <ln id="NeinzulSilo_Full">Силос Neinzul'ов</ln>
-<ln id="NeinzulSilo_Short">N. Силос</ln>
+<ln id="NeinzulSilo_Short">Силос N.</ln>
 <ln id="NeinzulSilo_Desc">Это иммитация древнего Силоса Ракетных Корпусов Neinzul'ов, но былf недавно построенf Гибридными Ульями Neinzul'ов - ИИ.
 В отличие от Силоса Ракетных Корпусов, этот силос не неуязвим.
 
@@ -376,19 +376,19 @@
 Также, попадая на планеты людей, они влияют на корабли как людей, так и ИИ при детонации.</ln>
 
 <ln id="NeinzulSiloII_Full">Силос Neinzul'ов Модель II</ln>
-<ln id="NeinzulSiloII_Short">N. Силос II</ln>
+<ln id="NeinzulSiloII_Short">Силос N. II</ln>
 
 <ln id="NeinzulSiloIII_Full">Силос Neinzul'ов Модель III</ln>
-<ln id="NeinzulSiloIII_Short">N. Силос III</ln>
+<ln id="NeinzulSiloIII_Short">Силос N. III</ln>
 
 <ln id="NeinzulSiloIV_Full">Силос Neinzul'ов Модель IV</ln>
-<ln id="NeinzulSiloIV_Short">N. Силос IV</ln>
+<ln id="NeinzulSiloIV_Short">Силос N. IV</ln>
 
 <ln id="NeinzulSiloV_Full">Силос Neinzul'ов Модель V</ln>
-<ln id="NeinzulSiloV_Short">N. Силос V</ln>
+<ln id="NeinzulSiloV_Short">Силос N. V</ln>
 
 <ln id="NeinzulMinorFactionSilo_Full">Силос Ракетных Корпусов Neinzul'ов</ln>
-<ln id="NeinzulMinorFactionSilo_Short">N. Р. К. Силос</ln>
+<ln id="NeinzulMinorFactionSilo_Short">Р. К. Силос N.</ln>
 <ln id="NeinzulMinorFactionSilo_Desc">Когда на планете срабатывает тревога, он создаёт Молниевые либо ЭМИ боеголовки каждую четверть часа и посылает их на ближайшие планеты людей.
 Эти боеголовки не повышают Прогресс ИИ при детонации.
 Также, попадая на планеты людей, они влияют на корабли как людей, так и ИИ при детонации. Корабли ИИ не стреляют по этим боеголовкам, так как они в курсе.
@@ -396,16 +396,16 @@
 Этот силос имеет особую форму защиты, которая делает его полностью неразрушимым.</ln>
 
 <ln id="NeinzulMinorFactionSiloII_Full">Силос Ракетных Корпусов Neinzul'ов Модель II</ln>
-<ln id="NeinzulMinorFactionSiloII_Short">N. Р. К. Силос II</ln>
+<ln id="NeinzulMinorFactionSiloII_Short">Р. К. Силос N. II</ln>
 
 <ln id="NeinzulMinorFactionSiloIII_Full">Силос Ракетных Корпусов Neinzul'ов Модель III</ln>
-<ln id="NeinzulMinorFactionSiloIII_Short">N. Р. К. Силос III</ln>
+<ln id="NeinzulMinorFactionSiloIII_Short">Р. К. Силос N. III</ln>
 
 <ln id="NeinzulMinorFactionSiloIV_Full">Силос Ракетных Корпусов Neinzul'ов Модель IV</ln>
-<ln id="NeinzulMinorFactionSiloIV_Short">N. Р. К. Силос IV</ln>
+<ln id="NeinzulMinorFactionSiloIV_Short">Р. К. Силос N. IV</ln>
 
 <ln id="NeinzulMinorFactionSiloV_Full">Силос Ракетных Корпусов Neinzul'ов Модель V</ln>
-<ln id="NeinzulMinorFactionSiloV_Short">N. Р. К. Силос V</ln>
+<ln id="NeinzulMinorFactionSiloV_Short">Р. К. Силос N. V</ln>
 
 <ln id="DefenseConstructionModule_Full">Модуль Строительства Защиты</ln>
 <ln id="DefenseConstructionModule_Short">Защ СМод I </ln>

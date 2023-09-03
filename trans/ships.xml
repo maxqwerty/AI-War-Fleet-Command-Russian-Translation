@@ -1610,7 +1610,7 @@
 
 <ln id="Fortress_Full">Крепость</ln>
 <ln id="Fortress_Short">Креп I</ln>
-<ln id="Fortress_Desc">Экстремально большая, мощная и дорогая подвижная защитная постройка.  Также чинит все близлежащие корабли.  После перемещения требует 60 секунд на перезарядку, прежде чем сможет снова чинить.</ln>
+<ln id="Fortress_Desc">Экстремально большая, мощная и дорогая подвижная защитная постройка. Также чинит все близлежащие корабли.  После перемещения требует 60 секунд на перезарядку, прежде чем сможет снова чинить.</ln>
 
 <ln id="FortressII_Full">Крепость Модель II</ln>
 <ln id="FortressII_Short">Креп II</ln>
@@ -1625,7 +1625,7 @@
 Чинит все близлежащие корабли.  После перемещения требует 60 секунд на перезарядку, прежде чем сможет снова чинить.</ln>
 
 <ln id="AIFortressI_Full">Крепость ИИ</ln>
-<ln id="AIFortressI_Desc">Экстремально большая, мощная и дорогая подвижная защитная постройка.  Также чинит все близлежащие корабли.</ln>
+<ln id="AIFortressI_Desc">Экстремально большая, мощная и дорогая подвижная защитная постройка. Также чинит все близлежащие корабли.</ln>
 <ln id="AIFortressI_Short">Креп I (AI)</ln>
 <ln id="AIFortressII_Full">Крепость ИИ Модель II</ln>
 <ln id="AIFortressII_Short">Креп II (AI)</ln>
@@ -2386,31 +2386,31 @@
 Этот Завод позволяет строить: </ln>
 
 <ln id="CoreArmorShipFabricatorFoldout_Full"> Раскладной Завод</ln>
-<ln id="CoreArmorShipFabricatorFoldout_Short">Фаб-Раск:</ln>
+<ln id="CoreArmorShipFabricatorFoldout_Short">Зав-Раск:</ln>
 <ln id="CoreArmorShipFabricatorFoldout_Desc">Рукотворный юнит, создаваемый Заводом.
 Позволяет игрокам, не захватившим текущий Завод, создавать один вид кораблей Модели V.  
 Неуязвим, но будет удалён при уничтожении родительского Завода.
 Этот Завод позволяет строить: </ln>
 
 <ln id="BeamStarshipFabricator_Full"> Завод</ln>
-<ln id="BeamStarshipFabricator_Short">Фаб:</ln>
+<ln id="BeamStarshipFabricator_Short">Зав:</ln>
 <ln id="BeamStarshipFabricator_Desc">Захватываемая конструкция, которая позволяет игроку строить один тип экспериментальных Звездолётов(здесь или на Звездолётной Верфи).
 Этот Завод позволяет строить: </ln>
 
 <ln id="BeamStarshipFabricatorFoldout_Full"> Раскладной Завод</ln>
-<ln id="BeamStarshipFabricatorFoldout_Short">Фаб-Раск:</ln>
+<ln id="BeamStarshipFabricatorFoldout_Short">Зав-Раск:</ln>
 <ln id="BeamStarshipFabricatorFoldout_Desc">Рукотворный юнит, создаваемый Заводом.
 Позволяет игрокам, не захватившим текущий Завод, создавать один вид экспериментальных Звездолётов.  
 Неуязвим, но будет удалён при уничтожении родительского Завода.
 Этот Завод позволяет строить: </ln>
 
 <ln id="DecoyDroneFabricator_Full"> Завод</ln>
-<ln id="DecoyDroneFabricator_Short">Фаб:</ln>
+<ln id="DecoyDroneFabricator_Short">Зав:</ln>
 <ln id="DecoyDroneFabricator_Desc">Захватываемая конструкция, которая позволяет игроку строить один тип экспериментальных кораблей(здесь или на Верфи).
 Этот Завод позволяет строить: </ln>
 
 <ln id="DecoyDroneFabricatorFoldout_Full"> Раскладной Завод</ln>
-<ln id="DecoyDroneFabricatorFoldout_Short">Фаб-Раск:</ln>
+<ln id="DecoyDroneFabricatorFoldout_Short">Зав-Раск:</ln>
 <ln id="DecoyDroneFabricatorFoldout_Desc">Рукотворный юнит, создаваемый Заводом.
 Позволяет игрокам, не захватившим текущий Завод, создавать один вид экспериментальных кораблей.  
 Неуязвим, но будет удалён при уничтожении родительского Завода.

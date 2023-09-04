@@ -307,17 +307,17 @@
 <ln id="AIGuardianSelfDestructionV_Full">Страж ИИ Самоуничтожения Модель V</ln>
 <ln id="AIGuardianSelfDestructionV_Short">Страж (СамоУнич. V)</ln>
 
-<ln id="AIGuardianSpecialForcesRally_Full">Страж ИИ Реле Специальных Сил</ln>
-<ln id="AIGuardianSpecialForcesRally_Short">Страж (Спец. Силы I)</ln>
-<ln id="AIGuardianSpecialForcesRally_Desc">Работает как мобильный пост наступления для кораблей специальных сил ИИ. Как и Караульный Пост Специальных Сил, новые корабли ии будут появляться около этого Стража при каждом появлении подкрепления, но этот Страж не считается за Караульный Пост во всех важных случаях (для ограничения количества кораблей ИИ на планету и т.п.).</ln>
-<ln id="AIGuardianSpecialForcesRallyII_Full">Страж ИИ Реле Специальных Сил Модель II</ln>
-<ln id="AIGuardianSpecialForcesRallyII_Short">Страж (Спец. Силы II)</ln>
-<ln id="AIGuardianSpecialForcesRallyIII_Full">Страж ИИ Реле Специальных Сил Модель III</ln>
-<ln id="AIGuardianSpecialForcesRallyIII_Short">Страж (Спец. Силы III)</ln>
-<ln id="AIGuardianSpecialForcesRallyIV_Full">Страж ИИ Реле Специальных Сил Модель IV</ln>
-<ln id="AIGuardianSpecialForcesRallyIV_Short">Страж (Спец. Силы IV)</ln>
-<ln id="AIGuardianSpecialForcesRallyV_Full">Страж ИИ Реле Специальных Сил Модель V</ln>
-<ln id="AIGuardianSpecialForcesRallyV_Short">Страж (Спец. Силы V)</ln>
+<ln id="AIGuardianSpecialForcesRally_Full">Страж ИИ Десантное Реле</ln>
+<ln id="AIGuardianSpecialForcesRally_Short">Страж (Десант I)</ln>
+<ln id="AIGuardianSpecialForcesRally_Desc">Работает как мобильный пост наступления для десантных кораблей ИИ. Как и Караульный Десантный Пост, новые корабли ии будут появляться около этого Стража при каждом появлении подкрепления, но этот Страж не считается за Караульный Пост во всех важных случаях (для ограничения количества кораблей ИИ на планету и т.п.).</ln>
+<ln id="AIGuardianSpecialForcesRallyII_Full">Страж ИИ Десантное Реле Модель II</ln>
+<ln id="AIGuardianSpecialForcesRallyII_Short">Страж (Десант II)</ln>
+<ln id="AIGuardianSpecialForcesRallyIII_Full">Страж ИИ Десантное Реле Модель III</ln>
+<ln id="AIGuardianSpecialForcesRallyIII_Short">Страж (Десант III)</ln>
+<ln id="AIGuardianSpecialForcesRallyIV_Full">Страж ИИ Десантное Реле Модель IV</ln>
+<ln id="AIGuardianSpecialForcesRallyIV_Short">Страж (Десант IV)</ln>
+<ln id="AIGuardianSpecialForcesRallyV_Full">Страж ИИ Десантное Реле Модель V</ln>
+<ln id="AIGuardianSpecialForcesRallyV_Short">Страж (Десант V)</ln>
 
 <ln id="AIGuardianVampire_Full">Страж ИИ Вампир</ln>
 <ln id="AIGuardianVampire_Short">Страж (Вампир I)</ln>

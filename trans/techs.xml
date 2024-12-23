@@ -2,7 +2,7 @@
 <root>
 <ln id="None">Нет</ln>
 <ln id="Unused"></ln>
-<ln id="Unlock">Открыть</ln>
+<ln id="Unlock">Изучить</ln>
 
 <ln id="CategoryEconomy_Button">ЭКОН</ln>
 <ln id="CategoryEconomy_Name">Экономические технологии</ln>

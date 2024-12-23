@@ -1141,7 +1141,7 @@
 Её отключение может потребовать... экспериментов.</ln>
 
 <ln id="AIModularFortressHomeCommandStation_Full">Модульная Крепость Столичной Командной Станции ИИ</ln>
-<ln id="AIModularFortressHomeCommandStation_Short">Кр. Дом Станция</ln>
+<ln id="AIModularFortressHomeCommandStation_Short">Кр. Столич Станция</ln>
 <ln id="AIModularFortressHomeCommandStation_Desc">Столичная Командная Станция ИИ не может получить урон, пока все Главные Караульные Посты ИИ на этой планете не будут уничтожены.
 
 Первая команда, уничтожившая все Столичные Командные Станции противников, побеждает в игре.

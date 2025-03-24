@@ -30,14 +30,14 @@
 <ln id="EXP1_DoISeemHeavierToYou_Gold">2. Я Тяжеловат Для Тебя?</ln>
 <ln id="EXP1_DoISeemHeavierToYou_Gold_Desc">Победите Гравидрель на сложности 9 или выше.</ln>
 
-<ln id="EXP1_DoNotOpenThatDoor_Bronze">2. Не Открывай Эту Дверь</ln>
-<ln id="EXP1_DoNotOpenThatDoor_Bronze_Desc">Победите Властелина Дверей на любой сложности.</ln>
+<ln id="EXP1_DoNotOpenThatDoor_Bronze">2. Дверь Не Открывать</ln>
+<ln id="EXP1_DoNotOpenThatDoor_Bronze_Desc">Победите Повелителя Врат на любой сложности.</ln>
 
-<ln id="EXP1_DoNotOpenThatDoor_Silver">2. Не Открывай Эту Дверь</ln>
-<ln id="EXP1_DoNotOpenThatDoor_Silver_Desc">Победите Властелина Дверей на сложности 7 или выше.</ln>
+<ln id="EXP1_DoNotOpenThatDoor_Silver">2. Дверь Не Открывать</ln>
+<ln id="EXP1_DoNotOpenThatDoor_Silver_Desc">Победите Повелителя Врат на сложности 7 или выше.</ln>
 
-<ln id="EXP1_DoNotOpenThatDoor_Gold">2. Не Открывай Эту Дверь</ln>
-<ln id="EXP1_DoNotOpenThatDoor_Gold_Desc">Победите Властелина Дверей на сложности 9 или выше.</ln>
+<ln id="EXP1_DoNotOpenThatDoor_Gold">2. Дверь Не Открывать</ln>
+<ln id="EXP1_DoNotOpenThatDoor_Gold_Desc">Победите Повелителя Врат на сложности 9 или выше.</ln>
 
 <!--3. Moderate AI Types-->
 <ln id="EXP1_SkeweredLizard_Bronze">3. Шашлык Из Ящерицы</ln>

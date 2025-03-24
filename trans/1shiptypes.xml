@@ -5,8 +5,8 @@
 <ln id="GrenadeLauncher">Гранатомёт</ln>
 <ln id="Golem">Голем</ln>
 <ln id="BrokenGolem">Сломанный Голем</ln>
-<ln id="AlarmPost">Пост Тревоги</ln>
-<ln id="AlarmPostSpecial">Специальный Пост Тревоги</ln>
+<ln id="AlarmPost">Сигнальный Пост</ln>
+<ln id="AlarmPostSpecial">Десантный Сигнальный Пост</ln>
 <ln id="RaidEngine">Налётчик</ln>
 <ln id="Cloaker_Starship">Скрытый Звездолёт</ln>
 <ln id="ZenithElectricBomber">ЭлектроБомбер</ln>

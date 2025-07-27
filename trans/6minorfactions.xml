@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
+<!-- EN: Nomad Planets -->
 <ln id="NomadPlanets">Кочевые Планеты</ln>
+<!-- EN: When Planets Attack! -->
 <ln id="NomadPlanets_Desc">Когда Планеты Атакуют!</ln>
+<!-- EN: Exodian Blade -->
 <ln id="ExodianBlade">Exodian Blade</ln>
+<!-- EN: Be Careful. Sharp. -->
 <ln id="ExodianBlade_Desc">Осторожно. Жжётся.</ln>
 
 </root>

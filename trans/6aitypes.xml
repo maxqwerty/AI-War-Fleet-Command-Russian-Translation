@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
+<!-- EN: Mime -->
 <ln id="Mime">Мим</ln>
+<!-- EN: Vanguard -->
 <ln id="Vanguard">Авангард</ln>
+<!-- EN: Starship Fanatic -->
 <ln id="StarshipFanatic">Фанат Звездолётов</ln>
+<!-- EN: Cowardly -->
 <ln id="Cowardly">Трусливый</ln>
+<!-- EN: Brutal -->
 <ln id="Brutal">Зверский</ln>
+<!-- EN: Kite Flier -->
 <ln id="KiteFlier">Воздушный Змей</ln>
+<!-- EN: Quadratic -->
 <ln id="Quadratic">Квадратный</ln>
+<!-- EN: Overreactive -->
 <ln id="Overreactive">Сверхактивный</ln>
 </root>

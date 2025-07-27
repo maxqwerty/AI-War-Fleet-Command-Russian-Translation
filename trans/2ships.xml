@@ -1,373 +1,670 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
+<!-- EN: AI-Neinzul Hybrid Hive -->
 <ln id="SubroutineAvatar_Full">Гибридный Улей Neinzul'ов - ИИ</ln>
+<!-- EN: Hybrid -->
 <ln id="SubroutineAvatar_Short">Гибрид</ln>
+<!-- EN: A strange hybrid of a mobile Neinzul hive and AI-built machinery. -->
 <ln id="SubroutineAvatar_Desc">Странный гибрид мобильного улья Neinzul'ов и техники, созданной ИИ.</ln>
 
+<!-- EN: AI-Neinzul Super-Hybrid -->
 <ln id="SuperHybridInvestigator_Full">Супер Гибрид Neinzul'ов - ИИ</ln>
+<!-- EN: S Hybrid -->
 <ln id="SuperHybridInvestigator_Short">С Гибрид</ln>
+<!-- EN: An abnormally powerful specimen of Hybrid. -->
 <ln id="SuperHybridInvestigator_Desc">Аномально мощный образец Гибридов.</ln>
 
+<!-- EN: Hybrid Hive Spawner -->
 <ln id="SubroutineAvatarSpawner_Full">Гибридный Создатель Ульев</ln>
+<!-- EN: Hyb Spawn -->
 <ln id="SubroutineAvatarSpawner_Short">Гиб Созд</ln>
+<!-- EN: Produces strange hybrids of mobile Neinzul hives and AI-built machinery.
+Destruction of this facility will reduce the rate at which destroyed hybrid hives can be replaced, and the maximum overall galaxy-wide population cap of said hives. -->
 <ln id="SubroutineAvatarSpawner_Desc">Производит странных гибридов мобильного улья Neinzul'ов и техники, созданной ИИ.
 Уничтожение этого объекта снижает скорость замены гибридных ульев и максимальное ограничение на количество ульев по всей галактике.</ln>
 
+<!-- EN: Hybrid MkI Drone Spawner -->
 <ln id="SubroutineMkIDroneSpawner_Full">Дрон Создатель Гибридов МодI</ln>
+<!-- EN: Drn Spwn -->
 <ln id="SubroutineMkIDroneSpawner_Short">Дрон Созд</ln>
+<!-- EN: Produces normal MkI fleet ships to be assigned as underlings to hybrid hive ships.
+Destruction of this facility will impair the ability of MkI hybrids to reinforce their subfleets. -->
 <ln id="SubroutineMkIDroneSpawner_Desc">Производит обычные корабли МодI, подчиняющиеся ульевым кораблям гибридов.
 Уничтожение этого объекта ухудшит способность гибридов МодI поддерживать свои флотилии.</ln>
 
+<!-- EN: Hybrid MkII Drone Spawner -->
 <ln id="SubroutineMkIIDroneSpawner_Full">Дрон Создатель Гибридов МодII</ln>
+<!-- EN: Drn Spwn II -->
 <ln id="SubroutineMkIIDroneSpawner_Short">Дрон Созд II</ln>
+<!-- EN: Produces normal MkII fleet ships to be assigned as underlings to hybrid hive ships.  Only sufficiently mature hybrids can command MkII ships.
+Destruction of this facility will impair the ability of MkII hybrids to reinforce their subfleets. -->
 <ln id="SubroutineMkIIDroneSpawner_Desc">Производит обычные корабли МодII, подчиняющиеся ульевым кораблям гибридов. Только достаточно зрелые гибриды могут командовать кораблями МодII.
 Уничтожение этого объекта ухудшит способность гибридов МодII поддерживать свои флотилии.</ln>
 
+<!-- EN: Hybrid MkIII Drone Spawner -->
 <ln id="SubroutineMkIIIDroneSpawner_Full">Дрон Создатель Гибридов МодIII</ln>
+<!-- EN: Drn Spwn III -->
 <ln id="SubroutineMkIIIDroneSpawner_Short">Дрон Созд III</ln>
+<!-- EN: Produces normal MkIII fleet ships to be assigned as underlings to hybrid hive ships.  Only sufficiently mature hybrids can command MkIII ships.
+Destruction of this facility will impair the ability of MkIII hybrids to reinforce their subfleets. -->
 <ln id="SubroutineMkIIIDroneSpawner_Desc">Производит обычные корабли МодIII, подчиняющиеся ульевым кораблям гибридов. Только достаточно зрелые гибриды могут командовать кораблями МодIII.
 Уничтожение этого объекта ухудшит способность гибридов МодIII поддерживать свои флотилии.</ln>
 
+<!-- EN: Hybrid MkIV Drone Spawner -->
 <ln id="SubroutineMkIVDroneSpawner_Full">Дрон Создатель Гибридов МодIV</ln>
+<!-- EN: Drn Spwn IV -->
 <ln id="SubroutineMkIVDroneSpawner_Short">Дрон Созд IV</ln>
+<!-- EN: Produces normal MkIV fleet ships to be assigned as underlings to hybrid hive ships.  Only sufficiently mature hybrids can command MkIV ships.
+Destruction of this facility will impair the ability of MkIV and Mark V hybrids to reinforce their subfleets. -->
 <ln id="SubroutineMkIVDroneSpawner_Desc">Производит обычные корабли МодIV, подчиняющиеся ульевым кораблям гибридов. Только достаточно зрелые гибриды могут командовать кораблями МодIV.
 Уничтожение этого объекта ухудшит способность гибридов МодIV и Mark V поддерживать свои флотилии.</ln>
 
+<!-- EN: Hybrid MkI Equipment Module Factory -->
 <ln id="SubroutineMkIEquipmentModuleFactory_Full">Фабрика Модулей Снаряжения Гибридов МодI</ln>
+<!-- EN: Eq Fact -->
 <ln id="SubroutineMkIEquipmentModuleFactory_Short">Фабрика Снар</ln>
+<!-- EN: Allows hybrids to refit with MkI offensive and defensive modules.
+Destruction of this facility will impair the ability of hybrids to equip or replace such modules. -->
 <ln id="SubroutineMkIEquipmentModuleFactory_Desc">Позволяет гибридам оборудовать защитные или наступательные модули МодI.
 Уничтожение этого объекта ухудшит способность гибридов оборудовать или заменять подобные модули.</ln>
 
+<!-- EN: Hybrid MkII Equipment Module Factory -->
 <ln id="SubroutineMkIIEquipmentModuleFactory_Full">Фабрика Модулей Снаряжения Гибридов МодII</ln>
+<!-- EN: Eq Fact II -->
 <ln id="SubroutineMkIIEquipmentModuleFactory_Short">Фабрика Снар II</ln>
+<!-- EN: Allows hybrids to refit with MkII offensive and defensive modules.
+Destruction of this facility will impair the ability of hybrids to equip or replace such modules. -->
 <ln id="SubroutineMkIIEquipmentModuleFactory_Desc">Позволяет гибридам оборудовать защитные или наступательные модули МодII.
 Уничтожение этого объекта ухудшит способность гибридов оборудовать или заменять подобные модули.</ln>
 
+<!-- EN: Hybrid MkIII Equipment Module Factory -->
 <ln id="SubroutineMkIIIEquipmentModuleFactory_Full">Фабрика Модулей Снаряжения Гибридов МодIII</ln>
+<!-- EN: Eq Fact III -->
 <ln id="SubroutineMkIIIEquipmentModuleFactory_Short">Фабрика Снар III</ln>
+<!-- EN: Allows hybrids to refit with MkIII offensive and defensive modules.
+Destruction of this facility will impair the ability of hybrids to equip or replace such modules. -->
 <ln id="SubroutineMkIIIEquipmentModuleFactory_Desc">Позволяет гибридам оборудовать защитные или наступательные модули МодIII.
 Уничтожение этого объекта ухудшит способность гибридов оборудовать или заменять подобные модули.</ln>
 
+<!-- EN: Hybrid MkIV Equipment Module Factory -->
 <ln id="SubroutineMkIVEquipmentModuleFactory_Full">Фабрика Модулей Снаряжения Гибридов МодIV</ln>
+<!-- EN: Eq Fact IV -->
 <ln id="SubroutineMkIVEquipmentModuleFactory_Short">Фабрика Снар IV</ln>
+<!-- EN: Allows hybrids to refit with MkIV offensive and defensive modules.
+Destruction of this facility will impair the ability of hybrids to equip or replace such modules. -->
 <ln id="SubroutineMkIVEquipmentModuleFactory_Desc">Позволяет гибридам оборудовать защитные или наступательные модули МодIV.
 Уничтожение этого объекта ухудшит способность гибридов оборудовать или заменять подобные модули.</ln>
 
+<!-- EN: Hybrid MkI Construction Module Factory -->
 <ln id="SubroutineMkIConstructionModuleFactory_Full">Фабрика Модулей Строительства Гибридов МодI</ln>
+<!-- EN: Eq Fact -->
 <ln id="SubroutineMkIConstructionModuleFactory_Short">Фабрика Стр</ln>
+<!-- EN: Allows hybrids to pick up modules used to construct MkI facilities and defensive emplacements.
+Destruction of this facility will impair the ability of hybrids to acquire these modules. -->
 <ln id="SubroutineMkIConstructionModuleFactory_Desc">Позволяет гибридам носить модули, используемые для создания сооружений МодI и оборонительных огневых точек.
 Уничтожение этого объекта ухудшит способность гибридов преобредать подобные модули.</ln>
 
+<!-- EN: Hybrid MkII Construction Module Factory -->
 <ln id="SubroutineMkIIConstructionModuleFactory_Full">Фабрика Модулей Строительства Гибридов МодII</ln>
+<!-- EN: Eq Fact II -->
 <ln id="SubroutineMkIIConstructionModuleFactory_Short">Фабрика Стр II</ln>
+<!-- EN: Allows hybrids to pick up modules used to construct MkII facilities and defensive emplacements.
+Destruction of this facility will impair the ability of hybrids to acquire these modules. -->
 <ln id="SubroutineMkIIConstructionModuleFactory_Desc">Позволяет гибридам носить модули, используемые для создания сооружений МодII и оборонительных огневых точек.
 Уничтожение этого объекта ухудшит способность гибридов преобредать подобные модули.</ln>
 
+<!-- EN: Hybrid MkIII Construction Module Factory -->
 <ln id="SubroutineMkIIIConstructionModuleFactory_Full">Фабрика Модулей Строительства Гибридов МодIII</ln>
+<!-- EN: Eq Fact III -->
 <ln id="SubroutineMkIIIConstructionModuleFactory_Short">Фабрика Стр III</ln>
+<!-- EN: Allows hybrids to pick up modules used to construct MkIII facilities and defensive emplacements.
+Destruction of this facility will impair the ability of hybrids to acquire these modules. -->
 <ln id="SubroutineMkIIIConstructionModuleFactory_Desc">Позволяет гибридам носить модули, используемые для создания сооружений МодIII и оборонительных огневых точек.
 Уничтожение этого объекта ухудшит способность гибридов преобредать подобные модули.</ln>
 
+<!-- EN: Hybrid MkIV Construction Module Factory -->
 <ln id="SubroutineMkIVConstructionModuleFactory_Full">Фабрика Модулей Строительства Гибридов МодIV</ln>
+<!-- EN: Eq Fact IV -->
 <ln id="SubroutineMkIVConstructionModuleFactory_Short">Фабрика Стр IV</ln>
+<!-- EN: Allows hybrids to pick up modules used to construct MkIV facilities and defensive emplacements.
+Destruction of this facility will impair the ability of hybrids to acquire these modules. -->
 <ln id="SubroutineMkIVConstructionModuleFactory_Desc">Позволяет гибридам носить модули, используемые для создания сооружений МодIV и оборонительных огневых точек.
 Уничтожение этого объекта ухудшит способность гибридов преобредать подобные модули.</ln>
 
+<!-- EN: Neinzul Youngling Commando -->
 <ln id="YounglingCommando_Full">Юнлинг Диверсант Neinzul'ов</ln>
+<!-- EN: Yng Commando I -->
 <ln id="YounglingCommando_Short">Юнг Диверсант I</ln>
+<!-- EN: Neinzul Youngling Commandos -->
 <ln id="YounglingCommando_Wave">Юнлинги Диверсанты Neinzul'ов</ln>
+<!-- EN: A fighter-scout with mid-power short-range guns.  Great against large defenses.
+
+Youngling ships are all exceedingly inexpensive and fast, with a very short life span (health automatically drains when not in transports or other forms of storage). -->
 <ln id="YounglingCommando_Desc">Истребитель-разведчик со средним вооружением ближнего действия. Хорош против большой защиты.
 
 Корабли юнлингов очень дешёвые и быстрые, с короткой продолжительностью жизни(жизнь автоматически снижается, когда находится вне Транспорта или другой формы хранения).</ln>
 
+<!-- EN: Neinzul Youngling Commando Mark II -->
 <ln id="YounglingCommandoII_Full">Юнлинг Диверсант Neinzul'ов Модель II</ln>
+<!-- EN: Yng Commando II -->
 <ln id="YounglingCommandoII_Short">Юнг Диверсант II</ln>
 
+<!-- EN: Neinzul Youngling Commando Mark III -->
 <ln id="YounglingCommandoIII_Full">Юнлинг Диверсант Neinzul'ов Модель III</ln>
+<!-- EN: Yng Commando III -->
 <ln id="YounglingCommandoIII_Short">Юнг Диверсант III</ln>
 
+<!-- EN: Neinzul Youngling Commando Mark IV -->
 <ln id="YounglingCommandoIV_Full">Юнлинг Диверсант Neinzul'ов Модель IV</ln>
+<!-- EN: Yng Commando IV -->
 <ln id="YounglingCommandoIV_Short">Юнг Диверсант IV</ln>
 
+<!-- EN: Neinzul Youngling Commando Mark V -->
 <ln id="CoreYounglingCommando_Full">Юнлинг Диверсант Neinzul'ов Модель V</ln>
+<!-- EN: Yng Commando V -->
 <ln id="CoreYounglingCommando_Short">Юнг Диверсант V</ln>
 
+<!-- EN: Neinzul Preservation Commando -->
 <ln id="NeinzulPreservationCommando_Full">Заповедный Диверсант Neinzul'ов</ln>
+<!-- EN: P. Commando -->
 <ln id="NeinzulPreservationCommando_Short">З. Диверсант</ln>
+<!-- EN: A fighter-scout with mid-power short-range guns.  Great against large defenses.
+
+Youngling ships are all exceedingly inexpensive and fast, with a very short life span (health automatically drains when not in transports or other forms of storage).
+
+This particular Commando is controlled by a Neinzul Preservation Warden. -->
 <ln id="NeinzulPreservationCommando_Desc">Истребитель-разведчик со средним вооружением ближнего действия. Хорош против большой защиты.
 
 Корабли юнлингов очень дешёвые и быстрые, с короткой продолжительностью жизни(жизнь автоматически снижается, когда находится вне Транспорта или другой формы хранения).
 
 Этот конкретный Диверсант контролируется Заповедными Стражами Neinzul'ов.</ln>
 
+<!-- EN: Neinzul Roaming Enclave Commando -->
 <ln id="NeinzulRoamingEnclaveAIAllyCommando_Full">Диверсант Скитающихся Анклавов Neinzul'ов</ln>
+<!-- EN: R. Commando -->
 <ln id="NeinzulRoamingEnclaveAIAllyCommando_Short">С. Диверсант</ln>
+<!-- EN: Neinzul Roaming Enclave Commando -->
 <ln id="NeinzulRoamingEnclaveHumanAllyCommando_Full">Диверсант Скитающихся Анклавов Neinzul'ов</ln>
+<!-- EN: R. Commando -->
 <ln id="NeinzulRoamingEnclaveHumanAllyCommando_Short">С. Диверсант</ln>
+<!-- EN: Neinzul Roaming Enclave Commando -->
 <ln id="NeinzulRoamingEnclaveEnemyToAllCommando_Full">Диверсант Скитающихся Анклавов Neinzul'ов</ln>
+<!-- EN: R. Commando -->
 <ln id="NeinzulRoamingEnclaveEnemyToAllCommando_Short">С. Диверсант</ln>
+<!-- EN: R. Commandos -->
 <ln id="NeinzulRoamingEnclaveAIAllyCommando_Wave">С. Диверсант</ln>
+<!-- EN: A fighter-scout with mid-power short-range guns.  Great against large defenses.
+
+Youngling ships are all exceedingly inexpensive and fast, with a very short life span (health automatically drains when not in transports or other forms of storage).
+
+This particular Commando is controlled by a Neinzul Roaming Enclave. -->
 <ln id="NeinzulRoamingEnclaveAIAllyCommando_Desc">Истребитель-разведчик со средним вооружением ближнего действия. Хорош против большой защиты.
 
 Корабли юнлингов очень дешёвые и быстрые, с короткой продолжительностью жизни(жизнь автоматически снижается, когда находится вне Транспорта или другой формы хранения).
 
 Этот конкретный Диверсант контролируется Скитающимися Анклавами Neinzul'ов.</ln>
 
+<!-- EN: Neinzul Youngling Tiger -->
 <ln id="YounglingTiger_Full">Тигр Юнлингов Neinzul'ов</ln>
+<!-- EN: Yng Tiger I -->
 <ln id="YounglingTiger_Short">Юнг Тигр I</ln>
+<!-- EN: Neinzul Youngling Tigers -->
 <ln id="YounglingTiger_Wave">Тигры Юнлингов Neinzul'ов</ln>
+<!-- EN: The heavily-armored Neinzul version of a tank, with huge amounts of armor and firepower, but lower speed than other younglings..
+
+Youngling ships are all exceedingly inexpensive and fast, with a very short life span (health automatically drains when not in transports or other forms of storage). -->
 <ln id="YounglingTiger_Desc">Тяжеловооружённая версия танка Neinzul'ов, с большим количеством брони и огненной мощи, но с меньшей скоростью, чем у других юнлингов.
 
 Корабли юнлингов очень дешёвые и быстрые, с короткой продолжительностью жизни(жизнь автоматически снижается, когда находится вне Транспорта или другой формы хранения).</ln>
 
+<!-- EN: Neinzul Youngling Tiger Mark II -->
 <ln id="YounglingTigerII_Full">Тигр Юнлингов Neinzul'ов Модель II</ln>
+<!-- EN: Yng Tiger II -->
 <ln id="YounglingTigerII_Short">Юнг Тигр II</ln>
 
+<!-- EN: Neinzul Youngling Tiger Mark III -->
 <ln id="YounglingTigerIII_Full">Тигр Юнлингов Neinzul'ов Модель III</ln>
+<!-- EN: Yng Tiger III -->
 <ln id="YounglingTigerIII_Short">Юнг Тигр III</ln>
 
+<!-- EN: Neinzul Youngling Tiger Mark IV -->
 <ln id="YounglingTigerIV_Full">Тигр Юнлингов Neinzul'ов Модель IV</ln>
+<!-- EN: Yng Tiger IV -->
 <ln id="YounglingTigerIV_Short">Юнг Тигр IV</ln>
 
+<!-- EN: Neinzul Youngling Tiger Mark V -->
 <ln id="CoreYounglingTiger_Full">Тигр Юнлингов Neinzul'ов Модель V</ln>
+<!-- EN: Yng Tiger V -->
 <ln id="CoreYounglingTiger_Short">Юнг Тигр V</ln>
 
+<!-- EN: Neinzul Roaming Enclave Tiger -->
 <ln id="NeinzulRoamingEnclaveAIAllyTiger_Full">Тигр Скитающихся Анклавов Neinzul'ов</ln>
+<!-- EN: R. Tiger -->
 <ln id="NeinzulRoamingEnclaveAIAllyTiger_Short">С. Тигр</ln>
+<!-- EN: Neinzul Roaming Enclave Tiger -->
 <ln id="NeinzulRoamingEnclaveHumanAllyTiger_Full">Тигр Скитающихся Анклавов Neinzul'ов</ln>
+<!-- EN: R. Tiger -->
 <ln id="NeinzulRoamingEnclaveHumanAllyTiger_Short">С. Тигр</ln>
+<!-- EN: Neinzul Roaming Enclave Tiger -->
 <ln id="NeinzulRoamingEnclaveEnemyToAllTiger_Full">Тигр Скитающихся Анклавов Neinzul'ов</ln>
+<!-- EN: R. Tiger -->
 <ln id="NeinzulRoamingEnclaveEnemyToAllTiger_Short">С. Тигр</ln>
+<!-- EN: R. Tigers -->
 <ln id="NeinzulRoamingEnclaveAIAllyTiger_Wave">С. Тигр</ln>
+<!-- EN: The heavily-armored Neinzul version of a tank, with huge amounts of armor and firepower, but the lowest lifespan of any Neinzul ship.
+
+Youngling ships are all exceedingly inexpensive and fast, with a very short life span (health automatically drains when not in transports or other forms of storage).
+
+This particular Tiger is controlled by a Neinzul Roaming Enclave. -->
 <ln id="NeinzulRoamingEnclaveAIAllyTiger_Desc">Тяжеловооружённая версия танка Neinzul'ов, с большим количеством брони и огненной мощи, но с меньшей скоростью, чем у других юнлингов.
 
 Корабли юнлингов очень дешёвые и быстрые, с короткой продолжительностью жизни(жизнь автоматически снижается, когда находится вне Транспорта или другой формы хранения).
 
 Этот конкретный Тигр контролируется Скитающимися Анклавами Neinzul'ов.</ln>
 
+<!-- EN: Neinzul Enclave Starship -->
 <ln id="NeinzulEnclaveStarship_Full">Звездолёт Анклава Neinzul'ов</ln>
+<!-- EN: Star:Enclave I -->
 <ln id="NeinzulEnclaveStarship_Short">Звзд:Анклав I</ln>
+<!-- EN: Starships -->
 <ln id="NeinzulEnclaveStarship_Wave">Звездолёты</ln>
+<!-- EN: Periodically while enemies are present, this ship produces a group of special short-lived "drone" attack ships. -->
 <ln id="NeinzulEnclaveStarship_Desc">При наличии врагов, этот корабль периодически производит группу специальных недолгоживущих атакующих "дронов".</ln>
 
+<!-- EN: Neinzul Enclave Starship Mark II -->
 <ln id="NeinzulEnclaveStarshipII_Full">Звездолёт Анклава Neinzul'ов Модель II</ln>
+<!-- EN: Star:Enclave II -->
 <ln id="NeinzulEnclaveStarshipII_Short">Звзд:Анклав II</ln>
+<!-- EN: Starships -->
 <ln id="NeinzulEnclaveStarshipII_Wave">Звездолёты</ln>
+<!-- EN: Periodically while enemies are present, this ship produces a group of special short-lived "drone" attack ships. -->
 <ln id="NeinzulEnclaveStarshipII_Desc">При наличии врагов, этот корабль периодически производит группу специальных недолгоживущих атакующих "дронов".</ln>
 
+<!-- EN: Neinzul Enclave Starship Mark III -->
 <ln id="NeinzulEnclaveStarshipIII_Full">Звездолёт Анклава Neinzul'ов Модель III</ln>
+<!-- EN: Star:Enclave III -->
 <ln id="NeinzulEnclaveStarshipIII_Short">Звзд:Анклав III</ln>
+<!-- EN: Starships -->
 <ln id="NeinzulEnclaveStarshipIII_Wave">Звездолёты</ln>
+<!-- EN: Periodically while enemies are present, this ship produces a group of special short-lived "drone" attack ships. -->
 <ln id="NeinzulEnclaveStarshipIII_Desc">При наличии врагов, этот корабль периодически производит группу специальных недолгоживущих атакующих "дронов".</ln>
 
+<!-- EN: Neinzul Enclave Starship Mark IV -->
 <ln id="NeinzulEnclaveStarshipIV_Full">Звездолёт Анклава Neinzul'ов Модель IV</ln>
+<!-- EN: Star:Enclave IV -->
 <ln id="NeinzulEnclaveStarshipIV_Short">Звзд:Анклав IV</ln>
+<!-- EN: Starships -->
 <ln id="NeinzulEnclaveStarshipIV_Wave">Звездолёты</ln>
+<!-- EN: Periodically while enemies are present, this ship produces a group of special short-lived "drone" attack ships. -->
 <ln id="NeinzulEnclaveStarshipIV_Desc">При наличии врагов, этот корабль периодически производит группу специальных недолгоживущих атакующих "дронов".</ln>
 
+<!-- EN: Mercenary Neinzul Enclave Starship -->
 <ln id="MercenaryNeinzulEnclaveStarship_Full">Наёмный Звездолёт Анклава Neinzul'ов</ln>
+<!-- EN: Star:Merc Enclave -->
 <ln id="MercenaryNeinzulEnclaveStarship_Short">Звзд:Наём Анклав</ln>
+<!-- EN: Starships -->
 <ln id="MercenaryNeinzulEnclaveStarship_Wave">Звездолёты</ln>
+<!-- EN: Identical to the Neinzul Enclave Starship Mark IV, except 10x more expensive and a smaller ship cap.
+
+Periodically while enemies are present, this ship produces a group of special short-lived "drone" attack ships. -->
 <ln id="MercenaryNeinzulEnclaveStarship_Desc">Идентичен Звездолёту Анклава Neinzul'ов Модели IV, кроме 10X стоимости и большему ограничению по количеству.
 
 При наличии врагов, этот корабль периодически производит группу специальных недолгоживущих атакующих "дронов".</ln>
 
+<!-- EN: Neinzul Preservation Warden -->
 <ln id="NeinzulPreservationWarden_Full">Заповедный Страж Neinzul'ов</ln>
+<!-- EN: Warden -->
 <ln id="NeinzulPreservationWarden_Short">Страж</ln>
+<!-- EN: Large starship of the Preservation Warden Enclave.
+
+The Wardens are enthralled by ancestral memories of the great beauty of the celestial realm with its many stars and planets.  They are horrified by rapid resource extraction and the use of nuclear weapons, and will use force against offenders. -->
 <ln id="NeinzulPreservationWarden_Desc">Большой звездолёт Анклава Заповедных Стражей.
 
 Стражи в восторге от великой красотs небесного свода с его многообразием звёзд и планет. Они в ужасе от быстрого извлечения ресурсов и применения ядерного оружия, и будут использовать силу против преступников.</ln>
 
+<!-- EN: Neinzul Roaming Enclave -->
 <ln id="NeinzulRoamingEnclaveAIAlly_Full">Анклав Скитальцев Neinzul'ов</ln>
+<!-- EN: R. Enclave -->
 <ln id="NeinzulRoamingEnclaveAIAlly_Short">С. Анклав</ln>
+<!-- EN: Neinzul Roaming Enclave -->
 <ln id="NeinzulRoamingEnclaveHumanAlly_Full">Анклав Скитальцев Neinzul'ов</ln>
+<!-- EN: R. Enclave -->
 <ln id="NeinzulRoamingEnclaveHumanAlly_Short">С. Анклав</ln>
+<!-- EN: Neinzul Roaming Enclave -->
 <ln id="NeinzulRoamingEnclaveEnemyToAll_Full">Анклав Скитальцев Neinzul'ов</ln>
+<!-- EN: R. Enclave -->
 <ln id="NeinzulRoamingEnclaveEnemyToAll_Short">С. Анклав</ln>
+<!-- EN: One of many independent Enclave Starships.
+
+Various individual enclaves occasionally wander through this part of the galaxy, some acting as an ally to the AI, some acting as an ally to you, and some attacking everything in sight. -->
 <ln id="NeinzulRoamingEnclaveAIAlly_Desc">Один из многих независимых Звездолётов Анклава.
 
 Различные отдельные анклавы бродят по этой части галактики, иногда вступая в союз с ИИ, иногда присоединяясь к Вам, а иногда атакуют всё в поле зрения.</ln>
+<!-- EN: One of many independent Enclave Starships.
+
+Various individual enclaves occasionally wander through this part of the galaxy, some acting as an ally to the AI, some acting as an ally to you, and some attacking everything in sight.  This one is acting as your ally. -->
 <ln id="NeinzulRoamingEnclaveHumanAlly_Desc">Один из многих независимых Звездолётов Анклава.
 
 Различные отдельные анклавы бродят по этой части галактики, иногда вступая в союз с ИИ, иногда присоединяясь к Вам, а иногда атакуют всё в поле зрения.</ln>
 
+<!-- EN: Neinzul Regeneration Chamber -->
 <ln id="NeinzulRegenerationChamber_Full">Камера Регенерации Neinzul'ов</ln>
+<!-- EN: Regen Chamber -->
 <ln id="NeinzulRegenerationChamber_Short">Камера Регена</ln>
+<!-- EN: Stationary structure with the capacity to contain 500 Neinzul Youngling ships inside itself.  The player cannot manually load the regeneration chamber, but Neinzul Younglings will automatically seek shelter inside the Regeneration Chamber when their health drops below 30% if they have no other orders.
+
+While inside, Neinzul ships are regenerated at 10x the inverse of their normal self-attrition rate, and then are automatically ejected when their health is fully restored. -->
 <ln id="NeinzulRegenerationChamber_Desc">Неподвижное строение, способное содержать внутри себя до 500 Юнлингов Neinzul'ов. Игрок не может заполнить его вручную, но Юнлинги Neinzul'ов будут автоматически искать в нём убежище, когда их здоровье опустится ниже 30%, если у них нет других приказов.
 
 Находясь внутри, корабли Neinzul'ов регенерируются с 10X скоростью их обычного самоуничтожения, и автоматически выходят, когда их здоровье полностью восстанавливается.</ln>
 
+<!-- EN: Neinzul Youngling Vulture -->
 <ln id="YounglingVulture_Full">Стервятник Юнлингов Neinzul'ов</ln>
+<!-- EN: Yng Vulture I -->
 <ln id="YounglingVulture_Short">Юнг Стервятник I</ln>
+<!-- EN: Neinzul Youngling Vultures -->
 <ln id="YounglingVulture_Wave">Стервятники Юнлингов Neinzul'ов</ln>
+<!-- EN: This low-powered ship's damage increases against targets that have already taken damage.  Against a target with 90% or higher health it does 10*base damage.  Against more heavily damaged targets the damage keeps going up until the maximum of 90*base damage against targets with 10% or lower health.
+
+Youngling ships are all exceedingly inexpensive and fast, with a very short life span (health automatically drains when not in transports or other forms of storage). -->
 <ln id="YounglingVulture_Desc">Этот маломощный корабль увеличивает урон по кораблям, которые уже получили повреждения. Против целей с 90% или большим здоровьем наносит 10X урон. Более сильно повреждённым целям повреждения начнут увеличиваться вплоть до уровня 90X от базового по целям с 10% здоровья или меньше.
 
 Корабли юнлингов очень дешёвые и быстрые, с короткой продолжительностью жизни(жизнь автоматически снижается, когда находится вне Транспорта или другой формы хранения).</ln>
 
+<!-- EN: Neinzul Youngling Vulture Mark II -->
 <ln id="YounglingVultureII_Full">Стервятник Юнлингов Neinzul'ов Модель II</ln>
+<!-- EN: Yng Vulture II -->
 <ln id="YounglingVultureII_Short">Юнг Стервятник II</ln>
 
+<!-- EN: Neinzul Youngling Vulture Mark III -->
 <ln id="YounglingVultureIII_Full">Стервятник Юнлингов Neinzul'ов Модель III</ln>
+<!-- EN: Yng Vulture III -->
 <ln id="YounglingVultureIII_Short">Юнг Стервятник III</ln>
 
+<!-- EN: Neinzul Youngling Vulture Mark IV -->
 <ln id="YounglingVultureIV_Full">Стервятник Юнлингов Neinzul'ов Модель IV</ln>
+<!-- EN: Yng Vulture IV -->
 <ln id="YounglingVultureIV_Short">Юнг Стервятник IV</ln>
 
+<!-- EN: Neinzul Youngling Vulture Mark V -->
 <ln id="CoreYounglingVulture_Full">Стервятник Юнлингов Neinzul'ов Модель V</ln>
+<!-- EN: Yng Vulture V -->
 <ln id="CoreYounglingVulture_Short">Юнг Стервятник V</ln>
 
+<!-- EN: Neinzul Roaming Enclave Vulture -->
 <ln id="NeinzulRoamingEnclaveAIAllyVulture_Full">Стервятник Скитающихся Анклавов Neinzul'ов</ln>
+<!-- EN: R. Vulture -->
 <ln id="NeinzulRoamingEnclaveAIAllyVulture_Short">С. Стервятник</ln>
+<!-- EN: Neinzul Roaming Enclave Vulture -->
 <ln id="NeinzulRoamingEnclaveHumanAllyVulture_Full">Стервятник Скитающихся Анклавов Neinzul'ов</ln>
+<!-- EN: R. Vulture -->
 <ln id="NeinzulRoamingEnclaveHumanAllyVulture_Short">С. Стервятник</ln>
+<!-- EN: Neinzul Roaming Enclave Vulture -->
 <ln id="NeinzulRoamingEnclaveEnemyToAllVulture_Full">Стервятник Скитающихся Анклавов Neinzul'ов</ln>
+<!-- EN: R. Vulture -->
 <ln id="NeinzulRoamingEnclaveEnemyToAllVulture_Short">С. Стервятник</ln>
+<!-- EN: R. Vultures -->
 <ln id="NeinzulRoamingEnclaveAIAllyVulture_Wave">С. Стервятники</ln>
+<!-- EN: This low-powered ship does damage equal to (full damage * ( (101 - target health percentage) * 10 ) ).  This makes it very effective at finishing off high-health targets when mixed into a regular fleet, but it's barely able to hurt enemy ships that aren't wounded.
+
+Youngling ships are all exceedingly inexpensive and fast, with a very short life span (health automatically drains when not in transports or other forms of storage).
+
+This particular Vulture is controlled by a Neinzul Roaming Enclave. -->
 <ln id="NeinzulRoamingEnclaveAIAllyVulture_Desc">Этот маломощный корабль наносит урон, равный (обычн. урон * ( (101 - процент_здоровья_цели) * 10 ) ). Это делает его эффективным в том, чтобы прикончить цель с большим здоровьем, при использовании в обычном флоте, но он едва ли может ранить почти неповреждённые корабли.
 
 Корабли юнлингов очень дешёвые и быстрые, с короткой продолжительностью жизни(жизнь автоматически снижается, когда находится вне Транспорта или другой формы хранения).
 
 Этот конкретный Стервятник контролируется Скитающимися Анклавами Neinzul'ов.</ln>
 
+<!-- EN: Neinzul Youngling Weasel -->
 <ln id="YounglingWeasel_Full">Куница Юнлингов Neinzul'ов</ln>
+<!-- EN: Yng Weasel I -->
 <ln id="YounglingWeasel_Short">Юнг Куница I</ln>
+<!-- EN: Neinzul Youngling Weasels -->
 <ln id="YounglingWeasel_Wave">Куницы Юнлингов Neinzul'ов</ln>
+<!-- EN: This inexpensive, low-powered ship attracts all incoming missiles to itself from the nearby area (note: when a weasel dies, some nearby allies may become temporarily vulnerable to missile lock, and a missile locked onto a target will hit it).
+
+Youngling ships are all exceedingly inexpensive and fast, with a very short life span (health automatically drains when not in transports or other forms of storage). -->
 <ln id="YounglingWeasel_Desc">Этот недорогой, маломощный корабль притягивает все ракеты на себя из ближайшей области (прим.: при уничтожении Куницы, некоторые ближайшие союзники могут стать временно уязвимыми к ракетному прицеливанию, и ракеты, нацеленные на другие цели, ударят их).
 
 Корабли юнлингов очень дешёвые и быстрые, с короткой продолжительностью жизни(жизнь автоматически снижается, когда находится вне Транспорта или другой формы хранения).</ln>
 
+<!-- EN: Neinzul Youngling Weasel Mark II -->
 <ln id="YounglingWeaselII_Full">Куница Юнлингов Neinzul'ов Модель II</ln>
+<!-- EN: Yng Weasel II -->
 <ln id="YounglingWeaselII_Short">Юнг Куница II</ln>
 
+<!-- EN: Neinzul Youngling Weasel Mark III -->
 <ln id="YounglingWeaselIII_Full">Куница Юнлингов Neinzul'ов Модель III</ln>
+<!-- EN: Yng Weasel III -->
 <ln id="YounglingWeaselIII_Short">Юнг Куница III</ln>
 
+<!-- EN: Neinzul Youngling Weasel Mark IV -->
 <ln id="YounglingWeaselIV_Full">Куница Юнлингов Neinzul'ов Модель IV</ln>
+<!-- EN: Yng Weasel IV -->
 <ln id="YounglingWeaselIV_Short">Юнг Куница IV</ln>
 
+<!-- EN: Neinzul Youngling Weasel Mark V -->
 <ln id="CoreYounglingWeasel_Full">Куница Юнлингов Neinzul'ов Модель V</ln>
+<!-- EN: Yng Weasel V -->
 <ln id="CoreYounglingWeasel_Short">Юнг Куница V</ln>
 
+<!-- EN: Neinzul Youngling Nanoswarm -->
 <ln id="YounglingNanoswarm_Full">Нанорой Юнлингов Neinzul'ов</ln>
+<!-- EN: Yng Nanoswarm I -->
 <ln id="YounglingNanoswarm_Short">Юнг Нанорой I</ln>
+<!-- EN: Neinzul Youngling Nanoswarms -->
 <ln id="YounglingNanoswarm_Wave">Нанорои Юнлингов Neinzul'ов</ln>
+<!-- EN: Actually composed of billions of microscopic organisms, this "ship" has no conventional weapons and attacks by ramming targets and exploding.  This explosion damages the target and some nearby ships, paralyzing them briefly and causing armor and engine damage.  Also does reclamation damage (more to targets of a lower mark, and vice versa).  An enemy ship with reclamation damage equal to or greater than half its max health will be reclaimed when destroyed.  The newly-reclaimed ship will have health = total reclamation damage it had taken.
+
+If a ship dies with some reclamation damage but not enough to reclaim it, those "reclamation nanites" will "hop" to a nearby eligible target if one is available.
+
+Youngling ships are all exceedingly inexpensive and fast, with a very short life span (health automatically drains when not in transports or other forms of storage). -->
 <ln id="YounglingNanoswarm_Desc">На самом деле создаёт миллиарды микроскопических организмов; этот "корабль" не имеет обычного вооружения и атакует тараном по цели и взрываясь. Этот взрыв ранит цель и соседние корабли, кратковременно парализуя их и нанося урон броне и двигателю. Также наносит переманивающий урон (больше, целям низкой модели и наоборот). Вражеский корабль, получивший переманивающий урон равный или больший его половины здоровья, будет переманен при уничтожении. Свежепереманенные корабли будут иметь здоровье равное полученному переманивающему урону.
 
 Если корабли гибнут с полученным переманивающим уроном, но недостаточным для переманивания, то эти "переманенные наниты" "переключатся" на ближайшую доступную цель.
 
 Корабли юнлингов очень дешёвые и быстрые, с короткой продолжительностью жизни(жизнь автоматически снижается, когда находится вне Транспорта или другой формы хранения).</ln>
 
+<!-- EN: Neinzul Youngling Nanoswarm Mark II -->
 <ln id="YounglingNanoswarmII_Full">Нанорой Юнлингов Neinzul'ов Модель II</ln>
+<!-- EN: Yng Nanoswarm II -->
 <ln id="YounglingNanoswarmII_Short">Юнг Нанорой II</ln>
 
+<!-- EN: Neinzul Youngling Nanoswarm Mark III -->
 <ln id="YounglingNanoswarmIII_Full">Нанорой Юнлингов Neinzul'ов Модель III</ln>
+<!-- EN: Yng Nanoswarm III -->
 <ln id="YounglingNanoswarmIII_Short">Юнг Нанорой III</ln>
 
+<!-- EN: Neinzul Youngling Nanoswarm Mark IV -->
 <ln id="YounglingNanoswarmIV_Full">Нанорой Юнлингов Neinzul'ов Модель IV</ln>
+<!-- EN: Yng Nanoswarm IV -->
 <ln id="YounglingNanoswarmIV_Short">Юнг Нанорой IV</ln>
 
+<!-- EN: Neinzul Youngling Nanoswarm Mark V -->
 <ln id="CoreYounglingNanoswarm_Full">Нанорой Юнлингов Neinzul'ов Модель V</ln>
+<!-- EN: Yng Nanoswarm V -->
 <ln id="CoreYounglingNanoswarm_Short">Юнг Нанорой V</ln>
 
+<!-- EN: Neinzul Roaming Enclave Weasel -->
 <ln id="NeinzulRoamingEnclaveAIAllyWeasel_Full">Куница Скитающихся Анклавов Neinzul'ов</ln>
+<!-- EN: R. Weasel -->
 <ln id="NeinzulRoamingEnclaveAIAllyWeasel_Short">R. Куница</ln>
+<!-- EN: Neinzul Roaming Enclave Weasel -->
 <ln id="NeinzulRoamingEnclaveHumanAllyWeasel_Full">Куница Скитающихся Анклавов Neinzul'ов</ln>
+<!-- EN: R. Weasel -->
 <ln id="NeinzulRoamingEnclaveHumanAllyWeasel_Short">R. Куница</ln>
+<!-- EN: Neinzul Roaming Enclave Weasel -->
 <ln id="NeinzulRoamingEnclaveEnemyToAllWeasel_Full">Куница Скитающихся Анклавов Neinzul'ов</ln>
+<!-- EN: R. Weasel -->
 <ln id="NeinzulRoamingEnclaveEnemyToAllWeasel_Short">R. Куница</ln>
+<!-- EN: R. Weasels -->
 <ln id="NeinzulRoamingEnclaveAIAllyWeasel_Wave">R. Куницы</ln>
+<!-- EN: This inexpensive, low-powered ship attracts all incoming missiles to itself from the nearby area (note: when a weasel dies, some nearby allies may become temporarily vulnerable to missile lock, and a missile locked onto a target will hit it).
+
+Youngling ships are all exceedingly inexpensive and fast, with a very short life span (health automatically drains when not in transports or other forms of storage).
+
+This particular Weasel is controlled by a Neinzul Roaming Enclave. -->
 <ln id="NeinzulRoamingEnclaveAIAllyWeasel_Desc">Этот недорогой, маломощный корабль притягивает все ракеты на себя из ближайше области (прим.: при уничтожении Куницы, некоторые ближайшие союзники могут стать временно уязвимыми к ракетному прицеливанию, и ракеты, нацеленные на другие цели, ударят их).
 
 Корабли юнлингов очень дешёвые и быстрые, с короткой продолжительностью жизни(жизнь автоматически снижается, когда находится вне Транспорта или другой формы хранения).
 
 Эта конкретная Куница контролируется Скитающимися Анклавами Neinzul'ов.</ln>
 
+<!-- EN: Neinzul Nest -->
 <ln id="NeinzulNest_Full">Гнездо Neinzul'ов</ln>
+<!-- EN: N. Nest -->
 <ln id="NeinzulNest_Short">Гнездо N.</ln>
+<!-- EN: Immobile spawning beds for Neinzul Younglings.  Destroying an AI ship on its planet or an adjacent planet will anger the nest and release the ships within it to attack you.  Controlling an adjacent planet (or the planet itself) will also anger the nest. -->
 <ln id="NeinzulNest_Desc">Неподвижный спаунер для Юнлингов Neinzul'ов. Уничтожение корабля ИИ на его планете или соседней планете разозлит гнездо и высвободит корабли из него, чтобы атаковать Вас. Взятие под контроль соседней планеты (или самой планеты) также разозлит гнездо.</ln>
 
+<!-- EN: Neinzul Nest Mark II -->
 <ln id="NeinzulNestII_Full">Гнездо Neinzul'ов Модель II</ln>
+<!-- EN: N. Nest II -->
 <ln id="NeinzulNestII_Short">Гнездо N. II</ln>
 
+<!-- EN: Neinzul Nest Mark III -->
 <ln id="NeinzulNestIII_Full">Гнездо Neinzul'ов Модель III</ln>
+<!-- EN: N. Nest III -->
 <ln id="NeinzulNestIII_Short">Гнездо N. III</ln>
 
+<!-- EN: Neinzul Nest Mark IV -->
 <ln id="NeinzulNestIV_Full">Гнездо Neinzul'ов Модель IV</ln>
+<!-- EN: N. Nest IV -->
 <ln id="NeinzulNestIV_Short">Гнездо N. IV</ln>
 
+<!-- EN: Neinzul Nest Mark V -->
 <ln id="NeinzulNestV_Full">Гнездо Neinzul'ов Модель V</ln>
+<!-- EN: N. Nest V -->
 <ln id="NeinzulNestV_Short">Гнездо N. V</ln>
 
+<!-- EN: Neinzul Cluster -->
 <ln id="NeinzulCluster_Full">Кластер Neinzul'ов</ln>
+<!-- EN: N. Cluster -->
 <ln id="NeinzulCluster_Short">Кластер N.</ln>
+<!-- EN: Immobile defensive weapon invented by the Neinzul. At long range, it fires heavily-damaging single shots. It also produces and stores up Neinzul ships over time.  When player ships attack them or get too close, these ships burst out and attack. -->
 <ln id="NeinzulCluster_Desc">Неподвижное оборонительное оружие, изобретённое Neinzul'ами. Дальнобойное, оно стреляет сильными одиночными снарядами. Также производит и хранит в течение долгого времени корабли Neinzul'ов. Когда корабли игрока атакуют его или проходят слишком близко, внутренние корабли злятся и нападают.</ln>
 
+<!-- EN: Neinzul Cluster Mark II -->
 <ln id="NeinzulClusterII_Full">Кластер Neinzul'ов Модель II</ln>
+<!-- EN: N. Cluster II -->
 <ln id="NeinzulClusterII_Short">Кластер N. II</ln>
 
+<!-- EN: Neinzul Cluster Mark III -->
 <ln id="NeinzulClusterIII_Full">Кластер Neinzul'ов Модель III</ln>
+<!-- EN: N. Cluster III -->
 <ln id="NeinzulClusterIII_Short">Кластер N. III</ln>
 
+<!-- EN: Neinzul Cluster Mark IV -->
 <ln id="NeinzulClusterIV_Full">Кластер Neinzul'ов Модель IV</ln>
+<!-- EN: N. Cluster IV -->
 <ln id="NeinzulClusterIV_Short">Кластер N. IV</ln>
 
+<!-- EN: Neinzul Cluster Mark V -->
 <ln id="NeinzulClusterV_Full">Кластер Neinzul'ов Модель V</ln>
+<!-- EN: N. Cluster V -->
 <ln id="NeinzulClusterV_Short">Кластер N. V</ln>
 
+<!-- EN: Neinzul Privacy Cluster -->
 <ln id="NeinzulPrivacyCluster_Full">Приватный Кластер Neinzul'ов</ln>
+<!-- EN: N. P. Cluster -->
 <ln id="NeinzulPrivacyCluster_Short">П. Кластер N.</ln>
+<!-- EN: Immobile defensive weapon invented by the Neinzul. At long range, it fires heavily-damaging single shots. It also produces and stores up Neinzul ships over time.  When player ships attack them or get too close, these ships burst out and attack.
+
+This is a rare variant that is antagonized even by the presence of a mere scout. -->
 <ln id="NeinzulPrivacyCluster_Desc">Неподвижное защитное оружие, созданное Neinzul'ами. На дальних дистанциях стреляет сильными одиночными снарядами. Также создаёт и хранит корабли Neinzul'ов время от времени. Когда корабли игрока атакуют его или проходят слишком близко, этот корабль злится и нападает.
 
 Это редкий вариант, который злится даже в присутствии простого Разведчика.</ln>
 
+<!-- EN: Neinzul Bomber Cluster -->
 <ln id="NeinzulBomberCluster_Full">Кластер Бомберов Neinzul'ов</ln>
+<!-- EN: N. Bomber Cluster -->
 <ln id="NeinzulBomberCluster_Short">Кластер N. Бомберов</ln>
+<!-- EN: Immobile defensive weapon invented by the Neinzul. At long range, it fires heavily-damaging single shots. It also produces and stores up Neinzul Bombers over time.  When player ships attack them or get too close, these ships burst out and attack. -->
 <ln id="NeinzulBomberCluster_Desc">Неподвижное оборонительное оружие, изобретённое Neinzul'ами. Дальнобойное, оно стреляет сильными одиночными снарядами. Также производит и хранит в течение долгого времени Бомберов Neinzul'ов. Когда корабли игрока атакуют его или проходят слишком близко, эти корабли злятся и нападают.</ln>
 
+<!-- EN: Neinzul Bomber Cluster Mark II -->
 <ln id="NeinzulBomberClusterII_Full">Кластер Бомберов Neinzul'ов Модель II</ln>
+<!-- EN: N. Bomber Cluster II -->
 <ln id="NeinzulBomberClusterII_Short">Кластер N. Бомберов II</ln>
 
+<!-- EN: Neinzul Bomber Cluster Mark III -->
 <ln id="NeinzulBomberClusterIII_Full">Кластер Бомберов Neinzul'ов Модель III</ln>
+<!-- EN: N. Bomber Cluster III -->
 <ln id="NeinzulBomberClusterIII_Short">Кластер N. Бомберов III</ln>
 
+<!-- EN: Neinzul Bomber Cluster Mark IV -->
 <ln id="NeinzulBomberClusterIV_Full">Кластер Бомберов Neinzul'ов Модель IV</ln>
+<!-- EN: N. Bomber Cluster IV -->
 <ln id="NeinzulBomberClusterIV_Short">Кластер N. Бомберов IV</ln>
 
+<!-- EN: Neinzul Bomber Cluster Mark V -->
 <ln id="NeinzulBomberClusterV_Full">Кластер Бомберов Neinzul'ов Модель V</ln>
+<!-- EN: N. Bomber Cluster V -->
 <ln id="NeinzulBomberClusterV_Short">Кластер N. Бомберов V</ln>
 
+<!-- EN: Neinzul Viral Cluster -->
 <ln id="NeinzulViralCluster_Full">Вирусный Кластер Neinzul'ов</ln>
+<!-- EN: N. Viral Cluster -->
 <ln id="NeinzulViralCluster_Short">Вирусный N. Кластер</ln>
+<!-- EN: Immobile defensive weapon invented by the Neinzul. At long range, it fires heavily-damaging single shots. It also produces and stores up Neinzul Viral Swarmers over time.  When player ships attack them or get too close, these ships burst out and attack. -->
 <ln id="NeinzulViralCluster_Desc">Неподвижное оборонительное оружие, изобретённое Neinzul'ами. Дальнобойное, оно стреляет сильными одиночными снарядами. Также производит и хранит в течение долгого времени Вирусных Паразитов Neinzul'ов. Когда корабли игрока атакуют его или проходят слишком близко, эти корабли злятся и нападают.</ln>
 
+<!-- EN: Neinzul Viral Cluster Mark II -->
 <ln id="NeinzulViralClusterII_Full">Вирусный Кластер Neinzul'ов Модель II</ln>
+<!-- EN: N. Viral Cluster II -->
 <ln id="NeinzulViralClusterII_Short">Вирусный N. Кластер II</ln>
 
+<!-- EN: Neinzul Viral Cluster Mark III -->
 <ln id="NeinzulViralClusterIII_Full">Вирусный Кластер Neinzul'ов Модель III</ln>
+<!-- EN: N. Viral Cluster III -->
 <ln id="NeinzulViralClusterIII_Short">Вирусный N. Кластер III</ln>
 
+<!-- EN: Neinzul Viral Cluster Mark IV -->
 <ln id="NeinzulViralClusterIV_Full">Вирусный Кластер Neinzul'ов Модель IV</ln>
+<!-- EN: N. Viral Cluster IV -->
 <ln id="NeinzulViralClusterIV_Short">Вирусный N. Кластер IV</ln>
 
+<!-- EN: Neinzul Viral Cluster Mark V -->
 <ln id="NeinzulViralClusterV_Full">Вирусный Кластер Neinzul'ов Модель V</ln>
+<!-- EN: N. Viral Cluster V -->
 <ln id="NeinzulViralClusterV_Short">Вирусный N. Кластер V</ln>
 
+<!-- EN: Neinzul Bomber -->
 <ln id="NeinzulBomber_Full">Бомбер Neinzul'ов</ln>
+<!-- EN: N. Bomber -->
 <ln id="NeinzulBomber_Short">Бомбер N.</ln>
+<!-- EN: Tiny bombers that move incredibly fast and are effective in large groups. Not immune to tractor beams, but tend to overwhelm them by sheer numbers. -->
 <ln id="NeinzulBomber_Desc">Крошечные бомбардировщики, двигающиеся невероятно быстро и эффективны в больших группах. Не застрахованы от тяговых лучей, имеют тенденцию подавлять их большим числом.</ln>
 
+<!-- EN: Neinzul Preservation Bomber -->
 <ln id="NeinzulPreservationBomber_Full">Заповедный Бомбер Neinzul'ов</ln>
+<!-- EN: N. P. Bomber -->
 <ln id="NeinzulPreservationBomber_Short">З. Бомбер N.</ln>
+<!-- EN: Tiny bombers that move incredibly fast and are effective in large groups. Not immune to tractor beams, but tend to overwhelm them by sheer numbers.
+
+This particular Bomber is controlled by a Neinzul Preservation Warden. -->
 <ln id="NeinzulPreservationBomber_Desc">Крошечные бомбардировщики, двигающиеся невероятно быстро и эффективны в больших группах. Не застрахованы от тяговых лучей, имеют тенденцию подавлять их большим числом.
 
 Этот конкретный Бомбер контролируется Заповедными Стражами Neinzul'ов.</ln>
 
+<!-- EN: Neinzul Viral Swarmer -->
 <ln id="NeinzulViralSwarmer_Full">Вирусный Паразит Neinzul'ов</ln>
+<!-- EN: N. Viral Swarmer -->
 <ln id="NeinzulViralSwarmer_Short">Вирусный Паразит N.</ln>
+<!-- EN: Tiny ships with low health and very low attack power, and lose health over time in the same manner as other Youngling ships. However, they are able to self-replicate, and they also absorb lightning, nukes, and EMPs. -->
 <ln id="NeinzulViralSwarmer_Desc">Крошечные корабли с малым уровнем здоровья и низкой атакующей силой, теряющие со временем здоровья так же, как и остальные корабли Юнлингов. Тем не менее, они способны к самовоссозданию, а также поглощают молнии, ядерный урон и урон от ЭМИ.</ln>
 
+<!-- EN: Neinzul Silo -->
 <ln id="NeinzulSilo_Full">Шахта Neinzul'ов</ln>
+<!-- EN: N. Silo -->
 <ln id="NeinzulSilo_Short">Шахта N.</ln>
+<!-- EN: This is an imitation of the ancient Neinzul Rocketry Corps Silos, but has been recently constructed by an AI-Neinzul Hybrid Hive.
+Unlike the Rocketry Corps silos, this silo is not invulnerable.
+
+As long as this silo exists, it generates lightning or EMP warheads every quarter hour and sends them to human planets.
+These warheads do not cause any AI Progress upon detonation.
+Also, while the warheads only target human planets, they affect both human and AI ships when they detonate. -->
 <ln id="NeinzulSilo_Desc">Это имитация древней Шахты Ракетного Корпуса Neinzul'ов, но была недавно построена Гибридными Ульями Neinzul'ов - ИИ.
 В отличие от Шахт Ракетных Корпусов, эта шахта не неуязвима.
 
@@ -375,78 +672,131 @@
 Эти боеголовки не повышают Прогресс ИИ при детонации.
 Также, попадая на планеты людей, они влияют на корабли как людей, так и ИИ при детонации.</ln>
 
+<!-- EN: Neinzul Silo Mark II -->
 <ln id="NeinzulSiloII_Full">Шахта Neinzul'ов Модель II</ln>
+<!-- EN: N. Silo II -->
 <ln id="NeinzulSiloII_Short">Шахта N. II</ln>
 
+<!-- EN: Neinzul Silo Mark III -->
 <ln id="NeinzulSiloIII_Full">Шахта Neinzul'ов Модель III</ln>
+<!-- EN: N. Silo III -->
 <ln id="NeinzulSiloIII_Short">Шахта N. III</ln>
 
+<!-- EN: Neinzul Silo Mark IV -->
 <ln id="NeinzulSiloIV_Full">Шахта Neinzul'ов Модель IV</ln>
+<!-- EN: N. Silo IV -->
 <ln id="NeinzulSiloIV_Short">Шахта N. IV</ln>
 
+<!-- EN: Neinzul Silo Mark V -->
 <ln id="NeinzulSiloV_Full">Шахта Neinzul'ов Модель V</ln>
+<!-- EN: N. Silo V -->
 <ln id="NeinzulSiloV_Short">Шахта N. V</ln>
 
+<!-- EN: Neinzul Rocketry Corps Silo -->
 <ln id="NeinzulMinorFactionSilo_Full">Шахта Ракетного Корпуса Neinzul'ов</ln>
+<!-- EN: N. R. C. Silo -->
 <ln id="NeinzulMinorFactionSilo_Short">Шахта Р. К. N.</ln>
+<!-- EN: When the Silo's planet is on alert, it generates lightning or EMP warheads every quarter hour and sends them to nearby human planets. 
+These warheads do not cause any AI Progress upon detonation.
+Also, while the warheads only target human planets, they affect both human and AI ships when they detonate. AI ships don't fire at these warheads, as they know better.
+
+The silo itself has a special form of shielding that makes it completely invulnerable. -->
 <ln id="NeinzulMinorFactionSilo_Desc">Когда на планете срабатывает тревога, он создаёт Молниевые либо ЭМИ боеголовки каждую четверть часа и посылает их на ближайшие планеты людей.
 Эти боеголовки не повышают Прогресс ИИ при детонации.
 Также, попадая на планеты людей, они влияют на корабли как людей, так и ИИ при детонации. Корабли ИИ не стреляют по этим боеголовкам, так как они в курсе.
 
 Эта шахта имеет особую форму защиты, которая делает его полностью неразрушимым.</ln>
 
+<!-- EN: Neinzul Rocketry Corps Silo Mark II -->
 <ln id="NeinzulMinorFactionSiloII_Full">Шахт Ракетного Корпуса Neinzul'ов Модель II</ln>
+<!-- EN: N. R. C. Silo II -->
 <ln id="NeinzulMinorFactionSiloII_Short">Шахта Р. К. N. II</ln>
 
+<!-- EN: Neinzul Rocketry Corps Silo Mark III -->
 <ln id="NeinzulMinorFactionSiloIII_Full">Шахт Ракетного Корпуса Neinzul'ов Модель III</ln>
+<!-- EN: N. R. C. Silo III -->
 <ln id="NeinzulMinorFactionSiloIII_Short">Шахта Р. К. N. III</ln>
 
+<!-- EN: Neinzul Rocketry Corps Silo Mark IV -->
 <ln id="NeinzulMinorFactionSiloIV_Full">Шахт Ракетного Корпуса Neinzul'ов Модель IV</ln>
+<!-- EN: N. R. C. Silo IV -->
 <ln id="NeinzulMinorFactionSiloIV_Short">Шахта Р. К. N. IV</ln>
 
+<!-- EN: Neinzul Rocketry Corps Silo Mark V -->
 <ln id="NeinzulMinorFactionSiloV_Full">Шахт Ракетного Корпуса Neinzul'ов Модель V</ln>
+<!-- EN: N. R. C. Silo V -->
 <ln id="NeinzulMinorFactionSiloV_Short">Шахта Р. К. N. V</ln>
 
+<!-- EN: Defense Construction Module -->
 <ln id="DefenseConstructionModule_Full">Модуль Строительства Защиты</ln>
+<!-- EN: Def CMod I  -->
 <ln id="DefenseConstructionModule_Short">Защ СМод I </ln>
+<!-- EN: A module containing the necessary tools and materials to construct defensive structures. -->
 <ln id="DefenseConstructionModule_Desc">Модуль, содержащий необходимые инструменты и материалы для создания защитных сооружений.</ln>
 
+<!-- EN: Defense Construction Module Mark II -->
 <ln id="DefenseConstructionModuleII_Full">Модуль Строительства Защиты Модель II</ln>
+<!-- EN: Def CMod II -->
 <ln id="DefenseConstructionModuleII_Short">Защ СМод II</ln>
 
+<!-- EN: Defense Construction Module Mark III -->
 <ln id="DefenseConstructionModuleIII_Full">Модуль Строительства Защиты Модель III</ln>
+<!-- EN: Def CMod III -->
 <ln id="DefenseConstructionModuleIII_Short">Защ СМод III</ln>
 
+<!-- EN: Defense Construction Module Mark IV -->
 <ln id="DefenseConstructionModuleIV_Full">Модуль Строительства Защиты Модель IV</ln>
+<!-- EN: Def CMod IV -->
 <ln id="DefenseConstructionModuleIV_Short">Защ СМод IV</ln>
 
+<!-- EN: Facility Construction Module -->
 <ln id="FacilityConstructionModule_Full">Модуль Строительства Сооружений</ln>
+<!-- EN: Fac CMod I  -->
 <ln id="FacilityConstructionModule_Short">Срж СМод I </ln>
+<!-- EN: A module containing the necessary tools and materials to construct facilities for servicing AI Hybrid Hive starships. -->
 <ln id="FacilityConstructionModule_Desc">Модуль, содержащий необходимые инструменты и материалы для создания сооружений для обслуживания Звездолётов Ульев Гибридов ИИ.</ln>
 
+<!-- EN: Facility Construction Module Mark II -->
 <ln id="FacilityConstructionModuleII_Full">Модуль Строительства Сооружений Модель II</ln>
+<!-- EN: Fac CMod II -->
 <ln id="FacilityConstructionModuleII_Short">Срж СМод II</ln>
 
+<!-- EN: Facility Construction Module Mark III -->
 <ln id="FacilityConstructionModuleIII_Full">Модуль Строительства Сооружений Модель III</ln>
+<!-- EN: Fac CMod III -->
 <ln id="FacilityConstructionModuleIII_Short">Срж СМод III</ln>
 
+<!-- EN: Facility Construction Module Mark IV -->
 <ln id="FacilityConstructionModuleIV_Full">Модуль Строительства Сооружений Модель IV</ln>
+<!-- EN: Fac CMod IV -->
 <ln id="FacilityConstructionModuleIV_Short">Срж СМод IV</ln>
 
+<!-- EN: Colonizer Module -->
 <ln id="ColonizerModule_Full">Модуль Колонизатор</ln>
+<!-- EN: Colony Mod -->
 <ln id="ColonizerModule_Short">Мод Колониз</ln>
+<!-- EN: A module containing the necessary tools and materials to construct an Orbital Command Station and Warp Gate. -->
 <ln id="ColonizerModule_Desc">Модуль, содержащий необходимые инструменты и материалы для создания орбитальной Командной Станции и Врат.</ln>
 
+<!-- EN: Strange Construction Module -->
 <ln id="DysonAntagonizerConstructionModule_Full">Странный Модуль Строительства</ln>
+<!-- EN: Strange Mod -->
 <ln id="DysonAntagonizerConstructionModule_Short">Мод Стран</ln>
+<!-- EN: A module containing the necessary tools and materials to construct... something.  We probably don't want to know. -->
 <ln id="DysonAntagonizerConstructionModule_Desc">Модуль, содержащий необходимые инструменты и материалы для создания... чего-то. Мы не хотели бы знать.</ln>
 
+<!-- EN: Dyson Antagonizer -->
 <ln id="DysonAntagonizer_Full">Антагонайзер Дайсона</ln>
+<!-- EN: D Antag -->
 <ln id="DysonAntagonizer_Short">Д Антаг</ln>
+<!-- EN: A strange device constructed by an abnormally powerful Hybrid.  The subspace waves emanating from the device appear to be responsible for the recent erratic signals from the Dyson Sphere. -->
 <ln id="DysonAntagonizer_Desc">Странное устройство, созданное аномально мощными Гибридами. Подпространственный волны, излучаемые устройством, несут ответственность за недавние беспорядочные сигналы от Сферы Дайсона.</ln>
 
+<!-- EN: Dyson Converter -->
 <ln id="DysonConverter_Full">Конвертер Дайсона</ln>
+<!-- EN: D Convert -->
 <ln id="DysonConverter_Short">Д Конверт</ln>
+<!-- EN: A strange device constructed by an abnormally powerful Hybrid.  It is emitting far stronger subspace waves than the previous "antagonizer" device.  The Dyson Sphere appears to be... changing.  Into what, we do not know. -->
 <ln id="DysonConverter_Desc">Странное устройство, созданное аномально мощными Гибридами. Создаёт более сильные подпространственные волны, чем предыдущее устройство - "антагонайзер". Сфера Дайсона будет... изменена. Во что, мы не знаем.</ln>
 
 </root>

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
 
+<!-- EN: Clusters - Simple -->
 <ln id="EXP4_ClustersSimple">Кластеры - Простые</ln>
+<!-- EN: Clusters - Microcosm -->
 <ln id="EXP4_ClustersMicrocosm">Кластеры - Микромиры</ln>
 
 </root>

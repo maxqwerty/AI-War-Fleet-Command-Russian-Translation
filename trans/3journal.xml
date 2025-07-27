@@ -1,8 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
 
+<!-- EN: Subspace Signal -->
 <ln id="Journal_FallenSpire_0_IntialSignalDetected_ShortTitle">Подпространственный Сигнал</ln>
+<!-- EN: We have detected a strange subspace signal on our homeworld $planetName. -->
 <ln id="Journal_FallenSpire_0_IntialSignalDetected_LongTitle">Мы засекли странный Подпространственный Сигнал на нашей Столичной планете $planetName.</ln>
+<!-- EN: 
+From: Dr. Michael Davidson
+Space Telemetry Lab, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+During a recent routine scan for variations in the AI's warp grid, our personnel detected an abnormal subspace signal near our own planet ($planetName).  Further analysis confirmed that we have no record of similar phenomena.
+
+While a survey ship is moderately expensive, we are recommending constructing one to investigate the anomaly in case it may pose a threat to us. -->
 <ln id="Journal_FallenSpire_0_IntialSignalDetected_Text">
 От: Док. Майкл Девидсон
 Телеметрическая Лаборатория, Столичная Станция
@@ -15,8 +28,25 @@
 
 Несмотря на то, что исследовательский корабль обходится дорого, мы рекомендуем построить один, чтобы исследовать аномалию на случай возможной угрозы с её стороны.</ln>
 
+<!-- EN: Another Subspace Signal -->
 <ln id="Journal_FallenSpire_1_FirstShardDetected_ShortTitle">Другой Подпространственный Сигнал</ln>
+<!-- EN: We have detected a strange subspace signal from $planetName. -->
 <ln id="Journal_FallenSpire_1_FirstShardDetected_LongTitle">Мы засекли странный Подпространственный Сигнал на $planetName.</ln>
+<!-- EN: 
+From: Dr. Michael Davidson
+Space Telemetry Lab, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+Thank you for funding the survey operation.
+
+The subspace signal grew more and more unstable, and then disappeared altogether.  Using the collected data to tune their scanners, our survey team has detected a similar signal near $planetName.  This new anomaly appears to be much stronger, but also even more unstable.
+
+We recommend dispatching the survey ship to investigate as quickly as possible.
+
+Scans also show increased AI warp activity in that area.  While this lab cannot issue military recommendations, for the sake of our team I personally request that you carry a very large stick. -->
 <ln id="Journal_FallenSpire_1_FirstShardDetected_Text">
 От: Док. Майкл Девидсон
 Телеметрическая Лаборатория, Столичная Станция
@@ -33,8 +63,16 @@
 
 Сканирование также показало большую активность ИИ в этом регионе. Хотя наша лаборатория не может давать военных рекомендаций, ради нашей команды я лично прошу Вас вооружиться посильнее.</ln>
 
+<!-- EN: Alien Artifact Discovered! -->
 <ln id="Journal_FallenSpire_2_FirstShardSurveyed_ShortTitle">Обнаружен Инопланетный Артефакт!</ln>
+<!-- EN: Our survey team has discovered an alien artifact on $planetName.  We need to recover it quickly. -->
 <ln id="Journal_FallenSpire_2_FirstShardSurveyed_LongTitle">Наша исследовательская команда обнаружила инопланетный артефакт на $planetName. Нам нужно скорее его восстановить.</ln>
+<!-- EN: 
+(Transmission from Survey team)
+
+Commander! Our scanners have discovered the source of the strange subspace signal on $planetName.  It is emanating an enormous amount of power.  We've attached some rudimentary thrusters but can't put anything bigger on it without risking an explosion.  We need you to guide and escort it back to Home Command.
+
+We also need to do this very quickly, AI warp activity just jumped off the chart! -->
 <ln id="Journal_FallenSpire_2_FirstShardSurveyed_Text">
 (Сообщение от Команды Исследования)
 
@@ -42,8 +80,29 @@
 
 Нам также требуется, чтобы это произошло как можно скорее: шкала сканера активности ИИ только что взмыл вверх!</ln>
 
+<!-- EN: Alien Artifact Recovered! -->
 <ln id="Journal_FallenSpire_3a_FirstShardRecovered_ShortTitle">Инопланетный Артефакт Восстановлен!</ln>
+<!-- EN: We have successfully secured the alien artifact on our homeworld. -->
 <ln id="Journal_FallenSpire_3a_FirstShardRecovered_LongTitle">Мы успешно запустили работу инопланетного артефакта на нашей Столичной планете.</ln>
+<!-- EN: 
+From: Dr. Michael Davidson
+Space Telemetry Lab, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+AI warp activity dropped back to normal when the alien artifact entered our home system, but any AI craft already pursuing the artifact are probably still coming after it.  Please be careful.  Losing the station right after this remarkable discovery would be too ironic.
+
+Using the data from the survey team we have completed our preliminary analysis of the "Shard", as we've come to call it.
+
+To put it briefly: this crystalline object is some sort of small power reactor.  Please note that "small" does not mean "low-yield".  This thing has over ten times the output of our standard collector.  Regrettably we can find no way to patch it into our grid without blowing everything to kingdom-come.
+
+Of much greater interest, the artifact is clearly of alien design.  Whether it was found naturally and converted into a reactor, or is itself a fabrication, we cannot tell.  Nonetheless, it was made by somebody.  If this shard is any indication, that "Somebody" may be able to help us.  A lot.
+
+To find these aliens (if they are there to be found) we need to investigate more of these strange subspace signals.  Our current technology is extremely limited in that capacity, but the shard seems to have an innate resonance with those emanations and we have already detected another signal.  
+
+We have designed a Subspace Receiver that can be constructed around the shard and scan for the remote source of the signal.  It won't be cheap, but I don't have to tell you how important this could be. -->
 <ln id="Journal_FallenSpire_3a_FirstShardRecovered_Text">
 От: Док. Майкл Девидсон
 Телеметрическая Лаборатория, Столичная Станция
@@ -64,12 +123,30 @@
 
 Мы разработали Подпространственный Приёмник, устанавливаемый возсле Осколка и обнаруживает удалённые сигналы. Это будет недёшево, но мне не стоит говорить о том, на сколько важным это может оказаться.</ln>
 
+<!-- EN: Alien Artifact Lost! -->
 <ln id="Journal_FallenSpire_3b_FirstShardDestroyed_ShortTitle">Инопланетный Артефакт Потерян!</ln>
+<!-- EN: The alien artifact has been destroyed. -->
 <ln id="Journal_FallenSpire_3b_FirstShardDestroyed_LongTitle">Инопланетный артефакт был уничтожен.</ln>
+<!-- EN: Text Not Entered Yet -->
 <ln id="Journal_FallenSpire_3b_FirstShardDestroyed_Text">Тут пока текста нет</ln>
 
+<!-- EN: Subspace Receiver Completed. -->
 <ln id="Journal_FallenSpire_4_ReceiverConstructed_ShortTitle">Подпространственный Приёмник Готов.</ln>
+<!-- EN: We have finished building the Subspace Receiver, and it is currently scanning the galaxy. -->
 <ln id="Journal_FallenSpire_4_ReceiverConstructed_LongTitle">Мы завершили создание Подпространственного Приёмника, и сейчас он сканирует галактику.</ln>
+<!-- EN: 
+From: Dr. Michael Davidson
+Space Telemetry Lab, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+You have my gratitude for constructing the receiver; I know our resources are scarce.
+
+Intensive scanning sweeps are underway to pin down the location of the remote signal so we can investigate directly.
+
+This will take some time. -->
 <ln id="Journal_FallenSpire_4_ReceiverConstructed_Text">
 От: Док. Майкл Девидсон
 Телеметрическая Лаборатория, Столичная Станция
@@ -84,8 +161,26 @@
 
 Это займёт некоторое время.</ln>
 
+<!-- EN: Signal Traced To $planetName. -->
 <ln id="Journal_FallenSpire_5_RefugeeShipSingalSurveyed_ShortTitle">Поступил Сигнал на $planetName.</ln>
+<!-- EN: Our subspace receiver has traced the latest subspace signal to $planetName. -->
 <ln id="Journal_FallenSpire_5_RefugeeShipSingalSurveyed_LongTitle">Наш Подпространственный Приёмник отследил последний подпространственный сигнал на $planetName.</ln>
+<!-- EN: 
+From: Dr. Michael Davidson
+Space Telemetry Lab, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+Good news! With the subspace receiver we have successfully located the source of this latest subspace signal to $planetName.
+
+We believe that a similar recovery operation will be effective here, with one twist: this signal is further away from our homeworld.  We can only assume that the AI will chase us this time too.  However, during the previous incident we observed a few important facts:
+
+1) Not all AI ships join the pursuit, only those dispatched through the warp grid.  Perhaps destroying the nearby warp gates will increase the distance the ships must travel to catch us.
+2) The pursuit did not stop when we reached our homeworld, but the AI ceased sending additional ships for the purpose.
+
+Best of luck. -->
 <ln id="Journal_FallenSpire_5_RefugeeShipSingalSurveyed_Text">
 От: Док. Майкл Девидсон
 Телеметрическая Лаборатория, Столичная Станция
@@ -103,8 +198,20 @@
 
 Всего хорошего.</ln>
 
+<!-- EN: Alien Refugees Found! -->
 <ln id="Journal_FallenSpire_6_RefugeeShipSurveyed_ShortTitle">Обнаружены Инопланетные Беженцы!</ln>
+<!-- EN: Our survey team has found the source of the subspace signal: an intact alien starship, and they want our help! -->
 <ln id="Journal_FallenSpire_6_RefugeeShipSurveyed_LongTitle">Наша команда исследования обнаружила источник подпространственного сигнала: неповреждённый инопланетный звездолёт, молящий о помощи!</ln>
+<!-- EN: 
+(Transmission from Survey team)
+
+This... is a day we will remember.  Assuming we survive.
+
+We expected another shard, and I suppose you could say we found one.  Except this one is still powering a starship.  A starship crewed by an unknown alien race.  Our previous contact with the Zenith and others has made the linguistic situation at least possible, but we're still working on getting these translators to do something other than spit out gibberish.
+
+Gibberish aside, we have been able to determine that they are on the run from the AI, and want us to rescue them.  Given our previous experience, this means taking them back to our homeworld.  Whether bringing a fully operational alien warship straight back to Home Command is a good idea... we have to leave that to you.  In any event, the alien starship will now obey your commands.
+
+Judging by local AI warp activity, we'd better get moving! -->
 <ln id="Journal_FallenSpire_6_RefugeeShipSurveyed_Text">
 (Сообщение от Команды Исследования)
 
@@ -116,8 +223,29 @@
 
 Судя по возросшей активности ИИ, нам лучше поторопиться!</ln>
 
+<!-- EN: Alien Refugees Rescued! -->
 <ln id="Journal_FallenSpire_7a_RefugeeShipRecovered_ShortTitle">Инопланетные Беженцы Спасены!</ln>
+<!-- EN: We have successfully brought the alien refugees back to our homeworld. -->
 <ln id="Journal_FallenSpire_7a_RefugeeShipRecovered_LongTitle">Мы успешно переправили инопланетных беженцев к своей Столичной планете.</ln>
+<!-- EN: 
+From: Dr. Michael Davidson
+Space Telemetry Lab, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+The survey team has kept me informed.  This could be quite a coup.  Well, perhaps that isn't the best term to use.
+
+In any event, we've worked through most of the basic communication barriers with the alien refugees.  They call themselves the Spire.  They aren't very talkative, but they are grateful.  
+
+They are also rocks.  
+
+Er, that's perhaps not very diplomatic.  To put it another way: their bodies are crystalline formations.  Exact composition unknown, for reasons you can deduce.
+
+For the time being, they seem very focused on tending to their wounded and regrouping.  To that end, they have asked our permission to construct a small outpost near one of our metal deposits.
+
+The decision is, of course, yours. -->
 <ln id="Journal_FallenSpire_7a_RefugeeShipRecovered_Text">
 От: Док. Майкл Девидсон
 Телеметрическая Лаборатория, Столичная Станция
@@ -138,12 +266,47 @@
 
 Решение, естественно, за Вами.</ln>
 
+<!-- EN: Alien Refugees Lost! -->
 <ln id="Journal_FallenSpire_7b_RefugeeShipDestroyed_ShortTitle">Инопланетные Беженцы Потеряны!</ln>
+<!-- EN: We were not able to protect the refugees. -->
 <ln id="Journal_FallenSpire_7b_RefugeeShipDestroyed_LongTitle">Мы не смогли защитить беженцев.</ln>
+<!-- EN: Text Not Entered Yet -->
 <ln id="Journal_FallenSpire_7b_RefugeeShipDestroyed_Text">Тут пока текста нет</ln>
 
+<!-- EN: Refugee Outpost Constructed. -->
 <ln id="Journal_FallenSpire_8_RefugeeOutpostConstructed_ShortTitle">Застава Беженцев Построена.</ln>
+<!-- EN: The Spire refugees have completed the conversion of their ship into a permanent outpost, and it is scanning for further signals. -->
 <ln id="Journal_FallenSpire_8_RefugeeOutpostConstructed_LongTitle">Беженца Spire'ов завершили преобразование их корабля в постоянную заставу, которая ищет следующие сигналы.</ln>
+<!-- EN: 
+From: (attempted transliteration) Entelemaren Exaron
+
+Gratitude.
+
+Surprise.
+
+Suspicion.
+
+Patience.
+
+Rebuilding.
+
+Can Help.  Small.
+
+Looking. For others.
+
+(the below is an attachment from the diplomatic corps... such as it is)
+
+As far as we can tell they were not counting on help from humans.  We may know nothing of them, but they've apparently heard a lot about us.  And  not in a positive way.  
+
+For what it's worth, we actually recognize their technology from some old artifacts we recovered many years ago.  You may be familiar with our "Spire Starship" design acquired from some wandering Zenith, though we now know it to be very different from the "real deal".  We also developed our heavy beam cannon technology and parts of the Riot's modular capabilities from those artifacts.
+
+But we had never met the Spire, until now.
+
+Regardless, they are willing to set our recent actions in rescuing them against our dubious reputation, and are also very grateful for our allowing them to settle their small number of refugees in this system.  They don't seem to want to talk much, and are very focused on their own affairs.
+
+But they have offered to build a small number of what they called "tiny craft" to help us.  We don't know if the translators are still on the fritz or what, but the design they transmitted is far from tiny.
+
+Finally, it seems they are scanning subspace to try to locate other refugees.  Or perhaps other artifacts.  We couldn't really figure out which.  Either way, it seems they are our best lead to finding out what's going on... if we want to know. -->
 <ln id="Journal_FallenSpire_8_RefugeeOutpostConstructed_Text">
 От: (попытка перевода) Entelemaren Exaron
 
@@ -175,8 +338,33 @@
 
 Напоследок, кажется, они сканируют подпространство на наличие других беженцев. Или, возможно, других артефактов. Мы не можем понят, что именно. В любом  случае, кажется, что они наши лучшие консультанты в понимании, что же происходит... если мы захотим узнать.</ln>
 
+<!-- EN: Signal Traced To $planetName. -->
 <ln id="Journal_FallenSpire_9_FirstCityShardSignalSurveyed_ShortTitle">Принят Сигнал с $planetName.</ln>
+<!-- EN: Our subspace receiver has traced the latest subspace signal to $planetName. -->
 <ln id="Journal_FallenSpire_9_FirstCityShardSignalSurveyed_LongTitle">Наш подпространственный приёмник отследил последний подпространственный сигнал на $planetName.</ln>
+<!-- EN: 
+From: Dr. Dorothy V. Langstrom
+Xenobiology Lab, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+We lack a proper diplomatic corps, but Dr. Davidson's team has asked me to serve as primary liaison with the alien refugees.
+
+The Spire have kept very much to themselves, and I have not tried to intrude.  They just came out of their shell, however, and it seems they have located what they were scanning for on $planetName. 
+
+Since they have requested that we deploy a survey fleet to recover the object, I pressed them for some details.  Given the circumstances, they were not reluctant.
+
+Those shards are their primary reactors.  The one aboard their refugee ship was damaged, but serviceable and capable of powering their new outpost.  However, they have reached the limits of its capacity, and cannot expand from their outpost.  
+
+I asked about the shard we used to build the subspace receiver, and their response... well, I don't know how to read the mannerisms of a rock, but honestly it sounded like an extremely polite and circumloquacious explanation that we've messed it up beyond all repair.
+
+Long story short: they have tracked down another shard that they believe will suit their purposes, and want us to recover it.
+
+Do we want them to expand?  I don't know.  But they have conducted themselves honorably thus far.
+
+One final note: they caution us that the AI is aware of their presence, and that the Spire and the AI have a... complicated history.  If we continue to pursue this, we should be prepared for attacks on the outpost. -->
 <ln id="Journal_FallenSpire_9_FirstCityShardSignalSurveyed_Text">
 От: Док. Дороти В. Лангстром
 Ксенобиологическая Лаборатория, Столичная Станция
@@ -201,15 +389,32 @@ Spire'ы многое держат в себе, и я не пытаюсь нас
 
 Последнее замечание: они предупредили нас, что ИИ знает об их присутствии, а Spire'ы и ИИ имеют... сложные отношения. Если мы продолжим заниматься этим, мы должны быть готовы к атаке на Заставу.</ln>
 
+<!-- EN: Shard Found! -->
 <ln id="Journal_FallenSpire_10_FirstCityShardSurveyed_ShortTitle">Обнаружен Осколок!</ln>
+<!-- EN: Our survey team has discovered another shard on $planetName.  We need to recover it quickly. -->
 <ln id="Journal_FallenSpire_10_FirstCityShardSurveyed_LongTitle">Наша исследовательская команда обнаружила осколок на $planetName. Мы должны быстрее его восстановить.</ln>
+<!-- EN: 
+(Transmission from Survey team)
+
+Commander, we have located the Spire reactor.  It appears somewhat larger than the previous artifacts, and fully intact.  The AI is going nuts, we need to grab the shard and get out of here. -->
 <ln id="Journal_FallenSpire_10_FirstCityShardSurveyed_Text">
 (Сообщение от Команды Исследования)
 
 Главнокомандующий, мы обнаружили реактор Spire'ов. Он появился дальше, чем предыдущие артефакты, и полностью цел. ИИ сходит с ума, нам нужно забрать осколок и убраться отсюда.</ln>
 
+<!-- EN: Shard Recovered! -->
 <ln id="Journal_FallenSpire_11a_FirstCityShardRecovered_ShortTitle">Осколок Восстановлен!</ln>
+<!-- EN: We have successfully secured the shard on our homeworld. -->
 <ln id="Journal_FallenSpire_11a_FirstCityShardRecovered_LongTitle">Мы успешно доставили Осколок на нашу родную планету.</ln>
+<!-- EN: 
+From: Dr. Dorothy V. Langstrom
+Xenobiology Lab, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+The Spire asked me to pass along their gratitude for the reactor's recovery.  They have transmitted designs for a... colony ship, is the best description.  If we wish to help them, we should use the newly recovered shard to construct this colony ship.  It doesn't look cheap. -->
 <ln id="Journal_FallenSpire_11a_FirstCityShardRecovered_Text">
 От: Док. Дороти В. Лангстром
 Ксенобиологическая Лаборатория, Столичная Станция
@@ -220,12 +425,33 @@ Spire'ы многое держат в себе, и я не пытаюсь нас
 
 Spire'ы попросили меня передать свою благодарность за восстановление осколка. Они передают чертёж... колониального корабля, по другому не описать. Если мы хотим им помочь, мы должны использовать новый осколок для постройки колониального корабля. Это обойдётся нам дорого.</ln>
 
+<!-- EN: Shard Lost! -->
 <ln id="Journal_FallenSpire_11b_FirstCityShardDestroyed_ShortTitle">Осколок Потерян!</ln>
+<!-- EN: We failed to recover the shard. -->
 <ln id="Journal_FallenSpire_11b_FirstCityShardDestroyed_LongTitle">Мы не смогли восстановить осколок.</ln>
+<!-- EN: Text Not Entered Yet -->
 <ln id="Journal_FallenSpire_11b_FirstCityShardDestroyed_Text">Тут пока текста нет</ln>
 
+<!-- EN: Spire Colony Ship Constructed -->
 <ln id="Journal_FallenSpire_12_ColonyShipConstructed_ShortTitle">Колониальный Корабль Spire'ов построен</ln>
+<!-- EN: We have finished building the Spire Colony Ship, and it is ready to build in another system. -->
 <ln id="Journal_FallenSpire_12_ColonyShipConstructed_LongTitle">Мы завершили постройку Колониального Корабля Spire'ов, готовый строиться в другой системе.</ln>
+<!-- EN: 
+From: Entelemaren Exaron
+
+Gratitude.
+
+Can Build.
+
+Can Reunite.
+
+Can Help. More.
+
+Can... Atone.
+
+(the below is an attachment from Dr. Langstrom)
+
+They want us to take their colony ship to settle on another planet.  I asked about this planet but they appear averse to creating a larger settlement so close to our own remaining population center.  A neighboring planet will do, however.  I strongly suggest a location that we can fortify.  Heavily. -->
 <ln id="Journal_FallenSpire_12_ColonyShipConstructed_Text">
 От: Entelemaren Exaron
 
@@ -243,8 +469,27 @@ Spire'ы попросили меня передать свою благодар�
 
 Они хотят, чтобы мы отправили их колониальный корабль создать поселение на другой планете. Я спросила на счёт текущей планеты, но они проявили отвращение к созданию большого поселения так близко к центру нашей основной популяции. Тем не менее, соседняя планета подойдёт. Я очень рекомендую место, которое мы хорошо укрепили.</ln>
 
+<!-- EN: City Hub Constructed. -->
 <ln id="Journal_FallenSpire_13_CityHubConstructed_ShortTitle">Создан Городской Центр.</ln>
+<!-- EN: We've finished constructing the hub of the new Spire city. -->
 <ln id="Journal_FallenSpire_13_CityHubConstructed_LongTitle">Мы завершили строительство центра нового города Spire'ов.</ln>
+<!-- EN: 
+From: Dr. Dorothy V. Langstrom
+Xenobiology Lab, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+The hub of the Spire city has been constructed.  It's hard to read feelings from a rock, but the refugees are rejoicing.  They've asked me to pass along the following information about where they can go from here:
+
+1) The first step is to have the Hub build a Shard Reactor.  That facility lets them produce small shards rather than rely on more salvage, and will also power other facilities.
+2) Once a reactor is online, the Hub can construct a Spire Shipyard.  That shipyard will increase the number of frigates they can field, and also allow construction of a larger vessel.
+3) The reactor will also allow the Hub to build a Habitation center, which permits the city to grow beyond the hub (and thus support external 6 facilities instead of 3), but only if all the neighboring planets have been cleansed of AI presence.
+
+I asked about that last thing, and they explained that the emanations from the AI warp grid are highly disruptive of their systems.  It's no threat to their warships, they assure me, but they simply can't sustain a habitat within that kind of radiation.
+
+They also asked me to pass along a warning: the AIs are likely to continue trying to eliminate them, and anything that gets in the way.  These attacks will likely increase in proportion to the size of the Spire forces in this galaxy.  I hope that the help offered by the Spire will be enough to hold off the additional attention we have attracted by helping them. -->
 <ln id="Journal_FallenSpire_13_CityHubConstructed_Text">
 От: Док. Дороти В. Лангстром
 Ксенобиологическая Лаборатория, Столичная Станция
@@ -263,8 +508,23 @@ Spire'ы попросили меня передать свою благодар�
 
 Они также просили меня передать предупреждение: похоже, что ИИ продолжает пытаться устранить их, и всё, что встретиться на его пути. Его атаки возрастут пропорционально размеру сил Spire'ов в галактике. Я надеюсь, что помощи, которую окажут Spire'ы, будет достаточна для удержания дополнительного внимания, которое мы привлекли, помогая им.</ln>
 
+<!-- EN: Habitation Center Constructed, -->
 <ln id="Journal_FallenSpire_14_CityHabitationCenterConstructed_ShortTitle">Центр Обитания Построен</ln>
+<!-- EN: We've finished constructing a habitation center in the Spire city. -->
 <ln id="Journal_FallenSpire_14_CityHabitationCenterConstructed_LongTitle">Мы завершили постройку Центра Обитания в городе Spire'ов.</ln>
+<!-- EN: 
+From: Dr. Dorothy V. Langstrom
+Xenobiology Lab, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+This... this is incredible.  I had no idea a population of sentient life could expand so quickly.  When the Spire spoke of constructing a city, I was very skeptical.  The timeframe involved in any possible successful campaign against the AI... it just would not allow for the development of a human colony, for example.  The Neinzul, perhaps, but they simply do not grow in that way.  But the population of that Spire city is at least a hundred times larger than what we rescued aboard the refugee ship.
+
+We greatly underestimated the "cargo" of the refugee ship.  Apparently those "growth nodes" were highly concentrated packs of... "larval", for lack of a better term, Spire.  As their power supply and living space have increased, they have "awakened" many of these nodes and quickly expanded to operate the new facilities.
+
+Are they a threat to us?  I don't think so.  At this point it may simply be a risk we have to take.  But they have brought a greater threat to our doors in the form of the AI pursuit.  Dr. Davidson has been monitoring the AI warp grid extremely closely since the construction of the city hub, and is convinced that the AI attacks are simply not going to stop... ever.  We're in the middle of this conflict, for better or worse.  And the Spire can help us win. -->
 <ln id="Journal_FallenSpire_14_CityHabitationCenterConstructed_Text">
 От: Док. Дороти В. Лангстром
 Ксенобиологическая Лаборатория, Столичная Станция
@@ -279,8 +539,32 @@ Spire'ы попросили меня передать свою благодар�
 
 Станут ли они для нас угрозой? Я так не думаю. С такой точки зрения, это риск, на который нам придётся пойти. Но они создали нам большую угрозу в виде преследования ИИ. Док. Дэвидсон очень внимательно осуществлял мониторинг пространственной сети ИИ с начала создания Городского Центра и убедился, что атаки ИИ не прекратятся... никогда.  Мы находимся в середине этого конфликта, хорошо это или плохо. А Spire'ы могут помочь нам выиграть.</ln>
 
+<!-- EN: City Has Reached Level 2. -->
 <ln id="Journal_FallenSpire_15_CityReachedLevel2_ShortTitle">Город достиг 2 уровня.</ln>
+<!-- EN: The Spire city is now ready to expand. -->
 <ln id="Journal_FallenSpire_15_CityReachedLevel2_LongTitle">Город Spire'ов готов к расширению.</ln>
+<!-- EN: 
+From: Entelemaren Exaron
+
+Gratitude.
+
+Have Grown.
+
+Can Fight.  Little.
+
+Must Grow.  More.
+
+Menace.  Is Coming.
+
+Apologies.  Restitution.
+
+(the below is an attachment from Dr. Langstrom)
+
+Now that the city has adequate living space and is free of interference from the warp grid, the Spire city has begun to grow again.  They have constructed some advanced subspace scanning equipment within the Hub, and are looking for... from what I could understand, another shard.  I'm not certain, but I believe they have found that our galaxy's background radiation is interfering with their ability to construct larger shards.  They can build what they need for facilities and ships, but they can't actually construct the kind of power source needed by another city hub.
+
+Which, incidentally, is exactly what they want to build next.
+
+To be clear, they aren't demanding anything.  We can simply go about our business and forget about pursuing these signals.  And if we intend to stop, now would be a good time.  The AI's aggressions against the Spire are significant, but have stabilized somewhat.  If the Spire continue to grow, we may find ourselves in the middle of an all-out war. -->
 <ln id="Journal_FallenSpire_15_CityReachedLevel2_Text">
 От: Entelemaren Exaron
 
@@ -304,8 +588,38 @@ Spire'ы попросили меня передать свою благодар�
 
 Чтобы стало ясно: они ничего не требуют. Мы можем свободно заниматься своими делами и забыть о преследовании их сигналов. И если мы намерены остановиться, то сейчас лучший момент. Агрессия ИИ против Spire'ов очень значительна, но уже немного стабилизировалась. Если Spire'ы продолжат разрастаться, мы можем оказаться в середине тотальной войны.</ln>
 
+<!-- EN: Signal Found On $planetName. -->
 <ln id="Journal_FallenSpire_16_SecondCityShardSignalSurveyed_ShortTitle">Обнаружен сигнал на $planetName.</ln>
+<!-- EN: Our Spire allies have located another signal on $planetName. -->
 <ln id="Journal_FallenSpire_16_SecondCityShardSignalSurveyed_LongTitle">Наши союзники Spire'ы обнаружили ещё сигнал на $planetName.</ln>
+<!-- EN: 
+From: Entelemaren Exaron
+
+Greetings, child of Tellus.  Your (translator-failure: nearest word "princess") of Xenobiology.  Has labored. Improving communications.
+
+Our gratitude. Undying. One day. Perhaps. Debt repaid.
+
+Cannot face machines.  Yet.
+
+They come.  You know this.  They come.  For us both.
+
+Need expand.  More.
+
+Cannot build.  Here.
+
+Have found another.  Can build with that.
+
+We.  At your service.
+
+(the below is an attachment from Dr. Langstrom)
+
+While basic communication has been possible since very early on, it has been... difficult.  While the previous messages from the Spire may seem appropriate for the mannerisms of a rock, I have found that they actually have a much smoother thought process and manner of speaking to one another.  I hope that my efforts will continue to improve the... rapport.
+
+In any event, they have successfully located another shard they believe will power another city hub.  This recovery mission is likely to be extremely dangerous, and the AI continues to attack, but hopefully the growing Spire fleet will offset these additional challenges.
+
+But remember, the AI is after us both now.  We have learned to hide from the AI, to avoid antagonizing it and bringing down it's wrath.  The Spire do not seem to have learned this lesson.  They are obedient to our desires to not unnecessarily provoke the AI, but I do not believe that we can both continue to assist the Spire expansion while maintaining a low profile.  
+
+I do not have to tell you how absurdly dangerous that could be. -->
 <ln id="Journal_FallenSpire_16_SecondCityShardSignalSurveyed_Text">
 От: Entelemaren Exaron
 
@@ -335,15 +649,38 @@ Spire'ы попросили меня передать свою благодар�
 
 Мне не нужно рассказывать Вам, насколько абсурдно опасно это может быть.</ln>
 
+<!-- EN: Shard Found! -->
 <ln id="Journal_FallenSpire_17_SecondCityShardSurveyed_ShortTitle">Обнаружен Осколок!</ln>
+<!-- EN: We have found another large Shard on $planetName. -->
 <ln id="Journal_FallenSpire_17_SecondCityShardSurveyed_LongTitle">Мы обнаружили другой крупный Осколок на $planetName.</ln>
+<!-- EN: 
+(Transmission from Survey team)
+
+Commander, the Shard has been located, the thrusters have been attached, and the warp grid is going crazy.  There's a trend going here.  We need to move! -->
 <ln id="Journal_FallenSpire_17_SecondCityShardSurveyed_Text">
 (Сообщение от Исследовательской Команды)
 
 Главнокомандующий, Осколок был обнаружен, транспортирующее устройство было прикреплено, а пространственная сеть сошла с ума. Что-то недоброе происходит. Нам нужно уходить!</ln>
 
+<!-- EN: Shard Recovered! -->
 <ln id="Journal_FallenSpire_18a_SecondCityShardRecovered_ShortTitle">Осколок Восстановлен!</ln>
+<!-- EN: We have recovered another large Shard, and can use it to construct another Spire Colony Ship. -->
 <ln id="Journal_FallenSpire_18a_SecondCityShardRecovered_LongTitle">Мы восстановили ещё один большой Осколок и можем его использовать для создания нового Колониального Корабля Spire'ов.</ln>
+<!-- EN: 
+From: Dr. Dorothy V. Langstrom
+Xenobiology Lab, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+Congratulations, we have succesfully recovered the second "city shard".  Hopefully there are not too many AI ships still chasing it.
+
+You may now construct another Spire Colony Ship and, with it, build another City Hub.  The new hub must be at least two wormhole-hops from the other one.
+
+Remember, the city will be a prime target for the AI, and if we want it to expand beyond the initial size of 3 facilities we will need to clear its immediate neighborhood of AI presence.
+
+Another important fact is that a Shard Reactor can provide power to Habitation Centers and Shipyards anywhere in our galaxy, so if we have 3 reactors at the first city but only 2 shipyards, a third shipyard can be built at the second city without another reactor. -->
 <ln id="Journal_FallenSpire_18a_SecondCityShardRecovered_Text">
 От: Док. Дороти В. Лангстром
 Ксенобиологическая Лаборатория, Столичная Станция
@@ -360,12 +697,41 @@ Spire'ы попросили меня передать свою благодар�
 
 Другой важный факт состоит в том, что Реактор Осколков может предоставлять энергию для Центра Обитания и Судоверфи в любой точке галактики, так что если у нас будет 3 реактора в первом городе, но только 2 судоверфи, третья судоверфь может быть построена во втором городе без наличия реактора.</ln>
 
+<!-- EN: Shard Destroyed! -->
 <ln id="Journal_FallenSpire_18b_SecondCityShardDestroyed_ShortTitle">Осколок Уничтожен!</ln>
+<!-- EN: We have failed to recover this Shard. -->
 <ln id="Journal_FallenSpire_18b_SecondCityShardDestroyed_LongTitle">Мы не смогли восстановить осколок.</ln>
+<!-- EN: abc -->
 <ln id="Journal_FallenSpire_18b_SecondCityShardDestroyed_Text">Тут пока текста нет</ln>
 
+<!-- EN: Second City Constructed. -->
 <ln id="Journal_FallenSpire_19_SecondCityHubConstructed_ShortTitle">Второй Город Построен.</ln>
+<!-- EN: We have constructed the hub of another Spire City. -->
 <ln id="Journal_FallenSpire_19_SecondCityHubConstructed_LongTitle">Мы построили центр ещё одного Города Spire'ов.</ln>
+<!-- EN: 
+From: Entelemaren Exaron
+
+Enselle-illumin, child of Tellus.  Dr. Langstrom's efforts.  Some success.  Very similar.  Her husband.
+
+Victory.  Small.  But another city.
+
+We look for more.
+
+Trying to build.  Larger craft.  Waves wrong.  Still trying.
+
+Machines coming.  Always coming.
+
+(the below is an attachment from Dr. Langstrom)
+
+They knew... my husband, they knew Richard.  I do not know how this could be.  He disappeared many years ago, before the end of the civil war.  Of course, without disappearing, he couldn't have run into the Spire.
+
+Perhaps it is best to not dwell on the subject.
+
+In any event, the Spire are running into trouble constructing their larger ships in our galaxy.  The effect of the background radiation increases exponentially with the size of the necessary shards.  They think success is still possible, but it will take much time.
+
+Once this new city has expanded (which requires a habitation center and no adjacent AI planets), it will begin scanning for another shard with which we can build another city.
+
+From looking at their plans, it seems the Spire will reach a sort of "critical mass" when they have built 5 city hubs in our galaxy.  Should that happen, I do not think the AI will be amused. -->
 <ln id="Journal_FallenSpire_19_SecondCityHubConstructed_Text">
 От: Entelemaren Exaron
 
@@ -391,8 +757,36 @@ Enselle-illumin, дети Tellus'а. Усилия Док. Лангстром. Н
 
 Смотря на их планеты, кажется, что Spire'ы пытаются достичь "критической массы", построив 5 городских центров в нашё галактике. Как только это произойдёт, я не думаю, что ИИ будет в восторге.</ln>
 
+<!-- EN: Signal Found On $planetName. -->
 <ln id="Journal_FallenSpire_20_ThirdCityShardSignalSurveyed_ShortTitle">Обнаружен Сигнал на $planetName.</ln>
+<!-- EN: Our Spire allies have located another signal on $planetName. -->
 <ln id="Journal_FallenSpire_20_ThirdCityShardSignalSurveyed_LongTitle">Наши союзники Spire'ы обнаружили ещё сигнал на $planetName.</ln>
+<!-- EN: 
+From: Entelemaren Exaron
+
+Enselle-illumin, child of Tellus.  May we both survive.
+
+Still hampered.  Bad oscillations.  Perhaps the stories...
+
+No matter.  We must work with what we have.
+
+Another shard.  Another city.
+
+With this.  And two more.  We may be able.  To solve problem.
+
+But indebteded to you.  You say fight, we fight.  You say stay, we stay.  The machine.  Not yet fully (translation failed, best guesss: "Awake").
+
+(the below is an attachment from Dr. Langstrom)
+
+It is odd that anything can become a trend to us.  Where we are now, and where we were 20 years ago... is it even the same world?  But still we find routine.
+
+Forgive my musings, these are strange days.
+
+In any event, our Spire allies have traced another signal, this time to $planetName.  Should we succeed, we will be able to construct another Spire city, and expand the Spire fleet still more.
+
+Their failure to construct their larger designs seems to trouble them at a deeper level than military disadvantage.  I expect that they will not rest until they solve the problem.
+
+I hope that they find success.  I have seen the designs for those larger vessels... With vessels such as those, perhaps we can stand against the AI, face to face. -->
 <ln id="Journal_FallenSpire_20_ThirdCityShardSignalSurveyed_Text">
 От: Entelemaren Exaron
 
@@ -420,15 +814,40 @@ Enselle-illumin, дети Tellus'а. Мы оба можем выжить.
 
 Я надеюсь, к ним придёт успех. Я видела чертежи тех крупных кораблей... С такими кораблями мы могли бы столкнуться с ИИ лицом к лицу.</ln>
 
+<!-- EN: Shard Found! -->
 <ln id="Journal_FallenSpire_21_ThirdCityShardSurveyed_ShortTitle">Обнаружен Осколок!</ln>
+<!-- EN: We have found another large Shard on $planetName. -->
 <ln id="Journal_FallenSpire_21_ThirdCityShardSurveyed_LongTitle">Мы обнаружили другой крупный Осколок на $planetName.</ln>
+<!-- EN: 
+(Transmission from Survey team)
+
+Commander, Shard thrusters online! Gotta run! -->
 <ln id="Journal_FallenSpire_21_ThirdCityShardSurveyed_Text">
 (Сообщение от Команды Исследования)
 
 Главнокомандующий, двигатели Осколка готовы! Готовы к транспортировке!</ln>
 
+<!-- EN: Shard Recovered! -->
 <ln id="Journal_FallenSpire_22a_ThirdCityShardRecovered_ShortTitle">Осколок Восстановлен!</ln>
+<!-- EN: We have recovered another large Shard, and can use it to construct another Spire Colony Ship. -->
 <ln id="Journal_FallenSpire_22a_ThirdCityShardRecovered_LongTitle">Мы восстановили ещё один большой Осколок и можем его использовать для создания нового Колониального Корабля Spire'ов.</ln>
+<!-- EN: 
+From: Dr. Michael Davidson
+Space Telemetry Lab, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+The shard has been secured and the AI does not appear to be adding to the pursuit force.  Aside from dealing with any others still on the trail, we may now begin the process of constructing the third Spire city.
+
+Dr. Langstrom would have sent this report, but she is resting.  The news that her husband made contact with the Spire years ago is weighing on her mind.
+
+It also gives me concern, though for other reasons.  I did my doctoral thesis work under Dr. Richard Langstrom and am intimately familiar with his work on Iterative Computational Self-Refinement.  After everything hit the fan no-one had much time or inclination to ask questions or point fingers, but the fact is that Dr. Langstrom is almost singlehandedly responsible for several key breakthroughs in the development of our most advanced military artificial intelligence.  Far more advanced than anything we dare use nowadays, if you catch my meaning.
+
+He was a good man.
+
+But seeing more and more pieces of this puzzle, I find the emerging picture unsettling to say the least. -->
 <ln id="Journal_FallenSpire_22a_ThirdCityShardRecovered_Text">
 От: Док. Майкл Девидсон
 Телеметрическая Лаборатория, Столичная Станция
@@ -447,12 +866,33 @@ Enselle-illumin, дети Tellus'а. Мы оба можем выжить.
 
 Но всё больше вглядываясь к части этой мозайки, я считаю, что целая картина мягко говоря более тревожная.</ln>
 
+<!-- EN: Shard Destroyed! -->
 <ln id="Journal_FallenSpire_22b_ThirdCityShardDestroyed_ShortTitle">Осколок Уничтожен!</ln>
+<!-- EN: We have failed to recover this Shard. -->
 <ln id="Journal_FallenSpire_22b_ThirdCityShardDestroyed_LongTitle">Мы не смогли восстановить осколок.</ln>
+<!-- EN: abc -->
 <ln id="Journal_FallenSpire_22b_ThirdCityShardDestroyed_Text">Тут пока текста нет</ln>
 
+<!-- EN: Third City Constructed. -->
 <ln id="Journal_FallenSpire_23_ThirdCityHubConstructed_ShortTitle">Третий Город Построен.</ln>
+<!-- EN: We have constructed the hub of another Spire City. -->
 <ln id="Journal_FallenSpire_23_ThirdCityHubConstructed_LongTitle">Мы построили центр ещё одного Города Spire'ов.</ln>
+<!-- EN: 
+From: Entelemaren Exaron
+
+Enselle-illumin, child of Tellus.  We rejoice at your success.  Your deeds.  Reminded of great warriors.  Stories past.
+
+We begin again, to seek, once this city grows.
+
+Two more.  Then we rise.
+
+
+
+Another thing.
+
+The one we met.  Some time ago.  The creator of the machine.  Not at fault.  We... we at fault.  Not us, exactly.  Others.  Should have known.
+
+Do not tell.  The lady.  Yet.  But he lives. -->
 <ln id="Journal_FallenSpire_23_ThirdCityHubConstructed_Text">
 От: Entelemaren Exaron
 
@@ -470,8 +910,21 @@ Enselle-illumin, дети Tellus'а. Мы радуемся Вашему успе
 
 Не говорите. Женщина. Пока что. Но он жив.</ln>
 
+<!-- EN: Signal Found On $planetName. -->
 <ln id="Journal_FallenSpire_24_FourthCityShardSignalSurveyed_ShortTitle">Обнаружен Сигнал на $planetName.</ln>
+<!-- EN: Our Spire allies have located another signal on $planetName. -->
 <ln id="Journal_FallenSpire_24_FourthCityShardSignalSurveyed_LongTitle">Наши союзники Spire'ы обнаружили ещё сигнал на $planetName.</ln>
+<!-- EN: 
+From: Dr. Dorothy V. Langstrom
+Xenobiology Lab, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+With each new Spire city, the AI's response grows fiercer.  At this rate, I do not know how much longer we will last.  But the Spire seem increasingly hopeful, despite the resistance.  I hope that they undestand the situation better than I.
+
+In any event, the Spire have traced another city-shard signal, this time to $planetName. -->
 <ln id="Journal_FallenSpire_24_FourthCityShardSignalSurveyed_Text">
 От: Док. Дороти В. Лангстром
 Ксенобиологическая Лаборатория, Столичная Станция
@@ -484,15 +937,65 @@ Enselle-illumin, дети Tellus'а. Мы радуемся Вашему успе
 
 В любом случае, Spire'ы отследили сигнал другого городского осколка, на этот раз на $planetName.</ln>
 
+<!-- EN: Shard Found! -->
 <ln id="Journal_FallenSpire_25_FourthCityShardSurveyed_ShortTitle">Обнаружен Осколок!</ln>
+<!-- EN: We have found another large Shard on $planetName. -->
 <ln id="Journal_FallenSpire_25_FourthCityShardSurveyed_LongTitle">Мы обнаружили другой крупный Осколок на $planetName.</ln>
+<!-- EN: 
+(Transmission from Survey team)
+
+Commander, we've got the thrusters on that shard.  There's something else attached to this one... Here comes the AI, requesting permission (garbled by interference) out of here! -->
 <ln id="Journal_FallenSpire_25_FourthCityShardSurveyed_Text">
 (Сообщение от Исследовательской Команды)
 
 Главнокомандующий, мы установили двигатели на этот сколок. Что то ещё прикреплено к нему... Приближается ИИ, посылаю запрос на разрешение (искажено помехами) отсюда!</ln>
 
+<!-- EN: Shard Recovered! -->
 <ln id="Journal_FallenSpire_26a_FourthCityShardRecovered_ShortTitle">Осколок Восстановлен!</ln>
+<!-- EN: We have recovered another large Shard, and can use it to construct another Spire Colony Ship. -->
 <ln id="Journal_FallenSpire_26a_FourthCityShardRecovered_LongTitle">Мы восстановили ещё один большой Осколок и можем его использовать для создания нового Колониального Корабля Spire'ов.</ln>
+<!-- EN: 
+From: Dr. Michael Davidson
+Space Telemetry Lab, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+Congratulations on recovering a fourth city-shard.  It appears intact and ready to use, whenever we are ready.
+
+Our team found a storage capsule planted near the shard.  The capsule contained a message, the author identified himself as Dr. Richard Langstrom.  Having read the contents, I believe it to be authentic.  There were several pieces, I have included the one addressed to the late General Arcroft, since I assume it was intended for the leader of our remnant.
+
+ - -  - -  - -  - -  - - -
+
+Joshua,
+
+Apologies for not reporting in person, but it looks like I may be in galaxy NGC 224 for quite a while.
+
+As you are undoubtedly painfully aware, I was unable to secure the prototype core control units.  My intel on affairs in the Milky Way is very limited, but from what I can tell... I am sorry.
+
+Much clearer to me is your contact with the various Spire artifacts, since we are able to track their subspace signatures.  I am also aware of the refugees you saved.
+
+Given the Spire sense of "modesty", for lack of a better word, you are probably unaware that you have rescued Exaron the Seventh, Sovereign of the Imperial Spire.  During the AI assault on the Spire homeworld, the Emperor's flagship and a good part of his fleet were caught in a massive subspace rift triggered by the destruction of their main exo-galactic transit gate.  Evidently he wound up in our galaxy, and not much of the fleet was left.  I have enclosed a message for him as well, please deliver it along with my assurance that we did not allow the homeworld to fall.
+
+From my limited information, I can only conclude that Earth did not fare as well.
+
+Thankfully, while we cannot send large objects or living beings, our limited exogalactic transit devices allowed us to send this capsule to one of the stronger subspace signals and hope that you would recover it at some point.
+
+From the subspace signatures, I gather that the Spire have managed to construct several cities and a small fleet.  Further, the AI is responding with enthusiasm.
+
+Our own position in NGC 224 is not good, but with the remainder of the Imperial fleets we are holding the homeworld and surrounding systems.  With the AI committing ever more forces to the Milky Way, we hope to be able to launch an offensive on its production facilities.  If we attempt such an operation and fail, however, the fate of both galaxies is sealed.  So we are seeking other options.
+
+Currently I am aware of two other possible paths to victory:
+
+1) You may be able to construct a sufficiently strong fleet to destroy the AI's core command facilities in that galaxy.  Should you succeed, we would probably be able to defeat the AI here while it was still reeling.
+
+2) If we can contact the outlying Spire fleets in neighboring galaxies and somehow restore the Spire exo-galactic transit network, we may be able to launch a decisive attack.  But this would require a truly immense amount of power, among other things.  I do not know if it is even possible, at this stage.  The Emperor would know, ask him.
+
+Finally, if Dorothy... please deliver the included message for her.
+
+May this find you well,
+Richard -->
 <ln id="Journal_FallenSpire_26a_FourthCityShardRecovered_Text">
 От: Док. Майкл Девидсон
 Телеметрическая Лаборатория, Столичная Станция
@@ -536,12 +1039,33 @@ Enselle-illumin, дети Tellus'а. Мы радуемся Вашему успе
 Надеюсь, у вас всё хорошо,
 Ричард</ln>
 
+<!-- EN: Shard Destroyed! -->
 <ln id="Journal_FallenSpire_26b_FourthCityShardDestroyed_ShortTitle">Осколок Уничтожен!</ln>
+<!-- EN: We have failed to recover this Shard. -->
 <ln id="Journal_FallenSpire_26b_FourthCityShardDestroyed_LongTitle">Мы не смогли восстановить осколок.</ln>
+<!-- EN: abc -->
 <ln id="Journal_FallenSpire_26b_FourthCityShardDestroyed_Text">Тут пока текста нет</ln>
 
+<!-- EN: Fourth City Constructed. -->
 <ln id="Journal_FallenSpire_27_FourthCityHubConstructed_ShortTitle">Четвёртый Город Построен.</ln>
+<!-- EN: We have constructed the hub of another Spire City. -->
 <ln id="Journal_FallenSpire_27_FourthCityHubConstructed_LongTitle">Мы построили центр ещё одного Города Spire'ов.</ln>
+<!-- EN: 
+From: Exaron the Seventh
+
+Enselle-illumin, child of Tellus.  Victory grows closer.  Or, the possibilitiy of victory.
+
+Yes, it is true.  I am the Emperor.  But no deception.  Or, we did not intend it thus.  What was I to say?
+
+Your... I would call him "prince of machines".  But that is not right.  But he is bold.  Two paths he lays before us.  I would only have thought of the first.
+
+The other... it is bold.  The old central node took ages to build.
+
+But it is not impossible.  I still possess the Key.  But we lack the power.  No shard we could build would be enough.  Not even back home.
+
+Yet, there is already one, it would suffice... The core from my own vessel.  But it was lost.  When we came here.  Perhaps we can find it.  But not yet.
+
+For now, we must build once more.  Once this city has grown, we seek again. -->
 <ln id="Journal_FallenSpire_27_FourthCityHubConstructed_Text">
 От: Exaron Седьмой
 
@@ -559,8 +1083,23 @@ Enselle-illumin, дети Tellus'а. Победа приближается. Ил
 
 Сейчас нам нужно построить ещё. Как только этот город вырастет, мы снова начнём поиски.</ln>
 
+<!-- EN: Signal Found On $planetName. -->
 <ln id="Journal_FallenSpire_28_FifthCityShardSignalSurveyed_ShortTitle">Обнаружен Сигнал на $planetName.</ln>
+<!-- EN: Our Spire allies have located another signal on $planetName. -->
 <ln id="Journal_FallenSpire_28_FifthCityShardSignalSurveyed_LongTitle">Наши союзники Spire'ы обнаружили ещё сигнал на $planetName.</ln>
+<!-- EN: 
+From: Dr. Dorothy V. Langstrom
+Xenobiology Lab, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+Our Spire allies have located a fifth city shard on $planetName.  According to their plans, once we construct a fifth city they will be able to escalate operations to a new level.  Undoubtedly, the AI will try to stop us.
+
+Thank you for delivering Richard's message.  I did not expect to hear from him again.  I did not even know that he was actually on a mission.  I had been told that he simply disappeared.
+
+The AI's attacks are ever increasing, and it is likely that the same is happening in NGC 224.  When we are ready, we should move. -->
 <ln id="Journal_FallenSpire_28_FifthCityShardSignalSurveyed_Text">
 От: Док. Дороти В. Лангстром
 Ксенобиологическая Лаборатория, Столичная Станция
@@ -575,8 +1114,16 @@ Enselle-illumin, дети Tellus'а. Победа приближается. Ил
 
 Атаки ИИ постоянно возрастают, и вполне вероятно, что то же самое происходит на NGC 224. Когда мы будем готовы, нам нужно выдвигаться.</ln>
 
+<!-- EN: Shard Found! -->
 <ln id="Journal_FallenSpire_29_FifthCityShardSurveyed_ShortTitle">Обнаружен Осколок!</ln>
+<!-- EN: We have found another large Shard on $planetName. -->
 <ln id="Journal_FallenSpire_29_FifthCityShardSurveyed_LongTitle">Мы обнаружили другой крупный Осколок на $planetName.</ln>
+<!-- EN: 
+(Transmission from Survey team)
+
+Shard located, check!
+Thrusters online, check!
+AI seriously annoyed, check! -->
 <ln id="Journal_FallenSpire_29_FifthCityShardSurveyed_Text">
 (Сообщение от Исследовательской Команды)
 
@@ -584,8 +1131,23 @@ Enselle-illumin, дети Tellus'а. Победа приближается. Ил
 Двигатели запущены - есть!
 Серьёзно раздражённый ИИ - есть!</ln>
 
+<!-- EN: Shard Recovered! -->
 <ln id="Journal_FallenSpire_30a_FifthCityShardRecovered_ShortTitle">Осколок Восстановлен!</ln>
+<!-- EN: We have recovered another large Shard, and can use it to construct another Spire Colony Ship. -->
 <ln id="Journal_FallenSpire_30a_FifthCityShardRecovered_LongTitle">Мы восстановили ещё один большой Осколок и можем его использовать для создания нового Колониального Корабля Spire'ов</ln>
+<!-- EN: 
+From: Dr. Dorothy V. Langstrom
+Xenobiology Lab, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+The fifth city shard has entered our home system.  When you are ready, please construct the colony ship and begin construction of the fifth city hub.
+
+The Spire are laboring with tremendous intensity.  Apparently my husband's message to Emperor Exaron contained critical data for the manufacture and operation of large Shards within the Milky Way.  They are currently working on designs for a central control facility to be constructed at one of the Spire cities.  I suggest beginning preparations for that project as well.
+
+I should also note that we will likely have to conduct a large amount of our own research to utilize the larger hulls and more advanced technology. -->
 <ln id="Journal_FallenSpire_30a_FifthCityShardRecovered_Text">
 От: Док. Дороти В. Лангстром
 Ксенобиологическая Лаборатория, Столичная Станция
@@ -600,12 +1162,29 @@ Spire'ы трудятся с большой интенсивностью. Вид
 
 Я также хочу заметить, что нам следует провести большой ряд собственных исследований, чтобы суметь использовать более крупные корабли и передовые технологии.</ln>
 
+<!-- EN: Shard Destroyed! -->
 <ln id="Journal_FallenSpire_30b_FifthCityShardDestroyed_ShortTitle">Осколок Уничтожен!</ln>
+<!-- EN: We have failed to recover this Shard. -->
 <ln id="Journal_FallenSpire_30b_FifthCityShardDestroyed_LongTitle">Мы не смогли восстановить осколок.</ln>
+<!-- EN: abc -->
 <ln id="Journal_FallenSpire_30b_FifthCityShardDestroyed_Text">Тут пока текста нет</ln>
 
+<!-- EN: Fifth City Constructed. -->
 <ln id="Journal_FallenSpire_31_FifthCityHubConstructed_ShortTitle">Пятый Город Построен.</ln>
+<!-- EN: We have constructed the hub of another Spire City. -->
 <ln id="Journal_FallenSpire_31_FifthCityHubConstructed_LongTitle">Мы построили центр ещё одного Города Spire'ов.</ln>
+<!-- EN: 
+From: Exaron the Seventh
+
+Enselle-illumin, child of Tellus.
+
+The five cities together.  Wide area subspace field stabilized.
+
+Now, must take it in hand.  With central jewel.  And wield.
+
+In your language it would be "Galactic Capitol".  Misunderstanding possible.  As in all the stories, the savior is the ruler.  It is you who saved us, and not us who will rule over you.  Perhaps soon we will repay this debt.  If we win, we will go back across the void.  Perhaps some will stay, if you allow it.
+
+But the time for those plans has not yet come.  Unless we suceed, it never will. -->
 <ln id="Journal_FallenSpire_31_FifthCityHubConstructed_Text">
 От: Exaron Седьмой
 
@@ -619,8 +1198,30 @@ Enselle-illumin, дети Tellus'а.
 
 Но время для этих планов ещё не пришло. Если мы не победим, оно никогда не наступит.</ln>
 
+<!-- EN: Galactic Capitol Constructed. -->
 <ln id="Journal_FallenSpire_32_GalacticCapitolConstructed_ShortTitle">Построен Галактический Капитолий.</ln>
+<!-- EN: We have constructed a Spire Galactic Capitol. -->
 <ln id="Journal_FallenSpire_32_GalacticCapitolConstructed_LongTitle">Мы построили Галактический Капитолий Spire'ов.</ln>
+<!-- EN: 
+From: Exaron the Seventh
+
+Enselle-illumin, child of Tellus.  At last, we can use our real power.
+
+The machines, they fear, and they will come.  We must meet them.  And then we must crush them.
+
+The one of you we met before.  The one you call "Richard".  He used a phrase from one of your old stories.
+
+Post Tenebras Lux.
+
+
+Speaking of that one.  His other plan.  We will continue to seek.  Perhaps the core can be found.  If the machine is still too strong to crush, we must find it.
+
+
+(the below is an attachment from Dr. Davidson)
+
+Commander, we can now research adapted designs of the Spire Battleship and Spire Dreadnought.  They are truly behemoths of the stars.  With a few of those, and the rest of the Spire fleet, we may be able to carve a path straight to the AI homeworlds and destroy them.
+
+With additional research we can also build Spire colony ships without salvaging additional shards.  If you believe we need additional Spire cities, that can now be accomplished. -->
 <ln id="Journal_FallenSpire_32_GalacticCapitolConstructed_Text">
 От: Exaron Седьмой
 
@@ -642,8 +1243,22 @@ Post Tenebras Lux («Надеюсь на свет после мрака»).
 
 С помощью дополнительных исследований мы сможем создавать колониальные корабли Spire'ов без новых осколков. Если нам действительно понадобятся новые города Spire'ов, то теперь мы можем их построить.</ln>
 
+<!-- EN: Signal Found On $planetName. -->
 <ln id="Journal_FallenSpire_33_CoreShardSignalSurveyed_ShortTitle">Обнаружен Сигнал на $planetName.</ln>
+<!-- EN: Our Spire allies believe they have traced the Core Shard to $planetName. -->
 <ln id="Journal_FallenSpire_33_CoreShardSignalSurveyed_LongTitle">Наши союзники Spire'ы верят, что обнаружили Осколок-Ядро на $planetName.</ln>
+<!-- EN: 
+From: Exaron the Seventh
+
+Enselle-illumin, child of Tellus.
+
+We have found that which once powered my flagship.  It is distant, and its recovery is perilous.  But with it, we can contact my subjects throughout the neighboring galaxies.  And they will be able to come here.
+
+But building the... Transceiver, you would call it.  Building that will take much.  And when it is built, it will take time.  Time, to establish the intergalactic connections.  During that time, the machine will know what we are doing, and will seek to crush us.  Likely, it will send everything it can.  And will not cease.
+
+Perhaps it would be better to attack the machine ourselves.  We can build more cities.  We can build more ships.  Perhaps that would be best.
+
+But if we do again connect the galaxies... The machine will learn what it is to face a superior force, and we will be victorious. -->
 <ln id="Journal_FallenSpire_33_CoreShardSignalSurveyed_Text">
 От: Exaron Седьмой
 
@@ -657,15 +1272,35 @@ Enselle-illumin, дети Tellus'а.
 
 Но если мы снова соединим галактики... Машины узнают, как это - встретиться с превосходящей силой, и мы победим.</ln>
 
+<!-- EN: Shard Found! -->
 <ln id="Journal_FallenSpire_34_CoreShardSurveyed_ShortTitle">Обнаружен осколок!</ln>
+<!-- EN: We have found the Core Shard on $planetName. -->
 <ln id="Journal_FallenSpire_34_CoreShardSurveyed_LongTitle">Мы обнаружили Осколок-Ядро на $planetName.</ln>
+<!-- EN: 
+(Transmission from Survey team)
+
+The shard is ready to be brought home, commander.  Be careful, that thing can put out some SERIOUS power. -->
 <ln id="Journal_FallenSpire_34_CoreShardSurveyed_Text">
 (Сообщение от Исследовательской Команды)
 
 Осколок готов к транспортировке домой, главнокомандующий. Будьте осторожны, это штука может выпустить СЕРЬЁЗНУЮ мощь.</ln>
 
+<!-- EN: Shard Recovered! -->
 <ln id="Journal_FallenSpire_35a_CoreShardRecovered_ShortTitle">Осколок Восстановлен!</ln>
+<!-- EN: We have secured the Core Shard. -->
 <ln id="Journal_FallenSpire_35a_CoreShardRecovered_LongTitle">Мы спасли Осколок-Ядро.</ln>
+<!-- EN: 
+From: Exaron the Seventh
+
+Enselle-illumin, child of Tellus.
+
+My congratulations.  The Core is again ours.  And I thank you.  I imagine it is not obvious to an outsider, but that which we build we build from ourselves.  Not exactly the same type, but that which is Spire, is Spire.  The Core again sings its song.
+
+With this, we can again join the galaxies, and star shall sing to star.  It is probably difficult for those like humans to understand.  No matter, we both share the understanding that either we destroy the machine, or the machine will destroy us.
+
+Remember the risk.  The machine will come, far worse than before.  We can still choose rather to expand our own cities, to defeat the machine ourselves.
+
+The choice is yours. -->
 <ln id="Journal_FallenSpire_35a_CoreShardRecovered_Text">
 От: Exaron Седьмой
 
@@ -679,12 +1314,25 @@ Enselle-illumin, дети Tellus'а.
 
 Выбор за Вами.</ln>
 
+<!-- EN: Shard Destroyed! -->
 <ln id="Journal_FallenSpire_35b_CoreShardDestroyed_ShortTitle">Осколок Уничтожен!</ln>
+<!-- EN: We have failed to recover the Core Shard. -->
 <ln id="Journal_FallenSpire_35b_CoreShardDestroyed_LongTitle">Мы не смогли восстановить осколок.</ln>
+<!-- EN: abc -->
 <ln id="Journal_FallenSpire_35b_CoreShardDestroyed_Text">Тут пока текста нет</ln>
 
+<!-- EN: Transceiver Under Construction. -->
 <ln id="Journal_FallenSpire_36_ExogalacticTransceiverConstructionBegun_ShortTitle">Трансивер в Процессе Постройки.</ln>
+<!-- EN: We have started construction of the Exogalactic Transceiver. -->
 <ln id="Journal_FallenSpire_36_ExogalacticTransceiverConstructionBegun_LongTitle">Мы начали строительство Экзогалактического Трансивера.</ln>
+<!-- EN: 
+From: Exaron the Seventh
+
+Enselle-illumin, child of Tellus.
+
+Thank you for beginning upon this path, for taking this risk.  It is a risk we take together.
+
+The machine comes.  I prepare myself for battle. -->
 <ln id="Journal_FallenSpire_36_ExogalacticTransceiverConstructionBegun_Text">
 От: Exaron Седьмой
 
@@ -694,8 +1342,21 @@ Enselle-illumin, дети Tellus'а.
 
 Машины приближаются. Я готовлюсь к битве.</ln>
 
+<!-- EN: Transceiver Completed. -->
 <ln id="Journal_FallenSpire_37_ExogalacticTransceiverConstructionCompleted_ShortTitle">Трансивер Готов.</ln>
+<!-- EN: We have completed the Exogalactic Transceiver. -->
 <ln id="Journal_FallenSpire_37_ExogalacticTransceiverConstructionCompleted_LongTitle">Мы завершили Экзогалактический Трансивер.</ln>
+<!-- EN: 
+From: Dr. Michael Davidson
+Space Telemetry Lab, Home Command
+
+Commander,
+
+The Exogalactic Transceiver is complete.  I've been watching the skies for a long time, commander, and I have never seen radiation like that.
+
+From what the Spire tell me, tt will take some time to re-establish the intergalactic channels of communication and transit.  During this time, we are in grave peril, as there is simply no way the AI does not know what we are doing.  This is a flare-lit tip-off, commander, and the AI is not stupid.
+
+At this stage, if it truly comes down to it, we need only protect Home Command and the transceiver itself.  One way or the other, this war should be over soon. -->
 <ln id="Journal_FallenSpire_37_ExogalacticTransceiverConstructionCompleted_Text">
 От: Док. Майкл Девидсон
 Телеметрическая Лаборатория, Столичная Станция
@@ -708,8 +1369,19 @@ Enselle-illumin, дети Tellus'а.
 
 На данном этапе, если всё действительно сводится к этому, мы должны защищать только Столичную Станцию и сам Трансивер. Так или иначе, эта война должна скоро закончиться.</ln>
 
+<!-- EN: Imperial Spire Fleet Incoming! -->
 <ln id="Journal_FallenSpire_38_ExogalacticTransitEstablished_ShortTitle">Императорский Флот Spire'ов Приближается!</ln>
+<!-- EN: The Spire intergalactic transit network has been re-established, and help is on the way. -->
 <ln id="Journal_FallenSpire_38_ExogalacticTransitEstablished_LongTitle">Межгалактическая транзитная сеть Spire'ов восстановлена, и помощь уже в пути.</ln>
+<!-- EN: 
+From: Exaron the Seventh
+
+Victory is at hand!
+
+My call has gone out through the galaxies.  And my subjects come to our aid.  Indeed, there are more than I had hoped.  I had feared that the machine had spread too far, and destroyed too many.
+
+Do not rest just yet.  Our fleets shall cleanse this galaxy, but the machine still fights.  Do not drop your guard.
+ -->
 <ln id="Journal_FallenSpire_38_ExogalacticTransitEstablished_Text">
 От: Exaron Седьмой
 
@@ -720,15 +1392,29 @@ Enselle-illumin, дети Tellus'а.
 Но ещё рано отдыхать. Наш флот должен очистить галактику, а машины всё ещё сражаются. Не ослабляйте свою охрану.
 </ln>
 
+<!-- EN: Victory!! -->
 <ln id="Journal_FallenSpire_Win_AssistedGuerilla_ShortTitle">Победа!!</ln>
+<!-- EN: The AI has been defeated.  Our galaxy is free. -->
 <ln id="Journal_FallenSpire_Win_AssistedGuerilla_LongTitle">ИИ был повержен. Наша галактика свободна.</ln>
+<!-- EN: 
+With the destruction of the AI's last Home Command Station, its forces are disorganized and broken.  Between us and our Spire allies, victory is well in hand.
+
+Perhaps now we have learned not to repeat our errors, and can learn more from our new allies. -->
 <ln id="Journal_FallenSpire_Win_AssistedGuerilla_Text">
 С уничтожением последней Командной Станции ИИ его силы стали разорганизованными и разбитыми. Победа в руках у нас и наших союзников Spire'ов.
 
 Теперь мы знаем, как не повторять ошибки, и сможем многому научиться от наших новых союзников.</ln>
 
+<!-- EN: Victory!! -->
 <ln id="Journal_FallenSpire_Win_Empire_ShortTitle">Победа!!</ln>
+<!-- EN: The AI has been defeated.  Our galaxies are free. -->
 <ln id="Journal_FallenSpire_Win_Empire_LongTitle">ИИ был повержен. Наша галактика свободна.</ln>
+<!-- EN: 
+With the destruction of the AI's last Home Command Station, its forces are disorganized and broken.  Between us and our Spire allies, victory is well in hand.
+
+Several Spire cities now glitter in the skies of the ruined planets of our galaxy.  Most of the Spire seek a means to return to their own galaxy, but in gratitude they have offered their technology and aid in restoring these worlds.
+
+Perhaps now we will find a place to rest.  And perhaps one day we will return home. -->
 <ln id="Journal_FallenSpire_Win_Empire_Text">
 С уничтожением последней Командной Станции ИИ его силы стали разорганизованными и разбитыми. Между нами и нашими союзниками Spire'ами, победа в хороших руках.
 
@@ -736,8 +1422,14 @@ Enselle-illumin, дети Tellus'а.
 
 Возможно, теперь мы можем найти своё пристанище. А возможно, однажды мы вернёмся домой.</ln>
 
+<!-- EN: Victory!! -->
 <ln id="Journal_FallenSpire_Win_Alliance_ShortTitle">Победа!!</ln>
+<!-- EN: The AI has been defeated.  Our galaxies are free. -->
 <ln id="Journal_FallenSpire_Win_Alliance_LongTitle">ИИ был повержен. Наша галактика свободна.</ln>
+<!-- EN: 
+With the destruction of the AI's last Home Command Station, its forces are disorganized and broken, and the fleets of the Imperial Spire are sweeping them from the galaxy.  Soon, they will depart to pursue the AI wherever it is found.
+
+The Emperor has returned to NGC 224 to lead his forces in cleansing their own galaxy, and most of the Spire have gone with him.  In gratitude, they have given us the technology required to re-terraform our destroyed worlds.  One day, we may even be able to restore Earth. -->
 <ln id="Journal_FallenSpire_Win_Alliance_Text">
 С уничтожением последней Командной Станции ИИ его силы стали разорганизованными и разбитыми, а императорский флот Spire'ов выметает их из галактики. Скоро они отправятся вслед за остатками ИИ, где бы они не находились.
 

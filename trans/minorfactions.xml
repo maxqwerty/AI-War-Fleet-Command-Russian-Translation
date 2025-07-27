@@ -1,22 +1,41 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
+<!-- EN: Human Marauders -->
 <ln id="HumanMarauders">Мародёры</ln>
+<!-- EN: Hostile human vagabonds who live in deep space and will occasionally raid human or AI planets via traditional propulsion methods (and thus come in from the edge of a system, not from a wormhole).
+
+This faction's intensity can be set from 0-10, where 0 is disabled, 1 is a minimal impact on the game, and 10 can have a dominating impact on the game.  4 is a good middle-ground.  Please note: cranking this up high could result in an extremely difficult and/or annoying scenario.
+
+To increase intensity, left-click the faction's button.  To decrease intensity, right-click the faction's button. -->
 <ln id="HumanMarauders_Desc">Враждебное человеческое отребье, живущее в глубоком космосе и временами нападающее на колонии людей и ИИ. Используют традиционные способы перемещения (они предпочитают появляться не из червоточин).
 
 Интенсивность фракции устанавливается в диапазоне 0-10, где 0 - влияния нет, 1 - минимально, а 10 - доминирующее.  4 - это "золотая" середина.  Прим.: установка на высокий уровень может стать причиной сложного и/или нудного сценария.
 
 Для увеличения интенсивности - нажмите ЛКМ.  Для уменьшения - нажмите ПКМ.</ln>
+<!-- EN: Human Resistance Fighters -->
 <ln id="HumanResistanceFighters">Бойцы Сопротивления</ln>
+<!-- EN: Pockets of human allies still live in deep space around AI planets; when they see you attacking the AI, sometimes they will reveal themselves and join you.
+
+This faction's intensity can be set from 0-10, where 0 is disabled, 1 is a minimal impact on the game, and 10 can have a dominating impact on the game.  4 is a good middle-ground.
+
+To increase intensity, left-click the faction's button.  To decrease intensity, right-click the faction's button. -->
 <ln id="HumanResistanceFighters_Desc">Колонии людей всё ещё живут в глубоком космосе вокруг планет ИИ. Иногда, заметив вашу атаку на планеты ИИ, они проявляют себя и присоединяться к вашим силам.
 
 Интенсивность фракции устанавливается в диапазоне 0-10, где 0 - влияния нет, 1 - минимально, а 10 - доминирующее.  4 - это "золотая" середина.
 
 Для увеличения интенсивности - нажмите ЛКМ.  Для уменьшения - нажмите ПКМ.</ln>
+<!-- EN: Human Colony Rebellions -->
 <ln id="HumanColonyRebellions">Восставшие Колонии</ln>
+<!-- EN: Most human settlements have been destroyed or completely subdued, but every five or so hours one will rise against the machines.  However, these civilians are always outmatched despite their enthusiasm.  If you do not help them take back their planet, they will die and the AI Progress will go up.  Save them, and their unique ship production facilities are yours to use. Only works with galaxy maps with 30+ planets.
+
+This faction's intensity can be set from 0-10, where 0 is disabled, 1 is a minimal impact on the game, and 10 can have a dominating impact on the game.  4 is a good middle-ground.  Please note: cranking this up high could result in an extremely difficult and/or annoying scenario.
+
+To increase intensity, left-click the faction's button.  To decrease intensity, right-click the faction's button. -->
 <ln id="HumanColonyRebellions_Desc">Почти все человеческие колонии были уничтожены или покорены. Но примерно раз в пять часов одна из колоний будет восставать против машин. Однако эти граждане всегда очень слабы, несмотря на их энтузиазм. Если ты не поможешь им вернуть планету, то они погибнут, и прогресс ИИ возрастёт. Помоги им, и в твоём распоряжении окажутся их уникальные производственные мощи. Работает только на картах с 30+ планетами.
 
 Интенсивность фракции устанавливается в диапазоне 0-10, где 0 - влияния нет, 1 - минимально, а 10 - доминирующее.  4 - это "золотая" середина.  Прим.: установка на высокий уровень может стать причиной сложного и/или нудного сценария.
 
 Для увеличения интенсивности - нажмите ЛКМ.  Для уменьшения - нажмите ПКМ.</ln>
+<!-- EN: Length -->
 <ln id="Length">Длина</ln>
 </root>

@@ -1,27 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
+<!-- EN: Fallen Spire -->
 <ln id="FallenSpire">Павшие Spire</ln>
+<!-- EN: "Minor Faction" is something of a misnomer, as enabling this opens up nothing short of a whole new way to play the game.  If you pursue the goals it sets before you, it's much more like a scripted campaign and allows more frontal military confrontation of the AI than the standard game.  You choose how far to pursue the "campaign" events, and you face the consequences for those choices, but if followed all the way through this leads all to an alternate way to win.  If you survive.
+
+This faction's intensity can be set from 0-10, where 0 is disabled, 1 is a minimal impact on the game, and 10 can have a dominating impact on the game.  4 is a good middle-ground.  Please note: cranking this up high could result in an extremely difficult and/or annoying scenario.
+
+To increase intensity, left-click the faction's button.  To decrease intensity, right-click the faction's button. -->
 <ln id="FallenSpire_Desc">"Фракция" - неправильное название, так как её включение открывает ни что иное, как новый способ игры. Если вы последуете задачам, которые она вам поставит, это будет похоже на целую кампанию, и откроет больше военных фронтальных столкновений с ИИ, чем в обычной игре. Вы сами выбираете, как далеко углубляться в "кампанию", а также столкнётесь с последствиями своего выбора, но пройдя весь путь приведёт Вас к альтернативной возможности выиграть. Если Вы выживите.
 
 Интенсивность фракции устанавливается в диапазоне 0-10, где 0 - влияния нет, 1 - минимально, а 10 - доминирующее.  4 - это "золотая" середина.  Прим.: установка на высокий уровень может стать причиной сложного и/или нудного сценария.
 
 Для увеличения интенсивности - нажмите ЛКМ.  Для уменьшения - нажмите ПКМ.</ln>
+<!-- EN: Spire Civilian Leaders -->
 <ln id="SpireCivilianLeaders">Гражданские Лидеры Spire'ов</ln>
+<!-- EN: Up to 10 Spire Civilian Leader Outposts are scattered throughout the galaxy in the control of the AI.  Against their will, every hour each outpost increases the AI Progress by 1 (starting at one minute into the game, and then every hour after that).  You have the choice of either destroying these outposts for colloduing with the AI, or freeing the outposts by capturing the planet from the AI.  When freed, each of these outposts will gratefully decrease the AI Progress by 3 every hour. -->
 <ln id="SpireCivilianLeaders_Desc">По всей галактике разбросано до 10 Застав Гражданских Лидеров под контролем ИИ. Против своей воли, раз в час час каждая застава увеличивает Прогресс ИИ на 1(начиная с первой минуты игры и дальше каждый час). У вас есть выбор либо уничтожить эти заставы, сговорившиеся с ИИ, либо освободить заставы, захватив планету у ИИ. Освободившись, каждая застава будет с благодарностью уменьшать Прогресс ИИ на 3 каждый час.</ln>
 
+<!-- EN: Spirecraft (Easy) -->
 <ln id="SpirecraftEasy">Spirecraft (Прост)</ln>
+<!-- EN: Six different kinds of asteroids are seeded around the various planets of the galaxy, waiting for you to use your Spire Mining Ships (CONST tab) to build mining enclosures on them.  From these mining enclosures, you can produce the rare and deadly Spirecraft ships, which cannot be procured any other way.  These massive ships can be an enormous asset against the AI.
+
+The EASY version of this minor faction simply gives you the spirecraft with nothing in the way of benefit to the AI.  Consequently, your adjusted score is also halved. -->
 <ln id="SpirecraftEasy_Desc">Шесть различных видов астероидов разбросаны на различных планетах по галактике, ожидая, что вы используете Добытчика Spire'ов (вкладка КОНСТ), чтобы добывать с них ресурсы. Из этих материалов могут быть построены редкие и смертельные Spirecraft корабли, которые нельзя построить иным способом. Эти массивные корабли могут оказать огромную помощь в борьбе с ИИ.
 
 ЛЁГКАЯ версия этой фракции просто даст вам Spirecraft без чего-либо полезного для ИИ. Соответственно, Ваши получаемые очки уменьшены вдвое.</ln>
 
+<!-- EN: Spirecraft (Moderate) -->
 <ln id="SpirecraftModerate">Spirecraft (Средний)</ln>
+<!-- EN: Six different kinds of asteroids are seeded around the various planets of the galaxy, waiting for you to use your Spire Mining Ships (CONST tab) to build mining enclosures on them.  From these mining enclosures, you can produce the rare and deadly Spirecraft ships, which cannot be procured any other way.  These massive ships can be an enormous asset against the AI.
+
+The MODERATE version of this minor faction gives you the spirecraft with a vastly higher energy cost, and without the ability to repair them (though some like the Martyr and Shield Bearer cannot be repaired on easy or hard either).
+
+Using the moderate version will automatically disable the easy version if the easy version is also selected. -->
 <ln id="SpirecraftModerate_Desc">Шесть различных видов астероидов разбросаны на различных планетах по галактике, ожидая, что вы используете Добытчика Spire'ов (вкладка КОНСТ), чтобы добывать с них ресурсы. Из этих материалов могут быть построены редкие и смертельные Spirecraft корабли, которые нельзя построить иным способом. Эти массивные корабли могут оказать огромную помощь в борьбе с ИИ.
 
 СРЕДНЯЯ версия этой фракции даст вам Spirecraft со значительно большим потреблением энергии и без возможности починки (хотя такие, как Мученики и Щитоносцы не могут быть починены и при лёгком и сложном варианте).
 
 Использование тяжёлой версии автоматически отключит лёгкую версию, если она была выбрана.</ln>
 
+<!-- EN: Spirecraft (Hard) -->
 <ln id="SpirecraftHard">Spirecraft (Сложный)</ln>
+<!-- EN: Six different kinds of asteroids are seeded around the various planets of the galaxy, waiting for you to use your Spire Mining Ships (CONST tab) to build mining enclosures on them.  From these mining enclosures, you can produce the rare and deadly Spirecraft ships, which cannot be procured any other way.  These massive ships can be an enormous asset against the AI.
+
+The HARD version of this minor faction gives you the spirecraft at their base energy requirements with no repair restrictions.  However, whether or not you choose to capture any spirecraft, the AI periodically launches large exogalactic strikeforces against you  - -  so you're highly advised to get some spirecraft in order to survive.
+
+Using the hard version will automatically disable the easy and moderate versions if either of them is also selected.
+
+This faction's intensity can be set from 0-10, where 0 is disabled, 1 is a minimal impact on the game, and 10 can have a dominating impact on the game.  4 is a good middle-ground.  Please note: the only thing that changes with intensity for Spirecraft (Hard) is the strength of the exogalactic strikeforces, and cranking this up high could result in an extremely difficult and/or annoying scenario.
+
+To increase intensity, left-click the faction's button.  To decrease intensity, right-click the faction's button. -->
 <ln id="SpirecraftHard_Desc">Шесть различных видов астероидов разбросаны на различных планетах по галактике, ожидая, что вы используете Добытчика Spire'ов (вкладка КОНСТ), чтобы добывать с них ресурсы. Из этих материалов могут быть построены редкие и смертельные Spirecraft корабли, которые нельзя построить иным способом. Эти массивные корабли могут оказать огромную помощь в борьбе с ИИ.
 
 СРЕДНЯЯ версия этой фракции даст вам Spirecraft со обычным потреблением энергии и без возможности починки. Вместе с тем, решите Вы или нет захватить spirecraft, ИИ будет периодически запускать экзогалактические ударные силы против Вас -- так что советуем получить spirecraft, чтобы выжить.

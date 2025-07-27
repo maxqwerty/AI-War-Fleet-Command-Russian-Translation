@@ -1,18 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
+<!-- EN: Neinzul Rocketry Corps -->
 <ln id="NeinzulRocketryCorps">Ракетный Корпус Neinzul'ов</ln>
+<!-- EN: This Neinzul enclave departed the galaxy long ago, but left Neinzul Warhead Silos scattered around the galaxy that will periodically fire on human planets when their planet is on alert. These silos are never adjacent to the human or AI home planets, and there are typically only 5-6 of these on an 80 planet map (and equivalent numbers on other sizes of maps).
+
+This faction's intensity can be set from 0-10, where 0 is disabled, 1 is a minimal impact on the game, and 10 can have a dominating impact on the game.  4 is a good middle-ground.  Please note: cranking this up high could result in an extremely difficult and/or annoying scenario.
+
+To increase intensity, left-click the faction's button.  To decrease intensity, right-click the faction's button. -->
 <ln id="NeinzulRocketryCorps_Desc">Этот анклав Neinzul'ов покинул галактику давным-давно, но оставил Ракетные Шахты Neinzul'ов, разбросанные по всей галактике, которые будут периодически атаковать планеты людей, когда их планеты будут в состоянии боевой готовности. Шахты никогда не примкнут ни к ИИ, ни к людям; их всего 5-6 на карте из 80 планет (эквивалентное количество на картах с другим количеством планет).
 
 Интенсивность фракции устанавливается в диапазоне 0-10, где 0 - влияния нет, 1 - минимально, а 10 - доминирующее.  4 - это "золотая" середина.  Прим.: установка на высокий уровень может стать причиной сложного и/или нудного сценария.
 
 Для увеличения интенсивности - нажмите ЛКМ.  Для уменьшения - нажмите ПКМ.</ln>
+<!-- EN: Neinzul Preservation Wardens -->
 <ln id="NeinzulPreservationWardens">Заповедные Стражи Neinzul'ов</ln>
+<!-- EN: The Wardens are enthralled by ancestral memories of the great beauty of the celestial realm with its many stars and planets.  They are horrified by rapid resource extraction and the use of nuclear weapons, and will use force against offenders.
+
+This faction's intensity can be set from 0-10, where 0 is disabled, 1 is a minimal impact on the game, and 10 can have a dominating impact on the game.  4 is a good middle-ground.  Please note: cranking this up high could result in an extremely difficult and/or annoying scenario.
+
+To increase intensity, left-click the faction's button.  To decrease intensity, right-click the faction's button. -->
 <ln id="NeinzulPreservationWardens_Desc">Стражи в восторге от великой красоты небесного свода с его разнообразием звёзд и планет. Они в ужасе от быстрой добычи ресурсов и применения ядерного оружия, и будут использовать силу против преступников.
 
 Интенсивность фракции устанавливается в диапазоне 0-10, где 0 - влияния нет, 1 - минимально, а 10 - доминирующее.  4 - это "золотая" середина.  Прим.: установка на высокий уровень может стать причиной сложного и/или нудного сценария.
 
 Для увеличения интенсивности - нажмите ЛКМ.  Для уменьшения - нажмите ПКМ.</ln>
+<!-- EN: Neinzul Roaming Enclaves -->
 <ln id="NeinzulRoamingEnclaves">Скитающиеся Анклавы Neinzul'ов</ln>
+<!-- EN: Various individual enclaves occasionally wander through this part of the galaxy, some acting as an ally to the AI, some as an ally to you, and some attacking everything in sight.
+
+This faction's intensity can be set from 0-10, where 0 is disabled, 1 is a minimal impact on the game, and 10 can have a dominating impact on the game.  4 is a good middle-ground.  Please note: cranking this up high could result in an extremely difficult and/or annoying scenario.
+
+To increase intensity, left-click the faction's button.  To decrease intensity, right-click the faction's button. -->
 <ln id="NeinzulRoamingEnclaves_Desc">Различные отдельные анклавы бродят по этой части галактики, иногда вступая в союз с ИИ, иногда присоединяясь к Вам, а иногда атакуют каждого в поле их зрения.
 
 Интенсивность фракции устанавливается в диапазоне 0-10, где 0 - влияния нет, 1 - минимально, а 10 - доминирующее.  4 - это "золотая" середина.  Прим.: установка на высокий уровень может стать причиной сложного и/или нудного сценария.

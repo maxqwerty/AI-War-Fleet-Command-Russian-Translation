@@ -3,145 +3,237 @@
 <!--Notes:  You do not need to localize the _AltOrder entries, unless you need to make them consistent with the prefix sorting.  Those are for sorting only.-->
 
 <!--2. Basic AI Types-->
+<!-- EN: 2. Go Back Where You Came From -->
 <ln id="EXP1_GoBackWhereYouCameFrom_Bronze">2. Возвращайся, Откуда Пришёл</ln>
+<!-- EN: Win against Zenith Descendant on any difficulty. -->
 <ln id="EXP1_GoBackWhereYouCameFrom_Bronze_Desc">Победите Потомка Zenith'ов на любой сложности.</ln>
 
+<!-- EN: 2. Go Back Where You Came From -->
 <ln id="EXP1_GoBackWhereYouCameFrom_Silver">2. Возвращайся, Откуда Пришёл</ln>
+<!-- EN: Win against Zenith Descendant on difficulty 7 or up. -->
 <ln id="EXP1_GoBackWhereYouCameFrom_Silver_Desc">Победите Потомка Zenith'ов на сложности 7 или выше.</ln>
 
+<!-- EN: 2. Go Back Where You Came From -->
 <ln id="EXP1_GoBackWhereYouCameFrom_Gold">2. Возвращайся, Откуда Пришёл</ln>
+<!-- EN: Win against Zenith Descendant on difficulty 9 or up. -->
 <ln id="EXP1_GoBackWhereYouCameFrom_Gold_Desc">Победите Потомка Zenith'ов на сложности 9 или выше.</ln>
 
+<!-- EN: 2. What A Ninny -->
 <ln id="EXP1_WhatANinny_Bronze">2. Что За Глупец</ln>
+<!-- EN: Win against Shield Ninny on any difficulty. -->
 <ln id="EXP1_WhatANinny_Bronze_Desc">Победите Шута с Щитом на любой сложности.</ln>
 
+<!-- EN: 2. What A Ninny -->
 <ln id="EXP1_WhatANinny_Silver">2. Что За Глупец</ln>
+<!-- EN: Win against Shield Ninny on difficulty 7 or up. -->
 <ln id="EXP1_WhatANinny_Silver_Desc">Победите Шута с Щитом на сложности 7 или выше.</ln>
 
+<!-- EN: 2. What A Ninny -->
 <ln id="EXP1_WhatANinny_Gold">2. Что За Глупец</ln>
+<!-- EN: Win against Shield Ninny on difficulty 9 or up. -->
 <ln id="EXP1_WhatANinny_Gold_Desc">Победите Шута с Щитом на сложности 9 или выше.</ln>
 
+<!-- EN: 2. Do I Seem Heavier To You? -->
 <ln id="EXP1_DoISeemHeavierToYou_Bronze">2. Я Тяжеловат Для Тебя?</ln>
+<!-- EN: Win against Gravity Driller on any difficulty. -->
 <ln id="EXP1_DoISeemHeavierToYou_Bronze_Desc">Победите Гравидрель на любой сложности.</ln>
 
+<!-- EN: 2. Do I Seem Heavier To You? -->
 <ln id="EXP1_DoISeemHeavierToYou_Silver">2. Я Тяжеловат Для Тебя?</ln>
+<!-- EN: Win against Gravity Driller on difficulty 7 or up. -->
 <ln id="EXP1_DoISeemHeavierToYou_Silver_Desc">Победите Гравидрель на сложности 7 или выше.</ln>
 
+<!-- EN: 2. Do I Seem Heavier To You? -->
 <ln id="EXP1_DoISeemHeavierToYou_Gold">2. Я Тяжеловат Для Тебя?</ln>
+<!-- EN: Win against Gravity Driller on difficulty 9 or up. -->
 <ln id="EXP1_DoISeemHeavierToYou_Gold_Desc">Победите Гравидрель на сложности 9 или выше.</ln>
 
+<!-- EN: 2. Don't Open That Door -->
 <ln id="EXP1_DoNotOpenThatDoor_Bronze">2. Дверь Не Открывать</ln>
+<!-- EN: Win against One-Way Doormaster on any difficulty. -->
 <ln id="EXP1_DoNotOpenThatDoor_Bronze_Desc">Победите Повелителя Врат на любой сложности.</ln>
 
+<!-- EN: 2. Don't Open That Door -->
 <ln id="EXP1_DoNotOpenThatDoor_Silver">2. Дверь Не Открывать</ln>
+<!-- EN: Win against One-Way Doormaster on difficulty 7 or up. -->
 <ln id="EXP1_DoNotOpenThatDoor_Silver_Desc">Победите Повелителя Врат на сложности 7 или выше.</ln>
 
+<!-- EN: 2. Don't Open That Door -->
 <ln id="EXP1_DoNotOpenThatDoor_Gold">2. Дверь Не Открывать</ln>
+<!-- EN: Win against One-Way Doormaster on difficulty 9 or up. -->
 <ln id="EXP1_DoNotOpenThatDoor_Gold_Desc">Победите Повелителя Врат на сложности 9 или выше.</ln>
 
 <!--3. Moderate AI Types-->
+<!-- EN: 3. Skewered Lizard -->
 <ln id="EXP1_SkeweredLizard_Bronze">3. Шашлык Из Ящерицы</ln>
+<!-- EN: Win against Camouflager on any difficulty. -->
 <ln id="EXP1_SkeweredLizard_Bronze_Desc">Победите Камуфляжа на любой сложности.</ln>
 
+<!-- EN: 3. Skewered Lizard -->
 <ln id="EXP1_SkeweredLizard_Silver">3. Шашлык Из Ящерицы</ln>
+<!-- EN: Win against Camouflager on difficulty 7 or up. -->
 <ln id="EXP1_SkeweredLizard_Silver_Desc">Победите Камуфляжа на сложности 7 или выше.</ln>
 
+<!-- EN: 3. Skewered Lizard -->
 <ln id="EXP1_SkeweredLizard_Gold">3. Шашлык Из Ящерицы</ln>
+<!-- EN: Win against Camouflager on difficulty 9 or up. -->
 <ln id="EXP1_SkeweredLizard_Gold_Desc">Победите Камуфляжа на сложности 9 или выше.</ln>
 
+<!-- EN: 3. I Like Trying New Things -->
 <ln id="EXP1_ILikeTryingNewThings_Bronze">3. Мне Нравится Пробовать Новое</ln>
+<!-- EN: Win against Experimentalist on any difficulty. -->
 <ln id="EXP1_ILikeTryingNewThings_Bronze_Desc">Победите Экспериментатора на любой сложности.</ln>
 
+<!-- EN: 3. I Like Trying New Things -->
 <ln id="EXP1_ILikeTryingNewThings_Silver">3. Мне Нравится Пробовать Новое</ln>
+<!-- EN: Win against Experimentalist on difficulty 7 or up. -->
 <ln id="EXP1_ILikeTryingNewThings_Silver_Desc">Победите Экспериментатора на сложности 7 или выше.</ln>
 
+<!-- EN: 3. I Like Trying New Things -->
 <ln id="EXP1_ILikeTryingNewThings_Gold">3. Мне Нравится Пробовать Новое</ln>
+<!-- EN: Win against Experimentalist on difficulty 9 or up. -->
 <ln id="EXP1_ILikeTryingNewThings_Gold_Desc">Победите Экспериментатора на сложности 9 или выше.</ln>
 
+<!-- EN: 3. Captain, We're Taking Damage -->
 <ln id="EXP1_CaptainWeAreTakingDamage_Bronze">3. Капитан, Нас Подбили</ln>
+<!-- EN: Win against Starfleet Commander on any difficulty. -->
 <ln id="EXP1_CaptainWeAreTakingDamage_Bronze_Desc">Победите Космического Командора на любой сложности.</ln>
 
+<!-- EN: 3. Captain, We're Taking Damage -->
 <ln id="EXP1_CaptainWeAreTakingDamage_Silver">3. Капитан, Нас Подбили</ln>
+<!-- EN: Win against Starfleet Commander on difficulty 7 or up. -->
 <ln id="EXP1_CaptainWeAreTakingDamage_Silver_Desc">Победите Космического Командора на сложности 7 или выше.</ln>
 
+<!-- EN: 3. Captain, We're Taking Damage -->
 <ln id="EXP1_CaptainWeAreTakingDamage_Gold">3. Капитан, Нас Подбили</ln>
+<!-- EN: Win against Starfleet Commander on difficulty 9 or up. -->
 <ln id="EXP1_CaptainWeAreTakingDamage_Gold_Desc">Победите Космического Командора на сложности 9 или выше.</ln>
 
+<!-- EN: 3. Slow Down! -->
 <ln id="EXP1_SlowDown_Bronze">3. Помедленнее!</ln>
+<!-- EN: Win against Speed Racer on any difficulty. -->
 <ln id="EXP1_SlowDown_Bronze_Desc">Победите Гонщика на любой сложности.</ln>
 
+<!-- EN: 3. Slow Down! -->
 <ln id="EXP1_SlowDown_Silver">3. Помедленнее!</ln>
+<!-- EN: Win against Speed Racer on difficulty 7 or up. -->
 <ln id="EXP1_SlowDown_Silver_Desc">Победите Гонщика на сложности 7 или выше.</ln>
 
+<!-- EN: 3. Slow Down! -->
 <ln id="EXP1_SlowDown_Gold">3. Помедленнее!</ln>
+<!-- EN: Win against Speed Racer on difficulty 9 or up. -->
 <ln id="EXP1_SlowDown_Gold_Desc">Победите Гонщика на сложности 9 или выше.</ln>
 
+<!-- EN: 3. Kumbaya -->
 <ln id="EXP1_Kumbaya_Bronze">3. Кумбайа</ln>
+<!-- EN: Win against Peacemaker on any difficulty. -->
 <ln id="EXP1_Kumbaya_Bronze_Desc">Победите Миротворца на любой сложности.</ln>
 
+<!-- EN: 3. Kumbaya -->
 <ln id="EXP1_Kumbaya_Silver">3. Кумбайа</ln>
+<!-- EN: Win against Peacemaker on difficulty 7 or up. -->
 <ln id="EXP1_Kumbaya_Silver_Desc">Победите Миротворца на сложности 7 или выше.</ln>
 
+<!-- EN: 3. Kumbaya -->
 <ln id="EXP1_Kumbaya_Gold">3. Кумбайа</ln>
+<!-- EN: Win against Peacemaker on difficulty 9 or up. -->
 <ln id="EXP1_Kumbaya_Gold_Desc">Победите Миротворца на сложности 9 или выше.</ln>
 
+<!-- EN: 3. You Guys Are Mean -->
 <ln id="EXP1_YouGuysAreMean_Bronze">3. Вы Ребята Молодцы</ln>
+<!-- EN: Win against Tag Teamer on any difficulty. -->
 <ln id="EXP1_YouGuysAreMean_Bronze_Desc">Победите Эстафетчика на любой сложности.</ln>
 
+<!-- EN: 3. You Guys Are Mean -->
 <ln id="EXP1_YouGuysAreMean_Silver">3. Вы Ребята Молодцы</ln>
+<!-- EN: Win against Tag Teamer on difficulty 7 or up. -->
 <ln id="EXP1_YouGuysAreMean_Silver_Desc">Победите Эстафетчика на сложности 7 или выше.</ln>
 
+<!-- EN: 3. You Guys Are Mean -->
 <ln id="EXP1_YouGuysAreMean_Gold">3. Вы Ребята Молодцы</ln>
+<!-- EN: Win against Tag Teamer on difficulty 9 or up. -->
 <ln id="EXP1_YouGuysAreMean_Gold_Desc">Победите Эстафетчика на сложности 9 или выше.</ln>
 
 <!--3. Minor Factions-->
+<!-- EN: 3. Discounts Not Accepted -->
 <ln id="EXP1_DiscountsNotAccepted_Silver">3. Скидки Не Действуют</ln>
+<!-- EN: Win with the Zenith Traders minor faction enabled on any difficulty. -->
 <ln id="EXP1_DiscountsNotAccepted_Silver_Desc">Победите с включённой фракцией Торговцев Zenith'ов на любой сложности.</ln>
 
+<!-- EN: 3. Forget The Indigenous -->
 <ln id="EXP1_ForgetTheIndigenous_Silver">3. Забудь О Своих Корнях</ln>
-<ln id="EXP1_ForgetTheIndigenous_Silver_Desc">Победите с включённой фракцией Шахтёров Zenith'ов (интенсивность >= 4) на любой сложности.</ln>
+<!-- EN: Win with the Zenith Miners minor faction (intensity >= 4) enabled on any difficulty. -->
+<ln id="EXP1_ForgetTheIndigenous_Silver_Desc">Победите с включённой фракцией Шахтёров Zenith'ов (интенсивность &gt;= 4) на любой сложности.</ln>
 
+<!-- EN: 3. Power Of The Sun In My Hand -->
 <ln id="EXP1_PowerOfTheSunInMyHand_Silver">3. Мощь Солнца В Моих Руках</ln>
-<ln id="EXP1_PowerOfTheSunInMyHand_Silver_Desc">Победите с включённой Сферой Дайсона Zenith'ов (интенсивность >= 4) на любой сложности.</ln>
+<!-- EN: Win with the Zenith Dyson Sphere minor faction (intensity >= 4) enabled on any difficulty. -->
+<ln id="EXP1_PowerOfTheSunInMyHand_Silver_Desc">Победите с включённой Сферой Дайсона Zenith'ов (интенсивность &gt;= 4) на любой сложности.</ln>
 
+<!-- EN: 3. Insatiable -->
 <ln id="EXP1_Insatiable_Silver">3. Ненасытный</ln>
+<!-- EN: Win with the Zenith Devourer minor faction enabled on any difficulty. -->
 <ln id="EXP1_Insatiable_Silver_Desc">Победите с включённой фракцией Пожиратель Zenith'ов на любой сложности.</ln>
 
 <!--4. Hard AI Types-->
 
+<!-- EN: 4. Pipe Down! -->
 <ln id="EXP1_PipeDown_Bronze">4. Снизь Свой Тон!</ln>
+<!-- EN: Win against Alarmist on any difficulty. -->
 <ln id="EXP1_PipeDown_Bronze_Desc">Победите Паникёра на любой сложности.</ln>
 
+<!-- EN: 4. Pipe Down! -->
 <ln id="EXP1_PipeDown_Silver">4. Снизь Свой Тон!</ln>
+<!-- EN: Win against Alarmist on difficulty 7 or up. -->
 <ln id="EXP1_PipeDown_Silver_Desc">Победите Паникёра на сложности 7 или выше.</ln>
 
+<!-- EN: 4. Pipe Down! -->
 <ln id="EXP1_PipeDown_Gold">4. Снизь Свой Тон!</ln>
+<!-- EN: Win against Alarmist on difficulty 9 or up. -->
 <ln id="EXP1_PipeDown_Gold_Desc">Победите Паникёра на сложности 9 или выше.</ln>
 
+<!-- EN: 4. Bulletproof Vest -->
 <ln id="EXP1_BulletproofVest_Bronze">4. Бронежилет</ln>
+<!-- EN: Win against Raid Engine on any difficulty. -->
 <ln id="EXP1_BulletproofVest_Bronze_Desc">Победите Налётчика на любой сложности.</ln>
 
+<!-- EN: 4. Bulletproof Vest -->
 <ln id="EXP1_BulletproofVest_Silver">4. Бронежилет</ln>
+<!-- EN: Win against Raid Engine on difficulty 7 or up. -->
 <ln id="EXP1_BulletproofVest_Silver_Desc">Победите Налётчика на сложности 7 или выше.</ln>
 
+<!-- EN: 4. Bulletproof Vest -->
 <ln id="EXP1_BulletproofVest_Gold">4. Бронежилет</ln>
+<!-- EN: Win against Raid Engine on difficulty 9 or up. -->
 <ln id="EXP1_BulletproofVest_Gold_Desc">Победите Налётчика на сложности 9 или выше.</ln>
 
+<!-- EN: 4. The Bigger They Are... -->
 <ln id="EXP1_TheBiggerTheyAre_Bronze">4. Чем Они Больше...</ln>
+<!-- EN: Win against Golemite on any difficulty. -->
 <ln id="EXP1_TheBiggerTheyAre_Bronze_Desc">Победите Големита на любой сложности.</ln>
 
+<!-- EN: 4. The Bigger They Are... -->
 <ln id="EXP1_TheBiggerTheyAre_Silver">4. Чем Они Больше...</ln>
+<!-- EN: Win against Golemite on difficulty 7 or up. -->
 <ln id="EXP1_TheBiggerTheyAre_Silver_Desc">Победите Големита на сложности 7 или выше.</ln>
 
+<!-- EN: 4. The Bigger They Are... -->
 <ln id="EXP1_TheBiggerTheyAre_Gold">4. Чем Они Больше...</ln>
+<!-- EN: Win against Golemite on difficulty 9 or up. -->
 <ln id="EXP1_TheBiggerTheyAre_Gold_Desc">Победите Големита на сложности 9 или выше.</ln>
 
+<!-- EN: 4. I Hate Raspberry! -->
 <ln id="EXP1_IHateRaspberry_Bronze">4. Я Ненавижу Малину!</ln>
+<!-- EN: Win against Radar Jammer on any difficulty. -->
 <ln id="EXP1_IHateRaspberry_Bronze_Desc">Победите Глушителя Радаров на любой сложности.</ln>
 
+<!-- EN: 4. I Hate Raspberry! -->
 <ln id="EXP1_IHateRaspberry_Silver">4. Я Ненавижу Малину!</ln>
+<!-- EN: Win against Radar Jammer on difficulty 7 or up. -->
 <ln id="EXP1_IHateRaspberry_Silver_Desc">Победите Глушителя Радаров на сложности 7 или выше.</ln>
 
+<!-- EN: 4. I Hate Raspberry! -->
 <ln id="EXP1_IHateRaspberry_Gold">4. Я Ненавижу Малину!</ln>
+<!-- EN: Win against Radar Jammer on difficulty 9 or up. -->
 <ln id="EXP1_IHateRaspberry_Gold_Desc">Победите Глушителя Радаров на сложности 9 или выше.</ln>
 </root>

@@ -1,36 +1,57 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
 
+<!-- EN: Nomad Beacon On Non-Nomad Planet Provoking Exogalactic Attack In {0} -->
 <ln id="NomadBeacon_Exo">Кочевой Маяк на некочевой планете спровоцировал экзогалактическую атаку за {0}</ln>
+<!-- EN: Exodian Blade Provoking Exogalactic Attack In {0} -->
 <ln id="ExodianBlade_Exo">Exodian Blade спровоцировал экзогалактическую атаку за {0}</ln>
+<!-- EN: Discovered that {0} is {1} hops from the Exile. -->
 <ln id="DiscoveredThatPlanetIsXHopsFromExile">Обнаружено, что {0} в {1} прыжках от Изгнанника.</ln>
 
+<!-- EN: Mime -->
 <ln id="TAIMime">Мим</ln>
+<!-- EN: Normally when you lose units in AI territory the "salvage" is put towards a "reprisal" wave composed of normal AI units.  The Mime will actually try to use the specific types of units you lost to create that salvage (even if that AI cannot normally put units of that type into a wave).  If you use superweapons this can be... very painful. -->
 <ln id="NAIMime">Обычно, теряя юнитов на територии ИИ "уничтоженные" составляют "карательную" волну, состоящую из обычных юнитов ИИ. Мим попробует создавать специфичные типы юнитов, которе вы теряете, чтобы создать карателей (даже если обычно ИИ не может добавить эти корабли в волну). Если вы используете супероружие, то будет... очень неприятно.</ln>
 
+<!-- EN: Vanguard -->
 <ln id="TAIVanguard">Авангард</ln>
+<!-- EN: Uses Guardians instead of fleet ships or starships for most purposes (waves, reinforcements, etc).  And Guardians are nasty. -->
 <ln id="NAIVanguard">Использует Стражей вместо кораблей или звездолётов для большинства целей (волны, подкрепления и т.п.). А Стражи ужасны.</ln>
 
+<!-- EN: Starship Fanatic -->
 <ln id="TAIStarshipFanatic">Фанат Звездолётов</ln>
+<!-- EN: Goes far beyond the Starfleet Commander, and instead of just getting more starships it uses them instead of fleet ships or guardians for most purposes (waves, reinforcements, etc). -->
 <ln id="NAIStarshipFanatic">Пошёл ещё дальше, чем Космический Командор: берёт больше звездолётов и использует их вместо кораблей и Стражей для большинства целей (волны, подкрепления и т.п.).</ln>
 
+<!-- EN: Cowardly -->
 <ln id="TAICowardly">Трусливый</ln>
+<!-- EN: Prefers engagements where it significantly outnumbers human forces, and is much quicker to retreat in other cases. -->
 <ln id="NAICowardly">Предпочитает драться, когда значительно превосходит силы людей и быстрее отступает в иных случаях.</ln>
 
+<!-- EN: Brutal -->
 <ln id="TAIBrutal">Зверский</ln>
+<!-- EN: Gets an extra "Brutal" core guard post on each homeworld, and gets another such post on each MkIV planet (that isn't too close to the human homeworlds).  Those non-homeworld posts are not protected by the core shield network (if any) but do protect their local command station. -->
 <ln id="NAIBrutal">Добавляет "Зверский" Главный Караульный Пост в каждую Столицу, и добавляет ещё один такой Пост на каждую планету МодIV (которые не очень близки к планетам людей). Эти внестоличные посты не защищены Главной Сетью Щитов, но защищают свою Командную Станцию.</ln>
 
+<!-- EN: Kite Flier -->
 <ln id="TAIKiteFlier">Воздушный Змей</ln>
+<!-- EN: All of its ships "auto kite", maneuvering to stay just barely in firing range of their target. -->
 <ln id="NAIKiteFlier">Все его корабли "автоудаляются", маневрируют, чтобы оставаться на доступном для стрельбы расстоянии.</ln>
 
+<!-- EN: Quadratic -->
 <ln id="TAIQuadratic">Квадратный</ln>
+<!-- EN: With every normal wave it sends, it doubles the minimum strength of wave that it is willing to send.  This tends to lead to waves that take much longer to "charge" (before being announced), but eventually leads to VERY large waves. -->
 <ln id="NAIQuadratic">С каждой отправленной волной, он удваивает силу следующей волны. Как правило, это требует большего времени на подготовку волны(до объявления), но в итоге даёт ОЧЕНЬ большую волну.</ln>
 
+<!-- EN: Overreactive -->
 <ln id="TAIOverreactive">Сверхактивный</ln>
+<!-- EN: Sends much larger Reprisal waves when it accumulates sufficient salvage from human ships dying on its planets. -->
 <ln id="NAIOverreactive">Посылает большие Карательные волны, когда накапливает достаточно уничтоженных человеческих кораблей.</ln>
 
+<!-- EN: Planets are arranged in small and large clusters inside an outer rim.  Sometimes the clusters all connect to each other, other times you have to traverse the rim to get to the other clusters. -->
 <ln id="NMapCookie">Планеты расположены внутри малых и больших кластеров внутри внешнего обода. Иногда кластеры соединяются друг с другом, иногда Вам нужно пройти по ободу, чтобы добраться до другого кластера.</ln>
 
+<!-- EN: A portion of the AI's defensive reinforcements are released as threat instead (and can thus go attack you immediately).  A higher intensity setting makes the portion larger. -->
 <ln id="NEXP6_Preemption">Группы защитных подкреплений ИИ выпускаются как Угроза (и могут немедленно атаковать). Больший уровень увеличивает размер групп.</ln>
 
 </root>

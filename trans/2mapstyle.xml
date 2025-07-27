@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
+<!-- EN: Concentric -->
 <ln id="EXP2_ConcentricCircles">Концентрическая</ln>
+<!-- EN: X -->
 <ln id="EXP2_XShaped">X</ln>
 </root>

@@ -1,126 +1,227 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
 
 <!-- Universal tutorial text -->
+<!-- EN: [...Press Enter Key Or Click Here To Continue...] -->
 <ln id="All_Cmplt">[...Нажмите Enter, чтобы продолжить...]</ln>
+<!-- EN: [...Complete The Above Steps To Continue...] -->
 <ln id="All_Incmplt">[...Выполните перечисленные действия, чтобы продолжить...]</ln>
 
 
 <!-- Basic Tutorial 1 text -->
 
+<!-- EN: Basic Tutorial 1: Exploring The Galaxy -->
 <ln id="Bas_1Wel_1">Базовое обучение 1: Исследование Галактики</ln>
+<!-- EN: Welcome!  Here you'll learn some useful skills on how to explore. -->
 <ln id="Bas_1Wel_2">Добро пожаловать! Здесь вы узнаете, как осуществляется исследование галактики.</ln>
+<!-- EN:      New to Real-Time Strategy games?
+     In RTS games, as in Chess, "you" aren't represented by any ship in the game.
+     You're a distant commander, issuing orders to your fleet through a mobile camera that you zoom and pan. -->
 <ln id="Bas_1Wel_3">     Не играли в стратегии в реальном времени (RTS)?
      В RTS, как и в шахматах, вы играете за несколько кораблей.
      Вы удалённый командующий, раздающий команды с помощью мобильной камеры.</ln>
+<!-- EN:      TIP #1:  If at any point you want to pause, press P.  This works in regular games, too.
+     TIP #2:  You can hide these instructions at any time by holding the Alt key (this also works for chat in-game). -->
 <ln id="Bas_1Wel_4">     СОВЕТ #1: Если вы захотите приостановить игру, нажмите клавишу P. Пауза работает и в обычной игре.
      СОВЕТ #2:  Вы можете скрыть эти инструкции в любое время нажав Alt (это также работает в Игровом Чате).</ln>
 
+<!-- EN: We've started you off with a scout in addition to your home command station. -->
 <ln id="Bas_Home_1">Для начала мы снабдили вас разведчиком и Столичной Командной Станцией.</ln>
+<!-- EN:      VERY IMPORTANT:  Home Command Stations are the most vital unit.
+     Whichever team loses all of theirs first, loses the game.
+     If this were Chess, your Home Command Station would be your king. -->
 <ln id="Bas_Home_2">     ОЧЕНЬ ВАЖНО:  Столичная Командная Станция - ваш самый главный объект в игре. 
      Команда, потерявшая все Столичные Командные Станции, проигрывает.
      Если продолжить аналогию с шахматами, то Столичная Командная Станция - это Король.</ln>
+<!-- EN: Try selecting your home command station now. -->
 <ln id="Bas_Home_3">Теперь выберите вашу Командную Станцию.</ln>
+<!-- EN:      - Left-click the home command station.
+     - Alternatively, Left-click and drag a box around the home command station. -->
 <ln id="Bas_Home_4">     - Кликните Левой Кнопкой Мыши (ЛКМ) на Столичной Командной Станции.
      - Другой способ выбора: зажмите ЛКМ и растяните мышью квадрат вокруг Командной Станции.</ln>
 
+<!-- EN: Let's do a little scouting.  First, select your scout. -->
 <ln id="Bas_SelScout_1">Давайте немного исследуем территорию. Выберите Дрона-Разведчика.</ln>
+<!-- EN:      - Left-click the scout.
+     - Alternatively, Left-click and drag a box around the scout. -->
 <ln id="Bas_SelScout_2">     - Кликните Левой Кнопкой Мыши (ЛКМ) по Дрону-Разведчику.
      - Другой способ выбора: зажмите ЛКМ и растяните квадрат вокруг Дрона-Разведчика.</ln>
+<!-- EN: By dragging a selection box around ships, you can select many at once  - -  we'll
+remind you of that later. -->
 <ln id="Bas_SelScout_3">Растягивая рамку ещё больше, вы можете одновременно выбрать множество кораблей -- мы
 напомним вам об этом позже.</ln>
 
+<!-- EN: Great work!  Now that you've selected your scout, let's move it across the map.
+The area of the map is quite vast, however  - -  if you try to scroll while zoomed all the way in, you'll never make it. -->
 <ln id="Bas_ZoomOut_1">Отличная работа! Вы выбрали Разведчика, теперь давайте подвигаем его по карте.
 Площадь карты достаточно обширна, поэтому Вы вряд ли сможете довести камеру до края карты при максимальном увеличении масштаба.</ln>
+<!-- EN: Zoom all the way out. -->
 <ln id="Bas_ZoomOut_2">Уменьшите масштаб до минимума.</ln>
+<!-- EN:      - The easiest way to zoom is with your wheel mouse  - -  you are playing this with a wheel mouse, right?
+     - Alternatively, you can use the Page Up and Page Down keys.
+     - To quickly go to specific zoom levels, you can also use the Q, W, E, and R hotkeys. -->
 <ln id="Bas_ZoomOut_3">     - Лучше всего менять масштаб с помощью колеса мыши - вы ведь пользуетесь мышкой с колёсиком?
      - Другой способ: нажимайте клавиши Page Up и Page Down.
      - Чтобы быстро переключиться на определённый масштаб, можете пользоваться клавишами Q, W, E и R.</ln>
+<!-- EN:      TIP #1: The wheel mouse is easiest to use, because it's more precise. -->
 <ln id="Bas_ZoomOut_4">     СОВЕТ #1: С помощью колеса мыши вы сможете менять масштаб с большой точностью.</ln>
+<!-- EN:                    When zooming in using the mouse wheel or the paging buttons, it zooms in on your cursor. -->
 <ln id="Bas_ZoomOut_5">                   При изменении масштаба камера будет приближаться к месту, на котором стоит ваш курсор.</ln>
+<!-- EN:      TIP #2: During gameplay, don't forget about zoom.
+                   You'll often want to zoom in to see details, or out to see the big picture. -->
 <ln id="Bas_ZoomOut_6">     СОВЕТ #2: Не забывайте об изменении масштаба во время игры. Вам придётся часто увеличивать
                     масштаб, чтобы разглядеть детали, и удалять камеру, чтобы окинуть взглядом поле боя целиком.</ln>
 
+<!-- EN: Excellent!  Now that you've zoomed out, you can pan around easily. -->
 <ln id="Bas_ZoomInfo_1">Отлично! Теперь, когда вы видите картину в целом, вы можете с лёгкостью перемещать камеру по всей карте.</ln>
+<!-- EN:      Put the mouse cursor at the edge of the screen to pan, or use the arrow keys. -->
 <ln id="Bas_ZoomInfo_2">     Поместите курсор мыши на границе экрана, чтобы двигать камеру, или используйте клавиши со стрелками.</ln>
+<!-- EN: During the game, you'll often want to adjust your zoom to get the ideal view of the map. -->
 <ln id="Bas_ZoomInfo_3">В течение игры вам часто придётся изменять масштаб карты для идеального обзора.</ln>
+<!-- EN:      Selecting multiple units and issuing "move" orders is much easier when zoomed at least partially out.
+     Clicking a specific unit, or placing a new unit precisely, is much easier when zoomed in. -->
 <ln id="Bas_ZoomInfo_4">     Выбирать группы кораблей и указывать направление движения гораздо проще при некотором удалении камеры.
      Выбирать конкретный корабль или указывать место постройки нового проще при максимальном приближении.</ln>
 
+<!-- EN: Let's move your scout.  Make sure that you're still zoomed pretty far out. -->
 <ln id="Bas_MovScout_1">Итак, переместим Разведчика. Убедитесь, что достаточно отдалили камеру.</ln>
+<!-- EN: See those green whirls with the text labels? We want to scout the enemy planet  -->
 <ln id="Bas_MovScout_2a">Видите зелёный вихрь с текстовой биркой? Это червоточина к вражеской планете </ln>       <!-- [name] -->
+<!-- EN: . -->
 <ln id="Bas_MovScout_2b">.</ln>
+<!-- EN: Send your scout over to the  -->
 <ln id="Bas_MovScout_3a">Отправьте вашего разведчика к червоточине </ln>                         <!-- [name] -->
+<!-- EN:  wormhole. -->
 <ln id="Bas_MovScout_3b">.</ln>
+<!-- EN:       - Right-click to issue a move command to your selected units. -->
 <ln id="Bas_MovScout_4">      - Кликните Правой Кнопкой Мыши (ПКМ), чтобы двигать выбранные корабли.</ln>
 
+<!-- EN: While your scout is on the way, let's take a look at the galaxy map. -->
 <ln id="Bas_GalMap_1">Пока ваш разведчик в пути, давайте посмотрим на карту галактики.</ln>
+<!-- EN: Press the TAB key to switch between the view of a single planet and a view of the entire galaxy. -->
 <ln id="Bas_GalMap_2">Нажмите клавишу TAB, чтобы переключаться между видом на одну планету и видом на всю галактику.</ln>
+<!-- EN:      TIP: You will routinely be switching between these two views throughout the game, so be sure to remember this hotkey. -->
 <ln id="Bas_GalMap_3">     СОВЕТ: Вам часто придётся переключаться между этими двумя видами, поэтому постарайтесь запомнить эту кнопку.</ln>
 
+<!-- EN: Galaxy View will be instrumental for planning and executing your strategy.
+This view shows you all the planets you have explored, as well as an Intel Summary for each one. -->
 <ln id="Bas_GalInfo_1">Галактический Вид будет важным инструментом при планировании стратегии.
 Этот вид показывает все исследованные планеты и разведданные по каждой в отдельности.</ln>
+<!-- EN: Hover over both your planet (yellow) and the enemy (red) planet to see the Intel Summary for each. -->
 <ln id="Bas_GalInfo_2">Наведите курсор на вашу (жёлтая) или вражескую (красная) планету, чтобы увидеть её разведданные.</ln>
+<!-- EN:      - Note the lack of intel on the enemy planet.  We're about to fix that. -->
 <ln id="Bas_GalInfo_3">     - Обратите внимание на отсутствие разведданных с вражеской планеты. Сейчас мы это исправим.</ln>
 
+<!-- EN: Let's go back to our scout. -->
 <ln id="Bas_SwitchView_1">Вернёмся к вашему Разведчику.</ln>
+<!-- EN: To exit Galaxy View, use the TAB key to return to your current planet. -->
 <ln id="Bas_SwitchView_2">Выйдите из галактического вида, нажав клавишу TAB, и Вы вернётесь к текущей планете.</ln>
+<!-- EN:      - Alternatively, Left-click on the planet to which you'd like to switch. -->
 <ln id="Bas_SwitchView_3">     - Другой способ: кликните ЛКМ по планете, на которую вы хотите переключиться.</ln>
+<!-- EN: You'll notice that you currently don't have visibility into any planets but your own.  That's what we're about to fix. -->
 <ln id="Bas_SwitchView_4">Вы можете заметить, что сейчас Вы ничего не видите на других планетах кроме своей.  Именно это мы сейчас и исправим.</ln>
 
+<!-- EN: Let's gather intel about the enemy planet  -->
 <ln id="Bas_Scouting_1a">Давайте соберём побольше информации о вражеской планете </ln>           <!-- [name] -->
+<!-- EN: . -->
 <ln id="Bas_Scouting_1b">.</ln>
+<!-- EN: 1. Select your scout, if it isn't still selected. -->
 <ln id="Bas_Scouting_2">1. Выберите вашего разведчика, если он ещё не выбран.</ln>
+<!-- EN:      NOTE: You can see selected ships, if there are any, in a little panel on the bottom right. -->
 <ln id="Bas_Scouting_3">     ЗАМЕТКА: Вы можете видеть выбранные корабли на маленькой панели внизу-справа.</ln>
+<!-- EN: 2. Issue a wormhole command to your scout. -->
 <ln id="Bas_Scouting_4">2. Прикажите разведчику пройти сквозь червоточину.</ln>
+<!-- EN:      - Hold down the Ctrl key while right-clicking the  -->
 <ln id="Bas_Scouting_5a">     - Удерживая клавишу Ctrl, кликните ПКМ по червоточине </ln>   <!-- [name] -->
+<!-- EN:  wormhole.
+       (In the main view, pan over to the wormhole optionally zoom in to see it better.)
+     - Alternatively, return to the Galaxy Map and right-click  -->
 <ln id="Bas_Scouting_5b">.
        (Наведите камеру на червоточину и приблизьте, чтобы лучше видеть червоточину.)
      - Другой способ: Вернитесь на карту галактики и кликните ПКМ по </ln>               <!-- [name]  -->
+<!-- EN:  while your scout is selected. -->
 <ln id="Bas_Scouting_5c">, пока ваш разведчик выбран.</ln>
 
+<!-- EN: Excellent!  Your scout is on the way to the enemy home planet. -->
 <ln id="Bas_BackToGalMap_1">Отлично! Ваш разведчик на пути к вражеской Столичной планете.</ln>
+<!-- EN: While we wait for it to arrive, let's go back to the Galaxy View (TAB). -->
 <ln id="Bas_BackToGalMap_2">Пока он летит, давайте вернёмся к карте Галактики (TAB).</ln>
 
+<!-- EN: See the P0 through P9 buttons on the left?  Those are the priority buttons.
+They don't affect gameplay, but are essentially a way for you to take notes.
+In a galaxy with 80+ planets, most of which belong to enemies, it can be hard to remember where to go.
+As you explore each planet, you can mark its priority so that you remember how important each planet is to you. -->
 <ln id="Bas_Priority_1">Видите расположенные слева клавиши от П0 до П9? Это кнопки приоритетов.
 Они не влияют на игру, но по сути будут служить пометками.
 В галактике, где более 80 планет, большая часть которых вражеские, трудно запомнить, куда нужно идти.
 По мере исследования галактики вы можете отмечать для себя пометками приоритета важность той или иной планеты.</ln>
+<!-- EN: 1. Use the P9 button (or the hotkey Alt+9) to mark the enemy planet as the highest priorty now.
+2. Then right-click to exit priority-setting mode. -->
 <ln id="Bas_Priority_2">1. Используйте кнопку П9 (или сочетание ALT+9), и отметьте Вражескую планету как самую приоритетную.
 2. Затем кликните ПКМ, чтобы выйти из режима расстановки приоритетов.</ln>
 
+<!-- EN: Excellent  - -  looks like your scout has reached the enemy planet.
+1. You can now hover over the enemy planet to see a full intel summary.
+2. You can also now left-click on the enemy planet in the Galaxy Map to go view it. -->
 <ln id="Bas_GoToEnemy_1">Великолепно - похоже, ваш разведчик достиг вражеской планеты.
 1. Теперь вы можете навести курсор на вражескую планету и увидеть всю информацию о ней.
 2. Вы также можете кликнуть ЛКМ мыши и переключиться на вид этой планеты.</ln>
+<!-- EN:      TIP:  While in the main planetary view, you can also hold Ctrl while left-clicking a wormhole to go through it. -->
 <ln id="Bas_GoToEnemy_2">     СОВЕТ: Находясь на карте планеты, вы можете пройти через червоточину, зажав кнопку Ctrl и кликнув ЛКМ по ней.</ln>
+<!-- EN: Switch your view to the enemy planet. -->
 <ln id="Bas_GoToEnemy_3">Переключитесь на вид планеты врага.</ln>
 
+<!-- EN: You've made it to the enemy home planet!  This concludes Tutorial 1. -->
 <ln id="Bas_1Closing_1">Вы добрались до вражеской планеты! На этом Урок #1 окончен.</ln>
+<!-- EN: You can switch back to your planet using the Galaxy Map or by Ctrl-clicking a wormhole.
+- During the course of a typical game, your team will capture dozens of planets and you'll
+need to get used to switching between them.
+- You'll also need to get used to routing ships between planets, and sending scouts out to get updated intel. -->
 <ln id="Bas_1Closing_2">Вы можете переключиться обратно на свою планету через карту галактики или кликнув Ctrl+ЛКМ по червоточине.
 - В течение игры ваша команда будет захватывать десятки планет, и вам нужно привыкать
 переключаться между ними.
 - Вам также необходимо привыкнуть к перемещению кораблей между планетами и отправке разведчиков за свежей информацией.</ln>
+<!-- EN: In short, remember the basic skills you've learned in this tutorial, because you won't get very far without them! -->
 <ln id="Bas_1Closing_3">Запомните приёмы, показанные в этом уроке, так как без них вы далеко !</ln>
 
 
 <!-- Basic Tutorial 2 text -->
 
+<!-- EN: Basic Tutorial 2: Building Your Economy -->
 <ln id="Bas_2Wel_1">Базовое обучение 2: Налаживаем экономику</ln>
+<!-- EN: Welcome!  Here you'll learn some useful skills on how to manage your inflows and outflows
+of Metal, Knowledge, and Energy. -->
 <ln id="Bas_2Wel_2">Добро пожаловать! Здесь вы научитесь управлять доходами и расходами игровых ресурсов:
 Металл, Наука и Энергия.</ln>
+<!-- EN:      Resources And Costs
+     There isn't any money in this game.  "Costs" refer to how much of the above resources are required. -->
 <ln id="Bas_2Wel_3">     Ресурсы и цены
      В этой игре нет денег. "Цены" подразумевают необходимое количество перечисленных выше ресурсов.</ln>
 
+<!-- EN: First, take a look at your resource indicators: -->
 <ln id="Bas_RIndicate_1">Первым делом взгляните на индикаторы ресурсов:</ln>
+<!-- EN:      Along the top of the screen, from left to right, you can see info for Metal, Energy, and Knowledge. -->
 <ln id="Bas_RIndicate_2">     В верхней части экрана вы можете видеть расположенные слева направо индикаторы Металла, Энергии и Науки.</ln>
+<!-- EN: You have two rows for Metal and Knowledge: -->
 <ln id="Bas_RIndicate_3">У Металла и Науки отображаются две строки:</ln>
+<!-- EN:      1. The top row shows you how much of each resource you've accumulated (and can now spend).
+     2. The bottom row shows you your per-second income of each resource. -->
 <ln id="Bas_RIndicate_4">     1. Верхняя строка показывает сколько каждого ресурса уже собрано (и уже можно потратить).
      2. Нижняя строка показывает скорость изменения количества запасов в секунду.</ln>
 
+<!-- EN: Let's start with Knowledge, the only FINITE resource in the game. -->
 <ln id="Bas_BuildLab_1">Начнём со Науки, единственного НЕБЕСКОНЕЧНОГО ресурса в игре.</ln>
+<!-- EN:      Knowledge is used for unlocking new technologies, which we'll get to later. -->
 <ln id="Bas_BuildLab_2">     Наука используется для открытия новых технологий, о чём мы поговорим позже.</ln>
+<!-- EN: Right now you have + -->
 <ln id="Bas_BuildLab_3a">Сейчас у вас +</ln>                                 <!-- [number] -->
+<!-- EN: /s Knowledge.  To increase that income rate, we need to build more science labs: -->
 <ln id="Bas_BuildLab_3b">/с единиц Науки. Для повышения скорости добычи Науки необходимо построить больше Лабораторий:</ln>
+<!-- EN:      1. Left-click your Command Station (or press the B key), and make sure you are still on the ECON tab (where you start)
+     2. Left-click the button labeled Science Lab (not the Mark 2 one).
+     3. Left-click to place two new labs somewhere near your existing one.
+     - TIP: If you hold shift while clicking to place the first one, you'll only have to click the Science Lab button once.
+       (Right-clicking gets you out of lab-placement mode if you accidentally hold shift while placing the second one.) -->
 <ln id="Bas_BuildLab_4">     1. Кликните ЛКМ по Командной Станции (или нажмите кнопку B) и убедитесь, что у вас выбрана
      закладка ЭКОН (стартовая закладка).
      2. Кликните ЛКМ по кнопке "Лаборатория" (но не Модель II).
@@ -130,68 +231,129 @@
        (клик ПКМ выведет Вас из режима установки лаборатории, если вы случайно удерживали Shift,
 	   когда устанавливали вторую.)</ln>
 
+<!-- EN: Excellent!  Now your other science labs are being built. -->
 <ln id="Bas_BuildEng_1">Отлично! Начинается строительство новой лаборатории.</ln>
+<!-- EN:      - Note that your knowledge income rate won't increase until they are done.
+     - You can hover over the in-progress science labs to see how much longer it will take. -->
 <ln id="Bas_BuildEng_2">     - Заметьте, что скорость получения Науки не изменится, пока строительство не завершится.
      - Если вы наведёте курсор на лабораторию, то увидите, сколько времени осталось до окончания постройки.</ln>
+<!-- EN: Science Labs take time to build.  Let's speed that up by building five more engineers. -->
 <ln id="Bas_BuildEng_3">На постройку уходит некоторое время. Давайте ускорим процесс, построив ещё 5 Инженеров.</ln>
+<!-- EN:      1. Left-click your Command Station (or press the B key) and go to the ECON tab.
+     2. Left-click the button labeled Engineer.
+     3. Hold Ctrl and Left-click to place 5 new Engineers somewhere near your in-progress labs. -->
 <ln id="Bas_BuildEng_4">     1. Кликните ЛКМ по Командной Станции (или нажмите кнопку B) и перейдите на закладку ЭКОН.
      2. Кликните ЛКМ по кнопке "Дрон-Инженер".
      3. Удерживая клавишу Ctrl, кликните ЛКМ 1 раз где-нибудь рядом со строящимися лабораториями.</ln>
 
+<!-- EN: Excellent!  Your Engineers will finish relatively quickly, and then will help build the labs (if they aren't done already). -->
 <ln id="Bas_MetalPoor_1">Отлично! Ваши инженеры построятся относительно быстро и помогут строить лаборатории (если они ещё не готовы).</ln>
+<!-- EN: Let's move on to another resource: Metal. -->
 <ln id="Bas_MetalPoor_2">Теперь давайте перейдём к другому ресурсу: Металлу.</ln>
+<!-- EN:      - Building anything costs metal.
+     - Our command station produces a fair bit of metal every second, but we'll need more. -->
 <ln id="Bas_MetalPoor_3">     - Строительство чего-либо требует металл.
      - Наша Командная Станция производит немного металла, но нам нужно больше.</ln>
 
+<!-- EN: Let's gather some metal.  To do this, build Metal Harvesters at this planet: -->
 <ln id="Bas_BuildMetl_1">Давайте соберём немного металла. Для этого постройте Сборщик Металла на этой планете:</ln>
+<!-- EN:      1. Go to the ECON tab of your Command Station.
+     2. Hold Ctrl and Left-click the button labeled Metal Harvester. -->
 <ln id="Bas_BuildMetl_2">     1. Перейдите к закладке ЭКОН в вашей Командной Станции.
      2. Удерживая кнопку Ctrl, кликните ЛКМ по кнопке "Сборщик металла".</ln>
+<!-- EN: That will automatically fill all of the harvester spots on this planet!
+You can also place them individually, but that takes longer and is not usually needed.
+In fact, you rarely have to manually build these at all.
+Normally they're automatically built on planets you control unless enemies are present. -->
 <ln id="Bas_BuildMetl_3">Это позволит автоматически заполнить сборщиками все источники металла на планете!
 Вы также можете помещать их в ручную, но это занимает больше времени и редко используется.
 Фактически, Вам редко придётся строить их все вручную.
 Обычно они автоматически строятся на контролируемой планете, если на ней отсутствуют враги.</ln>
 
+<!-- EN: Excellent!  Your metal income will be much better in a few moments.
+Remember how we said Knowledge was finite, though? -->
 <ln id="Bas_MoveLabs_1">Отлично! Ваши доходы металла возрастут через несколько мгновений.
 Помните, мы говорили о том, что очки Науки конечны?</ln>
+<!-- EN:      - Your Science Labs have now extracted all the Knowledge they can from this one planet,
+       and will need to be moved to another planet in order for you to have any Knowledge income.
+     - No matter how many labs you build, you can only gather  -->
 <ln id="Bas_MoveLabs_2a">     - Ваши Лаборатории уже извлекли все очки Науки из этой планеты.
        Лаборатории необходимо переместить на другие планеты, чтобы они начали собирать ещё очки Науки.
      - Вне зависимости от количества лабораторий вы можете собрать не более </ln>                <!-- [number] -->
+<!-- EN:  Knowledge per planet (you also start with 10,000).
+     - Normally this process takes longer, but we accelerated it for this tutorial. -->
 <ln id="Bas_MoveLabs_2b"> Науки с каждой планеты
      (изначально у вас 10,000 единиц).
      - Обычно обретение Науки происходит дольше, но в этом уроке мы ускорили его.</ln>
+<!-- EN: Select all three of your science labs. -->
 <ln id="Bas_MoveLabs_3">Выберите все 3 Лаборатории.</ln>
+<!-- EN:      - You can select one lab, and then add the others to your selection by shift-clicking them.
+     - Or you can drag a box around all the labs.
+     - Or you can double-click one of the labs to select all of them that are on the screen.
+     - Or you can left-click the science lab icon on the planetary summary palette at the right of your screen. -->
 <ln id="Bas_MoveLabs_4">     - Вы можете выбрать 1 лабораторию, и затем добавить остальные, удерживая Shift и делая клик ЛКМ по ним.
      - Или, Вы можете использовать рамку выделения вокруг Лабораторий.
      - Или, Вы можете сделать Двойной-клик ЛКМ на одной из лабораторий, чтобы выделить все, видимые на экране.
      - Или, Вы можете сделать клик ЛКМ на иконке лабораторий в Панели информации о планете, справа на экране.</ln>
+<!-- EN: Then send all your labs to another planet (but not the enemy one) to gather more Knowledge. -->
 <ln id="Bas_MoveLabs_5">Теперь отправим все лаборатории на другую планету (но не на вражеские) собирать очки Науки.</ln>
+<!-- EN:      - Remember, with the ships selected you can hold Ctrl and right-click a wormhole.
+     - Alternatively, You can switch to the Galaxy View and just right-click on the planet you want them to go to. -->
 <ln id="Bas_MoveLabs_6">     - Помните, когда корабли выбраны, вы можете удерживая Ctrl сделать клик ПКМ по червоточине.
      - Или Вы можете перейти на Галактическую Карту и следать клик ПКМ на планете, куда хотите отправить корабли.</ln>
 
+<!-- EN: Excellent!  Your science labs move slowly, but when they reach their destination your knowledge income will improve. -->
 <ln id="Bas_SelLab_1">Отлично! Лаборатории двигаются медленно, но когда они прибудут на другую планету, запасы Науки снова будут расти.</ln>
+<!-- EN: Let's take a moment to unlock a new technology. -->
 <ln id="Bas_SelLab_2">А пока давайте откроем новую технологию.</ln>
+<!-- EN:      - Select one of your Science Labs.
+     - If it moves to a new planet, you'll have to go there and reselect it. -->
 <ln id="Bas_SelLab_3">     - Выберите одну из своих лабораторий.
      - Если она на соседней планете, то Вам нужно перейти туда и выбрать лабораторию там.</ln>
+<!-- EN:      TIP #1:  You can quickly select a Lab on the current planet by pressing the S key.
+     TIP #2:  You can quickly select a lab on any planet via the Quick Button palette at the very bottom of the screen. -->
 <ln id="Bas_SelLab_4">     СОВЕТ #1: Вы можете быстро выбрать лабораторию на текущей планете, нажав кнопку S.
      СОВЕТ #2: Вы можете быстро выбрать лабораторию на любой планете, используя "Быструю панель" внизу экрана.</ln>
 
+<!-- EN: There are many technologies to unlock. -->
 <ln id="Bas_Research_1">Существует множество технологий, которые можно открыть.</ln>
+<!-- EN:      - The Mark I-III category gives you more advanced versions of your fleet ships.
+     - The STAR category gives you more advanced starships (powerful offensive ships).
+     - The ECON category gives you higher-level command stations and more economic options.
+     - The SUP category gives you more advanced support ship capabilities.
+     - The TUR category gives you more advanced turrets. -->
 <ln id="Bas_Research_2">     - Категория Моделей I-III позволяет строить продвинутые версии ваших кораблей.
      - Категория ЗВЗД позволяет строить продвинутые звездолёты (мощные атакующие корабли).
      - Категория ЭКОН позволяет открывать новые Командные Станции и другие экономические опции.
      - Категория ЗАЩ позволяет открывать технологии защиты и поддержки.
      - Категория ТУР позволяет строить продвинутые турели.</ln>
+<!-- EN: Let's unlock the Harvester Exo-Shield. -->
 <ln id="Bas_Research_3">Давайте откроем Экзополе Сборщика.</ln>
+<!-- EN:      1. Switch to the SUP category (of the science lab, not the command station!).
+     2. Left-click the button labeled Harvester Exo-Shield. -->
 <ln id="Bas_Research_4">     1. Перейдите в категорию ЗАЩ (в панели Лаборатории, а не Командной Станции).
      2. Кликните ЛКМ по кнопке "Экзополе Сборщика".</ln>
 
+<!-- EN: Excellent!  Now you can build little force fields to cloak and protect your harvesters. -->
 <ln id="Bas_BuildExo_1">Великолепно! Теперь вы можете строить маленькие силовые поля для защиты и сокрытия ваших сборщиков.</ln>
+<!-- EN: TIP:  If you ever build a unit that you later don't want, you can select it and hit the Delete key to scrap it. -->
 <ln id="Bas_BuildExo_2">СОВЕТ: Если Вам оказался не нужен какой-то корабль, выделите его и нажмите кнопку Delete, чтобы разобрать его.</ln>
+<!-- EN: Build a Harvester Exo-Shield. -->
 <ln id="Bas_BuildExo_3">Постройте Экзополе сборщика.</ln>
+<!-- EN:      1. Go back to your Command Station and switch to the SUP category.
+     2. Build the Harvester Exo-Shield right next to (or on) one of your Metal Harvesters. -->
 <ln id="Bas_BuildExo_4">     1. Вернитесь к своей Командной Станции и выберите категорию ЗАЩ.
      2. Постройте Экзополе Сборщика прямо на одном из ваших Сборщиков Металла.</ln>
 
+<!-- EN: Great!  Now let's talk about another resource: Energy. -->
 <ln id="Bas_BuildReac_1">Великолепно! Теперь давайте поговорим о последнем ресурсе - Энергии.</ln>
+<!-- EN:      - Almost all ships use energy, usually between 50 and 200 per ship.
+     - Some ships cost 10,000 or more energy  - -  don't build more of those than you can support!
+     - Energy isn't stockpiled  - -  what you see at the top of the screen is your current net balance,
+       based on how much energy you are currently producing versus how much energy your ships are consuming.
+     - Unlike other resources, you don't harvest energy from a specific spot; just build an Energy Collector anywhere.
+     - You can only have 1 Energy Collector per planet, if you need more energy you can build Matter Converters.
+     - When your ships die, your net energy increases; when you build new ships, it decreases. -->
 <ln id="Bas_BuildReac_2">     - Почти все корабли используют энергию, обычно 50-200 единиц на корабль.
      - Некоторые корабли требуют 10 000 и больше энергии - не стройте такие корабли, если не сможете их обеспечить!
      - Энергия не накапливается - то, что вы видите на индикаторе вверху, - текущая мощность энергосети,
@@ -199,14 +361,26 @@
      - В отличие от металла Вы не собираете энергию из специального места; просто строите Сборщики Энергии, где удобно.
      - Вы можете иметь только 1 Сборщик Энергии на каждой планете. Если Вам нужно больше Энергии, можно построить Преобразователь Материи.
      - Когда ваш корабль погибает, энергобаланс сети возрастает; когда вы строите новый корабль, энергобаланс снижается.</ln>
+<!-- EN: Build a Matter Converter. -->
 <ln id="Bas_BuildReac_3">Постройте Преобразователь Материи.</ln>
+<!-- EN:      1. Go back to your Command Station and switch to the ECON category.
+     2. Build the Matter Converter anywhere you want. -->
 <ln id="Bas_BuildReac_4">     1. Вернитесь к вашей командной станции и выберите категорию ЭКОН.
      2. Постройте Преобразователь Материи, где захотите.</ln>
+<!-- EN:      TIP 1:  Build it near your engineers, and the engineers will help build it faster.
+     TIP 2: Try to build (and defend) a collector on every planet you've taken to avoid needing the expensive converters. -->
 <ln id="Bas_BuildReac_5">     СОВЕТ 1: Поставьте его рядом с вашим инженером, и инженер будет ускорять строительство.
      СОВЕТ 2: Старайтесь строить (и защищайте) Сборщик Энергии на каждой планете, чтобы не строить их заново.</ln>
 
+<!-- EN: You've now managed your income for all three normal resources!  This concludes Tutorial 2. -->
 <ln id="Bas_2Closing_1">Вы научились управлять всеми тремя потоками ресурсов! На этом Урок #2 окончен.</ln>
+<!-- EN: These techniques are central to your ability to create and maintain a fleet. -->
 <ln id="Bas_2Closing_2">Эти навыки являются ключевыми для строительства и поддержки своего флота.</ln>
+<!-- EN: TIP: We didn't touch on ship caps.  Basically, you have a limited number of each type of ship you can build,
+        so you'll want to unlock new ship types to increase the overall size of your fleet.
+        Choosing where to use your weaker versus your stronger ship types  - -  since you will need to build them 
+        all  - -  is a big part of the strategy.
+TIP: We also didn't discuss Hacking.  That's a special resource we'll cover later -->
 <ln id="Bas_2Closing_3">СОВЕТ: Мы не оговорили ограничение на количество кораблей. Вы имеете ограничение на 
         количество кораблей каждого типа, так что Вам понадобится открывать новые типы кораблей для 
         увеличения общего размера своей флотилии. Выбор, где использовать слабые, а где сильные корабли -  
@@ -216,128 +390,243 @@
 
 <!-- Basic Tutorial 3 text -->
 
+<!-- EN: Basic Tutorial 3: Military Operations -->
 <ln id="Bas_3Wel_1">Базовое обучение 3: Военные действия</ln>
+<!-- EN: Welcome!  Here you'll learn some useful skills on how to manage
+your military, how to capture planets, and more. -->
 <ln id="Bas_3Wel_2">Добро пожаловать! В этом уроке мы расскажем вам, как управлять
 флотом, захватывать планеты и кое-что ещё.</ln>
 
+<!-- EN: To build ships on a planet you don't own, you'll need to use a Mobile Builder. -->
 <ln id="Bas_BuildMobl_1">Чтобы строить корабли на чужих вам планетах, вам понадобится Мобильный Строитель.</ln>
+<!-- EN:      - You can use Mobile Builders to build on allied or enemy planets (it builds anything your Command Station builds),
+       but you can't build harvesters except on your team's planets.
+     - Sometimes it pays to have production facilities ("beachheads") on enemy planets, closer to the action. -->
 <ln id="Bas_BuildMobl_2">     - Вы можете использовать Мобильного Строителя на любой планете (он строит то же, что и Командная Станция),
        но вы не можете строить сборщиков металла где-либо, кроме своих планет.
      - Иногда разумнее иметь Верфи на планетах Врага, поближе к линии фронта.</ln>
+<!-- EN: 1. Build a Mobile Builder near the  -->
 <ln id="Bas_BuildMobl_3a">1. Постройте Мобильного Строителя рядом с червоточиной </ln>                 <!-- [name] -->
+<!-- EN:  wormhole. -->
 <ln id="Bas_BuildMobl_3b">.</ln>
+<!-- EN:      - The Mobile Builder is on the CONST (Construction) tab of your Command Station. -->
 <ln id="Bas_BuildMobl_4">     - Мобильный Строитель находится в закладке КОНСТ, в меню Командной Станции.</ln>
+<!-- EN: 2. Build an engineer back near your Command Station (we'll use this in a bit). -->
 <ln id="Bas_BuildMobl_5">2. Постройте инженера рядом с вашей Командной Станцией (мы скоро им воспользуемся).</ln>
 
+<!-- EN: While those are being created, let's take a look at a few really helpful tools. -->
 <ln id="Bas_Mission_1">Пока идёт строительство, давайте взглянем на несколько очень полезных утилит.</ln>
+<!-- EN: Objectives Screen -->
 <ln id="Bas_Mission_2">Экран ЗАДАЧ.</ln>
+<!-- EN:      On your quest to destroy the AI home command stations, you'll have many possible paths to take.
+     Many secondary objectives can help you reach your goal, and which ones you pursue will vary between campaigns.
+     Also, if your play with the Core Shield Generators enabled, you'll need to destroy those before you can win.
+     The objectives screen will tell you which networks still need to be destroyed before you go after the AI homeworlds.
+     The choices you make have an enormous effect on the long-term outcome, as you usually can't do everything.
+ -->
 <ln id="Bas_Mission_3">     Для выполнениея ГЛАВНОЙ цели (уничтожение Столичных Командных Станций ИИ), у Вас будет множество разных путей.
      Второстепенные задачи помогут в достижении этой цели, а выбор, какие из них Вы выполните, будет разным в разных Кампаниях.
      Кроме того, если Вы играете с Генераторами Главного Защитного Поля, Вам нужно будет уничтожить их, чтобы выиграть.
 	На Экране Заданий Вы увидите, какую сеть нужно уничтожить, чтобы попасть в Столичный Мир ИИ.
      Выбор, который Вы сделаете, будет иметь далеко идущие последствия, так как обычно Вы не сможете выполнить все задания.
 </ln>
+<!-- EN: Click the Stats button at the bottom of the screen, then take a look at the Objectives tab. -->
 <ln id="Bas_Mission_4">Нажмите кнопку СТАТ внизу экрана и посмотрите на вкладку Задачи.</ln>
+<!-- EN:      IMPORTANT: The available objectives change and increase as you play, so during campaigns be sure to check back! -->
 <ln id="Bas_Mission_5">     ВАЖНО: Доступные Задачи меняются и добавляются в течение игры, поэтому почаще проверяйте их!</ln>
 
+<!-- EN: Planetary Summary -->
 <ln id="Bas_PlanetSum_1">Сводка по Планете</ln>
+<!-- EN:      The Planetary Summary shows you how many ships of each type you and your allies have on the current planet.
+     It also gives you information about the attack multipliers, hull types, and abilities of each ship type.
+     Sometimes the enemy will have a kind of ship you've never seen, and this is how you find out what to do about it. -->
 <ln id="Bas_PlanetSum_2">     Сводка по Планете - показывает, сколько кораблей каждого типа у Вас и Ваших союзников на этой Планете.
      Также она даёт информацию о боевых множителях, типе корпусов, спец-способностях каждого типа кораблей.
      Иногда у Врага будут типы кораблей, которые Вы ещё не видели. Именно здесь Вы сможете узнать, что с ним делать.</ln>
+<!-- EN: Hover over any of the items on the plantary summary (the palette to the right). -->
 <ln id="Bas_PlanetSum_3">Как и ранее, поместите мышь над любым объектом Сводки о Планете (панель справа).</ln>
+<!-- EN:      TIP: You can press F1 repeatedly to cycle through all the ships in the game this way. -->
 <ln id="Bas_PlanetSum_4">     СОВЕТ: Вы можете нажимать F1 несколько раз для переключения между видами всех кораблей в игре.</ln>
 
+<!-- EN: Now let's build your first military ships. -->
 <ln id="Bas_BuildMili_1">Теперь построим ваши первые военные корабли.</ln>
+<!-- EN:      Fleet ships are built at the Space Dock, while Starships are built at the Starship Constructor.
+     Each ship takes time to build, so in a typical game you will accelerate that with engineers.
+     You can also build ships faster by using multiple Space Docks and Starship Constructors. -->
 <ln id="Bas_BuildMili_2">     Военные корабли строятся на Верфи, в то время как Звездолёты строятся в Звездной Верфи.
      На постройку каждого корабля уходит время, поэтому в обычной игре Вы будете ускорять постройку Инженерами.
     Вы также можете ускорить постройку, создав несколько Верфей и Звездолётных Верфей.</ln>
+<!-- EN: Assign your Engineer to increase construction speed at your Dock. -->
 <ln id="Bas_BuildMili_3">Прикажите инженеру увеличить скорость постройки на Верфи.</ln>
+<!-- EN:      1. Select the Engineer, then right-click the Dock (the Engineer must first be finished building itself). -->
 <ln id="Bas_BuildMili_4">     1. Выберите дрона-инженера, затем кликните ПКМ по верфи (Инженер должен быть полностью построен).</ln>
+<!-- EN: Build one each of Mark I Fighter, Bomber, and Missile Frigate. -->
 <ln id="Bas_BuildMili_5">Постройте по одному кораблю Модели I: Истребитель, Бомбардировщик, Фрегат.</ln>
+<!-- EN:      1. Left-click your Space Dock.
+     2. Left-click each of the three above mentioned buttons once.
+     3. If you want your ships to go to a specific location after they emerge, right-click that location. -->
 <ln id="Bas_BuildMili_6">     1. Кликните ЛКМ по Верфи.
      2. Кликните ЛКМ один раз по каждому названному типу корабля.
      3. Если вы хотите, чтобы корабли после постройки летели в конкретное место, кликните по желаемому месту ПКМ.</ln>
 
+<!-- EN: Let's build more Bombers and Fighters. -->
 <ln id="Bas_DockLoop_1">Построим побольше Бомбардировщиков и Истребителей.</ln>
+<!-- EN:      In a real game, to capture an enemy planet will require you to build hundreds of ships.
+     Having to keep coming back to "refill" each Space Dock with orders would be a real pain, so... -->
 <ln id="Bas_DockLoop_2">     В реальной игре, чтобы захватить планету, вам понадобится построить сотни кораблей.
      Тысячи раз кликать мышкой по необходимому типу корабля было бы довольно утомительно, поэтому...</ln>
+<!-- EN: Set Your Space Dock To Loop Build. -->
 <ln id="Bas_DockLoop_3">Переведите Верфь в режим Циклического Строительства.</ln>
+<!-- EN:      1. While the Space Dock is selected, click the little golden arrow button.
+     This will cause the Space Dock to repeatedly build whatever you put in its queue. -->
 <ln id="Bas_DockLoop_4">     1. Когда выбрана верфь, кликните по кнопке с маленькой золотой стрелочкой.
      Теперь верфь будет повторять заданную последовательность строительства.</ln>
+<!-- EN: Set the Space Dock to build 5 Fighters and 1 Bomber -->
 <ln id="Bas_DockLoop_5">Установите последовательность из 5 Истребителей и 1 Бомбардировщика.</ln>
+<!-- EN:      1. Left-click your Space Dock.
+     2. Left-click five times, or hold the Ctrl key and click once, until there are exactly 5 Fighters queued.
+     3. Just left-click once for the bomber. -->
 <ln id="Bas_DockLoop_6">     1. Кликните ЛКМ по верфи.
      2. Кликните 5 раз ЛКМ (или зажмите Ctrl и кликните один раз), чтобы в очереди оказалось 5 Истребителей.
      3. Кликните 1 раз ЛКМ по Бомбардировщику.</ln>
+<!-- EN:      TIP: If you accidentally queue too many of a type, right-click the type to dequeue ships. -->
 <ln id="Bas_DockLoop_7">     СОВЕТ: Если вы случайно задали слишком много кораблей одного типа, кликните ПКМ по этому типу корабля, чтобы убрать один корабль из очереди.</ln>
 
+<!-- EN: Excellent!  Now you're on your way to having a modest fleet. -->
 <ln id="Bas_DockPause_1">Отлично! Теперь вы на пути к созданию скромного флота.</ln>
+<!-- EN:      If your economy takes a dive for whatever reason (overbuilding, enemy attack, etc),
+     you can use the Pause button in the Space Docks to temporarily stop production.
+     This is much quicker than clearing your queue (right-clicking queue items) and starting over. -->
 <ln id="Bas_DockPause_2">     Если ваша экономика начнёт падать по какой-либо причине (слишком крупное строительство, атаки врагов и т.п.),
      вы можете воспользоваться кнопкой Паузы на Верфи, чтобы временно приостановить строительство.
      Это гораздо быстрее, чем очищать очередь (клик ПКМ по элементу очереди) и заново его составлять потом.</ln>
+<!-- EN: Set Your Space Dock To Pause Building. -->
 <ln id="Bas_DockPause_3">Поставьте на паузу строительство на Верфи.</ln>
+<!-- EN:      1. While the Space Dock is selected, click the Play/Pause button on the topmost row of buttons. -->
 <ln id="Bas_DockPause_4">     1. Когда выбрана верфь, кликните по кнопке "Пауза/Продолжить" в верхнем ряду кнопок.</ln>
+<!-- EN:      TIP: If your economy really takes a dive, you can temporarily pause all your constructors at once:
+     Simply click the CTRLS button below, then check the "Pause All Constructors" checkbox and hit Save.
+	 Later, uncheck the checkbox to get construction going again. -->
 <ln id="Bas_DockPause_5">     СОВЕТ: Если Ваша экономика действительно падает, Вы можете приостановить ВСЕ постройки сразу:
      Нажмите на КНТРЛ внизу, поставьте отметку "Остановить Всех Конструкторов" и нажмите Сохранить.
 	Позже уберите эту отметку, чтобы продолжить строительство.</ln>
 
+<!-- EN: Now let's build on  -->
 <ln id="Bas_Beachhead_1a">Теперь давайте закрепимся на </ln>                                 <!-- [name] -->
+<!-- EN: , an enemy planet. -->
 <ln id="Bas_Beachhead_1b">, вражеской планете.</ln>
+<!-- EN:      1.  Send your Mobile Builder through the wormhole to  -->
 <ln id="Bas_Beachhead_2a">     1. Отправьте вашего мобильного строителя сквозь червоточину </ln>
+<!-- EN: .
+     2.  Build a Starship Constructor and a Space Dock on  -->
 <ln id="Bas_Beachhead_2b">.
      2. Постройте Верфь и Звёздолётную Верфь на планете </ln>                    <!-- [name] -->
+<!-- EN:  (both are under the CONST tab). -->
 <ln id="Bas_Beachhead_2c"> (обе верфи в закладке КОНСТ).</ln>
+<!-- EN: TIP: For the purposes of this tutorial, enemy ships won't attack you unless provoked.
+       In a real game, you'd need to bring some sort of military support along with your constructor.
+       TIP: Did you build your mobile builder annoyingly far from the wormhole?  You can use the +/- keys to speed
+       up and slow down time.  The current speed modifier is shown next to the game clock in the upper left corner. -->
 <ln id="Bas_Beachhead_3">СОВЕТ: для ускорения обучения, вражеские корабли не будут Вас атаковать, пока Вы их не спровоцируете.
      В реальной игре, для защиты вашего строителя нужно отправлять военную поддержку за ним.
        СОВЕТ: Вы построили Мобильного Строителя раздражающе далеко от червоточины?  Вы можете использовать кнопки +/-
        чтобы ускорять и замедлять время.  Текущий множитель скорости рядом с игровыми часами в верхнем левом углу.</ln>
 
+<!-- EN: To save time, we've made 70 Mark III Bombers, Fighters, and Frigates, and a Light Starship for you. -->
 <ln id="Bas_BuildClny_1">Чтобы сэкономить время, мы создали Вам сразу 70 Бомбардировщиков, Истребителей и Фрегатов Модели III и Флагман.</ln>
+<!-- EN: We're almost ready to attack, but first let's get a Colony Ship building. -->
 <ln id="Bas_BuildClny_2">Мы почти готовы атаковать, но сначала давайте построим Корабль-Колонию.</ln>
+<!-- EN:      1. Select your Mobile Builder, look under the CONST tab, and choose Colony Ship. -->
 <ln id="Bas_BuildClny_3">     1. Выберите вашего Мобильного Строителя, в закладке КОНСТ найдите и выберите Корабль-Колонию.</ln>
+<!-- EN:      We can't use this ship yet  - -   -->
 <ln id="Bas_BuildClny_4a">     Пока что мы не можем использовать этот корабль, так как </ln>                 <!-- [name] -->
+<!-- EN:  still belongs to the enemy right now  - -  but this
+     way our Colony Ship will be ready and waiting once we've destroyed the enemy Command Station. -->
 <ln id="Bas_BuildClny_4b"> всё ещё принадлежит врагу, но
      Ваш Корабль-Колония будет готов к колонизации сразу после уничтожения Командной Станции врага.</ln>
 
+<!-- EN: About Command Stations -->
 <ln id="Bas_CommStn_1">О Командных Станциях</ln>
+<!-- EN:      The enemy Command Station on this planet is just a regular one, not a Home one.
+     The regular Command Stations are built by both players and AIs, and don't
+     count toward the victory requirements for killing all enemy HOME Command Stations.
+     They just capture planets. -->
 <ln id="Bas_CommStn_2">     Вражеская Командная Станция на этой планете не является Столичной.
      Обычные командные станции могут строить все игроки и ИИ, и
      их убийство не является необходимым условием для уничтожения Столичных Командных Станций.
      Они предназначены только для захвата планет.</ln>
 
+<!-- EN: Destroy ALL the enemy bombers guarding the Advanced Factory on  -->
 <ln id="Bas_AttackA_1a">Уничтожьте ВСЕ вражеские корабли охраняющие Продвинутую Верфь на планете </ln>  <!-- [name] -->
+<!-- EN: . -->
 <ln id="Bas_AttackA_1b">.</ln>
+<!-- EN:      - Zoom out until you can see the enemy ships, then zoom in and hover over enemy ships to see what they are.
+     - To make your ships attack, just move them within range of the enemy ships and they will fire on their own.
+     - To target specific enemy ships, select your ships and right-click the enemy.
+     - To see the range of your selected ships, or ships that you have the cursor over, hold the Z key.
+	 - You can also use the minimap (hold the T key) to help find the enemy.
+     - Remember: To select many ships, drag a selection box around them (this is easiest when zoomed out). -->
 <ln id="Bas_AttackA_2">     - Отдаляйте камеру, пока не увидите вражеские корабли, затем приблизьте камеру и наведите курсор на корабли, чтобы узнать о них больше.
      - Чтобы ваши корабли атаковали, просто подведите их на расстояние выстрела к цели, и они начнут стрелять сами.
      - Чтобы атаковать конкретный вражеский корабль, выберите ваши корабли и кликните (ПКМ) по кораблю врага.
      - Чтобы увидеть радиус поражения выбранных кораблей (или на которые вы навели курсор), удерживайте кнопку Z.
      - Также Вы можете Использовать Мини-Карту (клавиша T ), чтобы найти врага.
      - Помните: Чтобы выбрать много кораблей сразу, растяните рамку выбора вокруг них (это легче сделать при уменьшенном масштабе).</ln>
+<!-- EN: Your ships won't attack Advanced Research Stations or Factories at all  - -  we want to capture those! -->
 <ln id="Bas_AttackA_3">Ваши корабли не будут атаковать Продвинутые Лаборатории и Фабрики -- нам нужно захватить их!</ln>
 
+<!-- EN: Destroy the enemy Fighters, Command Station and Warp Gate on  -->
 <ln id="Bas_AttackB_1a">Уничтожьте вражеские Истребители, Командную Станцию и Врата на планете </ln>  <!-- [name] -->
+<!-- EN: . -->
 <ln id="Bas_AttackB_1b">.</ln>
+<!-- EN:      - Last time, you may have noticed that your fighters and bombers arrived to the battle far before your frigates.
+     - If that happens again, you're going to lose a lot of extra bombers to those enemy fighters.
+     - This time, hold the G key when you right-click near the enemy ships.
+     - This will issue a Group Move command, so your entire fleet moves as one; very useful in situations such as this. -->
 <ln id="Bas_AttackB_2">     - Сейчас Вы должны знать, что Ваши Истребители и Бомбардировщики прибывают
      к месту битвы намного быстрее более крупных кораблей.
      - Если это произойдёт снова, Вы потеряете много дополнительных Бомбардировщиков из-за Истребителей противника.
      - На этот раз удерживайте кнопку G, когда делаете клик ПКМ рядом с вражескими кораблями.
      - Это позволит кораблям двигаться в Групповом Режиме, так что весь Ваш флот движется как одно целое; очень полезно в ситуациях подобных этой.</ln>
+<!-- EN: Note that your ships will not attack command stations or warp gates unless you tell them to. -->
 <ln id="Bas_AttackB_3">Помните Ваши корабли не будут атаковать Командные Станции или Врата, пока вы не прикажете им.</ln>
+<!-- EN:      When the fighters are dead, tell your ships to attack the command station.  The warp gate will die when it does. -->
 <ln id="Bas_AttackB_4">     Когда все корабли уничтожены, прикажите Вашим кораблям атаковать Командную Станцию. 
      Врата сами будут уничтожены вслед за ней.</ln>
 
+<!-- EN: About AI Progress -->
 <ln id="Bas_AIProg_1">Прогресс ИИ</ln>
+<!-- EN:      When you killed the Command Station and the Warp Gate, the AI Progress indicator (next to your net energy display)
+     went up by a total of twenty. The AI Progress level indicates how strong the AI players are.  As that number
+     goes up, they send increasing numbers of ships, new kinds of ships, and higher level ships. -->
 <ln id="Bas_AIProg_2">     После уничтожения Командной Станции и Врат цифра на индикаторе прогресса ИИ (справа от индикатора энергосети)
      увеличилась на 20 единиц. Уровень прогресса ИИ отражает его силу. По мере увеличения этой цифры
      ИИ посылает больше кораблей, новые типы кораблей и корабли более высокого уровня.</ln>
+<!-- EN: TIP #1: To keep this number low, try not to just take every planet on the map without thinking  - -  the AI will
+          get too "angry" and kill you.  Instead, choose high-value targets and go for those.
+TIP #2: Another way to keep the number of ships the enemy sends against you low (and their technology levels
+          low) is to destroy enemy Data Centers. -->
 <ln id="Bas_AIProg_3">СОВЕТ #1: Чтобы это число не слишком возросло, не захватывайте без раздумья все планеты подряд - ИИ станет
           слишком "злым" и уничтожит вас. Выбирайте самые ценные планеты и захватывайте только их.
 СОВЕТ #2: Другой способ держать число посылаемых вражеских кораблей (и их техническое развитие) на низком 
 		 уровне - это уничтожение вражеских Банков Данных.</ln>
+<!-- EN: If you have not already done so, destroy the Data Center on this planet. -->
 <ln id="Bas_AIProg_4">Если вы ещё не уничтожили Банк Данных на этой планете, сделайте это.</ln>
+<!-- EN:      The AI Progress will return to 10 once you do so. -->
 <ln id="Bas_AIProg_5">     Прогресс ИИ уменьшится до 10, как только вы сделаете это.</ln>
 		  
+<!-- EN: Before we capture  -->
 <ln id="Bas_AttackC_1a">Прежде чем захватить </ln>  <!-- [name] -->
+<!-- EN: , we want to make sure all the enemy forces are cleared off. -->
 <ln id="Bas_AttackC_1b">, мы хотим убедиться, что все вражеские силы уничтожены.</ln>
+<!-- EN:      - The last group of ships are those frigates up by the Advanced Research Station.
+	 - The attack range of those frigates is much larger than that of your bombers.
+	 - If you give a move order short of the target the bombers might not be in range to return fire.
+	 - But if you give a move order past the target the bombers will get closer than they need to.
+	 - That's not a problem here, but there are times you want your units to stop when they can fire.
+	 - To make sure the bombers close to attack range, but stop before getting much closer, use Attack Move.
+	 - By holding X when you right click, your ships will be free to chase after enemies that they see.
+	 - If you wish, you can combine this with Group Move by holding X + G and right-clicking. -->
 <ln id="Bas_AttackC_2">     - Последняя группа кораблей - Фрегаты, сверху от Продвинутой Лаборатории.
 	 - Радиус атаки у Фрегатов гораздо больше, чем у Ваших бомбардировщиков;
 	 - Если Вы дадите приказ двигаться до цели, Бомбардировщики могут оказаться вне своей зоны для ответного огня.
@@ -346,7 +635,13 @@
 	 - Чтобы убедиться, что Ваши бомбардировщики откроют огонь по фрегатам как только смогут стрелять, используйте Атакующий Режим.
 	 - Удерживайте X и кликните ПКМ, чтобы Ваши корабли преследовали вражеские корабли, как только их увидят.
 	 - Вы можете комбинировать Групповой и Атакующий Режимы, удерживая X + G при клике ПКМ.</ln>
+<!-- EN: Kill the frigates. -->
 <ln id="Bas_AttackC_3">Уничтожьте Фрегаты.</ln>
+<!-- EN:      - Having your bombers close the distance as fast as possible on attack-move only has some advantages.
+     If you do that, they get into firing range as soon as possible, and the enemy frigates have less time to fire freely.
+	 - On the other hand, group-moving so your bombers arrive with your light starship means it will boost their attack.
+	 When attacking enemy ships, size up the situation and choose the tactics that seem best for the situation.
+	 - In this case, your ships outclass the enemy ships so greatly that you'll win either way. -->
 <ln id="Bas_AttackC_4">     - Если Ваши бомбардировщики сократят дистанцию при Атаке в Движении, Вы получите преимущество.
      Если они приблизятся максимально быстро, то у вражеских фрегатов будет меньше времени на стрельбу.
 	- Однако при Групповом Движении Ваши бомбардировщики прибудут вместе с Флагманом, который усилит их атаку.
@@ -354,46 +649,88 @@
 	- В нашем случае, Ваши корабли превосходят вражеские корабли так сильно, что Вы победите в любом случае.</ln>
 
 
+<!-- EN: Time To Capture This Planet! -->
 <ln id="Bas_Capture_1">Пора захватить эту планету!</ln>
+<!-- EN:      Find your Colony Ship and use it to build a new Command Station anywhere you like on this planet.
+     That's all there is to it, now that the enemy Command Station is gone! -->
 <ln id="Bas_Capture_2">     Выберите ваш Корабль-Колонию и используйте его, чтобы построить новую Командную Станцию
      в любом месте на этой планете.
      Вот и всё, теперь вражеской Командной Станции больше нет!</ln>
+<!-- EN: TIP: Most of the time you'll probably want an Economic Command Station, 
+     but Military and Logistical ones are good for certain specialized situations you might run into. -->
 <ln id="Bas_Capture_3">СОВЕТ: Большую часть времени Вам понадобятся Экономические Командные Станции, 
      но Военные и Логистические Станции очень хороши в некоторых ситуациях, с которыми Вы можете столкнуться.</ln>
+<!-- EN:      Command Stations build slowly, so you'll probably want to build a couple of engineers to help it along.
+     Or, bring engineers over from your home planet. -->
 <ln id="Bas_Capture_4">     Командные Станции строятся медленно, поэтому Вам вероятно захочется построить несколько Инженеров.
      Или, привести Инженеров с Вашей родной планеты.</ln>
 
+<!-- EN: You've captured an Advanced Research Station! -->
 <ln id="Bas_ARSInfo_1">Вы захватили Продвинутую Лабораторию!</ln>
+<!-- EN:      - By doing so you've now unlocked the  -->
 <ln id="Bas_ARSInfo_2a">     - Благодаря этому вы открыли  </ln>           <!-- [name] -->
+<!-- EN:  ship type for use by your team. -->
 <ln id="Bas_ARSInfo_2b">, который теперь могут использовать все члены Вашей команды.</ln>
+<!-- EN: Capturing these represents a major event during the course of the game (there are typically 5 to capture). -->
 <ln id="Bas_ARSInfo_3">Захват Продвинутых Лабораторий - ключевое событие в процессе игры (обычно, всего их около 5).</ln>
+<!-- EN:      - Not only do you get another type of ship, you also get MORE ships to build, since the ship caps are per-type.
+     - Your first priority during most games should be to find these Research Stations to prepare you for the
+       Home Planets of the AIs, which are extremely powerful and dangerous. -->
 <ln id="Bas_ARSInfo_4">     - Вы не только получаете новый тип корабля, но также можете строить БОЛЬШЕ кораблей, так как количество ограничено по каждому типу отдельно.
      - Одной из ваших первоочередных задач в большинстве игр будет обнаружение Продвинутых Лабораторий,
 	 чтобы подготовиться к штурму очень мощных и опасных Столичных Планет ИИ.</ln>
+<!-- EN: Now that you have a new ship type, build at least half your Mark-I cap of  -->
 <ln id="Bas_ARSInfo_5a">Теперь, когда у Вас есть новый тип кораблей, постройте как минимум половину ограничения </ln>  <!-- [name] -->
+<!-- EN:  on  -->
 <ln id="Bas_ARSInfo_5b"> Модели I на планете </ln>  <!-- [name] -->
+<!-- EN: 
+This is to prepare for an incoming raid.
+ -->
 <ln id="Bas_ARSInfo_5c">
 Мы готовимся отражать нападение.
 </ln>
+<!-- EN:        As always, engineers will make this process go faster.  The more engineers, the faster it goes, to a point. -->
 <ln id="Bas_ARSInfo_6">       Как всегда, Инженеры сделают процесс строительства быстрее.  Чем больше Инженеров, тем быстрее идёт процесс.</ln>
 
+<!-- EN: You've captured an Advanced Factory! -->
 <ln id="Bas_AdvFactory_1">Вы захватили Продвинутую Фабрику!</ln>
+<!-- EN:      - While less important than the Advanced Research Station early in the game, these are critical in the late game. -->
 <ln id="Bas_AdvFactory_2">     - Она менее важна Продвинутой Лаборатории на ранних стадиях игры, но критически важна ближе к финалу.</ln>
+<!-- EN: The ONLY way to build Mark IV ships is at Advanced Factories, which you can only acquire through capture. -->
 <ln id="Bas_AdvFactory_3">ТОЛЬКО на этой Продвинутой Фабрике вы можете строить корабли Модели IV. Её вы можете приобрести только захватив.</ln>
+<!-- EN:      - There are a limited number of Advanced Factories in the Galaxy, and if all of them get destroyed then you won't
+       be able to build Mark IV ships anymore  - -  but your enemies still will!
+     - Note that there are also Advanced Starship Constructors, which are very similar but produce Starships. -->
 <ln id="Bas_AdvFactory_4">     - В галактике существует ограниченное количество Продвинутых Фабрик, и если все они будут уничтожены,
        Вы лишитесь возможности строить корабли Модели IV, но ИИ всё равно сможет!
      - Заметьте, что ещё есть Продвинутые Звездолётные Верфи, очень похожие на обычные Верфи, но строят Звездолёты.</ln>
+<!-- EN: An enemy wave will be arriving soon from  -->
 <ln id="Bas_AdvFactory_5a">Враг скоро прибудет из </ln>
+<!-- EN: , and their ships will try to kill your advanced factory. -->
 <ln id="Bas_AdvFactory_5b">, и его корабли попробуют уничтожить Вашу Продвинутую Фабрику.</ln>
+<!-- EN: The best way to repel this raid is to put as many of your military ships as possible into Free Roaming Defender mode. -->
 <ln id="Bas_AdvFactory_6">Лучший способ отбить атаку, поместить как можно больше Ваших военных кораблей в режим Свободного Поиска Цели (FRD).</ln>
+<!-- EN:        To do this, select all your military ships and then hold V while right-clicking.
+       Your ships will then have a pink border in far zoom, and will automatically engage any enemies in the current system.
+	   This is excellent for defense, but fair warning: it's often suicidal to use such defensive logic in an offensive situation. -->
 <ln id="Bas_AdvFactory_7">       Чтобы сделать это, выберите все Ваши военные корабли и удерживая V кликните ПКМ.
        У Ваших кораблей появится розовая обводка на большом отдалении, и они станут автоматически преследовать любого Врага в этой системе.
 	   Это хорошо для защиты, но предупреждаем: чаще всего самоубийственно использовать такой режим
 	   при нападении.</ln>
+<!-- EN: Place at least 20 of your military ships, but preferably all of your military ships on  -->
 <ln id="Bas_AdvFactory_8a">Переведите как минимум 20 Ваших военных кораблей, а предпочтительно все военные корабли на планете </ln>
+<!-- EN: , into FRD mode. -->
 <ln id="Bas_AdvFactory_8b">, в режим Свободного Поиска Целей.</ln>
 
+<!-- EN: Kill all the incoming fighters! -->
 <ln id="Bas_3Defense_1">Уничтожьте ВСЕ прибывающие корабли!</ln>
+<!-- EN: Since this is a small wave, and your ships are on FRD mode, no action should be needed from you.
+However, if your automated defenses seem not to be holding up, then you should help out, by either:
+	   1. Building more ships and putting them in FRD mode.
+	   2. Building turrets to protect your valuable strcutures (though it's a bit late for that).
+	   3. Manually directing your ships in their tactics.
+Simply by virtue of turrets plus mobile ships in FRD mode, your civilization can repel most small waves without you.
+	   This frees you up for more important tasks, especially as you get better at the game. -->
 <ln id="Bas_3Defense_2">Поскольку это небольшая волна, и Ваши корабли находятся в режиме FRD, от Вас не требуется никаких действий.
 Однако, если Ваши автоматические средства защиты не выдерживают, тогда Вам понадобится помощь, например:
 	   1. Построить больше кораблей и задать им режим FRD.
@@ -402,66 +739,118 @@
 Благодаря Турелям и мобильности кораблей в режиме FRD, Ваши колонии смогут отбить большинство волн без Вашего прямого участия.
 	   Это освободит Вас для более важных задач, особенно когда вы освоитесь в игре.</ln>
 
+<!-- EN: Salvage. -->
 <ln id="Bas_3Salvage_1">Сбор трофеев.</ln>
+<!-- EN: - If you mouseover the metal section of the resource bar at the top of the screen, you'll see that those AI fighters 
+left some "orbiting scrap" for you to salvage.
+- Only a command station can salvage, and does so automatically.
+- Some command stations are more efficient at this than others. -->
 <ln id="Bas_3Salvage_2">- Если Вы наведёте мышь на секцию Металла в панели ресурсов сверху, то Вы заметите, что Истребители ИИ 
 оставили немного "орбитального мусора", который можно собрать.
 - Только Командная Станция может собирать трофеи и делает это автоматически.
 - Некоторые Командные Станции более эффективны в этом, чем другие.</ln>
+<!-- EN: - Normally the AI also gets salvage when your ships die on its planets.
+That's disabled for the tutorial, but remember that losing a big fleet on an AI planet can have consequences! -->
 <ln id="Bas_3Salvage_3">- Обычно ИИ также собирает трофеи, когда Ваши корабли погибают на его планете.
 В течение обучения эта функция отключена, но помните, что потеря большого флота на планете ИИ может 
 иметь последствия!</ln>
 
+<!-- EN: That's it!  This concludes Tutorial 3. -->
 <ln id="Bas_3Closing_1">Вот и всё!  Вы прошли Урок #3.</ln>
+<!-- EN: - In AI War victory depends mainly on good strategic decision-making.
+- The tactical execution of a particular battle is less vital, but obviously still important,
+  and now you know the basics. -->
 <ln id="Bas_3Closing_2">- В AI War победа в основном зависит от хороших стратегических решений.
 - Тактические приёмы в отдельной битве менее существенны, но, очевидно, всё ещё важны.
   Теперь Вы знакомы со всеми основами.</ln>
 
 <!-- Basic Tutorial 4 text -->
 
+<!-- EN: Basic Tutorial 4: Hacking -->
 <ln id="Bas_4Wel_1">Базовое обучение 4: Взлом</ln>
+<!-- EN: Welcome!  Here you'll learn about a special resource that can give you a key edge: Hacking.
+     - Much of this will seem familiar from Tutorial 3: that's because we're attacking the same planet.
+     - But our objective will be quite different. -->
 <ln id="Bas_4Wel_2">Добро пожаловать!  Здесь вы узнаете о специальном ресурсе, который также является ключевым: Взлом.
      - Многое здесь будет напоминать Обучение 3: всё потому, что мы будет атаковать ту же планету.
      - Но наша цель будет немного другой.</ln>
 
+<!-- EN: On the Resource Bar at the top there's a green section labeled "Hacking". -->
 <ln id="Bas_4BuildHacker_1">На панели ресурсов сверху находится зелёная секция, подписанная как "Взлом".</ln>
+<!-- EN:      - This stands for "Hacking Progress" or HaP for short.
+     - This number represents your ability to covertly attack the AI's networks.
+     - It increases when AI Progress increases (like when you destroy an AI Command Station).
+     - It does NOT decrease when AI Progress decreases (like when you destroy an AI Data Center).
+     - It decreases when you successfully complete a hacking operation.
+     - All hacks except one (Superterminal hacking) require a Hacker unit. -->
 <ln id="Bas_4BuildHacker_2">     - Она означает "Прогресс Взлома" или ПрВ для краткости.
      - Это число отображает вашу способность скрытно атаковать сети ИИ.
      - Оно увеличивается, когда увеличивается Прогресс ИИ (например, когда вы разрушаете Командную станцию ИИ).
      - Оно НЕ уменьшается, когда уменьшается Прогресс ИИ (например, когда вы разрушаете Банк Данных ИИ).
      - Оно уменьшается, когда вы успешно совершаете операцию взлома.
      - Все виды взлома (кроме взлома Супертерминала) делаются с помощью Хакера.</ln>
+<!-- EN: 1. Build a Hacker (from the  tab of your Command Station) near the {0} wormhole. -->
 <ln id="Bas_4BuildHacker_3">1. Постройте Хакера (из вкладки вашей Командной Станции) возле червоточины {0}.</ln>
+<!-- EN:      - The Hacker is near the science vessels on the ECON tab of your Command Station. -->
 <ln id="Bas_4BuildHacker_4">     - Хакер находится рядом с научнми кораблями во вкладке ЭКОН вашей Командной Станции.</ln>
+<!-- EN: 2. (Optional) Build engineers and/or increase game speed to complete this quickly. -->
 <ln id="Bas_4BuildHacker_5">2. (Необязательно) Создайте инженеров и/или увеличте скорость игры, чтобы сделать всё быстро.</ln>
 
+<!-- EN: Now let's hack {0}, an enemy planet. -->
 <ln id="Bas_4BuildAdvancedConstructionHacker_1">Теперь давайте взломаем {0}, враждебную планету.</ln>
+<!-- EN: 1.  Send your Hacker through the wormhole to {0}. -->
 <ln id="Bas_4BuildAdvancedConstructionHacker_2">1.  Отправьте Хакера через червоточину к {0}.</ln>
+<!-- EN: 2.  Select the Hacker and have it build an Advanced Construction Hacker on {0}. -->
 <ln id="Bas_4BuildAdvancedConstructionHacker_3">2.  Выберете Хакера и заставьте его построить Продвинутого Заводского Хакера на {0}.</ln>
+<!-- EN:      - Note: the Hacker's devices must initially be placed near it. -->
 <ln id="Bas_4BuildAdvancedConstructionHacker_4">     - Прим: Хакер должен находиться на планете.</ln>
 
+<!-- EN: We've given you some ships to help defend the hacker. -->
 <ln id="Bas_4CompleteHack_1">Мы дали вам несколько кораблей, чтобы помочь защитить Хакера.</ln>
+<!-- EN:      - Once a hacking device is placed, the AI responds quickly (and often quite intensely in a real game). -->
 <ln id="Bas_4CompleteHack_2">     - На размещение устройства взлома ИИ реагирует быстро (и часто - достаточно интенсивно в реальной игре).</ln>
+<!-- EN:      - Don't destroy the enemy command station (all the Hacker's devices require an intact enemy command station). -->
 <ln id="Bas_4CompleteHack_3">     - Не уничтожайте Командную Станцию противника (все постройки Хакера требуют нетронутую Командную Станцию).</ln>
+<!-- EN:      - But do try to keep the enemies from getting too close to the hacking device. -->
 <ln id="Bas_4CompleteHack_4">     - Но постарайтесь держать противников подальше от устройства взлома.</ln>
+<!-- EN:      - Its cloaking will help protect it, but the AI will sometimes use tachyon bombardment to decloak it. -->
 <ln id="Bas_4CompleteHack_5">     - Можно использовать маскировку, но ИИ может использовать тахионную бомбардировку, чтобы развеять маскировку.</ln>
+<!-- EN:      - When the device's countdown reaches zero, the hack will be complete. -->
 <ln id="Bas_4CompleteHack_6">     - Когда отсчёт на устройстве достигнет нуля, взлом будет завершён.</ln>
+<!-- EN:      - Remember that you can increase/decrease the game speed with + and -. -->
 <ln id="Bas_4CompleteHack_7">     - Помните, что вы можете уменьшать или увеличивать скорость игры с помощью - и +.</ln>
+<!-- EN:      - If the hacking device dies you can build a new one and try again. -->
 <ln id="Bas_4CompleteHack_8">     - Если устройство взлома разрушается, то вы можете построить новое и попытаться снова.</ln>
 
+<!-- EN: Congratulations! You've successfully hacked the enemy's Advanced Factory. -->
 <ln id="Bas_4HackedAdvFactory_1">Поздравляем! Вы успешно взломали Продвинутую Верфь противника.</ln>
+<!-- EN: Now, why would we do this instead of capture the planet? -->
 <ln id="Bas_4HackedAdvFactory_2">Почему мы сделали это вместо захвата планеты?</ln>
+<!-- EN:      - The biggest difference is that hacking the factory gives you PERMANENT access to MkIV technology. -->
 <ln id="Bas_4HackedAdvFactory_3">     - Самая большая разница в том, что взлом заводов даёт ПОСТОЯННЫЙ доступ к технологии Моделей IV.</ln>
+<!-- EN:        This is very different from "lose the factory, lose the tech". -->
 <ln id="Bas_4HackedAdvFactory_4">       Это отличается от принципа "потерял завод - потерял технологию".</ln>
+<!-- EN:      - Also, sometimes the planet has neighbors you REALLY don't want to put "on alert" forever. -->
 <ln id="Bas_4HackedAdvFactory_5">     - Также, планета имеет соседей, которых вы бы ДЕЙСТВИТЕЛЬНО не хотели бы вечно держать "в боевой готовности".</ln>
 
+<!-- EN: On the other hand, why would you ever capture the factory instead of hack it? -->
 <ln id="Bas_4_HackingProgressConsequences_1">С другой стороны, почему бы вам не захватить верфь, вместо его взлома?</ln>
+<!-- EN:      - See your Hacking Progress number at the top?  Notice how it's now very negative? -->
 <ln id="Bas_4_HackingProgressConsequences_2">     - Видите своё число Прогресса Взлома вверху?  Обратите внимание, что оно очень низкое?</ln>
+<!-- EN:        Further hacking with a negative HaP generally provokes EXTREME AI responses. -->
 <ln id="Bas_4_HackingProgressConsequences_3">       Дальнейший взлом с отрицательным ПрВ обычно провоцирует ЭКСТРЕМАЛЬНУЮ реакцию ИИ.</ln>
+<!-- EN:        It's basically a covert network attack without the "covert" part. -->
 <ln id="Bas_4_HackingProgressConsequences_4">       Это как скрытая атака на сеть без скрытности.</ln>
+<!-- EN:        And hacking an Advanced Factory consumes quite a bit of HaP. -->
 <ln id="Bas_4_HackingProgressConsequences_5">       А взлом Продвинутой Верфи требует немало ПрВ.</ln>
+<!-- EN:      - So if an Advanced Factory is in a defensible location, capturing can be better. -->
 <ln id="Bas_4_HackingProgressConsequences_6">     - Так что, если Продвинутая Верфь находится под сильной защитой, захват может быть лучшим решением.</ln>
 
+<!-- EN: That's it for the Hacking tutorial! -->
 <ln id="Bas_4Closing_1">Это всё, что касается обучению взлому!</ln>
+<!-- EN: - This is the end of the basic tutorials.
+- There is an intermediate tutorial, which guides you through more advanced tactics in a simulated campaign.
+- Or you can just dive into the real game! If so, we recommend starting with "Setup Script" set to "Beginner Game". -->
 <ln id="Bas_4Closing_2">- Это конец основных обучений.
 - Существует продвинутое обучение, которое проведёт вас через более продвинутые тактики
  в моделируемой кампании.
@@ -469,90 +858,169 @@
 
 <!-- Intermediate Tutorial text -->
 
+<!-- EN: Intermediate Tutorial: Campaign Simulation -->
 <ln id="Int_Wel_1">Продвинутое обучение: Симуляция кампании</ln>
+<!-- EN: Welcome!  Here you'll undertake a simulated campaign in a very small 10-planet galaxy map.
+	   We'll guide you through the STRATEGY (choosing targets, determining what to do when, etc), but we'll
+	   leave the TACTICS (managing production, overseeing battles, routing ships, etc) entirely up to you. -->
 <ln id="Int_Wel_2">- Добро пожаловать! Вы можете принять участие в кампании, происходящей на очень маленькой карте из 10 планет.
 	   Мы поможем вам со СТРАТЕГИЕЙ (выбрать цель, что и когда сделать и т.п.), но 
 	   оставим ТАКТИКУ (руководство производством, контроль за битвами и перемещениями и т.д.) на ваше усмотрение.</ln>
+<!-- EN: You'll also learn important techniques such as wormhole defense, gate-raiding, colony-hopping,
+scouting, and deep striking. -->
 <ln id="Int_Wel_3">Также вы обучитесь важным техникам, как защита червоточин, рейды на врата, проскакивание колоний,
 прикрытие разведчиков и глубинное нападение.</ln>
+<!-- EN: This is a great chance to try out everything you learned in the basic tutorials in a live-fire setting. -->
 <ln id="Int_Wel_4">Это отличная возможность попрактиковаться в использовании знаний, полученных во время первых уроков.</ln>
+<!-- EN: You can lose in this tutorial! -->
 <ln id="Int_Wel_5">В этом обучении вы можете проиграть!</ln>
+<!-- EN:      If that happens, you can simply try again or just go straight to real campaigns on a low difficulty.
+     (For a real game, we recommend starting with "Setup Script" set to "Beginner Game")
+     You can also save your game at any time, so if you find yourself losing you can go back to an older save. -->
 <ln id="Int_Wel_6">     Если это произойдёт, можете просто начать сначала либо перейти сразу к настоящей кампании на низком уровне сложности.
 	 (Для реальной игры мы рекомендуем начать с "Устан. Скрипт" установленного в "Beginner Game")
      Вы можете сохранить свою игру в любой момент, так что, если заметите, что проигрываете,
 	 то возвращайтесь к старому сохранению.</ln>
+<!-- EN: We should also note that normally a 10-planet map is VERY hard because you don't have space to really expand. -->
 <ln id="Int_Wel_7">Ещё мы должны предупредить, что обычно карта всего на 10 планет ОЧЕНЬ трудна, т.к. у Вас нет места для расширения.</ln>
+<!-- EN:      Thus for this tutorial the AI is set to the lowest possible difficulty, and we simulate some of the trickier aspects.
+     We mention this simply because if you jump into a 10-planet map after this, you'll likely lose.
+     Go for 30-40 planet maps if you want a small, short game that isn't a cage match with a stronger foe. -->
 <ln id="Int_Wel_8">     В этом обучении, сложность ИИ минимальная из возможных, и мы будем симулировать некоторые
 	 из наиболее сложных аспектов.
      Имейте в виду, что если Вы попытаетесь играть на карте с 10 планетами, то скорее всего проиграете.
      Выбирайте карту из 30-40 планет, если хотите короткую игру, которая не покажется клеткой с тигром.</ln>
 
+<!-- EN: First, an explanation of the ground rules for this tutorial: -->
 <ln id="Int_Rules_1">Первым делом нужно усвоить главные правила этого урока:</ln>
+<!-- EN: 1.  The AI will act with full tactical ability (of a difficulty 1 AI, anyway). -->
 <ln id="Int_Rules_2">1.  ИИ будет действовать в полную силу (правда, на первом уровне сложности).</ln>
+<!-- EN:      This means that if you go onto one of their planets, they will act as they do in the real game. -->
 <ln id="Int_Rules_3">     Это значит, что, если вы нападёте на планету ИИ, он будет действовать, как в реальной игре.</ln>
+<!-- EN: 2.  The AI will NOT issue strategic commands (waves, reinforcements).  Those are scripted as part of the campaign. -->
 <ln id="Int_Rules_4">2.  ИИ НЕ БУДЕТ принимать стратегических решений (посылать волны или подкрепления). В этой компании стратегия
 	 прописана заранее.</ln>
+<!-- EN:      This means that you will never be rushed for time unless we first give you warning. -->
 <ln id="Int_Rules_5">     Это значит, что у вас нет необходимости спешить, пока мы не предупредим вас.</ln>
+<!-- EN: 3.  You have full control over every action you take, but it's best if you don't unlock new Tech except when we advise it. -->
 <ln id="Int_Rules_6">3.  Вы вправе действовать по собственному усмотрению, но будет лучше, если Вы не станете открывать новые технологии до тех пор, пока мы не скажем.</ln>
+<!-- EN:      If you must unlock new Tech on your own, stick to Mark II/III fleet ships  - -  not support ships, starships, or turrets. -->
 <ln id="Int_Rules_7">     Если вам придётся открыть технологию самостоятельно, придерживайтесь кораблей Мод II и III -- кроме
 	 защитных кораблей, звездолётов и турелей.</ln>
+<!-- EN: 4.  You can, of course, ignore everything we say and still win this tutorial  - -  just destroy the AI home command station. -->
 <ln id="Int_Rules_8">4.  Конечно, вы можете выиграть, даже если будете игнорировать наши советы -- просто уничтожьте
 	 Столичную Командную Станцию ИИ.</ln>
+<!-- EN:      But you'll miss out on a lot of strategy training that way. -->
 <ln id="Int_Rules_9">     Но в этом случае вы пропустите обучение стратегии игры.</ln>
+<!-- EN: 5.  In a real campaign, you have to do many things at once.  Here you will mostly be able to focus on one thing at a time. -->
 <ln id="Int_Rules_10">5.  В реальных условиях вам придётся заниматься несколькими проблемами сразу. Здесь же Вам в основном нужно
 	 будет решать проблемы поочерёдно.</ln>
+<!-- EN:      If things ever therefore feel too slow, you can use the + key to speed up time, and the - key to return it back to normal. -->
 <ln id="Int_Rules_11">     Если вам покажется, что события развиваются слишком медленно, вы всегда можете использовать кнопку +,
 	 чтобы ускорить время, и кнопку -, чтобы вернуться к нормальной скорости.</ln>
 
+<!-- EN: Okay, let's get started!  You can do the following in any order you like (our suggested order is shown): -->
 <ln id="Int_Start_1">Ну что же, начнём!  Вы можете выполнять эти действия в любом удобном для вас порядке
 	 (мы указываем рекомендованную последовательность):</ln>
+<!-- EN: 1.  Protect your harvsters and home command station from enemies that trickle in.  But don't panic!  You have time. -->
 <ln id="Int_Start_2">1.  Защитите своих сборщиков и Столичную Командную Станцию от Врагов. НЕ ПАНИКУЙТЕ! У Вас есть время.</ln>
+<!-- EN:      Build turrets near the vulnerable spots, OR (even better) turrets with tractor beam turrets at the wormholes.
+     Minefields (SUP tab) are another excellent way to deter most small ships.  Build them on frequent travel paths.
+     If your minefields and turrets are dying, consider a handy Rebuilder from the ECON tab.
+     You may also opt to build some fleet ships (from your space dock) in Free Roaming Defender mode (V+right-click). -->
 <ln id="Int_Start_3">     Постройте турели рядом с уязвимыми точками, ИЛИ (что лучше) турели и Лучевые Тяговые Турели
 	 рядом с червоточинами.
      Минные поля (ЗАЩ) являются другим отличным способом сдерживать большинство небольших кораблей.  Стройте их на часто используемых путях.
      Если Ваши мины и турели часто умирают, обратите внимание на Восстановителей (ЭКОН).
      Также Вы можете построить несколько военных кораблей (в Верфи) и перевести их в
 	 режим Свободного Поиска Целей (V + ПКМ).</ln>
+<!-- EN:      You don't have to do all of the above, not even close, so choose what you prefer.  Feel free to experiment!
+     If any of your harvesters die, you must rebuild them before you can continue onward. -->
 <ln id="Int_Start_4">     Вы не обязаны делать всё из выше перечисленного, так что выбирайте более предпочтительное для Вас. Экспериментируйте!
      Если какие-либо Ваши сборщики умирают, Вы должны построить их прежде чем продолжить дальше.</ln>
+<!-- EN: 2.  Send scouts to as many unexplored planets as possible (at least the three planets adjacent to your home planet). -->
 <ln id="Int_Start_5">2.  Отправьте Дронов-Разведчиков к максимальному количеству неисследованных планет (по крайней мере, исследуйте
 	 три планеты, граничащие с вашей).</ln>
+<!-- EN:      Large groups of scouts work best for distant planets, since they boost each other. -->
 <ln id="Int_Start_6">     На отдалённые планеты лучше посылать большие группы Разведчиков, так как они поддерживают друг друга.</ln>
 
+<!-- EN: Now that you've got your home planet off to a good start, let's look around at what our scouts learned. -->
 <ln id="Int_Intel1_1">Теперь, когда сделаны первые шаги, давайте посмотрим, что выяснили наши Разведчики.</ln>
+<!-- EN: Check the Intel Summaries on the galaxy map.
+     You'll notice that  -->
 <ln id="Int_Intel1_2a">Проверьте Разведданные о планетах на карте Галактики.
      Вы заметите, что </ln>   <!-- [name1] -->
+<!-- EN:  looks really nasty, while the other two that border you are not as bad. -->
 <ln id="Int_Intel1_2b"> выглядит довольно сурово, в то время как две другие планеты не такие опасные.</ln>
+<!-- EN: At the moment,  -->
 <ln id="Int_Intel1_3a">В данный момент </ln>                                         <!-- [name10] -->
+<!-- EN:  looks like the easiest to take.  We'll attack it in a minute. -->
 <ln id="Int_Intel1_3b"> выглядит как лёгкая цель. Скоро мы нападём на неё.</ln>
+<!-- EN:      You normally won't want to take every low-value planet you find on the galaxy map,
+     but any planet that borders your home planet is a high-value target simply because it threatens your home planet.
+     And, this early in the game, you simply need all the resources and knowledge you can get. -->
 <ln id="Int_Intel1_4">     Обычно вам не нужно захватывать каждую слабозащищённую планету в Галактике,
      но каждая планета, граничащая с вашей Столичной планетой, является приоритетной целью, потому что
 	 она представляет угрозу вашей столице.
      Да и в этой игре Вам понадобятся все ваши Ресурсы и очки Науки, которые только можно достать.</ln>
 
+<!-- EN: Now that you have a target, you'll want to build up a strike force.
+Don't forget to defend your own planet, however  - -  the AI incursions will keep getting more forceful. -->
 <ln id="Int_Defense_1">Теперь, когда у вас есть цель, пора построить ударный флот.
 Однако не забывайте о защите своей планеты -- вторжения ИИ будут становиться всё более сильными.</ln>
+<!-- EN:      If you don't already have turrets and tractor beams around each wormhole, now is the time to do so.
+     To automate your defenses, you may wish to have some rebuilders and engineers in Free-Roaming Defender mode.
+     TIP:  Check out the CTRLS button at the bottom of the screen for some really, really handy tools for this.
+     You might try Auto Build MkI Engineers = 2, Auto Build Remains Rebuilders = 2, 
+     and Auto-FRD Engineers and Auto-FRD Rebuilders. -->
 <ln id="Int_Defense_2">     Если вы до сих пор не расставили турели и Лучевые Тяговые турели вокруг каждой червоточины, самое время сделать это.
      Для автоматизации Вашей защиты Вам может потребоваться несколько Восстановителей и Инженеров в режиме Свободного Поиска.
      СОВЕТ:  Проверьте КНТРЛ внизу экрана на предмет очень-очень полезных вещей для автоматизации.
      Вы можете попробовать Авто Постройку Инженера Модели I = 2, Авто Постройку Восстановителей = 2,
      Авто-FRD Инженеров и Авто-FRD Восстановителей.</ln>
+<!-- EN: Defending against the few enemy ships that wander in is a snap with 3-5 turrets and 1 tractor beam at each wormhole.
+     About turrets: they're quite strong.  A single turret is generally a match for 3 similar fleet ships.
+     Further, few fleet ships have a bonus against the turret hull type.
+     So you can often set up turret-only defenses and use your entire mobile force on the offensive.
+     Even better, the AI does not get turrets. -->
 <ln id="Int_Defense_3">Защититься от нескольких вражеских кораблей, забредших к Вам, можно с помощью 3-5 турелей и 1 Лучевой Тяговой турели у каждой червоточины.
      По поводу турелей: они достаточно сильны.  Одна турель сопоставима с 3-мя подобными кораблями.
      Кроме того, некоторые корабли имеют бонус против корпусов турелей.
      Таким образом, Вы часто можете устанавливать защиту из одних турелей и перевести всю свою 
 	 подвижную силу в нападение.
      Тем более хорошо, что ИИ не использует турели.</ln>
+<!-- EN: In case some enemies do get past your wormhole defenses, you might want some turrets near your command station. -->
 <ln id="Int_Defense_4">На случай если некоторые вражеские корабли прорвут оборону червоточины, вы можете построить
 	 несколько турелей рядом с вашей Командной Станцией.</ln>
+<!-- EN:      TIP: It's often a good idea to put your energy collector near your command station, so that the same 
+     turrets and force fields can defend both of them at once. 
+     The Auto-Build-Energy-Collector toggle does this pretty well.  -->
 <ln id="Int_Defense_5">     СОВЕТ: Чаще всего удобно ставить Сборщик Энергии рядом с Командными Станциями,
      чтобы Турели и Поля защищали их обоих одновременно.
 	 Переключатель Авто-Постройка-Сборщика-Энергии сделает это достаточно хорошо.</ln>
+<!-- EN: 1.  Build at least 20 turrets (basic, sniper, MLRS, missile, laser, lightning, or flak).
+2. Build at least 3 tractor beam turrets. -->
 <ln id="Int_Defense_6">1.  Постройте не менее 20 Турелей (Простых, Снайперских, РСЗО, Ракетных, Лазерных, молниевых или Зенитных)
 2. Постройте как минимум 3 Лучевые Тяговые Турели.</ln>
 
+<!-- EN: Now that you are adequately defended at your own planet, build a strike group and go take  -->
 <ln id="Int_Attack10_1a">Теперь, когда вы грамотно защитили Вашу планету, постройте флот для захвата </ln>  <!-- [name10] -->
+<!-- EN: . -->
 <ln id="Int_Attack10_1b">.</ln>
+<!-- EN:      1. Send a strike group of at least half your cap of MkI combat fleet ships.
+          (In this case, fighters, bombers, missile frigates, and anti-armor ships)
+     2. Remember how the AI doesn't get turrets?  Well, it DOES get guard posts and guardians.
+          You won't see any guardians on this planet, but there will be guard posts.
+          Guard posts HURT.
+          If you enter a planet and a guard post is firing on you, either kill it fast or get out of range.
+          One challenge in this game is figuring out how to limit losses vs these guard posts.
+          Well, that or how to simply absorb those losses.  Up to you.
+     3. Having a few starships with you is also crucial to any serious offensive action.
+          Flagships will boost your fleet ships' attack strength.
+          Plasma-siege and bomber starships make heavy enemy defenses crumble.
+          Zenith and Spire starships (if unlocked) make excellent main combatants.
+          You don't have to go crazy with building a ton of these, but 1-4 would be a good idea.
+     4. Also send a scout so that the planetary summary will include enemy ships on planets you don't control. -->
 <ln id="Int_Attack10_2">     1. Отправьте группу кораблей каждого типа Модели I в размере не менее, чем половины лимита.
           (Истребителей, Бомбардировщиков и Ракетных Фрегатов и Противоброневых кораблей)
      2. Помните что у ИИ нет турелей? Что ж, зато у них есть Караульные Посты и Стражи.
@@ -569,8 +1037,15 @@
           Вам нео надо сходить с ума и строить их тоннами, но 1-4 были бы неплохо.
      4. Также тправьте разведчиков, чтобы в правой части экрана отображались вражеские корабли 
           на непринадлежащих вам планетах.</ln>
+<!-- EN:      TIP:  To have all your ships move together at the same speed, remember to hold G while giving them orders. -->
 <ln id="Int_Attack10_3">     СОВЕТ: Чтобы весь флот двигался вместе и с одной скоростью, удерживайте кнопку G в момент
      указания места назначения.</ln>
+<!-- EN:      5. It's probably a good idea not to attack the command station right off  - -  go for the guard posts first.
+          When you attack a command station, all the guards will become "Threat" and be free to attack you.
+          When you destroy a command station, all the guards have a 50% change of becoming Threat.
+               Threat will often attack you head-on, but if your defenses are strong it may lurk.
+               Lurking threat kills lots of players, so try to not let it get away.
+     6. Don't forget:  Once you destroy the enemy command station and warp gate on  -->
 <ln id="Int_Attack10_4a">     5. Вероятно, хорошая идея НЕ атаковать Командную Станцию прямо сейчас 
          - сначала атакуйте Караульные Посты.
           Когда Вы атакуете Командную Станцию, все Караульные Посты становятся "Угрозой" и отправляют войска на Вас.
@@ -578,12 +1053,29 @@
                Угроза обычно атакует вас в лоб, но, если у Вас прекрасная защита, может затаиться.
                Затаившаяся Угроза убивает много игроков, так что не дайте ей уйти.
      6. Не забывайте: Как только вы уничтожите вражескую командную станцию и врата на планете </ln>  <!-- [name10] -->
+<!-- EN: ,
+          you'll need to build a colony ship and send that over there to build a command station of your own. -->
 <ln id="Int_Attack10_4b">,
           вам будет необходимо построить Корабль-Колонию и отправить его на эту планету, чтобы построить собственную командную станцию.</ln>
+<!-- EN:      7. Be sure to kill all enemy forces and take any resources on  -->
 <ln id="Int_Attack10_5a">     7. Обязательно уничтожьте всех противников и захватите все ресурсы на планете </ln>            <!-- [name10] -->
+<!-- EN:  after capturing it. -->
 <ln id="Int_Attack10_5b"> после захвата.</ln>
 
+<!-- EN: A wave of enemy bombers is heading for your home planet.  Prepare and defend! -->
 <ln id="Int_IncWaveH_1">К вашей Столичной планете движется волна вражеских Бомбардировщиков. Приготовьтесь к защите!</ln>
+<!-- EN: Bombers are some of the most dangerous AI ships, watch out for these in your games.
+	Their bonus vs the "Structural" hull type makes them very effective against your forcefields.
+	And forcefields are your main tool in keeping your Home Command Station alive under fire.
+	Obviously the best approach is to prevent attacks against your HCS, but sometimes that's not possible.
+2. Laser and Missile Turrets are good vs Polycrystal ships (like bombers).
+	Lightning and Sniper Turrets also have bonuses vs Polycrystal, for that matter.
+3. If you want to know where the wave will arrive, unlock Advanced Warp Sensors at the Sup tab of your Science Lab.
+4. Very Important:  Don't forget to send your science labs to the new planets after they become exhausted!
+5. Once you kill all enemies on your new planet, bring your military back home from there.
+	The planet is safe from direct attack since it does not border any enemy planets with warp gates.
+	Fighters have a bonus vs Polycrystal, great if you ever need extra bomber-killing power somewhere fast.
+6. Consider building more turrets, since the AI is getting more dangerous. -->
 <ln id="Int_IncWaveH_2">1. Бомбардировщики одни из самых опасных кораблей ИИ, следите за ними в течение игры.
 	Их бонус против "Структурного" типа брони делает их эффективными против Ваших силовых полей.
 	А силовые поля являются главным инструментом в защите Столичной Командной Станции под огнём.
@@ -598,8 +1090,28 @@
 	мощь против Бомбардировщиков.
 6. Стройте большего турелей по мере того, как ИИ становится более опасным.</ln>
 
+<!-- EN: Now that the bomber wave has been taken care of, let's go take  -->
 <ln id="Int_Attack6_1a">Теперь, когда атака бомбардировщиков отбита, давайте захватим планету </ln>  <!-- [name6] -->
+<!-- EN: . -->
 <ln id="Int_Attack6_1b">.</ln>
+<!-- EN: 1. For this attack bring:
+	Full caps of all MkI combat fleet ships (always be replacing losses from these)
+	A Flagship, and either a couple Plasma Siege Starships or MkII Bombers (you'd need to unlock those).
+	A scout.  A scout starship would also work.
+2. If building this kind of force feels like it's taking too long:
+	You can speed up time with the + key (and slow it with -).  Running for a while on +10 builds stuff fast.
+	To get resources faster you can unlock higher-tier economic command stations or higher-tier harvesters.  
+	The harvester upgrades happen immediately, but the command stations have to be
+	replaced manually from the CMD tab of the existing station.
+	Either way, those upgrades cost a lot of K and may give you more resources than you need later on
+	So simply accelerating time may be better for situations where the AI's attacks are not getting through.
+3. Remember: watch out for the guard posts!  They can do a lot of damage in a hurry, so get out of range or kill them.
+4. When attacking the forcefield with the guard post under it be sure to concentrate your forces.
+	The forcefield will prevent you from hitting the post until the field is nearly down.
+	So you're going to take a lot of losses from the post's fire.
+	You can also use forcefield-immune units (like Raid Starships) to attack the post directly,
+	but even those would benefit from fleet support.
+5. When you build a Command Station on  -->
 <ln id="Int_Attack6_2a">1. Для атаки нам понадобится:
 	Полный набор всех боевых кораблей Модели I (всегда восполняйте их потери)
 	Флагманский или парочку Плазменных Осадных Звездолётов,
@@ -623,26 +1135,52 @@
 	(такие, как Рейдовый Звездолёт), чтобы атаковать Пост напрямую,
 	но даже в таком случае поддержка флота будет полезна.
 5. Когда вы построите Командную Станцию на планете </ln>             <!-- [name6] -->
+<!-- EN: , capturable ships like the Fabricator will become yours.
+	Make sure you have killed all enemies near the capturable ships before you take over the planet.
+	Building your new command station (and probably a force field) right next to it is also smart.
+	You don't want to lose your sweet new stuff as soon as you gain it! -->
 <ln id="Int_Attack6_2b">, все захватываемые корабли (например, Завод)
 	перейдут к вам.
 	Убедитесь, что уничтожили всех врагов рядом с захватываемыми кораблями, прежде чем захватывать планету.
 	Строительство Командной Станции (и, возможно, Щит) сразу же после зачистки - хороший ход,
 	если Вы не хотите потерять Ваше новое оборудование, сразу же после получения!</ln>
 
+<!-- EN: If you haven't already: it's a good idea to have a space dock somewhere near the front on loop-build. -->
 <ln id="Int_Scout6_1">Если Вы ещё не сделали: хорошей идеей было бы поставить билже к фронту Космическую Верфь
 	на циклическое строительство.</ln>
+<!-- EN: 	Keeping a pile of engineers nearby to accelerate the building also helps. -->
 <ln id="Int_Scout6_2">Отряд Инженеров возле Верфи смогут помочь Вам ускорить процесс постройки.</ln>
+<!-- EN: Building at least one dock on  -->
 <ln id="Int_Scout6_3a">     Постройте хотя бы одну Верфь на планете </ln>                    <!-- [name6] -->
+<!-- EN:  isn't a bad idea in any case.
+	It is also usually wise to set up wormhole defenses on new planets like  -->
 <ln id="Int_Scout6_3b"> это будет полезно в любом случае.
 	Также обычно имеет смысл устанавливать защиту возле червоточин на новых планетах вроде </ln> <!-- [name6] -->
+<!-- EN: , where there are hostile wormholes. -->
 <ln id="Int_Scout6_3c">,
 	которые граничат с врагом.</ln>
+<!-- EN: Optional: If you have enough knowledge, it would also be a good idea to unlock at least one Mark II ship type. -->
 <ln id="Int_Scout6_4">Дополнительно: Если у вас достаточно Науки, то стоит открыть хотя бы один корабль Модели II.</ln>
+<!-- EN: 	Bombers are probably a good first choice in this campaign, with any other combat one a great second choice. -->
 <ln id="Int_Scout6_5">     Бомбардировщики - чаще всего наилучший первый выбор в начале кампании, как и выбор одного из оставшихся типов вторым.</ln>
+<!-- EN: Required: If you have not done so already, send scouts to all planets adjacent to  -->
 <ln id="Int_Scout6_6a">Необходимо: отправьте разведчиков ко всем планетам, соседствующим с </ln>  <!-- [name6] -->
+<!-- EN: . -->
 <ln id="Int_Scout6_6b">, если вы ещё этого не сделали.</ln>
 
+<!-- EN: Two enemy waves are coming for your new planet.  Prepare and defend! -->
 <ln id="Int_IncWaves6_1">Две волны врагов приближаются к вашей новой планете. Приготовьтесь защищаться!</ln>
+<!-- EN: 1. Like Bombers, Tanks are also Polycrystal, so Laser and Missile Turrets help.
+2. As for the cloaked ships, you can't tell what kind of ships those are, so build a mix of turrets.
+	Also build a Tachyon Drone or (unlockable) Tachyon Beam Emitter near each wormhole.
+	These will decloak the cloaked ships and let your other defenses engage them.
+3. If you want to know where the waves will arrive, you can build Advanced Warp Sensors at this new planet.
+4. If you have idle miltary ships at other planets, you might want to bring them here to help defend.
+	Remember that Fighters are good vs Polycrystal units (like Tanks).
+5. Keep building as many ships as you can, both for this defensive effort and for use in our next attack.
+6. If your harvesters keep dying here, you can unlock harvester exo-shields and build them on this planet.
+	But in most cases you don't have to care about harvesters dying.
+	The economic loss can hurt in some cases but harvesters auto-rebuild when no enemies are present. -->
 <ln id="Int_IncWaves6_2">1. Как и Бомбардировщики, Танки - поликристалические, поэтому Лазерные и Ракетные Турели должны помочь.
 2. Из-за наличия скрывающихся кораблей Вы не можете сказать, какой тип кораблей приближается, так что
 	комбинируйте типы турелей.
@@ -657,12 +1195,24 @@
 	Но в большинстве случаев Вам не придётся заботиться об умирающих сборщиках.
 	Экономические потери могут оказаться болезненными, но сборщики восстановятся сразу, как только противники исчезнут.</ln>
 
+<!-- EN: Excellent!  If you look at the intel summary on the galaxy map, you will see that  -->
 <ln id="Int_Attack9_1a">Великолепно! Если вы внимательно посмотрите на галактическую карту, то вы увидите, что планета </ln>  <!-- [name9] -->
+<!-- EN:  is a great target.  Take it! -->
 <ln id="Int_Attack9_1b"> - хорошая цель. Захватите её!</ln>
+<!-- EN: 1.  -->
 <ln id="Int_Attack9_2a">1. На планете </ln>                                              <!-- [name9] -->
+<!-- EN:  has both a Data Center and an Advanced Research Station.
+2. Capture the Advanced Research Station for your own use, and destroy the Data Center.
+3.  -->
 <ln id="Int_Attack9_2b"> есть Банк Данных и Продвинутая Лаборатория.
 2. Захватите Продвинутую Лабораторию и уничтожьте Банк Данных.
 3. Планета </ln>                                                                      <!-- [name9] -->
+<!-- EN:  is a Mark II planet, which is stronger than the ones you have captured thus far, so be sure
+	to bring a strong force.  Unlocking MkII Fighters and MkI Zenith and Spire Starships would help.
+	Don't forget the MkV Armor Ships you can build with your new fabricator (if it survived).
+	They're pretty expensive but very powerful compared to MkI ships.
+4. If you have to take this in multiple waves, that's okay also.
+	As long as you destroy one guard post or similar in each wave, you're succeeding. -->
 <ln id="Int_Attack9_2c"> - планета Уровня II. Это значит, что она лучше защищена, чем планеты, уже захваченные вами, так что
 	убедитесь, что приведёте большой флот. Разблокируйте Истребителей Модель II,
 	Звездолёты Zenith'ов и Spire'ов также будут полезны.
@@ -671,36 +1221,66 @@
 4. Если Вам придётся проделать атаку несколько раз - это нормально.
 	Если Вы уничтожаете только один Караульный Пост при каждой атаке, Вы всё равно преуспеете.</ln>
 
+<!-- EN: Two enemy waves are coming, one for your home planet and another for  -->
 <ln id="Int_IncWaves6H_1a">Две волны врагов приближаются, одна идёт прямо к вашему дому, другая к планете </ln>  <!-- [name6] -->
+<!-- EN: .  Prepare and defend! -->
 <ln id="Int_IncWaves6H_1b">. Приготовьтесь к защите!</ln>
+<!-- EN: 1. Pause the game (P).  This is one of those situations where you might need extra thinking time.
+2. Laser and Missile Turrets (and Fighters) are good vs Polycrystal hull-type ships like Tanks.
+3. MLRS Turrets (and Missile Frigates) are good vs Light hull-type ships like Fighters.
+4. Keep building as many ships as you can, both for this defensive effort and for use in our next attack. -->
 <ln id="Int_IncWaves6H_2">1. Остановите игру (P).  Это одна из ситуаций, когда Вам понадобится дополнительное время на раздумье.
 2. Лазерные и Ракетные Турели (и Истребители) хороши против таких поликристалических кораблей, как Танки.
 3. РСЗО Турели (и Ракетные Фрегаты) хороши против Лёгкой брони, как у Истребителей.
 4. Продолжайте строить как можно больше кораблей. Они вам пригодятся как при защите, так и при дальнейших атаках.</ln>
 
 <ln id="Int_GateRaid1_1a" />                                                    <!-- [name1]'s warp gate ... -->
+<!-- EN: 's warp gate is what lets enemies keep warping into our home planet.  We want to stop that!
+GATE-RAIDING:  The planet is MkIV and would be very painful to take, at least at this stage of the campaign.
+So let's just take down its warp gate. -->
 <ln id="Int_GateRaid1_1b"> обладает Вратами, которые позволяют врагам нападать на вашу Столичную планету. Необходимо это прекратить!
 РЕЙД НА ВРАТА: Это планета Уровня IV и её очень сложно будет захватить. По крайней мере, в настоящее время.
 Так что попробуем уничтожить только Врата.</ln>
+<!-- EN: 1. Gather forces on your home planet, taking them from your other planets if need be.
+The type of ships you gather are a matter of personal style.  You could:
+	A. Bring full caps of all your combat fleet ships (particularly bombers, including MkII)
+	B. Build a cap of Raid Starships and/or Bomber Starships and use them alone.
+Whatever your strike force, loading it into transports is a good idea. -->
 <ln id="Int_GateRaid1_2">1. Собирайте силы на Вашей Столичной планете; призовите часть с других планет, если понадобится.
 Типы кораблей, которые Вы будите собирать, зависят от Вашего стиля. Например:
 	A. Собрать полный набор всех своих боевых кораблей (в частности Бомбардировщиков и их МодII);
 	B. Построить полный набор Звездолётов и/или Звездолётов-Бомбардировщиков и использовать только их.
 Независимо от вашего выбора кораблей, помещение их в Транспорт - хорошая идея.</ln>
+<!-- EN: The ion cannon on  -->
 <ln id="Int_GateRaid1_3a">Ионная Пушка на планете </ln>                             <!-- [name1] -->
+<!-- EN:  insta-kills low-level ships.
+	Bringing extra ships gives it something else to shoot at other than our bombers.
+	Alternatively, you could unlock higher-level bombers, or use starships (which are immune to ion cannons). -->
 <ln id="Int_GateRaid1_3b"> уничтожает с одного выстрела низкоуровневые корабли.
 	Дополнительные корабли заставят её стрелять по ком-нибудь ещё, кроме бомбардировщиков.
 	Другой вариант - Вы можете открыть высокоуровневых бомбардировщиков, или использовать Звездолёты
 	(на них Ионная Пушка не действует).</ln>
+<!-- EN: 2. Send 5 or 6 scouts to  -->
 <ln id="Int_GateRaid1_4a">2. Отправьте 5 или 6 Дронов-Разведчиков к планете </ln>                           <!-- [name1] -->
+<!-- EN: , and at least one of them should survive, off to the side, safely cloaked.
+	This is important so that you can see what you're up against right before you go in.
+3. Load up your new transports, and take them near the enemy gate on  -->
 <ln id="Int_GateRaid1_4b">, хотя бы один из них должен выжить, уйдёт сторону и
 	скроется в безопасности.
 	Это важно, т.к. тогда Вы сможете увидеть чему Вы противостоите, прежде чем атаковать.
 3. Загружайте их в Ваши новые Транспорты и высаживайте возле Ворот на </ln>
+<!-- EN: , ignoring all else.
+	Then immediately unload and focus all fire on the warp gate.
+	Bear in mind that ships have to reload after exiting a transport.
+	Unloading from an Assault Transport (unlockable) only requires half the normal reload time. -->
 <ln id="Int_GateRaid1_4c">, игнорируя всё остальное.
 	Затем немедленно разгружайтесь и фокусируйте огонь на Вратах.
 	 Имейте в виду что кораблям необходимо перезарядиться после высадки.
 	Использование Штурмового Транспорта (открывается) потребует только половину времени на перезарядку.</ln>
+<!-- EN: Once the warp gate is destroyed, if you have any surviving ships, get them out in the transports!
+WARNING:  Do NOT attack the enemy command station, or you might provoke the guards into abandoning their posts.
+If you accidentally do provoke the guards on such a high-level planet, they are likely to wipe you out.  Save your game now!
+Even if you don't provoke them, expect a counterattack.  Build up your turrets and forces on your home planet! -->
 <ln id="Int_GateRaid1_5">Как только вражеские Врата будут уничтожены, уводите выжившие корабли используя транспорты!
 ПРЕДУПРЕЖДЕНИЕ: НЕ атакуйте вражескую Командную Станцию, иначе вы можете спровоцировать
 охрану покинуть свои Посты.
@@ -709,76 +1289,142 @@
 Но если вы НЕ спровоцировали охрану, ожидайте гигантскую контратаку. Стройте турели и корабли
 на Вашей Столичной планете!</ln>
 
+<!-- EN: Congratulations!  You've just completed your first gate-raid! -->
 <ln id="Int_Scout9_1">Поздравляем! Вы только что успешно завершили свой первый рейд на Врата!</ln>
+<!-- EN: - Gate-raids can be difficult to pull off, depending on the level of the planet, but they are often an invaluable strategy.
+- Destroying the gate will NOT prevent the AI from reinforcing itself at a given planet, 
+  nor will it prevent Threat ships (freed from angered guard posts, etc) from coming from that direction -->
 <ln id="Int_Scout9_2">- Рейды на Врата могут быть трудновыполнимыми, в зависимости от уровня планеты, но это неотъемлемая часть стратегии.
 - Уничтожение Ворот не помешает ИИ получать подкрепления на данной планете, а также это не избавит от
   кораблей Угрозы (высвобожденных от разъярённых Караульных Постов, и т.д.), приходящих с этого направления.</ln>
+<!-- EN: We HAVE just assured that the AI will never again be able to warp an attack directly into our home planet, though. -->
 <ln id="Int_Scout9_3">Мы добились того, что ИИ никогда больше не сможет направить волну напрямую на Ваш дом.</ln>
+<!-- EN: - This means that we probably don't need as many turrets to defend our homeworld.
+- It might also be a good idea to shift production from your dock(s) on your home planet to docks nearer the action,
+  if you have not already done so. -->
 <ln id="Int_Scout9_4">- Это значит, что нам не нужно столько турелей для защиты дома.
 - Также имеет смысл перенести производство с ваших Верфей на Столичной планете на Верфи, находящиеся ближе
   к фронту, если вы ещё так не сделали.</ln>
+<!-- EN: Required: If you have not done so already, send scouts to all planets adjacent to  -->
 <ln id="Int_Scout9_5a">Необходимо: если Вы ещё этого не сделали, то отправьте Разведчиков ко всем планетам, соседствующим с </ln>  <!-- [name9] -->
+<!-- EN: . -->
 <ln id="Int_Scout9_5b">.</ln>
 
+<!-- EN: Let's look at the Intel Summaries (on the galaxy map) for the planets we've explored. -->
 <ln id="Int_Intel2_1">Давайте посмотрим на разведданные о планетах на карте галактики.</ln>
+<!-- EN: You'll notice that neither  -->
 <ln id="Int_Intel2_2a">Вы заметите, что ни </ln>                            <!-- [name2] -->
+<!-- EN:  or  -->
 <ln id="Int_Intel2_2b">, ни </ln>                                                   <!-- [name3] -->
+<!-- EN:  have much to offer.
+However,  -->
 <ln id="Int_Intel2_2c"> не обладают чем-либо ценным.
 Однако </ln>                                                                     <!-- [name3] -->
+<!-- EN:  is blocking our path forward, so let's find out what's on the other side. -->
 <ln id="Int_Intel2_2d"> блокирует наше продвижение вперёд, так что давайте выясним, что находится на другой стороне.</ln>
+<!-- EN: Build 10 scouts, place them all near each other, and then send 5 to  -->
 <ln id="Int_Intel2_3a">Постройте 10 Разведчиков, разместите их близко друг к другу, и отправьте 5 из них на планету </ln>  <!-- [name4] -->
+<!-- EN:  and 5 to  -->
 <ln id="Int_Intel2_3b">
 и ещё 5 на планету </ln>                                             <!-- [name7] -->
+<!-- EN: . -->
 <ln id="Int_Intel2_3c">.</ln>
+<!-- EN:      If none make it through, you can put them in a transport, launch the transport past, and then take out the scouts. -->
 <ln id="Int_Intel2_4">     Если никто из них не выжил, можете попробовать загрузить их в Транспорт, отправить его вперёд и выгрузить
 Разведчиков у нужного места.</ln>
 
+<!-- EN: Let's look at the Intel Summaries once again:  -->
 <ln id="Int_Attack4_1a">Давайте посмотрим на разведданные ещё раз: </ln>  <!-- [name7] -->
+<!-- EN:  is very high level, but  -->
 <ln id="Int_Attack4_1b"> обладает большим уровнем, а </ln>                             <!-- [name4] -->
+<!-- EN:  is not. -->
 <ln id="Int_Attack4_1c"> нет.</ln>
+<!-- EN: COLONY-HOPPING:  We want to bypass  -->
 <ln id="Int_Attack4_2a">ПРОСКАКИВАНИЕ КОЛОНИЙ: Нам нужно пройти мимо </ln>                                    <!-- [name3] -->
+<!-- EN: , so to do that let's take  -->
 <ln id="Int_Attack4_2b">, для этого давайте захватим </ln>                           <!-- [name4] -->
+<!-- EN:  on the other side. -->
 <ln id="Int_Attack4_2c"> с другой стороны.</ln>
+<!-- EN:      1. Load your ships into 3-4 transports, and send them through  -->
 <ln id="Int_Attack4_3a">     1. Загрузите корабли в 3-4 Транспорта, и отправьте их на планету </ln>         <!-- [name4] -->
+<!-- EN: . -->
 <ln id="Int_Attack4_3b">.</ln>            <!-- [name3] --> <!-- old value third line: 2. If you have trouble, consider sending a mobile builder to -->
+<!-- EN:  to build space dock(s) and turrets as a beachhead. -->
 <ln id="Int_Attack4_3d">, чтобы построить Верфь(и) и турели для основания плацдарма.</ln>
+<!-- EN: Once you have destroyed the command station on  -->
 <ln id="Int_Attack4_4a"> Как только вы уничтожите Командную Станцию на планете </ln>  <!-- [name4] -->
+<!-- EN: , build a colony ship on  -->
 <ln id="Int_Attack4_4b">, постройте Корабль-Колонию на планете </ln>                             <!-- [name9] -->
+<!-- EN:  and transport it over. -->
 <ln id="Int_Attack4_4c">
 и переместите его на Транспорте.</ln>
 
+<!-- EN: 1. If you have not done so already, scout all the remaining planets. -->
 <ln id="Int_ScoutRem_1">1. Исследуйте с помощью дронов-разведчиков все оставшиеся планеты.</ln>
+<!-- EN:      If you build a dock and create scouts right on your newest planet, this should be easy.
+     You could unlock higher-level scouts, but that would be unwise at the moment (you need all the military you can get). -->
 <ln id="Int_ScoutRem_2">     Если Вы построили Верфь и создали Разведчиков на Вашей новой планете, то это должно быть просто.
      Вы можете открыть высокоуровневых разведчиков, но сейчас этого делать не стоит (Вам нужно как можно больше военных кораблей).</ln>
+<!-- EN: 2. If your science labs are exhausted on your other planets, make sure to bring them to  -->
 <ln id="Int_ScoutRem_3a">2. Если ваши лаборатории уже истощили другие Ваши планеты, то перебросьте их к </ln>                        <!-- [name4] -->
+<!-- EN: .
+3. If you have enough knowledge stored up, you should unlock a Mark III ship and start building it on  -->
 <ln id="Int_ScoutRem_3b">.
 3. Если у вас хватает Науки, откройте какой-нибудь корабль Модели III и начните его строительство на планете </ln>  <!-- [name4] -->
+<!-- EN:      Bombers may be best here, but you could also get a higher-level bomber/plasma-siege starship if you prefer. -->
 <ln id="Int_ScoutRem_4">     Выбор Бомбардировщиков может стать одним из лучших, но Вы также можете попробовать высокоуровневых звездолётов, если пожелаете.</ln>
 
+<!-- EN: Let's look at the Intel Summaries:  -->
 <ln id="Int_Attack5_1a">Давайте посмотрим на разведданные: планета </ln>  <!-- [name8] -->
+<!-- EN:  is the enemy home planet, and  -->
 <ln id="Int_Attack5_1b"> является Столичной планетой ИИ, а на планете </ln>                       <!-- [name5] -->
+<!-- EN:  has an advanced factory!
+You can win the game by destroying the AI home planet command station at any time, 
+but that will be easier if we have an Advanced Factory. -->
 <ln id="Int_Attack5_1c"> есть Продвинутая Верфь!
 Мы можем одержать победу, уничтожив Командную Станцию на Столичной планете ИИ в любое время,
 но будет намного проще, если у нас будет Продвинутая Верфь.</ln>
+<!-- EN: It's all up to you, now  - -  this is the last guided part of this tutorial. -->
 <ln id="Int_Attack5_2">Сейчас всё зависит от Вас -- это последняя часть этого Обучения.</ln>            <!-- [name5] -->
+<!-- EN:      1. It's suggested, but not required, that you capture the Advanced Factory.
+     2. Make sure that you have secured the area around the Advanced Factory before capturing it.
+         If you forget, and the Advanced Factory is destroyed, you won't be able to build another one.  Be very careful! -->
 <ln id="Int_Attack5_3">     1. Рекомендуется, но не обязательно, захватить Продвинутую Верфь.
      2. Убедитесь, что вы очистили район вокруг Продвинутой Верфи от врагов, прежде чем захватите планету.
         Если вы будете невнимательны и Продвинутая Верфь будет уничтожена, то Вы не сможете построить другую. Будьте осторожны!</ln>
 
+<!-- EN: If you succeed in capturing the Advanced Factory, you can build Mark IV ships. -->
 <ln id="Int_About_3">Если Вы преуспели в захвате Продвинутой Верфи, то Вы можете строить корабли Модели IV.</ln>  <!-- [name5] -->
+<!-- EN:      This only applies to ships for which you have unlocked the Mark III tech. -->
 <ln id="Int_About_4">     Это возможно только для типов кораблей с изученными Моделями III.</ln>
 
+<!-- EN: Once you're ready, it's time to go destroy  -->
 <ln id="Int_AttackH_1a">Если Вы готовы, то настало время уничтожить </ln>                  <!-- [name8] -->
+<!-- EN: . -->
 <ln id="Int_AttackH_1b">.</ln>
+<!-- EN: Bear in mind that the AI home command station gets a special protection by its guard posts.
+You'll have to kill all of the guard posts on the AI home planet before the AI home command station is vulnerable.
+DEEP STRIKING: You really have no reason to take  -->
 <ln id="Int_AttackH_2a">Имейте в виду, что Столичная Командная Станция ИИ, находится под специальной защитой Караульных Постов.
 Сначала Вы должны уничтожить окружающие Караульные Посты ИИ прежде чем
 Столичная Командная Станция ИИ станет уязвимой.
 ГЛУБИННОЕ НАПАДЕНИЕ: У вас нет причин для захвата планеты </ln>                             <!-- [name7] -->
+<!-- EN: , so just build a large strike group (as big as you can muster).
+Then transport them to the AI home planet.  You will probably have to send many waves.
+Be especially careful of the rough counterattacks from the AI home planet if your ships die there. -->
 <ln id="Int_AttackH_2b">, так что можете просто собрать огромную ударную группу (как можно больше кораблей).
 Затем отправьте их на Столичную планету ИИ.  Возможно Вам придётся отправить несколько волн.
 Будьте особенно осторожны во время грубой контратаки с Столичной планеты ИИ, если Ваши корабли погибли.</ln>
 
+<!-- EN: Victory!  You've successfully completed this mini-campaign. -->
 <ln id="Int_Closing_1">Победа! Вы успешно закончили эту мини-кампанию.</ln>
+<!-- EN: Real campaigns work pretty much like this, 
+except the AI is a lot more tenacious and you never know what you'll find in the galaxy.
+There's a lot out there to discover, but you should be able to cope if you use the techniques you've learned here.
+Between different AI types, map types, ship types, minor factions, AI plots and so on there's really a ton of variety.
+Many players have logged over a thousand hours of AI War and are still encountering lots of new stuff.
+
+Good luck! -->
 <ln id="Int_Closing_2">Настоящие кампании во многом похожи, 
 за исключением того, что ИИ гораздо сильнее, и вы никогда не знаете, что можете найти в Галактике.
 Предстоит много открытий, но Вы с ними справитесь, если освоили техники, изученные здесь.

@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
+<!-- EN: Heroic -->
 <ln id="Heroic">Героический</ln>
+<!-- EN: Fortress King -->
 <ln id="FortressKing">Король Крепости</ln>
 </root>

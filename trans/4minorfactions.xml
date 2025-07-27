@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
 
+<!-- EN: Dark Spire -->
 <ln id="DarkSpire">Тёмные Spire'ы</ln>
+<!-- EN: Several mysterious, ancient structures exist on AI planets throughout the galaxy.  They cannot be harmed, and do not have any weapons, but they absorb energy when a ship dies on the same planet.  What happens when they absorb too much?
+
+PLEASE NOTE: unlike most other minor factions, the Dark Spire are capable of destroying things that cause AI progress on death, and other nasty things like Counterattack guard posts.  As a small mercy, they cannot destroy AI command stations or warp gates, but other than that most things are fair game if caught in the crossfire.  This is all intentional, as the Dark Spire are supposed to have a more chaotic impact on the game than most of the other minor factions as part of the variety they add to the game.
+
+This faction's intensity can be set from 0-10, where 0 is disabled, 1 is a minimal impact on the game, and 10 can have a dominating impact on the game.  4 is a good middle-ground.
+
+To increase intensity, left-click the faction's button.  To decrease intensity, right-click the faction's button. -->
 <ln id="DarkSpire_Desc">Несколько мистических древних строений расположены на планетах ИИ по всей галактике. Им нельзя причинить вред, а они сами не имеют вооружения, но они поглощают энергию, когда корабль погибает на этой планете. Что произойдёт, когда они впитают слишком много?
 
 ВНИМАНИЕ: в отличие от других группировок, Тёмные Spire'ы способны уничтожать постройки, вызывающие рост Прогресса ИИ при уничтожении, и другие неприятные вещи, как Караульный Пост Контратаки. В качестве небольшого снисхождения, они не могут уничтожить Командные Станции ИИ или Врата, но кроме этого, большинство строений ранится, если попадают под перекрёстный огонь. Это сделано намерено, чтобы Тёмные Spire'ы могла более хаотично влиять на игру, в отличие от большинства фракций, ограниченных рамками своего влияния.
@@ -10,7 +18,19 @@
 
 Для увеличения интенсивности - нажмите ЛКМ.  Для уменьшения - нажмите ПКМ.</ln>
 
+<!-- EN: Alt Champ Progress -->
 <ln id="ChampionAltProgress">Альт Прогресс Чемп.</ln>
+<!-- EN: Normally champions gain experience and unlocks by doing various off-map nebula missions.  This is very enjoyable for some players, but others either do not enjoy them or do not want to take their attention from the main map to advance their champions.  If you enable this modifier, an alternate means of champion progress will be used:
+
+1) No nebulae will be seeded.
+2) Instead of gaining experience via nebula scenario rewards, the champion will gain Experience as you gain Knowledge.
+3) Instead of gaining new splinter faction allies and unlocking new modules, champion hulls, and modular fortresses via nebula scenario rewards, these will happen as you capture Advanced Research Stations, Advanced Factories, Fabricators, etc.  Gaining levels also makes some progress towards this.
+- The modular forts and splinter factions are only all given on intensity 5 or higher, but some are given as low as intensity 2 (for splinter factions) or 3 (for mod forts).
+4) All of the normal anti-champion counterbalance measures will be disabled.  If you wish to maintain balance, please set the "Alt Champ Nemesis" faction just below this to at least the intensity you set "Alt Champ Progress" to.
+
+This faction's intensity can be set from 0-10, where 0 is disabled.  Note that you still need to add a champion to the game (via the role dropdown for the player you want to have the champion) for Alt Progress to mean anything.
+
+To increase intensity, left-click the faction's button.  To decrease intensity, right-click the faction's button. -->
 <ln id="ChampionAltProgress_Desc">Обычно чемпионы получают опыт и очки выполняя различные миссии в туманностях вне карты. Это нравится некоторым игрокам, но другим либо не нравится, либо они не хотят отвлекаться от главной карты на улучшение своего чемпиона. Если вы включите этот модификатор, у чемпионов будет альтернативный прогресс:
 
 1) Не будет создано туманностей.
@@ -23,7 +43,13 @@
 
 Для увеличения - клик ЛКМ по кнопке фракции. Для увеличения - клик ПКМ по кнопке фракции.</ln>
 
+<!-- EN: Alt Champ Nemesis -->
 <ln id="ChampionNemesis">Альт Мститель Чемп.</ln>
+<!-- EN: This faction is intended to provide an interesting counterbalance to the benefits gained from using champions with alt-progress (since the normal champion counterbalance is disabled when alt-progress is on).  You may still use it if you are not using alt-progress, if for some reason you just need more pain in your game.
+
+This faction's intensity can be set from 0-10, where 0 is disabled.
+
+To increase intensity, left-click the faction's button.  To decrease intensity, right-click the faction's button. -->
 <ln id="ChampionNemesis_Desc">Эта фракция предназначена для обеспечения интенсивного противовеса преимуществам, получаемым от использования чемпионов с альтернативным прогрессом (так как обычный контрбаланс отключён при использовании альтернативного прогресса). Вы также можете использовать его, если не используете альтернативный прогресс, и по какой-то причине Вам нужны дополнительные проблемы в игре.
 
 Интенсивность фракции устанавливается в диапазоне 0-10, где 0 - влияния нет, 1 - минимально, а 10 - доминирующее.

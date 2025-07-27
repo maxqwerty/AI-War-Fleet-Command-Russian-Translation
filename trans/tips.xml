@@ -1,149 +1,295 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
+<!-- EN: On the galaxy map, pressing 'q' shows the number of ships you have in all the planets, while pressing 'k' shows the knowledge you've harvested from each planet.
+
+(by lanstro) -->
 <ln id="DailyTip1">На карте Галактики, нажатие 'q' показывает количество кораблей, которое Вы имеете на всех планетах, а нажатие 'k' показывает очки Науки, которые Вы собрали с каждой планеты.
 
 (by lanstro)</ln>
+<!-- EN: On the planetary view, pressing 'd' cycles through your space docks or starship constructors, pressing 'b' brings up the build menu and 's' selects any science vessels. This means you don't have to find those buildings.
+
+(by lanstro) -->
 <ln id="DailyTip2">В режиме планеты, нажатие 'd' циклически переключает Вас между Верфями и Звездолётными Верфями, нажатие 'b' открывает меню строительства а 's' выбирает научные корабли. Это значит, что Вам не нужно искать каждую постройку вручную.
 
 (by lanstro)</ln>
+<!-- EN: While you have ships selected, holding the 'v' key while right clicking somewhere will put those ships into 'free roaming defender' mode, which basically puts them on automated guard duty for that planet.
+
+(by lanstro) -->
 <ln id="DailyTip3">Выбрав несколько кораблей, зажатый 'v' и ПКМ по свободной области переведёт эти корабли в режим 'свободного поиска целей', который используется для того, чтобы защитить текущую планету.
 
 (by lanstro)</ln>
+<!-- EN: In a multiplayer game, each player can have separate power stations on each planet.
+
+(by lanstro) -->
 <ln id="DailyTip4">В многопользовательской игре каждый игрок может иметь свои отдельные Энергетические Станции на планете.
 
 (by lanstro)</ln>
+<!-- EN: Using a Hacker's Research Redirector, it is possible to have more control over what ship type you get from capturing an Advanced Research Station. -->
 <ln id="DailyTip5">Использование Редиректора Исследований из Хакера можно получить больше возможностей, чем от обычного захвата Продвинутой Лаборатории.</ln>
+<!-- EN: Placing multiple forcefields over your home command station (or other key structure) can protect it against a sustained AI attack and give you time to bring in reinforcements.
+
+But beware!  Some ships can fire through forcefields. -->
 <ln id="DailyTip6">Установка множества Силовых Полей над Столичной Командной Станцией(или другой ключевой структурой) может защитить от длительной атаки ИИ и даст время для прибытия подкрепления.
 
 Но берегитесь!  Некоторые корабли могут стрелять через Силовые Поля.</ln>
+<!-- EN: Select some ships, then hit the 'L' key: now you have 1/2 the original selected ships.  Press it again, and now you have 1/4th.  Ctrl+'L' works similarly, but selects 1/3rd.
+
+I often use it to select some engineers to assign to a task or to grab a few scouts to send on a mission.
+
+(by Winter Born) -->
 <ln id="DailyTip7">Выберете несколько кораблей и нажмите 'L': теперь у Вас выбрано 1/2 набора кораблей.  Нажмите на клавишу снова и у Вас окажется 1/4.  Ctrl+'L' работает похожим образом, но выбирает 1/3.
 
 Я часто это использую для того, чтобы назначать инженеров или выбрать немного Разведчиков для отправки на задание.
 
 (by Winter Born)</ln>
+<!-- EN: AI Guard Posts and Guardians HURT!  Find ways to minimize their chances to fire on your fleet, and particularly to fire on ships they have bonuses against (especially if those ships are expensive to replace). -->
 <ln id="DailyTip8">Караульные Посты ИИ и Стражи СИЛЬНЫ!  Найдите способ минимизировать их шансы выстрела по Вашим кораблям, и особенно по кораблям, против которых у них бонусы (особенно, если эти корабли дороги для постройки).</ln>
+<!-- EN: Scout starships are ideal to bring with your main fleet all the time, because of their countersniper and tachyon abilities.
+
+(by Lancefighter) -->
 <ln id="DailyTip9">Звездолёты-Разведчики идеальны для того, чтобы всегда брать их в главный флот благодаря их способности скрытия и противостояния снайперам.
 
 (by Lancefighter)</ln>
+<!-- EN: You can only build one Energy Collector per planet (per player), but they provide a large amount of energy without any ongoing cost.  If you can build enough of these to avoid needing to use the expensive-to-run Matter Converters, your economy will thank you. -->
 <ln id="DailyTip10">Вы можете построить только один Сборщик Энергии на каждой планете (на игрока), но они дают много энергии без постоянного потребления чего-либо.  Если Вы сможете построить их достаточно, чтобы избежать потребности в использовании дорогих в содержании Преобразователей Материи, Ваша экономика будет на высоте.</ln>
+<!-- EN: If you place a forcefield over a wormhole exit, you can push enemy units directly onto minefields as they come through.
+
+(this does not apply to most mobile forcefields, but does for Riot Control Starship shields)
+
+(by unclean) -->
 <ln id="DailyTip11">Если разместить Силовое Поле над червоточиной, можно выкинуть вражеские корабли прямо на Мины, когда они будут выходить.
 
 (это не работает для большинства подвижных Силовых Полей, но работает для Щитов Звездолётов Подавления)
 
 (by unclean)</ln>
+<!-- EN: If you place a forcefield over a wormhole entrance, you can prevent most enemy units from going through that wormhole until they've killed the forcefield.
+
+(this does not apply to most mobile forcefields, but does for Riot Control Starship shields) -->
 <ln id="DailyTip12">Если разместить Силовое Поле над червоточиной, можно предоствратить проход большинства вражеских юнитов через эту червоточину, пока они не уничтожать Силовое Поле.
 
 (это не работает для большинства подвижных Силовых Полей, но работает для Щитов Звездолётов Подавления)</ln>
+<!-- EN: We have a pleasant, active forum community.  Please join us at 
+
+http://www.arcengames.com/forums/index.php/board,2.0.html -->
 <ln id="DailyTip13">У нас есть дружелюбное активное сообщество на форуме. Присоединяйтесь:
 
 http://www.arcengames.com/forums/index.php/board,2.0.html</ln>
+<!-- EN: Zenith Space Time Manipulators can be used to make "highways" between the various battle fronts of your empire.  Logistics Command Stations can somewhat do this, also.
+
+(by unclean) -->
 <ln id="DailyTip14">Космические Манипуляторы Временем Zenith'ов могут использоваться для создания "автострад" между разными боевыми фронтами вашей империи.  Логистические Командные Станции также могут сделать что-то подобное.
 
 (by unclean)</ln>
+<!-- EN: Cloaker Starships can be combined with Transports to cloak HUGE numbers of units at once.
+
+(by unclean) -->
 <ln id="DailyTip15">Скрывающий Звездолёт можно объединить с Транспортом чтобы скрыть МНОГО кораблей за один раз.
 
 (by unclean)</ln>
+<!-- EN: Don't neglect transports!  They let you bypass planets that are dangerous, but which you don't want to capture.  You'll end up with a fragmented empire if you hop planets, but a much healthier AI Progress.
+
+Assault Transports can be unlocked by spending Knowledge, and have several advantages over normal transports. -->
 <ln id="DailyTip16">Не пренебрегайте Транспортом!  Он позволяет проходит через опасные планеты, которые Вы не хотите захватывать.  У Вас будет фрагментированная империя, если Вы будете перескакивать планеты, но зато низкий Прогресс ИИ.
 
 Штурмовой Транспорт открывается за Науку и имеет некоторые преимущества по сравнению с обычным Транспортом.</ln>
+<!-- EN: Don't unload transports right next to a bunch of enemies.  In hostile territory, it takes a while for all the ships inside a transport to disembark and charge weapons, and if they're getting shot to pieces as they come out the door that won't be very helpful. -->
 <ln id="DailyTip17">Не разгружайте Транспорт прямо перед кучей врагов. На вражеской территории для всех кораблей потребуется время для высадки и зарядки орудий, а если по ним будут стрелять как через дверной проём, они не проявят себя эффективно.</ln>
+<!-- EN: Cloaker starships provide counter-sniper and counter-dark matter fire.  Oh yeah, and cloaking super-boost.  This is a starship that a lot of players overlook, but don't underestimate the use of any of those abilities!
+
+(by Lancefighter) -->
 <ln id="DailyTip18">Скрывающие Звездолёты поддерживают противоснайперский и огонь против тёмной материи.  Ах да, и Супер Усилитель Сокрытия.  Это звездолёт, который многие игроки игнорируют, но не недооценивайте использование этих способностей!
 
 (by Lancefighter)</ln>
+<!-- EN: Fun warhead delivery system: cloaker starship + warheads.  Once you clear out the wormhole tachyon sentinels, you can send the entire group through cloaked. Makes for some fun surprises when hybrids get lightning warheaded back to the clone vat.
+
+(by Lancefighter) -->
 <ln id="DailyTip19">Весёлая система доставки боеголовок: Скрывающий Звездолёт + Боеголовки.  Как только Вы очистите червоточину от тахионных часовых, Вы сможете отправить всю скрытую группу. Делается для весёлых сюрпризов, когда Гибриды получают Молниевую Боеголовку в бочку с клонами.
 
 (by Lancefighter)</ln>
+<!-- EN: You can press the F12 key for screenshots that will be saved within the game folder.  (I actually suggested this in a community poll!)
+
+(by Shardz) -->
 <ln id="DailyTip20">Вы можете нажать F12 и скриншот сохранится в папке с игрой.  (Я предложил это в опросе сообщества!)
 
 (by Shardz)</ln>
+<!-- EN: Forcefields can "free" your units from tractors, when you move the force field over the tractored unit.
+
+(by Ozymandiaz) -->
 <ln id="DailyTip21">Силовые поля могут "освободить" Ваших юнитов от Тягачей, если поместить силовое поле над затянутым юнитом.
 
 (by Ozymandiaz)</ln>
+<!-- EN: Transports can load tractored units. Click on the tractored units and tell them to load in a transport, fly the transport over the ships and they will load into the transport. The sweet spot is small, so several slightly different passes may be required to recover them all. Also works on ships with dead engines.
+
+(by Winter Born) -->
 <ln id="DailyTip22">Транспорт может загрузить захваченных Тягачом юнитов. Кликните на затянутый юнит и прикажите ему загрузиться в транспорт, поместите Транспорт над кораблём и и он загрузится в Транспорт. Точка загрузки мала, так что могут потребоваться различные пути, чтобы восстановить все корабли. Также работает на кораблях с мёртвым движком.
 
 (by Winter Born)</ln>
+<!-- EN: If you destroy your command station on a Dyson Sphere planet, the Dyson Sphere reverts to being your friend.  If you can handle a few hostile Dyson Gatlings, this is a great way to capture Advanced Reasearch Stations or Golems from the Dyson planet.
+
+(by Giegue) -->
 <ln id="DailyTip23">Если Вы уничтожите свою Командную Станцию на планете Сферы Дайсона, то Сфера Дайсона снова станет вашим другом.  Если Вы можете справится с немного враждебными Гатлингами Дайсона, то это хороший способ захватить Продвинутую Лабораторию или Голема на планете Дайсона.
 
 (by Giegue)</ln>
+<!-- EN: Free Roaming Defender ('v'+right-click) works on engineers.  Have them repair anything that gets damaged on the entire planet!
+
+(by RCIX) -->
 <ln id="DailyTip24">Режим Свободной Защиты ('v'+ПКМ) работает на Инженерах. Пусть они чинят всё, что повреждено, на этой планете!
 
 (by RCIX)</ln>
+<!-- EN: Don't put ships on Free Roaming Defender ('v'+right-click) mode on offense without considering the situation first.  Unless you MASSIVELY outclass the enemy, this is basically 'suicide mode.'
+
+(by Eagleheart) -->
 <ln id="DailyTip25">Не устанавливайте корабли в Режим Свободной Защиты ('v'+ПКМ) при нападении, не оценив перед этим ситуацию.  Если вы МАССОВО не превосходите врага, то это 'путь самоубийцы'.
 
 (by Eagleheart)</ln>
+<!-- EN: Use Free Roaming Defender ('v'+right-click) mode for the best defense, and Attack-Move ('x'+right-click) for the best offense.  This doesn't always apply, but it's a good rule of thumb. -->
 <ln id="DailyTip26">Используйте Режим Свободной Защиты  ('v'+ПКМ) для лучшей защиты, и Атаку-в-Движении ('x'+ПКМ) для лучшей атаки. Это не всегда так, но на опыте проверено.</ln>
+<!-- EN: Pay attention to attack ranges!  You can see them by pressing 'z' for your ships, or 'z'+'x' to see it for all ships.  When you have a smaller force against multiple guard posts, try to stay in the attack ranges of as few as possible at any given time. -->
 <ln id="DailyTip27">Будьте внимательны к дальности атаки. Мы можете её увидеть для выбранных кораблей, нажав 'z', или для всех кораблей, нажав 'z'+'x'. Когда у Вас имеются слабые силы против нескольких Караульных Постов, постарайтесь находиться вне их диапазона атаки.</ln>
+<!-- EN: Be careful with very short-ranged ships, such as fighters, during big battles.  If they aren't in Free Roaming Defender ('v'+right-click) or Attack-Move ('x'+right-click) modes, then they might not get to shoot at all if they're at the center of a big mass of your ships. -->
 <ln id="DailyTip28">Будьте внимательны к кораблям с малой дальностью (таким как Истребители) на протяжении всей битвы.  Если они не в Режиме Свободной Защиты('v'+ПКМ) или Атаке-В-Движении('x'+ПКМ), тогда они скорее всего не будут стрелять вообще, если находятся в центре основной массы ваших кораблей.</ln>
+<!-- EN: There is a handy-dandy context menu: 'alt'+right-click.  There are different options in there depending on the types of ships you have selected, including some fancy commands you can't do any other way.  Like auto-knowledge gathering for science labs.
+
+(by quickstix) -->
 <ln id="DailyTip29">Имеется удобное контекстное меню: 'alt'+ПКМ. Есть множество настроек в зависимости от выбранного типа кораблей, включая полезные команды, которые нельзя дать иным способом. Например, авто-сбор очков Науки у Лабораторий.
 
 (by quickstix)</ln>
+<!-- EN: Don't "pop your head in" to an AI planet with military forces, unless you're prepared to deal with the wrath of the AI.  Use scouts instead, as they won't stir the AI into a frenzy. -->
 <ln id="DailyTip30">Не "бросайтесь с головой" к ИИ с военными силами, если Вы не готовы иметь дело с гневом ИИ. Используйте вместо этого Разведчиков, которые не злят ИИ.</ln>
+<!-- EN: Having trouble scouting?  Send scouts in larger groups, and/or with group-move on to keep them all together.  Still having trouble?  Unlock higher-tier scouts. -->
 <ln id="DailyTip31">Проблемы с разведкой? Посылайте большие группы Разведчиков, и/или в групповом режиме держите их вместе. Всё ещё не получается? Разблокируйте более совершенных Разведчиков.</ln>
+<!-- EN: Always being caught by surprise with nearby AI forces?  Leave a scout or two just sitting hidden out in the middle of nowhere on AI planets of interest, so that you have ongoing visibility into what is going on there. -->
 <ln id="DailyTip32">Постоянно застают врасплох соседние силы ИИ? Оставьте скрытно сидеть на их планете парочку Разведчиков, которые не привлекут внимание ИИ, а а у Вас будет постоянная информация о происходящем.</ln>
+<!-- EN: The official wiki is chock full of helpful information:
+
+http://arcengames.com/mediawiki/index.php?title=AI_War:Fleet_Command -->
 <ln id="DailyTip33">Официальная wiki, полная полезной информации:
 
 http://arcengames.com/mediawiki/index.php?title=AI_War:Fleet_Command</ln>
+<!-- EN: Mobile Space Docks can make it a lot easier to replenish fleet ship losses in the field. -->
 <ln id="DailyTip34">Мобильная Верфь может быстро восполнить потери кораблей на поле боя.</ln>
+<!-- EN: One of our community members put together some very nice video tutorials.  The first one can be found here:
+
+http://www.youtube.com/watch?v=UjC3pGVXGXg -->
 <ln id="DailyTip35">Участники нашего комьюнити объединились вместе и сделали обучающие видео. Первые из них можно посмотреть тут:
 
 http://www.youtube.com/watch?v=UjC3pGVXGXg</ln>
+<!-- EN: If you run into an enemy that just won't die, check the Reference tab of the Stats screen to find out what you can build to take it down. -->
 <ln id="DailyTip36">Если какой-то враг не хочет умирать, загляните во вкладку Ссылки на панели Статы, чтобы узнать, что нужно построить для его уничтожения.</ln>
+<!-- EN: In the bottom-left corner of the main HUD, there are three very useful buttons.
+
+1) The Map button lets you switch between planet view, galaxy view, and the minimap.
+2) The Stats button takes you a window with several tabs containing highly useful information.
+3) The Ctrls button opens a window with special options for controlling your empire. -->
 <ln id="DailyTip37">В нижнем-левом углу главного экрана находится 3 полезные кнопки:
 
 1) Кнопка Карта позволяет переключаться между видом планеты, видом галактики и миникартой.
 2) Кнопка Статы открывает окно с несколькими вкладками, содержащими очень полезную информацию.
 3) Кнопка Контр открывает окно со специальными настройками для контроля вашей империи.</ln>
+<!-- EN: If you aren't sure what to do next in a game, check the Objectives tab of the Stats screen, it aggregates your scout intel to provide you with a high-level list of targets and goals.  
+
+You can get more info by hovering your mouse cursor over an objective, and (in most cases) can view the target by clicking on it. -->
 <ln id="DailyTip38">Если Вы не знаете, что делать в игре дальше, загляните во вкладку Задания окна Статы: она содержит разведданные, которые дают список высокоуровневых целей и задач.  
 
 Можно получить больше информации наведением курсора мыши над задачей, а также (в большинстве случаев) вы можете увидеть цель, кликнув по задаче.</ln>
+<!-- EN: Want more tips?  A number of important fast-facts about AI War can be found at:
+
+http://arcengames.com/mediawiki/index.php?title=AI_War_-_Fast_Facts -->
 <ln id="DailyTip39">Хотите больше кораблей?  Множество важных быстрых фактов об игре AI War можно найти здесь:
 
 http://arcengames.com/mediawiki/index.php?title=AI_War_-_Fast_Facts</ln>
+<!-- EN: Find your inner Super Cat!  Or, at least, get some helpful new-player info from community member Kahuna in this forum post.
+
+http://www.arcengames.com/forums/index.php/topic,13369.0.html -->
 <ln id="DailyTip40">Ищите своего внутреннего Супер Кота! Или, в конце концов, получите полезную информацию для новичка от члена сообщества Kahuna в этом посте на форуме:
 
 http://www.arcengames.com/forums/index.php/topic,13369.0.html</ln>
+<!-- EN: If you're just starting out, this article is useful:
+
+http://arcengames.com/mediawiki/index.php?title=AI_War_-_Starting_Out -->
 <ln id="DailyTip41">Если Вы только начинаете, этот раздел может быть полезным:
 
 http://arcengames.com/mediawiki/index.php?title=AI_War_-_Starting_Out</ln>
+<!-- EN: Not sure which difficulty level to choose?
+
+http://arcengames.com/mediawiki/index.php?title=AI_War_-_Choosing_A_Difficulty_Level -->
 <ln id="DailyTip42">Не знаете, какой уровень сложности выбрать?
 
 http://arcengames.com/mediawiki/index.php?title=AI_War_-_Choosing_A_Difficulty_Level</ln>
+<!-- EN: Wondering about the different map sizes?
+
+http://arcengames.com/mediawiki/index.php?title=AI_War_-_Choosing_A_Map_Size -->
 <ln id="DailyTip43">Хотите узнать разницу карт разного размера?
 
 http://arcengames.com/mediawiki/index.php?title=AI_War_-_Choosing_A_Map_Size</ln>
+<!-- EN: AI War provides many tools to minimize micromanagement, this is a good read:
+
+http://arcengames.com/mediawiki/index.php?title=AI_War_-_Minimizing_Micromanagement -->
 <ln id="DailyTip44">AI War поддреживает множество средств минимизации микроменеджемта. О них можно прочесть тут:
 
 http://arcengames.com/mediawiki/index.php?title=AI_War_-_Minimizing_Micromanagement</ln>
+<!-- EN: If you find a bug, we would be ever-so-grateful if you reported it:
+
+http://www.arcengames.com/mantisbt/ -->
 <ln id="DailyTip45">Если Вы обнаружили ошибку, мы будем бесконечно благодарны, если Вы сообщите нам о ней:
 
 http://www.arcengames.com/mantisbt/</ln>
+<!-- EN: Want more familiar planet names?  You can rename them in the game, but you can get the game to use the names you want from the start:
+
+http://arcengames.com/mediawiki/index.php?title=AI_War_-_Alternate_Planet_Names -->
 <ln id="DailyTip46">Хотите больше знакомых имён для планет?  Вы можете их переименовать, но их нужно задать в самом начале игры:
 
 http://arcengames.com/mediawiki/index.php?title=AI_War_-_Alternate_Planet_Names</ln>
+<!-- EN: Can't stand a particular AI Type, but still want to use Random?  Learn how to disable specific types:
+
+http://arcengames.com/mediawiki/index.php?title=AI_War_-_Disabled_AI_Types -->
 <ln id="DailyTip47">Не можете противостоять определённым Типам ИИ, но все же хотите использовать случайный тип?  Смотрите, как убрать определённые типы:
 
 http://arcengames.com/mediawiki/index.php?title=AI_War_-_Disabled_AI_Types</ln>
+<!-- EN: You can change the key-bindings in the "View Controls" screen under the Settings menu. -->
 <ln id="DailyTip48">Вы можете изменить назначения клавиш в меню "Управление" в окне "Настройки".</ln>
+<!-- EN: If you run into technical difficulties, please visit our Technical Support forum:
+
+http://www.arcengames.com/forums/index.php/board,3.0.html -->
 <ln id="DailyTip49">Если вы столкнулись с техническими трудностями, посетите форум Технической Поддержки:
 
 http://www.arcengames.com/forums/index.php/board,3.0.html</ln>
+<!-- EN: Curious about multiplayer?
+
+http://arcengames.com/mediawiki/index.php?title=AI_War_-_Multiplayer -->
 <ln id="DailyTip50">Заинтересованы в мультиплеере?
 
 http://arcengames.com/mediawiki/index.php?title=AI_War_-_Multiplayer</ln>
+<!-- EN: Transports are incredibly important. They can get your military ships past wormhole defenses, allow deep strikes several worlds into enemy territory, and boost your scouting range by slipping scouts past strong front line defenses.
+
+(by Vinraith) -->
 <ln id="DailyTip51">Транспорт очень важен. Он может перенести ваши военные корабли через защиту червоточин, позволяя нападать на врагов через несколько территорий, и улучшить вашу разведовательную дальность пробрасывая Разведчиков через линии защиты.
 
 (by Vinraith)</ln>
+<!-- EN: You want every Advanced Research Station on the map if it's at all possible to secure them. It's not necessary to hold the system, it only has to be captured for a moment for you to get access to a new ship type and the new cap that comes with it.
+
+(by Vinraith) -->
 <ln id="DailyTip52">Вы захотите иметь все Продвинутые Лаборатории на карте, если сможете их защитить. Но нет необходимости удерживать систему, достаточно единожды её захватить, чтобы получить доступ к новому типу кораблей и новый набор будет открыт.
 
 (by Vinraith)</ln>
+<!-- EN: Caps are per ship level, not per ship type, so unlocking higher tier ships means both better ships and more ships. Always continue building lower mark ships to keep your fleet numbers up, you'll need them!
+
+(by Vinraith) -->
 <ln id="DailyTip53">Ограничение на количество устанавливается отдельно на каждый уровень, а не на тип корабля, так что открытие нового уровня кораблей означает получение лучших кораблей и большего числа кораблей. Всегда продолжайте строить корабли низких уровней, чтобы держать количество флота на высоте: они Вам понадобятся!
 
 (by Vinraith)</ln>
+<!-- EN: We update the beta versions of the game quite frequently, often once a week or more.  If you're curious what we're up to, read the most recent release notes:
+
+http://arcengames.com/mediawiki/index.php?title=AI_War:Fleet_Command#Release_History -->
 <ln id="DailyTip54">Мы обновляем бета-версии довольно часто, часто раз в неделю или чаще. Если Вам интересно, что мы добавили, прочитайте последние заметки о релизе:
 
 http://arcengames.com/mediawiki/index.php?title=AI_War:Fleet_Command#Release_History</ln>
+<!-- EN: Normally when you drag a selection box around ships, if there are any military ships under the box then only military ships will be selected.  This is generally best, but in cases where you want to select all ships under the selection box regardless of military status, just hold the Ctrl key! -->
 <ln id="DailyTip55">Обычно, проводя рамку над выбираемыми кораблями, если много военных кораблей в рамке, то выберутся только военные корабли. Часто это полезно, но если Вам нужно выделить все корабли, просто зажмите Ctrl!</ln>
+<!-- EN: Take a look at the Hacker unit you can build from any command station.  It provides several important abilties (via the devices it can build). -->
 <ln id="DailyTip56">Обратите внимание на юнита Хакер, строящегося в любой Командной Станции. Он предоставляет множество возможностей(с помощью устройств, которые он строит).</ln>
+<!-- EN: When AI ships die on your planets you get a temporary boost to metal production.  Similarly, losing your ships on an AI planet will eventually lead to a reprisal wave partly built from the scrap. -->
 <ln id="DailyTip57">Когда корабли ИИ погибают на Вашей планете, то Вы получаете прирост металла. Подобно этому, потеря Ваших кораблей на планете ИИ в конечном итоге приведёт к появлению ответной войны, построенной из лома Ваших кораблей.</ln>
+<!-- EN: Don't forget to use mines!  The 'Line Place' tool on the alt+right-click context menu (when placing a mine) is very helpful to get good use out of them. -->
 <ln id="DailyTip58">Не забывайте использовать Мины! Пункт 'Распр Линией' контекстном меню alt+ПКМ (при размещении мин) очень полезен.</ln>
 </root>

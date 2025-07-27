@@ -1,15 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
+<!-- EN: Hybrid Hive -->
 <ln id="SubroutineAvatar">Улей Гибридов</ln>
+<!-- EN: Super Hybrid -->
 <ln id="SuperHybrid">Супер Гибрид</ln>
+<!-- EN: Hybrid Facility -->
 <ln id="SubroutineFacility">Сооружение Гибридов</ln>
+<!-- EN: Yng Commando -->
 <ln id="YounglingCommando">Юнг Диверсант</ln>
+<!-- EN: Yng Tiger -->
 <ln id="YounglingTiger">Юнг Тигр</ln>
+<!-- EN: Yng Vulture -->
 <ln id="YounglingVulture">Юнг Стервятник</ln>
+<!-- EN: Enclave Star -->
 <ln id="EnclaveStarship">Звезд. Анклава</ln>
+<!-- EN: Regen Chamber -->
 <ln id="RegenChamber">Камера Регена</ln>
+<!-- EN: Yng Weasel -->
 <ln id="YounglingWeasel">Юнг Куница</ln>
+<!-- EN: Sp. Weapon -->
 <ln id="SpecialWeapon">Спец. Орудие</ln>
+<!-- EN: Neinzul Habitat -->
 <ln id="NeinzulHabitat">Среда Neinzul'ов</ln>
+<!-- EN: Yng Nanoswarm -->
 <ln id="YounglingNanoswarm">Юнг Нанорой</ln>
 </root>

@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
+<!-- EN: Avenger -->
 <ln id="Avenger">Мститель</ln>
+<!-- EN: Defender -->
 <ln id="Defender">Защитник</ln>
+<!-- EN: Energy Plague -->
 <ln id="WrathOfNature">Энергетич. Чума</ln>
+<!-- EN: Astro Trains -->
 <ln id="AstroTrains">Космические Поезда</ln>
+<!-- EN: Counter Posts -->
 <ln id="CounterAttackPosts">Пост Контратаки</ln>
+<!-- EN: Warp Relays -->
 <ln id="WarpRelays">Реле Пространства</ln>
 </root>

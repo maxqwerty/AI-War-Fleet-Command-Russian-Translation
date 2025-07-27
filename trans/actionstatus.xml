@@ -1,6 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
+<!-- EN: Normal -->
 <ln id="Normal">Норма</ln>
+<!-- EN: Zombie -->
 <ln id="Zombie">Зомби</ln>
+<!-- EN: Minor Faction -->
 <ln id="MinorFaction">Фракция</ln>
 </root>

@@ -1,88 +1,144 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
 
+<!-- EN: 5. Boom! Problem Solved -->
 <ln id="EXP6_DestroyedAIHWWithNomad_Gold">5. Бууум! Проблема Решена</ln>
+<!-- EN: Destroy an AI Homeworld with a Nomad Planet. -->
 <ln id="EXP6_DestroyedAIHWWithNomad_Gold_Desc">Уничтожить Мир ИИ с помощью Кочевой Планеты.</ln>
 
+<!-- EN: 4. Imitators Will Be Shot -->
 <ln id="EXP6_BeatMime_Bronze">4. Пристрелим Имитаторов</ln>
+<!-- EN: Win against the "Mime" AI type on any difficulty. -->
 <ln id="EXP6_BeatMime_Bronze_Desc">Победите ИИ "Мима" на любой сложности.</ln>
 
+<!-- EN: 4. Flattery Will Get You Nowhere -->
 <ln id="EXP6_BeatMime_Silver">4. Лесть Не Поможет</ln>
+<!-- EN: Win against the "Mime" AI type on difficulty 7 or up. -->
 <ln id="EXP6_BeatMime_Silver_Desc">Победите ИИ "Мима" на сложности 7 или выше.</ln>
 
+<!-- EN: 4. Never Trust A Mime -->
 <ln id="EXP6_BeatMime_Gold">4. Не Доверяй Мимам</ln>
+<!-- EN: Win against the "Mime" AI type on difficulty 9 or up. -->
 <ln id="EXP6_BeatMime_Gold_Desc">Победите ИИ "Мима" на сложности 9 или выше.</ln>
 
+<!-- EN: 4. Enough With The Guardians Already -->
 <ln id="EXP6_BeatVanguard_Bronze">4. Теперь Стражей Достаточно</ln>
+<!-- EN: Win against the "Vanguard" AI type on any difficulty. -->
 <ln id="EXP6_BeatVanguard_Bronze_Desc">Победите ИИ "Авангард" на любой сложности.</ln>
 
+<!-- EN: 4. Guard This! -->
 <ln id="EXP6_BeatVanguard_Silver">4. Защищай!</ln>
+<!-- EN: Win against the "Vanguard" AI type on difficulty 7 or up. -->
 <ln id="EXP6_BeatVanguard_Silver_Desc">Победите ИИ "Авангард" на сложности 7 или выше.</ln>
 
+<!-- EN: 4. Time To Hire Better Security -->
 <ln id="EXP6_BeatVanguard_Gold">4. Время Создавать Лучшую Защиту</ln>
+<!-- EN: Win against the "Vanguard" AI type on difficulty 9 or up. -->
 <ln id="EXP6_BeatVanguard_Gold_Desc">Победите ИИ "Авангард" на сложности 9 или выше.</ln>
 
+<!-- EN: 4. Enough With The Starships Already -->
 <ln id="EXP6_BeatStarshipFanatic_Bronze">4. Теперь Звездолётов Достаточно</ln>
+<!-- EN: Win against the "Starship Fanatic" AI type on any difficulty. -->
 <ln id="EXP6_BeatStarshipFanatic_Bronze_Desc">Победите ИИ "Фанат Звездолётов" на любой сложности.</ln>
 
+<!-- EN: 4. Try Smaller Ships Next Time -->
 <ln id="EXP6_BeatStarshipFanatic_Silver">4. Следующий Раз Попробуй Корабли Поменьше</ln>
+<!-- EN: Win against the "Starship Fanatic" AI type on difficulty 7 or up. -->
 <ln id="EXP6_BeatStarshipFanatic_Silver_Desc">Победите ИИ "Фанат Звездолётов" на сложности 7 или выше.</ln>
 
+<!-- EN: 4. They're Just Bigger Targets, You Know -->
 <ln id="EXP6_BeatStarshipFanatic_Gold">4. Знаешь, Это Всего Лишь Цели Побольше</ln>
+<!-- EN: Win against the "Starship Fanatic" AI type on difficulty 9 or up. -->
 <ln id="EXP6_BeatStarshipFanatic_Gold_Desc">Победите ИИ "Фанат Звездолётов" на сложности 9 или выше.</ln>
 
+<!-- EN: 2. You Should Have Known This Wouldn't End Well -->
 <ln id="EXP6_BeatCowardly_Bronze">2. Ты Должен Был Знать, Что Это Не Закончится Хорошо</ln>
+<!-- EN: Win against the "Cowardly" AI type on any difficulty. -->
 <ln id="EXP6_BeatCowardly_Bronze_Desc">Победите ИИ "Трус" на любой сложности.</ln>
 
+<!-- EN: 2. Stand And Fight Like A... A... Well, You Get The Idea -->
 <ln id="EXP6_BeatCowardly_Silver">2. Встань И Дерись Как... A... Ну, Ты Понял Смысл</ln>
+<!-- EN: Win against the "Cowardly" AI type on difficulty 7 or up. -->
 <ln id="EXP6_BeatCowardly_Silver_Desc">Победите ИИ "Трус" на сложности 7 или выше.</ln>
 
+<!-- EN: 2. Bravely Ran Away -->
 <ln id="EXP6_BeatCowardly_Gold">2. Храбрый Побег</ln>
+<!-- EN: Win against the "Cowardly" AI type on difficulty 9 or up. -->
 <ln id="EXP6_BeatCowardly_Gold_Desc">Победите ИИ "Трус" на сложности 9 или выше.</ln>
 
+<!-- EN: 4. Keep Your Core Guard Posts To Yourself -->
 <ln id="EXP6_BeatBrutal_Bronze">4. Держи Главные Караульные Посты При Себе</ln>
+<!-- EN: Win against the "Brutal" AI type on any difficulty. -->
 <ln id="EXP6_BeatBrutal_Bronze_Desc">Победите ИИ "Зверский" на любой сложности.</ln>
 
+<!-- EN: 4. Nobody Likes A Bully -->
 <ln id="EXP6_BeatBrutal_Silver">4. Никто Не Любит Хулиганов</ln>
+<!-- EN: Win against the "Brutal" AI type on difficulty 7 or up. -->
 <ln id="EXP6_BeatBrutal_Silver_Desc">Победите ИИ "Зверский" на сложности 7 или выше.</ln>
 
+<!-- EN: 4. I'll Show You Brutal -->
 <ln id="EXP6_BeatBrutal_Gold">4. Я Покажу Тебе Зверя</ln>
+<!-- EN: Win against the "Brutal" AI type on difficulty 9 or up. -->
 <ln id="EXP6_BeatBrutal_Gold_Desc">Победите ИИ "Зверский" на сложности 9 или выше.</ln>
 
+<!-- EN: 3. Stand Still So I Can Hit You! -->
 <ln id="EXP6_BeatKiteFlier_Bronze">3. Стой Смирно, Чтобы Я Тебя Ударил!</ln>
+<!-- EN: Win against the "Kite Flier" AI type on any difficulty. -->
 <ln id="EXP6_BeatKiteFlier_Bronze_Desc">Победите ИИ "Воздушный Змей" на любой сложности.</ln>
 
+<!-- EN: 3. Struck By Lightning -->
 <ln id="EXP6_BeatKiteFlier_Silver">3. Поражён Молнией</ln>
+<!-- EN: Win against the "Kite Flier" AI type on difficulty 7 or up. -->
 <ln id="EXP6_BeatKiteFlier_Silver_Desc">Победите ИИ "Воздушный Змей" на сложности 7 или выше.</ln>
 
+<!-- EN: 3. Danced Like A Butterfly, Stung By A Nuke -->
 <ln id="EXP6_BeatKiteFlier_Gold">3. Танцуй Как Бабочка, Жаль Как Бомба</ln>
+<!-- EN: Win against the "Kite Flier" AI type on difficulty 9 or up. -->
 <ln id="EXP6_BeatKiteFlier_Gold_Desc">Победите ИИ "Воздушный Змей" на сложности 9 или выше.</ln>
 
+<!-- EN: 4. The Powers Of Two Were Not Enough -->
 <ln id="EXP6_BeatQuadratic_Bronze">4. Мощь Двоих Недостаточна</ln>
+<!-- EN: Win against the "Quadratic" AI type on any difficulty. -->
 <ln id="EXP6_BeatQuadratic_Bronze_Desc">Победите ИИ "Квадратный" на любой сложности.</ln>
 
+<!-- EN: 4. Equated With Dead -->
 <ln id="EXP6_BeatQuadratic_Silver">4. Эквивалентен Мёртвецу</ln>
+<!-- EN: Win against the "Quadratic" AI type on difficulty 7 or up. -->
 <ln id="EXP6_BeatQuadratic_Silver_Desc">Победите ИИ "Квадратный" на сложности 7 или выше.</ln>
 
+<!-- EN: 4. Math Hurts -->
 <ln id="EXP6_BeatQuadratic_Gold">4. Математика Ранит</ln>
+<!-- EN: Win against the "Quadratic" AI type on difficulty 9 or up. -->
 <ln id="EXP6_BeatQuadratic_Gold_Desc">Победите ИИ "Квадратный" на сложности 9 или выше.</ln>
 
+<!-- EN: 4. Two Can Play At Disproportionate Response -->
 <ln id="EXP6_BeatOverreactive_Bronze">4. Двое Могут Играть С Непропорциональной Реакцией</ln>
+<!-- EN: Win against the "Overreactive" AI type on any difficulty. -->
 <ln id="EXP6_BeatOverreactive_Bronze_Desc">Победите ИИ "Сверхактивный" на любой сложности.</ln>
 
+<!-- EN: 4. There's Probably Medication For That -->
 <ln id="EXP6_BeatOverreactive_Silver">4. Возможно, От Этого Есть Лекарство</ln>
+<!-- EN: Win against the "Overreactive" AI type on difficulty 7 or up. -->
 <ln id="EXP6_BeatOverreactive_Silver_Desc">Победите ИИ "Сверхактивный" на сложности 7 или выше.</ln>
 
+<!-- EN: 4. Dude, It Was Just A Fleet Wipe -->
 <ln id="EXP6_BeatOverreactive_Gold">4. Чувак, Это Была Всего Лишь Пощёчина</ln>
+<!-- EN: Win against the "Overreactive" AI type on difficulty 9 or up. -->
 <ln id="EXP6_BeatOverreactive_Gold_Desc">Победите ИИ "Сверхактивный" на сложности 9 или выше.</ln>
 
+<!-- EN: 4. Go Ahead, Strike First.  I'll Strike Last. -->
 <ln id="EXP6_WonWithPreemption_Gold">4. Иди Вперёд, Бей Первым. Я Ударю Последним.</ln>
+<!-- EN: Win a game with the Preemption Plot enabled (on at least intensity 4 of 10) on any difficulty. -->
 <ln id="EXP6_WonWithPreemption_Gold_Desc">Выиграйте с включённым Приемуществом (интенсивности от 4 до 10) на любой сложности.</ln>
 
+<!-- EN: 4. Wandering Where We Will -->
 <ln id="EXP6_WonWithNomads_Gold">4. Интересно, Где Мы Были?</ln>
+<!-- EN: Win a game with the Nomad Planets Faction enabled (on at least intensity 4 of 10) on any difficulty. -->
 <ln id="EXP6_WonWithNomads_Gold_Desc">Выиграйте с включённымы Кочевыми Планетами (интенсивности от 4 до 10) на любой сложности.</ln>
 
+<!-- EN: 4. Well, I Guess That Would Do It -->
 <ln id="EXP6_WonViaExodianBlade_Gold">4. Ну, Я Думаю, Справлюсь</ln>
+<!-- EN: Win a game via the Exodian Blade Faction's alternate victory condition, on any difficulty. -->
 <ln id="EXP6_WonViaExodianBlade_Gold_Desc">Выиграйте с помощью Exodian Blade по его альтернативному сценарию победы, на любой сложности.</ln>
 
 </root>

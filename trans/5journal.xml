@@ -1,8 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
 
+<!-- EN: Data on "Showdown Device" -->
 <ln id="Journal_ShowdownDevices_OneControlled_ShortTitle">Данные на "Проявителе"</ln>
+<!-- EN: We've recovered a recording concerning the strange device on a recently captured planet. -->
 <ln id="Journal_ShowdownDevices_OneControlled_LongTitle">Мы восстановили записи о странном устройстве, обнаруженном на ранее захваченной планете.</ln>
+<!-- EN: 
+From: Dr. Dorothy V. Langstrom
+Xenobiology Lab, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+We found a recording while investigating the strange "Showdown Device" (as some overly-dramatic sensor technician called it).  If this is genuine... well, first, the message:
+
+=== ATTACHED RECORDING ===
+
+...(garbled)...
+IDENTIFICATION: K-100-45 Marcus Artain, Dr., Maj. Ret., Kyr-Sun Imperial Navy
+...(garbled)...itri finally saw the writing on the wall, and accepted that we cannot help the Emperor.  He's agreed to visit the locations I found on the Asterayen obelisks.
+
+...(garbled)... nally reached the first.  The signal source was incredibly hard to miss, once we knew what to look for.  I've placed a sensor beacon so normal scans should pick it up.  If I'm right ...(garbled)... the control core is treating this galaxy as a rear area ...(garbled)... if reinforcements can be cut off...(garbled)...
+
+=== END OF RECORDING ===
+
+My husband once worked with... the author of that recording.  It was not an amicable relationship, and for more cause than simply the antagonism between Greenhaven and the Empire.  But this is a lead worth following.  If we capture other devices like this one, we may be able to find out more. -->
 <ln id="Journal_ShowdownDevices_OneControlled_Text">
 От: Док. Дороти В. Лангсторм
 Ксенобиологическая Лаб, Столичная Станция
@@ -25,8 +48,29 @@
 
 мой муж работал с... автором этой записи. Это были не дружесткие отношения, и по многим причинам существовала вражда между Greenhaven'ом и Императором. Но из полученного можно сделать вывод: если мы захватим другие такие же устройства, мы обнаружим больше информации.</ln>
 
+<!-- EN: Data on Second "Showdown Device" -->
 <ln id="Journal_ShowdownDevices_TwoControlled_ShortTitle">Данные на втором "Проявительном Устройстве"</ln>
+<!-- EN: We've recovered another recording concerning these strange devices. -->
 <ln id="Journal_ShowdownDevices_TwoControlled_LongTitle">Мы восстановили новую запись об этих странных устройствах.</ln>
+<!-- EN: 
+From: Dr. Dorothy V. Langstrom
+Xenobiology Lab, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+As we guessed, capturing a second device led to discovering a second recording.
+
+=== ATTACHED RECORDING ===
+
+...(garbled)... four of them.  The control core has noticed too.  Both thus far have been tampered with, to prevent destabilization ...(garbled)...  I've unsealed the emitters ...(garbled)... should reconnect even over standard channels now.
+
+...(garbled)... it will not be amused, already its patrols have been tracing us ...(garbled)...
+
+=== END OF RECORDING ===
+
+We've been putting the pieces together, Commander.  These devices emit an immense amount of a form of radiation we've previously only seen from the AI's warp gates.  It appears that Dr. Artain discovered a way to use these devices to disrupt the AI's Warp Grid.  The strategic implications could be... decisive. -->
 <ln id="Journal_ShowdownDevices_TwoControlled_Text">
 От: Док. Дороти В. Лангсторм
 Ксенобиологическая Лаб, Столичная Станция
@@ -47,8 +91,40 @@
 
 Мы сложили кусочки вместе, Главнокомандуюущий. Эти устройства излучают огромное количество радиации, форму которого мы видели у Пространственных Ворот ИИ. Оказывается, Dr. Artain открыл способ использования этих устройств для уничтожения Пространственной Сети ИИ. Стратегические последствия могут быть... решающими.</ln>
 
+<!-- EN: Data on Third "Showdown Device" -->
 <ln id="Journal_ShowdownDevices_ThreeControlled_ShortTitle">Данные на третьем "Проявительном Устройстве"</ln>
+<!-- EN: We've recovered a final recording concerning these strange devices. -->
 <ln id="Journal_ShowdownDevices_ThreeControlled_LongTitle">Мы восстановили последнюю запись об этих странных устройствах.</ln>
+<!-- EN: 
+From: Dr. Dorothy V. Langstrom
+Xenobiology Lab, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+Looks like the trail of breadcrumbs ends here, but this may be all we need.
+
+=== ATTACHED RECORDING ===
+
+...(garbled)... can't stay any longer ...(garbled)... might not make it.
+
+Once all four are connected ...(garbled)... feedback loop will start ...(garbled)... will take time.  The core will respond ...(garbled)... connection must be maintained.
+
+...(garbled)... but when the grid actually shuts down... I don't know.
+
+=== END OF RECORDING ===
+
+We're not picking up debris of the doctor's ship, so it seems they at least made it into deep space.
+
+In any event, we think we have all the relevant information we're going to get about these "showdown" devices:
+1) If we have control all four with command stations, they will connect and begin building up a feedback loop.
+2) During that "charging" phase, we can expect the AI to respond fiercely.
+3) If we lose the command station on any of the device planets, the charging will be interrupted.  Another attempt could be made, but we would be starting over.
+4) Once the devices are fully charged, they will completely and permanently shut down the AI's Warp Grid.  This should prevent it from sending any additional reinforcements to our galaxy.
+5) What it will do once that happens... we do not know.  Perhaps it is best not to find out.
+
+Or perhaps it is best to try. -->
 <ln id="Journal_ShowdownDevices_ThreeControlled_Text">
 От: Док. Дороти В. Лангсторм
 Ксенобиологическая Лаб, Столичная Станция

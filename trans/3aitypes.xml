@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
+<!-- EN: Vanilla -->
 <ln id="Vanilla">Обычный</ln>
+<!-- EN: Everything -->
 <ln id="Everything">Все корабли</ln>
+<!-- EN: Retaliatory -->
 <ln id="Retaliatory">Репрессивный</ln>
+<!-- EN: Spireling -->
 <ln id="Spireling">Spireling</ln>
+<!-- EN: Crafty Spire -->
 <ln id="CraftySpire">Хитрый Spire</ln>
+<!-- EN: Thief -->
 <ln id="Thief">Вор</ln>
+<!-- EN: Extreme Raider -->
 <ln id="ExtremeRaider">Экстремальный Налётчик</ln>
+<!-- EN: Spire Hammer -->
 <ln id="SpireHammer">Молот Spire'ов</ln>
 </root>

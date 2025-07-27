@@ -1,17 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
+<!-- EN: Camouflager -->
 <ln id="Camouflager">Камуфляж</ln>
+<!-- EN: Alarmist -->
 <ln id="Alarmist">Паникёр</ln>
+<!-- EN: Raid Engine -->
 <ln id="Raid_Engine">Налётчик</ln>
+<!-- EN: Experimentalist -->
 <ln id="Experimentalist">Экспериментатор</ln>
+<!-- EN: Starfleet Commander -->
 <ln id="StarfleetCommander">Космический Командор</ln>
+<!-- EN: Zenith Descendant -->
 <ln id="ZenithDescendant">Потомок Zenith'ов</ln>
+<!-- EN: Golemite -->
 <ln id="Golemite">Големит</ln>
+<!-- EN: Speed Racer -->
 <ln id="SpeedRacer">Гонщик</ln>
+<!-- EN: Peacemaker -->
 <ln id="Peacemaker">Миротворец</ln>
+<!-- EN: Radar Jammer -->
 <ln id="RadarJammer">Глушитель Радаров</ln>
+<!-- EN: One-Way Doormaster -->
 <ln id="OneWayDoormaster">Повелитель Врат</ln>
+<!-- EN: Tag Teamer -->
 <ln id="TagTeamer">Эстафетчик</ln>
+<!-- EN: Shield Ninny -->
 <ln id="ShieldNinny">Шут с Щитом</ln>
+<!-- EN: Grav Driller -->
 <ln id="GravDriller">Гравидрель</ln>
 </root>

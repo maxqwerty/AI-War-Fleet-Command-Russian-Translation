@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
+<!-- EN: Chivalric -->
 <ln id="Chivalric">Рыцарь</ln>
+<!-- EN: Artillerist -->
 <ln id="Artillerist">Артиллерист</ln>
+<!-- EN: Bouncer -->
 <ln id="Bouncer">Вышибала</ln>
+<!-- EN: Exotic -->
 <ln id="Exotic">Экзотик</ln>
+<!-- EN: Reservist -->
 <ln id="Reservist">Резервист</ln>
+<!-- EN: Vorpal -->
 <ln id="Vorpal">Вострый</ln>
+<!-- EN: Vengeful -->
 <ln id="Vengeful">Мстительный</ln>
+<!-- EN: Vicious Exotic -->
 <ln id="ViciousExotic">Злобный Экзотик</ln>
 </root>

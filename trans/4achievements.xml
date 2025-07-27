@@ -4,92 +4,156 @@
 
 <!--2. Easy Champion-Related-->
 
+<!-- EN: 2. Into The Shadows -->
 <ln id="EXP4_HaveAChampion_Ingame_Bronze">2. В Тени</ln>
+<!-- EN: Be in a game with at least one player in the Champion or Normal+Champion role. -->
 <ln id="EXP4_HaveAChampion_Ingame_Bronze_Desc">Быть в игре хотя бы с одним игроком в роли Чемпион или Обычный+Чемпион.</ln>
+<!-- EN: 2. Beginning Upon The Road -->
 <ln id="EXP4_HaveLvl2Champion_Ingame_Bronze">2. Начало Пути</ln>
+<!-- EN: Be in a game with a champion that is at least level 2. -->
 <ln id="EXP4_HaveLvl2Champion_Ingame_Bronze_Desc">Быть в  игре хотя бы с одним чемпионом уровня 2.</ln>
+<!-- EN: 2. Experienced -->
 <ln id="EXP4_HaveLvl10Champion_Ingame_Bronze">2. Опытный</ln>
+<!-- EN: Be in a game with a champion that is at least level 10. -->
 <ln id="EXP4_HaveLvl10Champion_Ingame_Bronze_Desc">Быть в игре хотя бы с одним чемпионом уровня 10.</ln>
+<!-- EN: 2. What Will You Destroy? -->
 <ln id="EXP4_HaveChampionDestroyerHull_Ingame_Bronze">2. Что Ты Разрушишь?</ln>
+<!-- EN: Be in a game where a Destroyer-size champion form is unlocked. -->
 <ln id="EXP4_HaveChampionDestroyerHull_Ingame_Bronze_Desc">Быть в игре, где открыта форма чемпиона размера Уничтожителя.</ln>
+<!-- EN: 2. Upgraded -->
 <ln id="EXP4_HaveUnlockedChampionModule_Ingame_Bronze">2. Улучшенный</ln>
+<!-- EN: Spend unlock points to unlock at least one champion module upgrade. -->
 <ln id="EXP4_HaveUnlockedChampionModule_Ingame_Bronze_Desc">Потратьте очки, чтобы открыть хотя бы один модуль чемпиона.</ln>
 
 <!--3. Moderate Champion-Related-->
 
+<!-- EN: 3. Veteran -->
 <ln id="EXP4_HaveLvl20Champion_Ingame_Silver">3. Ветеран</ln>
+<!-- EN: Be in a game with a champion that is at least level 20. -->
 <ln id="EXP4_HaveLvl20Champion_Ingame_Silver_Desc">Быть в игре с чемпионом хотя бы уровня 20.</ln>
+<!-- EN: 3. Elite -->
 <ln id="EXP4_HaveLvl30Champion_Ingame_Silver">3. Элита</ln>
+<!-- EN: Be in a game with a champion that is at least level 30. -->
 <ln id="EXP4_HaveLvl30Champion_Ingame_Silver_Desc">Быть в игре с чемпионом хотя бы уровня 30.</ln>
+<!-- EN: 3. So Many Ways To Die -->
 <ln id="EXP4_HaveAllChampionRaceHulls_Ingame_Silver">3. Много Способов Умереть</ln>
+<!-- EN: Be in a game where all four racial-tech-base champion forms are unlocked. -->
 <ln id="EXP4_HaveAllChampionRaceHulls_Ingame_Silver_Desc">Быть в игре, где открыты все расы формы чемпиона.</ln>
+<!-- EN: 3. That's A Big Ship -->
 <ln id="EXP4_HaveChampionCruiserHull_Ingame_Silver">3. Вот Большой Корабль</ln>
+<!-- EN: Be in a game where a Cruiser-size champion form is unlocked. -->
 <ln id="EXP4_HaveChampionCruiserHull_Ingame_Silver_Desc">Быть в игре, где открыта Крейсерная форма чемпиона.</ln>
+<!-- EN: 3. Fully Armed And Operational -->
 <ln id="EXP4_HaveAllModularFortressesUnlocked_Ingame_Silver">3. Вооружён И Опасен</ln>
+<!-- EN: Unlock all four modular fortress designs. -->
 <ln id="EXP4_HaveAllModularFortressesUnlocked_Ingame_Silver_Desc">Открыть все четыре конструкции модульных крепостей.</ln>
+<!-- EN: 3. Specialist -->
 <ln id="EXP4_HaveUnlockedMkVChampionModule_Ingame_Silver">3. Эксперт</ln>
+<!-- EN: Unlock the MkV version of a champion module. -->
 <ln id="EXP4_HaveUnlockedMkVChampionModule_Ingame_Silver_Desc">Откройте МодV версию модуля чемпиона.</ln>
+<!-- EN: 3. Epsilon Eridani -->
 <ln id="EXP4_HaveWonScenarioEER_Ingame_Silver">3. Эпсилон Эридана</ln>
+<!-- EN: Be in a game where the Epsilon Eridani remnant triumphs over the Sorrow's Fang in their 1v1 nebula scenario. -->
 <ln id="EXP4_HaveWonScenarioEER_Ingame_Silver_Desc">Быть в игре, где остатки Эпсилон Эридана восторжествуют над Клыком Печали в их сценарии туманности.</ln>
+<!-- EN: 3. Free For All -->
 <ln id="EXP4_HaveWonScenarioFFA_Ingame_Silver">3. Свобода Всем</ln>
+<!-- EN: Be in a game where the Shattered Pillar Zenith survives the 3-way FFA nebula scenario with the Neinzul Astrids and the Dark Spire. -->
 <ln id="EXP4_HaveWonScenarioFFA_Ingame_Silver_Desc">Быть в игре, где Разрушенные Пилары Zenith'ов выживают в 3-стороннем FFA сценарии туманности с Астридами Neinzul'ов и Тёмными Spire'ами.</ln>
+<!-- EN: 3. Dysons Punched Out -->
 <ln id="EXP4_HaveWonScenarioGSvD_Ingame_Silver">3. Штампованный Дайсон</ln>
+<!-- EN: Be in a game where the Gray Spire survive the assault of the malfunctioning dyson gatlings in their 1v1 nebula scenario. -->
 <ln id="EXP4_HaveWonScenarioGSvD_Ingame_Silver_Desc">Быть в игре, где Серые Spire'ы выживают при штурме неисправных гатлингов дайсона в их сценарии туманности.</ln>
+<!-- EN: 3. Inmate Control -->
 <ln id="EXP4_HaveWonScenarioNMvP_Ingame_Silver">3. Контроль Заключённых</ln>
+<!-- EN: Be in a game where the Neinzul Mourners succesfully quell the dimensional prison revolt in their nebula scenario. -->
 <ln id="EXP4_HaveWonScenarioNMvP_Ingame_Silver_Desc">Быть в игре, где Плакальщики Neinzul'ов успешно подавляют тюремный бунт в их сценарии туманности.</ln>
+<!-- EN: 3. Get Thee Back Whence Thou Came! -->
 <ln id="EXP4_HaveWonScenarioLotCS_Ingame_Silver">3. Возвращайся Туда, Откуда Пришёл!</ln>
+<!-- EN: Be in a game where the Shattered Pillar Zenith repel the assualt of the Citadel Ascendant Zenith in their 1v1 nebula scenario. -->
 <ln id="EXP4_HaveWonScenarioLotCS_Ingame_Silver_Desc">Быть в игре, где Разрушенные Пилары Zenith'ов отражают нападение на Восходящую Цитадель Zenith'ов в их сценарии туманности.</ln>
+<!-- EN: 3. Appetite Control -->
 <ln id="EXP4_HaveWonScenarioRS_Ingame_Silver">3. Контроль Аппетита</ln>
+<!-- EN: Be in a game where the In Memoriam Terra resistance manages to defeat the Ravenous Shadow in their 1v1 nebula scenario. -->
 <ln id="EXP4_HaveWonScenarioRS_Ingame_Silver_Desc">Быть в игре, где сопротивлению В Память О Земле удаётся победить Хищную Тень в их сценарии туманности.</ln>
+<!-- EN: 3. Escalation -->
 <ln id="EXP4_HaveWonScenario2v2_Ingame_Silver">3. Эскалация</ln>
+<!-- EN: Be in a game where your allies win the 2v2 nebula scenario. -->
 <ln id="EXP4_HaveWonScenario2v2_Ingame_Silver_Desc">Быть в игре, где ваши союзники выигрывают в сценарий туманности 2 на 2.</ln>
+<!-- EN: 3. Standing Your Ground -->
 <ln id="EXP4_HaveWonScenario3v2_Ingame_Silver">3. Отстоять Свою Землю</ln>
+<!-- EN: Be in a game where your allies win the 3v2 nebula scenario. -->
 <ln id="EXP4_HaveWonScenario3v2_Ingame_Silver_Desc">Быть в игре, где ваши союзники выигрывают в сценарий туманности 3 на 2.</ln>
 
 <!--3. Moderate AI Types-->
 
 <!--3. Minor Factions-->
 
+<!-- EN: 3. Vengeance Denied -->
 <ln id="EXP4_BeatDarkSpire_Silver">3. Месть Пресечена</ln>
-<ln id="EXP4_BeatDarkSpire_Silver_Desc">Выиграть с включённой фракцией Тёмных Spire'ов (интенсовность >= 4) на любой сложности.</ln>
+<!-- EN: Win with the Dark Spire minor faction (intensity >= 4) enabled on any difficulty. -->
+<ln id="EXP4_BeatDarkSpire_Silver_Desc">Выиграть с включённой фракцией Тёмных Spire'ов (интенсовность &gt;= 4) на любой сложности.</ln>
 
 <!--4. Hard Champion-Related-->
 
+<!-- EN: 4. Heroic -->
 <ln id="EXP4_HaveLvl40Champion_Ingame_Gold">4. Героический</ln>
+<!-- EN: Be in a game with a champion that is at least level 40. -->
 <ln id="EXP4_HaveLvl40Champion_Ingame_Gold_Desc">Быть в игре с чемпионом хотя бы уровня 40.</ln>
+<!-- EN: 4. Champion! -->
 <ln id="EXP4_HaveLvl50Champion_Ingame_Gold">4. Чемпион!</ln>
+<!-- EN: Be in a game with a champion that is at least level 50. -->
 <ln id="EXP4_HaveLvl50Champion_Ingame_Gold_Desc">Быть в игре с чемпионом хотя бы уровня 50.</ln>
+<!-- EN: 4. Good Grief -->
 <ln id="EXP4_HaveChampionBattleshipHull_Ingame_Gold">4. Хороша Беда</ln>
+<!-- EN: Be in a game where a Battleship-size champion form is unlocked. -->
 <ln id="EXP4_HaveChampionBattleshipHull_Ingame_Gold_Desc">Быть в игре, где открыта Линкорская форма чемпиона.</ln>
+<!-- EN: 4. Brawl Royale -->
 <ln id="EXP4_HaveWonScenarioBrawl_Ingame_Gold">4. Brawl Royale</ln>
+<!-- EN: Be in a game where your allies win the 5v4 nebula scenario. -->
 <ln id="EXP4_HaveWonScenarioBrawl_Ingame_Gold_Desc">Быть в игре, где ваши союзники выигрывают в сценарий туманности 5 на 4.</ln>
 
 <!--4. Hard AI Types-->
 
+<!-- EN: 4. Meddling Kids -->
 <ln id="EXP4_BeatHeroic_Bronze">4. Надоедливые Дети</ln>
+<!-- EN: Win against the "Heroic" AI type on any difficulty. -->
 <ln id="EXP4_BeatHeroic_Bronze_Desc">Выиграть против ИИ типа "Героический" на любой сложности.</ln>
 
+<!-- EN: 4. Score One For The Overlord -->
 <ln id="EXP4_BeatHeroic_Silver">4. Одно Очко Оверлорду</ln>
+<!-- EN: Win against the "Heroic" AI type on difficulty 7 or up. -->
 <ln id="EXP4_BeatHeroic_Silver_Desc">Выиграть против ИИ типа "Героический" на сложности 7 или выше.</ln>
 
+<!-- EN: 4. Heroic Sacrifice -->
 <ln id="EXP4_BeatHeroic_Gold">4. Героическая Жертва</ln>
+<!-- EN: Win against the "Heroic" AI type on difficulty 9 or up. -->
 <ln id="EXP4_BeatHeroic_Gold_Desc">Выиграть против ИИ типа "Героический" на сложности 9 или выше.</ln>
 
+<!-- EN: 4. I Didn't Vote For You! -->
 <ln id="EXP4_BeatFortressKing_Bronze">4. Я Не Голосовал За Тебя!</ln>
+<!-- EN: Win against the "Fortress King" AI type on any difficulty. -->
 <ln id="EXP4_BeatFortressKing_Bronze_Desc">Выиграть против ИИ типа "Король Крепости" на любой сложности.</ln>
 
+<!-- EN: 4. The Violence Inherent In The System -->
 <ln id="EXP4_BeatFortressKing_Silver">4. Насилие Свойственно Системе</ln>
+<!-- EN: Win against the "Fortress King" AI type on difficulty 7 or up. -->
 <ln id="EXP4_BeatFortressKing_Silver_Desc">Выиграть против ИИ типа "Король Крепости" на сложности 7 или выше.</ln>
 
+<!-- EN: 4. Dethroned -->
 <ln id="EXP4_BeatFortressKing_Gold">4. Свергнутый</ln>
+<!-- EN: Win against the "Fortress King" AI type on difficulty 9 or up. -->
 <ln id="EXP4_BeatFortressKing_Gold_Desc">Выиграть против ИИ типа "Король Крепости" на сложности 9 или выше.</ln>
 
 <!--4. AI Plots-->
 
 <!--Very Hard Champion-Relaed-->
+<!-- EN: 5. Swiss Army Knife -->
 <ln id="EXP4_HaveUnlockedAllModuleLines_Ingame_Gold">5. Швейцарский Армейский Нож</ln>
+<!-- EN: Be in a game where all champion module lines are unlocked to at least MkI. -->
 <ln id="EXP4_HaveUnlockedAllModuleLines_Ingame_Gold_Desc">Быть в игре, где все модули чемпионов хотя бы МодI открыты.</ln>
+<!-- EN: 5. In Memoriam Terra -->
 <ln id="EXP4_SeenAncientShadowsSecretEnding_Ingame_Gold">5. В Память О Земле</ln>
+<!-- EN: Reach the champion-related secret "ending". -->
 <ln id="EXP4_SeenAncientShadowsSecretEnding_Ingame_Gold_Desc">Найдите связанную с чемпионами секретную "концовку".</ln>
 
 </root>

@@ -1,35 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
+<!-- EN: None -->
 <ln id="None">Нет</ln>
-<ln id="Unused"></ln>
+<ln id="Unused" />
+<!-- EN: Unlock -->
 <ln id="Unlock">Изучить</ln>
 
+<!-- EN: ECON -->
 <ln id="CategoryEconomy_Button">ЭКОН</ln>
+<!-- EN: Economic Technologies -->
 <ln id="CategoryEconomy_Name">Экономические технологии</ln>
+<!-- EN: Technologies for upgrading your economic capabilities. -->
 <ln id="CategoryEconomy_Description">Технологии, улучшающие вашу экономику.</ln>
 
+<!-- EN: SUP -->
 <ln id="CategoryDefense_Button">ЗАЩ</ln>
+<!-- EN: Support Technologies -->
 <ln id="CategoryDefense_Name">Защитные технологии</ln>
+<!-- EN: Technologies for supporting your offensive or defensive capabilities in various ways. -->
 <ln id="CategoryDefense_Description">Технологии, расширяющие возможности защиты, кроме турелей.</ln>
 
+<!-- EN: TUR -->
 <ln id="CategoryTurret_Button">ТУР</ln>
+<!-- EN: Turret Technologies -->
 <ln id="CategoryTurret_Name">Технологии турелей</ln>
+<!-- EN: Technologies for upgrading your turrets. -->
 <ln id="CategoryTurret_Description">Технологии, улучшающие турели.</ln>
 
+<!-- EN: I-III -->
 <ln id="CategoryIIthruIII_Button">I-III</ln>
+<!-- EN: Mark II-III Offensive Technologies -->
 <ln id="CategoryIIthruIII_Name">Технологии нападения уровней I-III.</ln>
+<!-- EN: Second and third tier of technologies for upgrading offensive capabilities. -->
 <ln id="CategoryIIthruIII_Description">Второй и третий уровни улучшений технологий нападения.</ln>
 
+<!-- EN: STAR -->
 <ln id="CategoryStarship_Button">ЗВЗД</ln>
+<!-- EN: Starship Technologies -->
 <ln id="CategoryStarship_Name">Технологии звездолётов</ln>
+<!-- EN: Technologies for unlocking new kinds of starships. -->
 <ln id="CategoryStarship_Description">Технологии, открывающие новые типы звездолётов.</ln>
 
+<!-- EN: CTRL -->
 <ln id="CategoryControlNodes_Button">КНТР</ln>
+<!-- EN: Control Nodes -->
 <ln id="CategoryControlNodes_Name">Контрольные узлы</ln>
+<!-- EN: Technologies for unlocking new ways of altering how your civilization works. -->
 <ln id="CategoryControlNodes_Description">Технологии, открывающие новые способы контроля жизни вашей цивилизации.</ln>
 
+<!-- EN: ARS -->
 <ln id="CategoryUnlockShipDesignHackedBonusTypes_Button">НАУК</ln>
+<!-- EN: Adv. Research Station Technologies -->
 <ln id="CategoryUnlockShipDesignHackedBonusTypes_Name">Технологии Продвинутой Лаборатории</ln>
+<!-- EN: Ship designs captured from the local AI Advanced Research Station.
+Note: only one can be unlocked per planet. -->
 <ln id="CategoryUnlockShipDesignHackedBonusTypes_Description">Проект корабля, основанный на захваченной Продвинутой Лаборатории ИИ.
 Заметка: по одному на планету.</ln>
 

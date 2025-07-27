@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
+<!-- EN: Hybrid Hives -->
 <ln id="EXP2_Subroutines">Ульи Гибридов</ln>
+<!-- EN: Advanced Hybrids -->
 <ln id="EXP2_AdvancedSubroutines">Улучшенные Гибриды</ln>
 </root>

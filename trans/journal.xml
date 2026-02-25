@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
 
+<!-- EN: Journal -->
 <ln id="JournalDisplay">Журнал</ln>
 
+<!-- EN: Victory!!
+
+With the fall of its last Home Command Station,
+the AI can no longer stabilize the wormholes to its home galaxy.
+Deprived of reinforcements and cut off from command and control,
+the remaining AI forces will quickly fall before humanity's desperate onslaught.
+ -->
 <ln id="Journal_EpilogueBeginning">Победа!!
 
 После падения последней Столичной Командной Станции
@@ -12,24 +20,46 @@
 </ln>
 
 
+<!-- EN: built a total of -->
 <ln id="Journal_BuiltATotalOf">построено в общей сложности</ln>
+<!-- EN: ships -->
 <ln id="Journal_Ships">кораблей</ln>
+<!-- EN: lost a total of -->
 <ln id="Journal_LostATotalOf">потеряно в общей сложности</ln>
+<!-- EN: and killed a total of -->
 <ln id="Journal_AndKilledATotalOf">и уничтожено в общей сложности</ln>
 
+<!-- EN: The -->
 <ln id="Journal_The">The</ln>
+<!-- EN: accounted for -->
 <ln id="Journal_AccountedFor">accounted for</ln>
+<!-- EN: Of this player's total kills -->
 <ln id="Journal_OfTotalKills">Of this player's total kills</ln>
+<!-- EN: had a survival rate of -->
 <ln id="Journal_AndHadASurvivalRateOf">had a survival rate of</ln>
+<!-- EN: and had a kill to loss ratio of -->
 <ln id="Journal_AndHadAKillToLossRatioOf">and had a kill to loss ratio of</ln>
 
+<!-- EN: Thank you for playing!
+
+To minimize this epilogue display, right click the title bar.
+To close this epilogue display, ctrl-alt-right-click the title bar. -->
 <ln id="Journal_EpilogueEnd">Спасибо за игру!
 
 Чтобы скрыть эпилог, кликните по заголовку.
 Чтобы закрыть эпилог, кликните Ctrl-Alt-ПКМ по заголовку.</ln>
 
+<!-- EN: Victory!! -->
 <ln id="Journal_VanillaGuerilla_ShortTitle">Победа!!</ln>
+<!-- EN: Finally, our galaxy is free from the AI. -->
 <ln id="Journal_VanillaGuerilla_LongTitle">Наконец-то наша галактика освобождена от ИИ.</ln>
+<!-- EN: 
+With the fall of its last Home Command Station,
+the AI can no longer stabilize the wormholes to its home galaxy.
+Deprived of reinforcements and cut off from command and control,
+the remaining AI forces will quickly fall before humanity's desperate onslaught.
+
+Whether humanity survives, and does not again become its own most lethal foe, remains to be seen. -->
 <ln id="Journal_VanillaGuerilla_Text">
 После падения последней Столичной Командной Станции
 ИИ не может больше контролировать червоточины в галактике.

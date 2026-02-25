@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
 
+<!-- EN: AST -->
 <ln id="CategoryAdvancedSpireTechnology_Button">ПТS</ln>
+<!-- EN: Advanced Spire Technology -->
 <ln id="CategoryAdvancedSpireTechnology_Name">Продвинутая Технология Spire'ов</ln>
+<!-- EN: Adaptations of advanced Spire technology that work in our galaxy. -->
 <ln id="CategoryAdvancedSpireTechnology_Description">Адаптация продвинутой технологии Spire'ов, работающая в нашей галактике.</ln>
 
 </root>

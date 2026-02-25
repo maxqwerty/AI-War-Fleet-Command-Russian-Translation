@@ -1,63 +1,108 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
 
+<!-- EN: {0} has advanced to level {1} and has {2} unlock points (click to spend) -->
 <ln id="HeroHasAdvancedToLevelAndHasUnlockPointsToSpend">{0} улучшен до уровня {1} и имеет {2} очков (клик, чтобы потратить)</ln>
+<!-- EN: gain xp -->
 <ln id="Cheat_GainXP">gain xp</ln>
+<!-- EN: tenebrae -->
 <ln id="Cheat_AddDarkSpire">tenebrae</ln>
+<!-- EN: facilitate communications -->
 <ln id="Cheat_GiveAllChampionUnlocks">facilitate communications</ln>
+<!-- EN: terminate hostilities -->
 <ln id="Cheat_GiveChampionManyLevels">terminate hostilities</ln>
 
+<!-- EN: EPSILON -->
 <ln id="BHumanMinerRewardShips">ЭПСИЛОН</ln>
+<!-- EN: Epsilon Eridani remnant Ships -->
 <ln id="NHumanMinerRewardShips">Корабли остатков Эпсилон Эридана</ln>
+<!-- EN: Combat vessels devloped by the Epsilon Eridani remnant.  The designs incorporate some Shadow relics found in interstellar space. -->
 <ln id="DHumanMinerRewardShips">Боевые корабли, разработанные остатками на Эпсилон Эридана. Конструкция включает некоторые Теневые реликвии, найденные в межзвёздном пространстве.</ln>
 
+<!-- EN: TERRA -->
 <ln id="BHumanResistanceRewardShips">ТЕРРА</ln>
+<!-- EN: In Memoriam Terra Ships -->
 <ln id="NHumanResistanceRewardShips">Корабли В Память О Земле</ln>
+<!-- EN: Combat vessels devloped by the "In Memoriam Terra" resistance group.  The designs incorporate some Shadow relics found in interstellar space. -->
 <ln id="DHumanResistanceRewardShips">Боевые корабли, разработанные группой сопротивления "В Память О Земле". Конструкция включает некоторые Теневые реликвии, найденные в межзвёздном пространстве.</ln>
 
+<!-- EN: PILLAR -->
 <ln id="BZenithRefugeeRewardShips">ТЛОЛП</ln>
+<!-- EN: Shattered Pillar Ships -->
 <ln id="NZenithRefugeeRewardShips">Корабли Разрушенных Столпов</ln>
+<!-- EN: Combat vessels devloped by the Shattered Pillar Zenith.  The designs incorporate some Shadow relics found in interstellar space. -->
 <ln id="DZenithRefugeeRewardShips">Боевые корабли, разработанные Разрушенными Столпами Zenith'ов. Конструкция включает некоторые Теневые реликвии, найденные в межзвёздном пространстве.</ln>
 
+<!-- EN: MOURN -->
 <ln id="BNeinzulMournerRewardShips">ПЛАКАЛЬ</ln>
+<!-- EN: Neinzul Mourner Ships -->
 <ln id="NNeinzulMournerRewardShips">Корабли Плакальщиков Neinzul'ов</ln>
+<!-- EN: Combat vessels devloped by the Neinzul Mourners.  The designs incorporate some Shadow relics found in interstellar space. -->
 <ln id="DNeinzulMournerRewardShips">Боевые корабли, разработанные Плакальщиками Neinzul'ов. Конструкция включает некоторые Теневые реликвии, найденные в межзвёздном пространстве.</ln>
 
+<!-- EN: GRAY -->
 <ln id="BGraySpireRewardShips">СЕРЫЙ</ln>
+<!-- EN: Gray Spire Ships -->
 <ln id="NGraySpireRewardShips">Корабли Серых Spire'ов</ln>
+<!-- EN: Combat vessels devloped by the Gray Spire.  The designs incorporate some Shadow relics found in interstellar space. -->
 <ln id="DGraySpireRewardShips">Боевые корабли, разработанные Серыми Spire'ами. Конструкция включает некоторые Теневые реликвии, найденные в межзвёздном пространстве.</ln>
 
+<!-- EN: ABILITY -->
 <ln id="BHeroHumanAbilities">СПОСОБ</ln>
+<!-- EN: Human Champion Abilities -->
 <ln id="NHeroHumanAbilities">Способности Чемпионов Людей</ln>
+<!-- EN: Special abilities available to the Shadow vessel while in Human-tech form. -->
 <ln id="DHeroHumanAbilities">Специальные способности, доступные Теневому кораблю в форме Человеческой технологии.</ln>
 
+<!-- EN: ABILITY -->
 <ln id="BHeroZenithAbilities">СПОСОБ</ln>
+<!-- EN: Zenith Champion Abilities -->
 <ln id="NHeroZenithAbilities">Способности Чемпионов Zenith'ов</ln>
+<!-- EN: Special abilities available to the Shadow vessel while in Zenith-tech form. -->
 <ln id="DHeroZenithAbilities">Специальные способности, доступные Теневому кораблю в форме технологии Zenith'ов.</ln>
 
+<!-- EN: ABILITY -->
 <ln id="BHeroNeinzulAbilities">СПОСОБ</ln>
+<!-- EN: Neinzul Champion Abilities -->
 <ln id="NHeroNeinzulAbilities">Способности Чемпионов Neinzul'ов</ln>
+<!-- EN: Special abilities available to the Shadow vessel while in Neinzul-tech form. -->
 <ln id="DHeroNeinzulAbilities">Специальные способности, доступные Теневому кораблю в форме технологии Neinzul'ов.</ln>
 
+<!-- EN: ABILITY -->
 <ln id="BHeroSpireAbilities">СПОСОБ</ln>
+<!-- EN: Spire Champion Abilities -->
 <ln id="NHeroSpireAbilities">Способности Чемпионов Spire'ов</ln>
+<!-- EN: Special abilities available to the Shadow vessel while in modern-Spire-tech form. -->
 <ln id="DHeroSpireAbilities">Специальные способности, доступные Теневому кораблю в форме технологии современных Spire'ов.</ln>
 
+<!-- EN: SCRV -->
 <ln id="BSpireCorvette">SКОРВ</ln>
+<!-- EN: Spire Corvettes -->
 <ln id="NSpireCorvette">Корветы Spire'ов</ln>
+<!-- EN: Starship-sized modular vessels developed by retrofitting the smallest Imperial Spire combat design with human technology. -->
 <ln id="DSpireCorvette">Модульный корабли размером со звездолёт, разработанный с помощью модернизации боевых чертежей Имперских Spire'ов с человеческими технологиями.</ln>
 
+<!-- EN: Heroic -->
 <ln id="TAITHeroic">Героический</ln>
+<!-- EN: Generally solid AI that can also add powerful Champion ships to each wave (in addition to the normal starship).  Also periodically spawns a Champion ship on one of its own planets that joins the general AI forces threatening you. At higher tech levels it uses bigger Champion ships.
+
+Note: these AI-version Champions are not exactly like human-controlled ones: they cannot traverse blue wormholes, they do not gain experience, and they do not respawn when killed.  They're just big nasty modular ships. -->
 <ln id="NAITHeroic">В основном сложный ИИ, который также добавляет Чемпионские корабли в каждую волну (в дополнение к обычным звездолётам). Также периодически создаёт Чемпионов на одной из своих планет, которые присоединяются к главным силам ИИ, угрожающим Вам. На больших уровнях использует больших Чемпионов.
 
 Прим.: Чемпионы, подконтрольные ИИ, не похожи на человеческих: они не проходят сквозь синие червоточины, не зарабатывают опыт и не восстанавливаются при уничтожении. Просто большие противные модульные корабли.</ln>
+<!-- EN: Champion Ships -->
 <ln id="UAITHeroic">Корабли Чемпионы</ln>
 
+<!-- EN: Fortress King -->
 <ln id="TAITFortressKing">Король Крепости</ln>
+<!-- EN: Generally solid AI that has Modular Fortresses in place of most command stations.  Expect grievous pain. -->
 <ln id="NAITFortressKing">В основном сложный ИИ, который имеет Модульные Крепости в местах большинства командных станций. Ожидайте много боли.</ln>
+<!-- EN: Modular Fortress Command Stations -->
 <ln id="UAITFortressKing">Командная Станция Модульной Крепости</ln>
 
+<!-- EN: Planets are organized into a small number of clusters, each of which has only a few wormholes that lead to other clusters.  Planets within a cluster each have a moderate number of connections to other planets within that cluster. -->
 <ln id="NClustersSimple">Планеты организованы в небольшое количество кластеров, каждый из которых имеет несколько червоточин, ведущих в другие кластеры. Планеты внутри кластера имеют определённое количество связей с другими планетами в пределах кластера.</ln>
+<!-- EN: Planets are organized into a small number of clusters, each of which has only a few wormholes that lead to other clusters.  Intra-cluster organization varies from cluster to cluster. -->
 <ln id="NClustersMicrocosm">Планеты организованы в небольшое количество кластеров, каждый из которых имеет несколько червоточин, ведущих в другие кластеры. Внутренняя организация кластера различается от кластера к кластеру.</ln>
 
 </root>

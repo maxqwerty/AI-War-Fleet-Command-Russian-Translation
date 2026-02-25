@@ -2,85 +2,150 @@
 <root>
 
 <!--Map Styles-->
+<!-- EN: Planets are arranged in concentric rings. -->
 <ln id="NMapConcentricCircles">Планеты собраны в концентрические кольца.</ln>
+<!-- EN: Planets are organized into four distinct groups only connected via a single central planet. -->
 <ln id="NMapXShaped">Планеты организованы в четыре отдельные группы, соединённые единственной центральной планетой.</ln>
 
 <!--Subroutines-->
+<!-- EN: None -->
 <ln id="AISubroutineType_Name_None">Нет</ln>
+<!-- EN: Neophyte -->
 <ln id="AISubroutineType_Name_Neophyte">Неофит</ln>
+<!-- EN: Attacker -->
 <ln id="AISubroutineType_Name_Attacker">Нападающий</ln>
+<!-- EN: Defender -->
 <ln id="AISubroutineType_Name_Defender">Защитник</ln>
+<!-- EN: Builder -->
 <ln id="AISubroutineType_Name_Builder">Строитель</ln>
+<!-- EN: Nurturer -->
 <ln id="AISubroutineType_Name_Nurturer">Воспитатель</ln>
+<!-- EN: Captain -->
 <ln id="AISubroutineType_Name_Captain">Капитан</ln>
+<!-- EN: Admiral -->
 <ln id="AISubroutineType_Name_Admiral">Адмирал</ln>
+<!-- EN: Besieger -->
 <ln id="AISubroutineType_Name_Besieger">Осаждающий</ln>
+<!-- EN: Annihilator -->
 <ln id="AISubroutineType_Name_Annihilator">Аннигилятор</ln>
+<!-- EN: Ninja -->
 <ln id="AISubroutineType_Name_Ninja">Ниндзя</ln>
+<!-- EN: Stalwart -->
 <ln id="AISubroutineType_Name_Stalwart">Приверженец</ln>
+<!-- EN: Champion -->
 <ln id="AISubroutineType_Name_Champion">Чемпион</ln>
+<!-- EN: Craftsman -->
 <ln id="AISubroutineType_Name_Craftsman">Ремесленник</ln>
+<!-- EN: Architect -->
 <ln id="AISubroutineType_Name_Architect">Архитектор</ln>
+<!-- EN: MasterBuilder -->
 <ln id="AISubroutineType_Name_MasterBuilder">МастерСтроитель</ln>
+<!-- EN: Matron -->
 <ln id="AISubroutineType_Name_Matron">Матрона</ln>
+<!-- EN: Queen -->
 <ln id="AISubroutineType_Name_Queen">Королева</ln>
+<!-- EN: Defender On Offense -->
 <ln id="AISubroutineType_Name_DefenderOnOffense">Защитник В Нападении</ln>
+<!-- EN: Stalwart On Offense -->
 <ln id="AISubroutineType_Name_StalwartOnOffense">Приверженец В Нападении</ln>
+<!-- EN: Champion On Offense -->
 <ln id="AISubroutineType_Name_ChampionOnOffense">Чемпион В Нападении</ln>
+<!-- EN: Super Hybrid (Investigator) -->
 <ln id="AISubroutineType_Name_SuperHybridInvestigator">Супер Гибрид (Исследователь)</ln>
+<!-- EN: Super Hybrid (Investigator w/Artifact) -->
 <ln id="AISubroutineType_Name_SuperHybridInvestigatorWithArtifact">Супер Гибрид (Исследователь с Артефактами)</ln>
 
 <!--Plots-->
+<!-- EN: The AI has fused Neinzul hives into special starships, creating a uniquely dangerous foe. -->
 <ln id="NEXP2_Subroutines">ИИ срастил улья Neinzul'ов в специальный звездолёт, создав однозначно опасного врага.</ln>
+<!-- EN: Allows Hybrid Hives to mature into even stronger forms, and execute even more devious plans. -->
 <ln id="NEXP2_AdvancedSubroutines">Позволяет Ульям Гибридов перейти в более сильную форму, и исполнять более коварные планы.</ln>
 
 <!--AI Type descriptions -->
+<!-- EN: Neinzul Cluster Bomber -->
 <ln id="TAITNeinzulClusterBomber">Кластерный Бомбер Neinzul'ов</ln>
+<!-- EN: Builds Neinzul Clusters on all of its planets.
+  -->
 <ln id="NAITNeinzulClusterBomber">Строит Кластеры Neinzul'ов на всех своих планетах.
  </ln>
+<!-- EN: Neinzul Clusters. -->
 <ln id="EAITNeinzulClusterBomber">Кластеры Neinzul'ов.</ln>
 
+<!-- EN: Neinzul Viral Enthusiast -->
 <ln id="TAITNeinzulViralEnthusiast">Вирусный Энтузиаст Neinzul'ов</ln>
+<!-- EN: Builds Neinzul Viral Clusters on all of its wormholes.
+  -->
 <ln id="NAITNeinzulViralEnthusiast">Строит Вирусные Кластеры Neinzul'ов на всех своих червоточинах.
  </ln>
+<!-- EN: Neinzul Viral Clusters. -->
 <ln id="EAITNeinzulViralEnthusiast">Вирусные Кластеры Neinzul'ов.</ln>
 
+<!-- EN: Neinzul Nester -->
 <ln id="TAITNeinzulNester">Гнездовой Neinzul'ов</ln>
+<!-- EN: Builds Neinzul Nests on many of its planets.
+  -->
 <ln id="NAITNeinzulNester">Строит Гнёзда Neinzul'ов на большинстве своих планет.
  </ln>
+<!-- EN: Neinzul Nests. -->
 <ln id="EAITNeinzulNester">Гнёзда Neinzul'ов.</ln>
 
+<!-- EN: Neinzul Youngster -->
 <ln id="TAITNeinzulYoungster">Детёныш Neinzul'ов</ln>
+<!-- EN: Launches waves twice as frequently and with only half the normal warning time.  Often sends 100%-Youngling waves waves.  Is somewhat less enthusiastic than average about its defenses.
+  -->
 <ln id="NAITNeinzulYoungster">Отправляет волны в 2 раза чаще, а время предупреждения в 2 раза меньше. Часто посылает волны из 100%-Юнлингов. Меньше среднего искушён с своей обороне.
  </ln>
 
+<!-- EN: Support Corps -->
 <ln id="TAITSupportCorps">Отделы Поддержки</ln>
+<!-- EN: Launches no waves of its own but adds support units (munitions boosters, etc) to the waves of its ally, as well as to all AI planets.
+  -->
 <ln id="NAITSupportCorps">Сам не посылает волн, но добавляет юнитов поддержки (Усилитель Боеприпасов и т.п.) как к волнам своего союзника, так и для всех планет ИИ.
  </ln>
 
+<!-- EN: Warp Jumper -->
 <ln id="TAITWarpJumper">Создатель Помех</ln>
+<!-- EN: Can launch waves against any planet that does not have a warp jammer.  On the bright side, its lack of warp gates reduces the AI Progress cost of taking an AI planet.
+  -->
 <ln id="NAITWarpJumper">Может отправить волну на любую планету, на которой нет Генератора Помех. С другой стороны, отсутствие у него Врат уменьшает стоимость Прогресса ИИ для захвата его планет.
  </ln>
 
 <!--Alerts-->
+<!-- EN: Preservation Wardens Are Attacking  -->
 <ln id="AlertPresence_NeinzulPreservationWarden">Заповедные Стражи атакуют </ln>
+<!-- EN: Roaming Enclaves Are Attacking  -->
 <ln id="AlertPresence_NeinzulRoamingEnclaves">Скитающиеся Анклавы атакуют </ln>
+<!-- EN: Hybrids Are Attacking  -->
 <ln id="AlertPresence_HybridHives">Гибриды атакуют </ln>
+<!-- EN: Hostile Warheads On  -->
 <ln id="AlertPresence_HostileWarhead">Враждебные Боеголовки на </ln>
+<!-- EN: Dyson Antagonizer On  -->
 <ln id="AlertPresence_DysonAntagonizer">Антагонайзер Дайсона на </ln>
+<!-- EN: Dyson Converter On  -->
 <ln id="AlertPresence_DysonConverter">Конвертер Дайсона на </ln>
+<!-- EN: An Abnormally Strong Hybrid Is Somewhere In The Galaxy -->
 <ln id="AlertPresence_SuperHybridInvestigator_NonScouted">Аномально Сильный Гибрид где-то в галактике</ln>
+<!-- EN: Super Hybrid On  -->
 <ln id="AlertPresence_SuperHybridInvestigator_Scouted">Супер Гибрид на </ln>
+<!-- EN: A strange Hybrid-like signal Is Somewhere In The Galaxy -->
 <ln id="AlertPresence_DysonAntagonizerConstructionModule_NonScouted">Странный Гибридо-подобный сигнал излучается где-то в галактике</ln>
+<!-- EN: Strange Hybrid Facility Under Construction On  -->
 <ln id="AlertPresence_DysonAntagonizerConstructionModule_Scouted">Странное Сооружение Гибридов сроится на </ln>
+<!-- EN: A Strange Device Somewhere In The Galaxy Is Antagonizing The Dyson Sphere -->
 <ln id="AlertPresence_DysonAntagonizer_NonScouted">Странное Устройство где-то в галактике противодействует Сфере Дайсона</ln>
+<!-- EN: Dyson Antagonizer On  -->
 <ln id="AlertPresence_DysonAntagonizer_Scouted">Антагонайзер Дайсона на </ln>
+<!-- EN: A Strange Device Somewhere In The Galaxy Is Disrupting the Dyson Sphere -->
 <ln id="AlertPresence_DysonConverter_NonScouted">Странное Устройство где-то в галактике уничтожает Сферу Дайсона</ln>
+<!-- EN: Dyson Converter On  -->
 <ln id="AlertPresence_DysonConverter_Scouted">Конвертер Дайсона на </ln>
 
+<!-- EN: The Dyson Sphere has been annihilated by a subspace pulse! -->
 <ln id="DysonSphereDestroyedBySubspacePulse">Сфера Дайсона была уничтожена межпространственным импульсом!</ln>
+<!-- EN: The Dyson Sphere's destruction has laid waste to the galaxy! -->
 <ln id="GalaxyDevestatedByDysonSphereDestruction">Уничтожение Сферы Дайсона Опустошило галактику!</ln>
 
+<!-- EN: diplomatic incident -->
 <ln id="Cheat_ForceFriendlyEnclaveSpawn">дипломатический инцидент</ln>
 
 </root>

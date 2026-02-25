@@ -1,44 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
+<!-- EN: Shadow Ship -->
 <ln id="FreeAgentMainShip">Теневой Корабль</ln>
+<!-- EN: EEr Starbase -->
 <ln id="HumanMinerStarbase">EEr Звездобаза</ln>
+<!-- EN: EEr Combat Ship -->
 <ln id="HumanMinerCombatShip">EEr Боевой Корабль</ln>
+<!-- EN: IMT Starbase -->
 <ln id="HumanResistanceStarbase">IMT Звездобаза</ln>
+<!-- EN: IMT Combat Ship -->
 <ln id="HumanResistanceCombatShip">IMT Боевой Корабль</ln>
+<!-- EN: SF Starbase -->
 <ln id="HumanMarauderStarbase">SF Звездобаза</ln>
+<!-- EN: SF Combat Ship -->
 <ln id="HumanMarauderCombatShip">SF Боевой Корабль</ln>
+<!-- EN: SP Starbase -->
 <ln id="ZenithRefugeeStarbase">SP Звездобаза</ln>
+<!-- EN: SP Combat Ship -->
 <ln id="ZenithRefugeeCombatShip">SP Боевой Корабль</ln>
+<!-- EN: CA Starbase -->
 <ln id="ZenithArchitectStarbase">CA Звездобаза</ln>
+<!-- EN: CA Combat Ship -->
 <ln id="ZenithArchitectCombatShip">CA Боевой Корабль</ln>
+<!-- EN: Astrid Starbase -->
 <ln id="NeinzulAstridStarbase">Звездобаза Астридов</ln>
+<!-- EN: Astrid Combat Ship -->
 <ln id="NeinzulAstridCombatShip">Боевой Корабль Астридов</ln>
+<!-- EN: Mourner Starbase -->
 <ln id="NeinzulMournerStarbase">Звездобаза Плакальщиков</ln>
+<!-- EN: Mourner Combat Ship -->
 <ln id="NeinzulMournerCombatShip">Боевой Корабль Плакальщиков</ln>
+<!-- EN: D.Spire Starbase -->
 <ln id="DarkSpireStarbase">Т.Spire Звездобаза</ln>
+<!-- EN: D.Spire Combat Ship -->
 <ln id="DarkSpireCombatShip">Т.Spire Боевой Корабль</ln>
+<!-- EN: G.Spire Starbase -->
 <ln id="GraySpireStarbase">G.Spire Звездобаза</ln>
+<!-- EN: G.Spire Combat Ship -->
 <ln id="GraySpireCombatShip">G.Spire Боевой Корабль</ln>
+<!-- EN: Bomber Drone -->
 <ln id="BomberDrone">Дрон Бомбер</ln>
+<!-- EN: Zenith Medic Frigate -->
 <ln id="ZenithMedicFrigate">Фрегат Медик Zenith'ов</ln>
+<!-- EN: Tackle Drone Launcher -->
 <ln id="TackleDroneLauncher">Пусковик Дрона Оснащения</ln>
+<!-- EN: Tackle Drone -->
 <ln id="TackleDrone">Дрон Оснащения</ln>
+<!-- EN: Dimensional Prison Controller -->
 <ln id="DimensionalPrisonController">Контроллер Пространственной Тюрьмы</ln>
+<!-- EN: Neinzul Scapegoat -->
 <ln id="NeinzulScapegoat">Козёл Отпущения Neinzul'ов</ln>
+<!-- EN: Spire Railcluster -->
 <ln id="SpireRailcluster">Рельсокластер Spire'ов</ln>
+<!-- EN: Repair Field Generator -->
 <ln id="RepairFieldGenerator">Генератор Ремонтного Поля</ln>
+<!-- EN: Attack Booster -->
 <ln id="AttackBooster">Усилитель Атаки</ln>
+<!-- EN: Tachyon Pulse Emitter -->
 <ln id="TachyonPulseEmitter">Тахиимпульсный Излучатель</ln>
+<!-- EN: Zenith Siege Engine -->
 <ln id="ZenithSiegeEngine">Осадная Система Zenith'ов</ln>
+<!-- EN: Zenith Reprocessor -->
 <ln id="ZenithReprocessor">Репроцессор Zenith'ов</ln>
+<!-- EN: Mysterious Colony Ship -->
 <ln id="MysteriousColonyShip">Мистический Колониальный Корабль</ln>
+<!-- EN: Slicer Drone -->
 <ln id="SlicerDrone">Дрон Тесак</ln>
+<!-- EN: Interceptor Drone -->
 <ln id="InterceptorDrone">Дрон Перехватчик</ln>
+<!-- EN: Decoy -->
 <ln id="Decoy">Приманка</ln>
+<!-- EN: Vengeance Generator -->
 <ln id="VengeanceSpawner">Генераттор Возмездия</ln>
+<!-- EN: Yng Firefly -->
 <ln id="YounglingFirefly">Юнг-Светлячок</ln>
+<!-- EN: Saboteur -->
 <ln id="Saboteur">Саботёр</ln>
+<!-- EN: Spire Corvette -->
 <ln id="SpireCorvette">Корвет Spire'ов</ln>
+<!-- EN: Teuthida Drone -->
 <ln id="TeuthidaDrone">Дрон Кальмар</ln>
+<!-- EN: Gravity Drone -->
 <ln id="GravityDrone">Дрон Гравитации</ln>
 </root>

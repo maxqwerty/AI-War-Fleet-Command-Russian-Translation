@@ -1,43 +1,83 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
+<!-- EN: Normal -->
 <ln id="Normal">Нормально</ln>
+<!-- EN: My Ships -->
 <ln id="My_Ships">Мои корабли</ln>
+<!-- EN: Allied Ships -->
 <ln id="Allied_Ships">Корабли Союзников</ln>
+<!-- EN: My And Allied Ships -->
 <ln id="My_And_Allied_Ships">Дружественные Корабли</ln>
+<!-- EN: Resources Used -->
 <ln id="Resources_Used">Добываемые Ресурсы</ln>
+<!-- EN: Metal Used -->
 <ln id="Metal_Used">Источники Металла</ln>
+<!-- EN: Knowledge Found -->
 <ln id="Knowledge_Found">Собрано Науки</ln>
+<!-- EN: My Science Labs -->
 <ln id="My_Science_Labs">Мои Лаборатории</ln>
+<!-- EN: Scouts And Missiles -->
 <ln id="Scouts_And_Missiles">Разведчики и Ракеты</ln>
+<!-- EN: Last Scouted -->
 <ln id="Last_Scouted">Разведано последний раз</ln>
+<!-- EN: Starships -->
 <ln id="Starships">Звездолёты</ln>
+<!-- EN: Starship Constructors -->
 <ln id="Starship_Constructors">Звездолётные Верфи</ln>
+<!-- EN: All Constructors -->
 <ln id="All_Constructors">Все Верфи</ln>
+<!-- EN: Incoming Waves -->
 <ln id="Incoming_Waves">Приближающиеся Волны</ln>
+<!-- EN: Hostile Wormholes -->
 <ln id="Hostile_Wormholes">Вражеские Червоточины</ln>
+<!-- EN: Unexplored Wormholes -->
 <ln id="Unexplored_Wormholes">Неизученные Червоточины</ln>
+<!-- EN: Nebula Wormholes -->
 <ln id="Nebula_Wormholes">Червоточины Туманностей</ln>
+<!-- EN: Champions -->
 <ln id="Champions">Чемпионы</ln>
+<!-- EN: Detected Hybrids -->
 <ln id="Detected_Hybrids">Замечены Гибриды</ln>
+<!-- EN: Detected Hybrid Facilities -->
 <ln id="Detected_HybridFacilities">Гибридные Заводы</ln>
+<!-- EN: Detected ARS -->
 <ln id="DetectedAdvancedResearchStations">Прод Лаб</ln>
+<!-- EN: Detected Advanced Factories -->
 <ln id="DetectedAdvancedFactories">Продвинутые Фабрики</ln>
+<!-- EN: Detected Adv Starship Const -->
 <ln id="DetectedAdvancedStarshipConstructors">Продвинутые Звездные Верфи</ln>
+<!-- EN: Detected AI Progress Reducers -->
 <ln id="DetectedAIPReducers">Замедлители Прогресса ИИ</ln>
+<!-- EN: Detected Design Backups -->
 <ln id="DetectedAIDesignBackupServers">Бекапы Конструкций</ln>
+<!-- EN: Detected Fabricators -->
 <ln id="DetectedFabricators">Заводы</ln>
+<!-- EN: Detected Core Shield A-Prime -->
 <ln id="DetectedCoreShieldGeneratorsAPrimary">Генератор Главного Защитного Поля A-Основн.</ln>
+<!-- EN: Detected Core Shield B-Second -->
 <ln id="DetectedCoreShieldGeneratorsBSecondary">Генератор Главного Защитного Поля B-Вторичн.</ln>
+<!-- EN: Detected Core Shield C-Second -->
 <ln id="DetectedCoreShieldGeneratorsCSecondary">Генератор Главного Защитного Поля C-Вторичн.</ln>
+<!-- EN: Detected Core Shield D-Second -->
 <ln id="DetectedCoreShieldGeneratorsDSecondary">Генератор Главного Защитного Поля D-Вторичн.</ln>
+<!-- EN: Detected Core Shield E-Second -->
 <ln id="DetectedCoreShieldGeneratorsESecondary">Генератор Главного Защитного Поля E-Вторичн.</ln>
+<!-- EN: Detected Broken Superweapons -->
 <ln id="DetectedBrokenGolems">Испорченные Супероружия</ln>
+<!-- EN: Detected Spirecraft Asteroids -->
 <ln id="DetectedAsteroids">Spirecraft Астероиды</ln>
+<!-- EN: Detected Core Shield Generators -->
 <ln id="DetectedCoreShieldGenerators">Генераторы Главного Защитного Поля</ln>
+<!-- EN: Detected Threat -->
 <ln id="DetectedThreat">Обнаруженная Угроза</ln>
+<!-- EN: Detected Immobile Minor Factions -->
 <ln id="DetectedMinorFactionObjects">Строения Фракций</ln>
+<!-- EN: Custom Search (Narrow) -->
 <ln id="Custom">Ручной Поиск (Узкий)</ln>
+<!-- EN: Custom Search (Broad) -->
 <ln id="CustomShipType">Ручной Поиск (Широкий)</ln>
+<!-- EN: Exile -->
 <ln id="DistanceToHiddenExodianBlade">Изгнанник</ln>
+<!-- EN: Length -->
 <ln id="Length">Длина</ln>
 </root>

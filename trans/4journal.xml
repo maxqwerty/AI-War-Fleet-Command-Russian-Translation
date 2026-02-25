@@ -1,8 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
 
+<!-- EN: Epsilon Eridani Remnant Found -->
 <ln id="Journal_OffroadScenario_HumanMinersVsHumanMarauders_0_HeroArrived_ShortTitle">Найдены Остатки на Эпсилон Эридана</ln>
+<!-- EN: Miners in the $planetName nebula are requesting our assistance against attacking Marauders. -->
 <ln id="Journal_OffroadScenario_HumanMinersVsHumanMarauders_0_HeroArrived_LongTitle">Шахтёры на туманности $planetName просят о помощи против атаки Мародёров.</ln>
+<!-- EN: 
+From: Lt. Allen Carmichael
+Special Operations, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+Shortly after transiting the abnormal wormhole into the $planetName nebula we received a transmission on a human channel that has not been used since before the first AI War.  It appears to have originated from a human remnant hiding aboard a facility near our entrance into that nebula.  We are overjoyed to find more survivors, and they seem peaceful, but I advise caution.  Of the few who survived the AI's ferocity, even fewer clung to sanity.  A message from the miners' leader is attached.
+
+=== ATTACHED TRANSMISSION ===
+
+Greetings from the Epsilon Eridani Mining Consortium...
+
+Well, what's left of it.  Those machines took us apart.  We had enough ships to round up the local civilian survivors and make our way out here.
+
+We don't know what kind of people you are, but rest assured: we want no trouble.  We wish only to keep to ourselves and survive.  From what I can tell, you are... brave enough to challenge the AI.  Some would call it foolishness instead of bravery, and perhaps they would be right, but if you can't win the future's pretty bleak anyway.  In any event we are not willing to risk discovery by the AI, so there's not much we can do to help you.
+
+I wish it were that simple, of course.  Truth is, while the AI has not discovered a way into this nebula it's almost just as bad.  Recently another remnant entered our space.  We were happy to see them, too, until we found what this "Sorrow's Fang" group was really like.  Basically they want us to give them everything of value we have and in return they MIGHT spare our lives.  Heh.  I didn't survive the destruction of Earth and most of my entire species to give in to a shakedown.
+
+We have enough combat ships to hold them off for a while, but honestly I think they've got us outgunned.  It's not looking good.
+
+Unless, of course, you were to place your guns on our side of the scale.  
+
+Save our lives from these madmen, and we'll put them on the line to help you defeat the greater enemy.
+
+If it helps persuade you: a planetoid dig of ours was getting near some very interesting artifacts before the marauders showed up.  Preliminary scans indicate a tech base similar to the construction of your ship.
+
+Stay alive,
+Gustav van Eik -->
 <ln id="Journal_OffroadScenario_HumanMinersVsHumanMarauders_0_HeroArrived_Text">
 От: Лт. Аллен Кармайкл
 СпецНаз, Столичная Станция
@@ -34,8 +66,21 @@
 Оставайтесь живыми,
 Gustav van Eik</ln>
 
+<!-- EN: Epsilon Eridani Remnant Destroyed -->
 <ln id="Journal_OffroadScenario_HumanMinersVsHumanMarauders_Lost_MinersDestroyed_ShortTitle">Остатки на Эпсилон Эридана Уничтожены</ln>
+<!-- EN: Miners in the $planetName nebula have been destroyed by attacking Marauders. -->
 <ln id="Journal_OffroadScenario_HumanMinersVsHumanMarauders_Lost_MinersDestroyed_LongTitle">Шахтёры в туманности $planetName были уничтожены атакой Мародёров.</ln>
+<!-- EN: 
+From: Lt. Allen Carmichael
+Special Operations, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+We have lost contact with the remnant of the miners from Epsilon Eridani hiding in the $planetName nebula.  The marauders have successfully destroyed all of their facilities.
+
+Let us hope the marauders do not turn their attention our way. -->
 <ln id="Journal_OffroadScenario_HumanMinersVsHumanMarauders_Lost_MinersDestroyed_Text">
 От: Лт. Аллен Кармайкл
 СпецНаз, Столичная Станция
@@ -48,8 +93,34 @@ Gustav van Eik</ln>
 
 Будем надеяться, что Мародёры не обратят свой взор на нас.</ln>
 
+<!-- EN: Epsilon Eridani Remnant Victorious -->
 <ln id="Journal_OffroadScenario_HumanMinersVsHumanMarauders_1_MaraudersDestroyed_ShortTitle">Остатки на Эпсилон Эридана Побеждают</ln>
+<!-- EN: Miners in the $planetName nebula have destroyed the attacking Marauders. -->
 <ln id="Journal_OffroadScenario_HumanMinersVsHumanMarauders_1_MaraudersDestroyed_LongTitle">Шахтёры в туманности $planetName разгромили атаку Мародёров.</ln>
+<!-- EN: 
+From: Lt. Allen Carmichael
+Special Operations, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+We've received another transmission from the Epsilon Eridani remnant in the $planetName nebula: the attacking marauder force has been destroyed.
+
+=== ATTACHED TRANSMISSION ===
+
+We can't thank you enough.  Who knows how long humanity has left, but at least we didn't get killed by some stinking pirates.
+
+The dig on that planetoid I told you about has been completed.  A xeno-archaeologist managed to get stuck with us when we ran from the AI, and she confirms that most of the artifacts recovered bear the same tell-tales as your ship.  She's only familiar with it in passing from the journals, but apparently the tech comes from an ancient Spire group known as the Shadow.  Kind of an odd name in a race of luminous rock, if you ask me.
+
+We've transmitted all the data we could extract from the wreck, and hope it proves useful to you.
+
+As for us, our miners will continue on here and send you all the mineral resources we can possibly spare.  If you choose, you may also build from our combat designs using facilities here in the nebula.
+
+We sure hope the AI can't get in here, but if we die, we die. 
+
+Fry some computers for me,
+Gustav van Eik -->
 <ln id="Journal_OffroadScenario_HumanMinersVsHumanMarauders_1_MaraudersDestroyed_Text">
 От: Лт. Аллен Кармайкл
 СпецНаз, Столичная Станция
@@ -75,8 +146,23 @@ Gustav van Eik</ln>
 Поджарьте парочку компьютеров за меня,
 Густаф ван Эйк</ln>
 
+<!-- EN: Message from Spire refugees. -->
 <ln id="Journal_Flavor_ImperialSpireTalkAboutShadowSpireChampionShip_ShortTitle">Сообщение от беженцев Spire'ов.</ln>
+<!-- EN: We've received another message from the Spire refugees, this time about our Champion vessel. -->
 <ln id="Journal_Flavor_ImperialSpireTalkAboutShadowSpireChampionShip_LongTitle">Мы приняли новое сообщение от беженцев Spire'ов, на этот раз о нашем чемпионском корабле.</ln>
+<!-- EN: 
+From: Dr. Dorothy V. Langstrom
+Xenobiology Lab, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+The alien refugees just contacted us, and seem rather perturbed.  Apparently they noticed our "shadow" vessel some time ago but were unsure of its origins.  Since then they have confirmed their suspicions: the vessel was originally built by an ancient branch of their own race known as the Shadow.  That would explain the ship's self-identification.
+
+Cross-referencing info from the Spire refugees with our own pre-war xeno-archaeological records it would appear these Shadow Spire entered our own galaxy several thousand years ago while on the run from something.  Judging by our guests' shift in attitude I can guess who the hunter might have been.
+
+The refugees tell us that they later found the Shadow had developed a drive capable of traversing weak or unstable wormholes.  This explains much. -->
 <ln id="Journal_Flavor_ImperialSpireTalkAboutShadowSpireChampionShip_Text">
 От: Док. Дороти В. Лангстром
 Ксенобиологическая Лаборатория, Столичная Станция
@@ -91,8 +177,33 @@ Gustav van Eik</ln>
 
 Беженцы рассказали нам, что позже они обнаружили, что Тени разработали двигатель, способный входить в слабые или нестабильные червоточины. Это многое объясняет.</ln>
 
+<!-- EN: Shadow Vessel Online -->
 <ln id="Journal_Flavor_StartingWithAShadowShip_ShortTitle">Теневой Корабль Запущен</ln>
+<!-- EN: We have successfully revived an ancient derelict discovered during our retreat. -->
 <ln id="Journal_Flavor_StartingWithAShadowShip_LongTitle">Мы успешно возродили древнего изгоя, обнаруженного во время отступления.</ln>
+<!-- EN: 
+From: Lt. Allen Carmichael
+Special Operations, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+As you will recall, during our flight after the Battle of Sol we discovered an ancient derelict and recovered it in hopes of salvaging some useful technology.  R&D has exceeded our wildest hopes.  Not only can we interface with most of the devices, but we have actually succeeded in bringing the vessel back online.
+
+We had to fabricate replacements for many key components, so the ship is almost as much human technology as... well, whatever it is.  The ship's computers refer to its model as "Shadow Frigate".  The original construction is also vaguely reminiscent of the Spire artifacts we recovered before the war.
+
+The ship is a fairly capable combatant, as starships go, and can mount a powerful modular armament.  Regrettably, we cannot fabricate the core technology ourselves.  Our main hope for the project, however, rests in four more important points:
+
+1) The ship's "shadow drive", as we've come to call it, is capable of traversing very weak wormholes.  As you know, relatively few wormholes are stable enough to support regular travel, and ALL of those are anchored at both ends by moderate gravity wells (i.e. planets, anything smaller is insufficient, and stars are too massive).  Most of the others are hard enough to even detect, and we do not generally flag them on navigational charts.  The shadow drive changes this.  This particular unit has been damaged and thus still cannot use the really trace distortions, but its stability requirements are less than 25% that of our best traversal drives.  Accordingly, we expect to be able to traverse wormholes leading to large nebulae, at least.  Being able to reach locations the AI cannot may prove highly advantageous.
+
+2) One of the most mysterious aspects of the shadow frigate's technology is that it appears to "learn".  In a frighteningly literal sense.  Within seconds of coming back online its computer started scanning ALL our networks.  Initially we were extremely alarmed.  Well, we're still extremely alarmed.  But we've not found a way to stop it, and it appears we wouldn't want to anyway.  As it accumulated more and more data we watched its data and power conduits replicate and increase in density.  Turrets it could not initially power are now easily handled.  As our science ships recover more knowledge this process will continue.  You will be able to focus this development, to some extent, from your interface to R&D's ship-design department.
+
+3) Further, we recovered another strange artifact along with the vessel.  We could not find a designation in the ship's databanks, but we're calling it a "shadow capacitor".  It appears to be accumulating energy from some kind of ambient source.  The associated radiation bears some resemblance to common Spire subspace emissions, but not much more than the proverbial apple and orange.  From what we've seen, the passive radiation from the capacitor does not interact with organic matter or our station's systems.  What it actually does is somewhat unclear, but the recovered vessel is able to tap into it from any distance we've tested, in order to project temporary shields into nearby space.  This "shadow charge" does not appear to augment any of the ship's systems directly, but we suspect other uses are possible.
+
+4) By far the most mysterious, and arguably most important feature is... well, the thing is effectively indestructible.  It can take damage like anything else and won't withstand high concentrations of fire.  But at the moment it would be destroyed (one of the navigational tests didn't... go so well) it instantaneously enters warp back to the "shadow capacitor" I mentioned earlier, in perfect working order (minus any modular armament).  The capacitor is anchored to Home Command, so if the shadow should ever "die" it will simply reappear back here.  Similarly, the "scrap" command code for this ship has been repurposed to intentionally trigger the "warp home" function.  Please note: if the capacitor is very low the ship will not emerge from warp until a minimal charge has accumulated, and emerging from warp completely discharges the capacitor.
+
+Needless to say, this is the sort of technology we wouldn't touch with an eighty-foot pole if our race weren't on the brink of oblivion.  As it is, well, let's hope the shadow doesn't have any less pleasant surprises in store for us. -->
 <ln id="Journal_Flavor_StartingWithAShadowShip_Text">
 От: Лт. Аллен Кармайкл
 СпецНаз, Столичная Станция
@@ -117,8 +228,33 @@ Gustav van Eik</ln>
 
 Не стоит говорить, что это тот вид технологий, которые мы бы обходили стороной, если бы наша раса не была на грани забвения. Так что мы будем надеяться, что тень больше не имеет никаких менее неприятных сюрпризов для нас.</ln>
 
+<!-- EN: Shadow Vessel Online -->
 <ln id="Journal_Flavor_StartingWithAShadowShip_Alternate_ShortTitle">Теневой Корабль Запущен</ln>
+<!-- EN: We have successfully revived an ancient derelict discovered during our retreat. -->
 <ln id="Journal_Flavor_StartingWithAShadowShip_Alternate_LongTitle">Мы успешно возродили древний покинутый корабль, обнаруженный во время отступления.</ln>
+<!-- EN: 
+From: Lt. Allen Carmichael
+Special Operations, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+As you will recall, during our flight after the Battle of Sol we discovered an ancient derelict and recovered it in hopes of salvaging some useful technology.  R&D has exceeded our wildest hopes.  Not only can we interface with most of the devices, but we have actually succeeded in bringing the vessel back online.
+
+We had to fabricate replacements for many key components, so the ship is almost as much human technology as... well, whatever it is.  The ship's computers refer to its model as "Shadow Frigate".  The original construction is also vaguely reminiscent of the Spire artifacts we recovered before the war.
+
+The ship is a fairly capable combatant, as starships go, and can mount a powerful modular armament.  Regrettably, we cannot fabricate the core technology ourselves.  Our main hope for the project, however, rests in three more important points:
+
+1) One of the most mysterious aspects of the shadow frigate's technology is that it appears to "learn".  In a frighteningly literal sense.  Within seconds of coming back online its computer started scanning ALL our networks.  Initially we were extremely alarmed.  Well, we're still extremely alarmed.  But we've not found a way to stop it, and it appears we wouldn't want to anyway.  As it accumulated more and more data we watched its data and power conduits replicate and increase in density.  Turrets it could not initially power are now easily handled.  As our science ships recover more knowledge this process will continue.  You will be able to focus this development, to some extent, from your interface to R&D's ship-design department.
+
+2) Further, we recovered another strange artifact along with the vessel.  We could not find a designation in the ship's databanks, but we're calling it a "shadow capacitor".  It appears to be accumulating energy from some kind of ambient source.  The associated radiation bears some resemblance to common Spire subspace emissions, but not much more than the proverbial apple and orange.  From what we've seen, the passive radiation from the capacitor does not interact with organic matter or our station's systems.  What it actually does is somewhat unclear, but the recovered vessel is able to tap into it from any distance we've tested, in order to project temporary shields into nearby space.  This "shadow charge" does not appear to augment any of the ship's systems directly, but we suspect other uses are possible.
+
+3) By far the most mysterious, and arguably most important feature is... well, the thing is effectively indestructible.  It can take damage like anything else and won't withstand high concentrations of fire.  But at the moment it would be destroyed (one of the navigational tests didn't... go so well) it instantaneously enters warp back to the "shadow capacitor" I mentioned earlier, in perfect working order (minus any modular armament).  The capacitor is anchored to Home Command, so if the shadow should ever "die" it will simply reappear back here.  Similarly, the "scrap" command code for this ship has been repurposed to intentionally trigger the "warp home" function.  Please note: if the capacitor is very low the ship will not emerge from warp until a minimal charge has accumulated, and emerging from warp completely discharges the capacitor.
+
+In addition to the above, we've determined that the ship's drive system was designed for stable transit across very weak wormholes.  Such a capability would have been immensely useful, potentially granting us access to nebulae and other areas of the galaxy that the normal wormhole network does not reach.  Regrettably, the original drive system had suffered extensive damage.  We think we're even missing large sections of it.  As a result, we've had to retrofit it with human drive technology.
+
+Needless to say, this is the sort of technology we wouldn't touch with an eighty-foot pole if our race weren't on the brink of oblivion.  As it is, well, let's hope the shadow doesn't have any less pleasant surprises in store for us. -->
 <ln id="Journal_Flavor_StartingWithAShadowShip_Alternate_Text">
 От: Лт. Аллен Кармайкл
 СпецНаз, Столичная Станция
@@ -141,8 +277,27 @@ Gustav van Eik</ln>
 
 Не стоит говорить, что это тот вид технологий, которые мы бы обходили стороной, если бы наша раса не была на грани забвения. Так что мы будем надеяться, что тень больше не имеет никаких менее неприятных сюрпризов для нас.</ln>
 
+<!-- EN: Shattered Pillar Zenith Found -->
 <ln id="Journal_OffroadScenario_ZenithRefugeesVsNeinzulAstridsVsDarkSpire_0_HeroArrived_ShortTitle">Обнаружен Разрушенный Столп Zenith'ов</ln>
+<!-- EN: Zenith refugees in the $planetName nebula are under attack by both Neinzul and Spire splinter groups. -->
 <ln id="Journal_OffroadScenario_ZenithRefugeesVsNeinzulAstridsVsDarkSpire_0_HeroArrived_LongTitle">Беженцы Zenith'ов в туманности $planetName под одновременной атакой от группировок Neinzul'ов и Spire'ов.</ln>
+<!-- EN: 
+From: Lt. Allen Carmichael
+Special Operations, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+Immediately upon entering the $planetName nebula we picked up signs of battle on sensors.  Further scans found wreckage and active combatants from three separate tech-bases.  It's a mess in here.
+
+First, there are a number of Spire bases.  Don't get your hopes up: the Spire have been the most consistently helpful of all alien races but even they have their black sheep.  No pun intended, but this particular splinter group is known as the "Dark Spire".  Not to be confused with the "Shadow Spire"... it's kind of complicated.  In any event, diplomatic interaction with these shards is impossible.  They'd just as soon kill us all.
+
+Second, we have the Zenith.  Specifically, a group known as the "Shattered Pillar".  Like most Zenith they're not exactly bursting with optimism for the future of their race.  As far as they're concerned, survival is the best-case scenario.  But they're pretty serious about making that survival happen, and they would have the edge here over either of their two opponents.  Unfortunately for them there are, in fact, TWO opponents.  The good news is that we know these Zenith are friendly to humans, and we can count on them not shooting at us.
+
+Third... well, Neinzul, I guess.  We've run into a lot of AI-modified Neinzul since the war, but we thought it a relatively recent development.  Apparently we were wrong.  Bioscans are 100% that we're looking at Neinzul, but the construction is consistent with one of the first iterations of the Langstrom AI.  Inauspicious heritage, you could say.  Xenobiology is calling these hives the "Astrids", and I have no idea why.  No warp grid emissions or other telltales of AI communication are present, but we have no idea if these Astrids would link back up with their erstwhile masters if given the chance.  What we do know is that these Neinzul are our enemies.  And incidentally, the enemies of both other factions present in the nebula.
+
+We've already got a war, and I don't think we need another one.  But these Zenith look like capable allies and it would be a shame to lose that opportunity. -->
 <ln id="Journal_OffroadScenario_ZenithRefugeesVsNeinzulAstridsVsDarkSpire_0_HeroArrived_Text">
 От: Лт. Аллен Кармайкл
 СпецНаз, Столичная Станция
@@ -161,8 +316,21 @@ Gustav van Eik</ln>
 
 Мы уже ведём войну, и я не думаю, что нам нужна ещё одна. Но эти Zenith'ы выглядят способными союзниками и было бы обидно потерять такую возможность.</ln>
 
+<!-- EN: Shattered Pillar Zenith Destroyed -->
 <ln id="Journal_OffroadScenario_ZenithRefugeesVsNeinzulAstridsVsDarkSpire_Lost_RefugeesDestroyed_ShortTitle">Разрушенный Столп Zenith'ов Уничтожен</ln>
+<!-- EN: The Zenith refugees in the $planetName nebula have been destroyed by their enemies. -->
 <ln id="Journal_OffroadScenario_ZenithRefugeesVsNeinzulAstridsVsDarkSpire_Lost_RefugeesDestroyed_LongTitle">Беженцы Zenith'ов в туманности $planetName были уничтожены их врагами.</ln>
+<!-- EN: 
+From: Lt. Allen Carmichael
+Special Operations, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+The last Shattered Pillar in the $planetName nebula has been destroyed.  Between the Astrids and the Dark Spire it was a very nasty situation.
+
+It's just damage-control now, but we may still want to stay involved to make sure the remaining belligerents are destroyed as well.  Should the conflict there end the remaining hostiles may come looking for us. -->
 <ln id="Journal_OffroadScenario_ZenithRefugeesVsNeinzulAstridsVsDarkSpire_Lost_RefugeesDestroyed_Text">
 От: Лт. Аллен Кармайкл
 СпецНаз, Столичная Станция
@@ -175,8 +343,39 @@ Gustav van Eik</ln>
 
 Теперь это дело урона, но мы можем продолжать атаку, чтобы быть уверенными, что оставшиеся воюющие стороны также будут уничтожены. Если конфликт здесь закончится, то оставшиеся враги могут начать искать нас.</ln>
 
+<!-- EN: Hostile Neinzul Astrids Destroyed -->
 <ln id="Journal_OffroadScenario_ZenithRefugeesVsNeinzulAstridsVsDarkSpire_1a_AstridsDestroyedFirst_ShortTitle">Вражеские Астриды Neinzul'ов Уничтожены</ln>
+<!-- EN: The hostile Neinzul Astrid splinter group in the $planetName nebula has been defeated. -->
 <ln id="Journal_OffroadScenario_ZenithRefugeesVsNeinzulAstridsVsDarkSpire_1a_AstridsDestroyedFirst_LongTitle">Группа врагов Астриды Neinzul'ов в туманности $planetName была повержена.</ln>
+<!-- EN: 
+From: Lt. Allen Carmichael
+Special Operations, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+The Neinzul Astrids attacking the friendly Shattered Pillar Zenith in the $planetName nebula just lost their last base there.  The Dark Spire are still fighting, but this is a very positive development.
+
+Attempts to communicate with the Zenith have failed up til now.  They're friendly, but still pretty aloof to humanity.  At least when fighting for their lives.  But we've got their attention now.  I've attached their message below.  It's a bit... sketchy.  Zenith are always like that.
+
+=== ATTACHED TRANSMISSION ===
+
+Human forces, welcome.
+Welcome, little we can give.
+Foes, come upon us.
+
+One has fallen, rejoicing.
+Rejoicing, little we can do.
+Attacking, another yet remains.
+
+We seek something from you, aid.
+Aid, we shall give in return.
+Artifacts, of the shadow shard.
+
+So, please, as your own poets have said:
+"Nuke them from orbit, 
+it is the only way to be sure." -->
 <ln id="Journal_OffroadScenario_ZenithRefugeesVsNeinzulAstridsVsDarkSpire_1a_AstridsDestroyedFirst_Text">
 От: Лт. Аллен Кармайкл
 СпецНаз, Столичная Станция
@@ -207,8 +406,39 @@ Gustav van Eik</ln>
 "Ядерный удар с орбиты 
 единственный способ быть уверенным."</ln>
 
+<!-- EN: Hostile Dark Spire Destroyed -->
 <ln id="Journal_OffroadScenario_ZenithRefugeesVsNeinzulAstridsVsDarkSpire_1b_DarkSpireDestroyedFirst_ShortTitle">Вражеские Тёмные Spire'ы Уничтожены</ln>
+<!-- EN: The hostile Dark Spire splinter group in the $planetName nebula has been defeated. -->
 <ln id="Journal_OffroadScenario_ZenithRefugeesVsNeinzulAstridsVsDarkSpire_1b_DarkSpireDestroyedFirst_LongTitle">Вражеская группа Тёмных Spire'ов в туманности $planetName была повержена.</ln>
+<!-- EN: 
+From: Lt. Allen Carmichael
+Special Operations, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+The Dark Spire attacking the friendly Shattered Pillar Zenith in the $planetName nebula just lost their last base there.  The Neinzul Astrids are still fighting, but this is a very positive development.
+
+Attempts to communicate with the Zenith have failed up til now.  They're friendly, but still pretty aloof to humanity.  At least when fighting for their lives.  But we've got their attention now.  I've attached their message below.  It's a bit... sketchy.  Zenith are always like that.
+
+=== ATTACHED TRANSMISSION ===
+
+Human forces, welcome.
+Welcome, little we can give.
+Foes, come upon us.
+
+One has fallen, rejoicing.
+Rejoicing, little we can do.
+Attacking, another yet remains.
+
+We seek something from you, aid.
+Aid, we shall give in return.
+Artifacts, of the shadow shard.
+
+So, please, as your own poets have said: 
+"Nuke them from orbit, 
+it is the only way to be sure." -->
 <ln id="Journal_OffroadScenario_ZenithRefugeesVsNeinzulAstridsVsDarkSpire_1b_DarkSpireDestroyedFirst_Text">
 От: Лт. Аллен Кармайкл
 СпецНаз, Столичная Станция
@@ -239,8 +469,37 @@ Gustav van Eik</ln>
 "Ядерный удар с орбиты 
 единственный способ быть уверенным."</ln>
 
+<!-- EN: Shattered Pillar Zenith Victorious -->
 <ln id="Journal_OffroadScenario_ZenithRefugeesVsNeinzulAstridsVsDarkSpire_2_EnemiesDestroyed_ShortTitle">Разрушенный Столп Zenith'ов побеждает</ln>
+<!-- EN: Zenith refugees in the $planetName nebula have destroyed the Neinzul Astrids and Dark Spire attacking them. -->
 <ln id="Journal_OffroadScenario_ZenithRefugeesVsNeinzulAstridsVsDarkSpire_2_EnemiesDestroyed_LongTitle">Беженцы Zenith'ов в туманности $planetName уничтожили атакующих их Астридов Neinzul'ов и Тёмных Spire'ов.</ln>
+<!-- EN: 
+From: Lt. Allen Carmichael
+Special Operations, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+The Shattered Pillar Zenith in the $planetName nebula have contacted us again: the attacking Neinzul Astrids and Dark Spire have been defeated.
+
+=== ATTACHED TRANSMISSION ===
+
+Relief has come, rejoicing.
+Rejoicing, much we now have.
+Enemies, no more to trouble us.
+
+Remember this we shall, singing.
+Singing, as of the glory days of old.
+Ironically, as those never shall return.
+
+Enough of that, focusing.
+Focusing, you shall we now assist.
+Artifacts, of the shadow shard.
+
+Our own ships you may now build,
+So as your poets say, curiously:
+"I'm all out of gum". -->
 <ln id="Journal_OffroadScenario_ZenithRefugeesVsNeinzulAstridsVsDarkSpire_2_EnemiesDestroyed_Text">
 От: Лт. Аллен Кармайкл
 СпецНаз, Столичная Станция
@@ -269,8 +528,44 @@ Gustav van Eik</ln>
 Как говорили наши поэты:
 "Я весь из жвачки".</ln>
 
+<!-- EN: Neinzul Mourner Wardens Found -->
 <ln id="Journal_OffroadScenario_MournersArcade_0_HeroArrived_ShortTitle">Обнаружены Строи Плакальщиков Neinzul'ов</ln>
+<!-- EN: Neinzul Mourners in the $planetName nebula need help with some unstable dimensional prisons. -->
 <ln id="Journal_OffroadScenario_MournersArcade_0_HeroArrived_LongTitle">Плакальщикам Neinzul'ов в туманности $planetName требуется помощь с нестабильными межпространственными тюрьмами.</ln>
+<!-- EN: 
+From: Lt. Allen Carmichael
+Special Operations, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+As our Shadow entered the $planetName nebula it detected a strange pattern of subspace radiation coming from the lone facility present.
+
+Our xenobiologists have identified the pattern as the "song" of a Neinzul subspecies known as the "Mourners".  Communication with any Neinzul hive is extremely difficult, as you know, but before the AI uprising several of the warring human groups conducted extensive studies of Neinzul biology and "linguistics", if it can be called that.
+
+As it happens, an assistant from one of those studies is present here with us.  Dr. Arin was aboard one of the freighters that fled the Sol system with us.  I've attached her report to provide background.
+
+=== Attached Report ===
+
+The subspace radiation pattern shows 98.4% correspondence with recordings from Hive subject N-1035, known as the "Mourner".
+
+Alterations in radiation were observed subsequent to our entry into the nebula.  Filtering out the base signal and applying previously established translation protocols has yielded several intelligible fragments.
+
+Piecing it together, it appears that this group of hives has taken responsibility to watch over a cluster of "dimensional prisons".  The controllers are scattered around the nebula and bear resemblance to an ancient containment technology encountered during several pre-war archaeological digs.  Method of operation is unknown, but breaching containment in those cases revealed previously undetectable objects.
+
+Further, something seems to be going wrong with the controllers in this nebula, and the imprisoned objects are re-appearing without outside intervention.  Wreckage and residual energy signatures indicate recent battle, and thus that some of the contained objects are in fact hostile warships.  No previously encountered prisons contained organic matter.  Hypothesis: containment technology not designed for animate life, used for this purpose quite recently.
+
+Another controller reached critical failure just as our vessel transited the wormhole, and one of the destabilizing "pockets" does indeed appear to contain hostile craft.  Other pockets, however, are also becoming visible.  Several are giving off signals consistent with shadow relic caches.  To further complicate matters, some of the pockets are destabilizing and then disappearing entirely, as if the destruction of the controller does not necessarily release the contents.  This phenomenon is consistent with pre-war dig observations: damaged multi-controller networks must be released simultaneously to guarantee 100% release.
+
+===
+
+In conclusion, sir, to the best of our knowledge:
+1) The Mourners are trying to deal with hostiles currently escaping the destabilizing prison, and they want our help.
+2) At the current rate of destabilization, our Shadow should be able to take care of the hostiles.
+3) But the more controllers we destroy in a short period of time, the more artifacts we can recover from the prisons.
+
+Tread carefully, Commander. -->
 <ln id="Journal_OffroadScenario_MournersArcade_0_HeroArrived_Text">
 От: Лт. Аллен Кармайкл
 СпецНаз, Столичная Станция
@@ -306,8 +601,21 @@ Gustav van Eik</ln>
 
 Ступайте осторожно, Главнокомандующий.</ln>
 
+<!-- EN: Neinzul Mourners Destroyed -->
 <ln id="Journal_OffroadScenario_MournersArcade_Lost_MournersDestroyed_ShortTitle">Плакальщики Neinzul'ов уничтожены</ln>
+<!-- EN: The Neinzul Mourners in the $planetName nebula have been destroyed by the escapees from the unstable dimensional prisons. -->
 <ln id="Journal_OffroadScenario_MournersArcade_Lost_MournersDestroyed_LongTitle">Плакальщики Neinzul'ов в туманности $planetName были уничтожены беглецами из межпространственной тюрьмы.</ln>
+<!-- EN: 
+From: Lt. Allen Carmichael
+Special Operations, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+The Neinzul Mourner starbase in the $planetName nebula has been destroyed by hostiles escaping the dimensional prisons, causing a total collapse of the containment network.  All the relic cache pockets we'd detected have vanished, but many of the remaining hostiles escaped before they were caught in the disruption.
+
+Maybe the hostiles will at least hit the AI for us.  On the other hand, that could cause additional problems. -->
 <ln id="Journal_OffroadScenario_MournersArcade_Lost_MournersDestroyed_Text">
 От: Лт. Аллен Кармайкл
 СпецНаз, Столичная Станция
@@ -320,8 +628,21 @@ Gustav van Eik</ln>
 
 Может быть, враги будут атаковать ИИ. С другой стороны, они могут стать дополнительной проблемой.</ln>
 
+<!-- EN: Dimensional Prisons Cleared -->
 <ln id="Journal_OffroadScenario_MournersArcade_1_PrisonsAndPrisonersCleared_ShortTitle">Межпространственная Тюрьма Очищена</ln>
+<!-- EN: The Neinzul Mourners in the $planetName nebula have survived all the escapees from the unstable dimensional prisons. -->
 <ln id="Journal_OffroadScenario_MournersArcade_1_PrisonsAndPrisonersCleared_LongTitle">Плакальщики Neinzul'ов в туманности $planetName пережили всех беглецов из межпространственной тюрьмы.</ln>
+<!-- EN: 
+From: Dr. Norla Arin
+Xenobiology, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+We've received another message from the Mourners.  Gratitude is a strange thing to them, but they're getting pretty close to it.  The dimensional containment system has been safely shut down.  The relic caches we were detecting in the destabilizing pockets were still not quite all the way back in phase, but the Mourners were able to bring them the rest of the way in.  We appear to have made another ally.
+
+Well done, Commander. -->
 <ln id="Journal_OffroadScenario_MournersArcade_1_PrisonsAndPrisonersCleared_Text">
 От: Dr. Norla Arin
 Ксенобиологи, Столичная Станция
@@ -334,8 +655,39 @@ Gustav van Eik</ln>
 
 Так держать, Главнокомандующий.</ln>
 
+<!-- EN: Gray Spire Cluster Found -->
 <ln id="Journal_OffroadScenario_GraySpireArcade_0_HeroArrived_ShortTitle">Обнаружен Кластер Серых Spire'ов</ln>
+<!-- EN: A Gray Spire cluster in the $planetName nebula is trying to fight off berserk Dyson Gatlings. -->
 <ln id="Journal_OffroadScenario_GraySpireArcade_0_HeroArrived_LongTitle">Кластер Серых Spire'ов в туманности $planetName пытается биться с разъярёнными Гатлингами Дайсона.</ln>
+<!-- EN: 
+From: Lt. Allen Carmichael
+Special Operations, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+When our Shadow vessel entered the $planetName nebula we immediately received a transmission from the Gray Spire.  This particular group was a regular trading partner for several human factions before the AI war, and they appear to still regard us as friends.
+
+The transmission itself... well, Spire messages are always difficult to parse.  Thankfully, we've already run it through Dorothy's team and can just give you the translation:
+
+The Spire haven't been in this nebula very long, and don't have all their defenses set up.
+
+For a few weeks they've been picking up strange signals.  We've analyzed the recordings and agree with the Spire's analysis: Zenith.  Specifically, the Zenith that inhabit Dyson sphere.  No one else uses those frequencies and protocols.  But it's not an exact match either, and protocol errors are quite frequent.  So there's something else going on, too.
+
+Just a few hours ago several Dyson Gatlings entered the main starbase's sensor envelope, emanating the same strangely erroneous signals.  When approached by Spire guard vessels, the gatlings immediately opened fire.  The fighting hasn't stopped since.
+
+It gets stranger: literally every time the Spire have successfully destroyed a gatling, another has entered sensor range.  The correlation is too strong to be a coincidence.  Our analysts agree with the Spire here too: there's some kind of deep-cloaked controller out there, that possibly also serves as a manufacturing/basing facility for the gatlings.  We've seen this kind of detached force from those Zenith before, but limited controller bandwidth = limited simultaneous hostiles.
+
+Normally this would be handled by an intensive tachyon, optical, and physical survey.  It could take weeks, and a tremendous defensive force to hold off the gatlings in the meantime.  Thankfully, we aren't in that bad a situation: the Zenith signals are growing increasingly erratic, and radiation from the direction of the attackers indicates a large power-source spiraling into overload.  That may mean we'll see an increase in the number of gatlings under control at once, as the controller pushes harder and harder.  So:
+
+1) If we hold off the gatlings long enough, their reinforcements will stop showing up when their basing facility goes up.  We're just guessing on that but if we're wrong there'll be time enough to coordinate the intensive search... assuming anything is left.
+
+2) Destroying the gatlings doesn't necessarily help us a lot.  It'll probably help a little because the replacement may be out of range initially, but we aren't going to win this by attrition.
+
+3) On the other hand, something is definitely wrong with these gatlings.  Some of our analysts suggest the possibility that an unknown faction has tampered with the controller.  Combined with some of the extraneous signals matching that of shadow relics... well, it may be in our best interest to disable as many of these gatlings as we can, for salvage.
+
+Good hunting, Commander. -->
 <ln id="Journal_OffroadScenario_GraySpireArcade_0_HeroArrived_Text">
 От: Лт. Аллен Кармайкл
 СпецНаз, Столичная Станция
@@ -366,8 +718,21 @@ Spire'ы очень долго не были в этой туманности, �
 
 Хорошей охоты, Главнокомандующий.</ln>
 
+<!-- EN: Gray Spire Destroyed -->
 <ln id="Journal_OffroadScenario_GraySpireArcade_Lost_GraySpireDestroyed_ShortTitle">Серые Spire'ы Повержены</ln>
+<!-- EN: Hostile malfunctioning Dyson Gatlings have eradicated the Gray Spire cluster in the $planetName nebula. -->
 <ln id="Journal_OffroadScenario_GraySpireArcade_Lost_GraySpireDestroyed_LongTitle">Враждебные неисправные Гатлинги Дайсона ликвидировали кластер Серых Spire'ов в туманности $planetName.</ln>
+<!-- EN: 
+From: Lt. Allen Carmichael
+Special Operations, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+The Gray Spire starbases in the $planetName nebula have been destroyed by the hostile Dyson Gatlings.  We also detected a massive radiation surge from the origin of the attackers, so the controller is probably out of action as well.  On the other hand, several other hostiles have been detected now, probably the last flight launched and now on local control.
+
+I wouldn't want to be in their way. -->
 <ln id="Journal_OffroadScenario_GraySpireArcade_Lost_GraySpireDestroyed_Text">
 От: Лт. Аллен Кармайкл
 СпецНаз, Столичная Станция
@@ -380,8 +745,29 @@ Spire'ы очень долго не были в этой туманности, �
 
 Я бы не хотел оказаться на их пути.</ln>
 
+<!-- EN: Malfunctioning Dysons Thwarted -->
 <ln id="Journal_OffroadScenario_GraySpireArcade_1_MalfunctionsStopped_ShortTitle">Неисправние Дайсонсы Повержены</ln>
+<!-- EN: The Gray Spire cluster in the $planetName nebula has successfully repelled the hostile malfunctioning Dyson Gatlings. -->
 <ln id="Journal_OffroadScenario_GraySpireArcade_1_MalfunctionsStopped_LongTitle">Кластер Серых Spire'ов в туманности $planetName успешно отразили атаку враждебных неисправных Гатлингов Дайсона.</ln>
+<!-- EN: 
+From: Lt. Allen Carmichael
+Special Operations, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+The Gray Spire in the $planetName nebula send their... gratitude, I think.  It was a somewhat long and involved message.  All malfunctioning Dyson Gatlings in the nebula have been disabled and no further reinforcements have appeared to replace them.  We detected a massive radiation spike from that direction shortly before the reinforcements stopped, so it appears our theory about the controller was sufficiently correct.
+
+Another theory panned out, as well: these gatlings had indeed been extensively modified, using shadow relics.  Who did it, or why, we can't say.  But we do have the relics for study.  
+
+We also have the Dyson Gatlings.  
+
+Normally any vessel produced by the Dyson faction self-destructs when disabled, but apparently that function was also disabled by the modifications these units received.
+
+Many were not repairable, but the Spire were able to reassemble several of the hulks and together we've brought them back to working condition.  Naturally, we removed all zenith control mechanisms so the gatlings will not operate autonomously.  Despite extensive analysis of the construction, there's no way we can manufacture more of these gatlings.  So these units are all we have.  But we do have them, and we know the kind of damage they can do.
+
+And every bit of help counts, in a war like this. -->
 <ln id="Journal_OffroadScenario_GraySpireArcade_1_MalfunctionsStopped_Text">
 От: Лт. Аллен Кармайкл
 СпецНаз, Столичная Станция
@@ -402,8 +788,48 @@ Spire'ы очень долго не были в этой туманности, �
 
 Каждая частица помощи на войне считается.</ln>
 
+<!-- EN: Shattered Pillar Found -->
 <ln id="Journal_OffroadScenario_ZenithRefugeesVZenithArchitectsAndColonyShips_0_HeroArrived_ShortTitle">Обнаружен Разрушенный Столп</ln>
+<!-- EN: A group of Shattered Pillar Zenith is battling the hostile Citadel Ascendant Zenith in the $planetName nebula. -->
 <ln id="Journal_OffroadScenario_ZenithRefugeesVZenithArchitectsAndColonyShips_0_HeroArrived_LongTitle">Группа Zenith'ов Разрушенного Столпа сражается с враждебными Zenith'ами Цитадели Восхождения в туманности $planetName.</ln>
+<!-- EN: 
+From: Lt. Allen Carmichael
+Special Operations, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+The situation in the $planetName nebula is... pretty crazy.  A couple different groups of Zenith are in there, and normally we'd be happy to hear that.  Not all Zenith are very friendly towards us, but their civilization broke up long ago and none of the splinter groups think much beyond survival and limited prosperity.
+
+Apparently we've found the exception.
+
+One of the groups, the Shattered Pillar, is friendly enough towards us and fits the usual psychological profile.  But the other group, who call themselves the "Citadel Ascendant"... well, they think the Zenith can become great again, and they aren't shy about how.  They've graciously offered us the opportunity to serve as their minions.  I'll spare you that part of the message.
+
+Other transmissions from them are more alarming, particularly taken with our preliminary scans.  There are some really odd ships out there.  We don't know how, but it looks like some very old-model colony ships that have been HEAVILY retrofitted.  Whatever they are, they don't look pleasant.
+
+In any event, our objective here seems clear.  The Shattered Pillar are a bit aloof, but the other guys are stark raving mad, and we need to put them down one way or another.  The bad news is that this group appears to be just an advance scout party, so we may be seeing them again either way.
+
+=== ATTACHED MESSAGE ===
+
+(megalomaniacal demands for submission omitted)
+
+However, we expect you will refuse.
+Refusing, you shall perish.
+Even to this, such a small part of us.
+
+For a great boon we have found.
+Finding, and making new again.
+An old tool of yours, discarded and forgotten.
+
+Almost they seemed to us lonely.
+Lonely, and ready for vengeance.
+Well, probably not, but we thought it would be funny.
+
+Such a small force as us, you might crush.
+Crushed, however, shall you be by this.
+The legacy of the one they called...
+Lord Of The Colony Ships. -->
 <ln id="Journal_OffroadScenario_ZenithRefugeesVZenithArchitectsAndColonyShips_0_HeroArrived_Text">
 От: Лт. Аллен Кармайкл
 СпецНаз, Столичная Станция
@@ -443,8 +869,19 @@ Spire'ы очень долго не были в этой туманности, �
 Наследие того, кто называется...
 Лордом Колониальных Кораблей.</ln>
 
+<!-- EN: Shattered Pillar Destroyed -->
 <ln id="Journal_OffroadScenario_ZenithRefugeesVZenithArchitectsAndColonyShips_Lost_RefugeesDestroyed_ShortTitle">Разрушенный Столп Уничтожен</ln>
+<!-- EN: Hostile Citadel Ascendant Zenith have wiped out the Shattered Pillar Zenith in the $planetName nebula. -->
 <ln id="Journal_OffroadScenario_ZenithRefugeesVZenithArchitectsAndColonyShips_Lost_RefugeesDestroyed_LongTitle">Вражеские Zenith'ы Цитадели Восхождения уничтожили Zenith'ов Разрушенного Столпа в туманности $planetName.</ln>
+<!-- EN: 
+From: Lt. Allen Carmichael
+Special Operations, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+The Shattered Pillar remnant in the $planetName nebula has been destroyed by the hostile Citadel Ascendant Zenith.  Let's hope there aren't any more of those crazy colony ships coming our way. -->
 <ln id="Journal_OffroadScenario_ZenithRefugeesVZenithArchitectsAndColonyShips_Lost_RefugeesDestroyed_Text">
 От: Лт. Аллен Кармайкл
 СпецНаз, Столичная Станция
@@ -455,8 +892,40 @@ Spire'ы очень долго не были в этой туманности, �
 
 Остатки Zenith'ов Разрушенного Столпа в туманности $planetName были уничтожены вражескими Zenith'ами Цитадели Восхождения. Будем надеяться, что на нашем пути больше нет этих сумасшедших образующих колонии кораблей.</ln>
 
+<!-- EN: Citadel Ascendant Foiled -->
 <ln id="Journal_OffroadScenario_ZenithRefugeesVZenithArchitectsAndColonyShips_1_ArchitectsDestroyed_ShortTitle">Цитадель Восхождения Пала</ln>
+<!-- EN: The Shattered Pillar Zenith in the $planetName nebula have defeated the hostile Citadel Ascendant Zenith. -->
 <ln id="Journal_OffroadScenario_ZenithRefugeesVZenithArchitectsAndColonyShips_1_ArchitectsDestroyed_LongTitle">Zenith'ы Разрушенного Столпа в туманности $planetName победили враждебных Zenith'ов Цитадели Восхождения.</ln>
+<!-- EN: 
+From: Lt. Allen Carmichael
+Special Operations, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+Good news, the Shattered Pillar in the $planetName nebula report that the attacking force from the Citadel Ascendant has been exterminated.  Those... strange monstrosities that once were colony ships have also stopped appearing.  The wreckage is pretty scattered, but contains quite a few shadow relics.  That might explain how those ships could achieve such speed and explosive yield.
+
+Our Zenith allies are quite grateful, but still perturbed.  Whether this is normal or something we should worry about, I don't know.
+
+What disturbs me is how similar these modifications look to what we found on those malfunctioning Dyson Gatlings attacking the Gray Spire.
+
+=== ATTACHED MESSAGE ===
+
+You have our gratitude.
+Gratitude, for helping crush the aberrant.
+Brave they are, perhaps, but that way lay madness.
+
+Yet in victory we are still saddened.
+Saddened, both that we have slain our brothers,
+And not slain enough.
+
+For out there are many more.
+More, who will not relent.
+At least this latest weapon they shall not have.
+
+Thanks to you, we have laid to rest.
+To rest, these which once were ships of peace. -->
 <ln id="Journal_OffroadScenario_ZenithRefugeesVZenithArchitectsAndColonyShips_1_ArchitectsDestroyed_Text">
 От: Лт. Аллен Кармайкл
 СпецНаз, Столичная Станция
@@ -488,8 +957,39 @@ Spire'ы очень долго не были в этой туманности, �
 Благодаря Вам мы можем отдохнуть.
 Отдохнут те, кто раньше был кораблями мира.</ln>
 
+<!-- EN: Human Resistance Found -->
 <ln id="Journal_OffroadScenario_HumanRebelsRoamingEnclaveRescue_0_HeroArrived_ShortTitle">Обнаружено Сопротивление Людей</ln>
+<!-- EN: A human resistance group known as "In Memoriam Terra" is battling a strange creature in the $planetName nebula. -->
 <ln id="Journal_OffroadScenario_HumanRebelsRoamingEnclaveRescue_0_HeroArrived_LongTitle">Человеческая сопротивленческая группа, известная как "В Память о Земле" сражается со странным созданием в туманности $planetName.</ln>
+<!-- EN: 
+From: Lt. Allen Carmichael
+Special Operations, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+We've entered the $planetName nebula and made contact with the human resistance group there.  Several officers from Home Fleet are in charge, so we're among friends.  The resistance group calls itself "In Memoriam Terra".  Given what happened, I suppose it is appropriate.
+
+The situation in the nebula is somewhat complex.  I've attached the IMT transmission.
+
+=== ATTACHED MESSAGE ===
+
+From: Vice Adm Putnam
+
+It's been a while since we've seen another human military outfit.  Glad to see you now.  In another life I suppose I would be above you in the chain of command, but all that was thrown to the wind long ago.
+
+The IMT is comprised of several units, and I command this one.  We've taken a beating lately.  The reason is that giant... thing out there in the nebula.  It looks like a machine of zenith manufacture, but it's not entirely there.  Some shots just go right through it.  We think it's related to the shadow relics we keep tripping over in these nebulae.
+
+Whatever it is, it's a monster.  It's not invincible, but we just don't have the firepower to bring it down.  And it's coming for us, has been for days.  All we could do was delay the inevitable.
+
+Just to make things even more interesting, we encountered a pack of neinzul roamers just before that thing swooped in on us.  You remember the diplomatic incident with the Roaming Clans, so I'll spare you the history, but we haven't seen eye to, er, eyes with them for quite a while.
+
+Thankfully, the neinzul are the one thing in this ball of gas that isn't shooting at us.  Actually, they want our help getting away from that thing out there.  If they can reach the wormhole they should be able to elude any AI or other hostiles outside the nebula.  If we help them out here, maybe they won't be so universally hostile to us in the future.
+
+All that said, our primary objective is to destroy the "Ravenous Shadow", as our sensor techs so eloquently put it, before it destroys all our basing facilities.  As long as one remains we'll have enough tools to repair and rebuild.  Secondarily, the more of those enclaves that make it out in one piece, the better.  To be honest, though, that thing's preoccupation with chewing up the neinzul is probably the only reason we're not already all dead.  But there's only so many of those enclaves coming.
+
+Frankly, we didn't have a chance.  But now you're here, and that's a pretty substantial ship you've got there.  We might make it out of this yet. -->
 <ln id="Journal_OffroadScenario_HumanRebelsRoamingEnclaveRescue_0_HeroArrived_Text">
 От: Лт. Аллен Кармайкл
 СпецНаз, Столичная Станция
@@ -520,8 +1020,19 @@ Spire'ы очень долго не были в этой туманности, �
 
 Откровенно говоря, у нас не были и шанса. Но теперь появились Вы, и у Вас есть довольно могучий корабль. Мы можем уничтожить монстра с Вашей помощью.</ln>
 
+<!-- EN: IMT Cell Destroyed -->
 <ln id="Journal_OffroadScenario_HumanRebelsRoamingEnclaveRescue_Lost_AlliesDestroyed_ShortTitle">Обитель ВПЗ Уничтожена</ln>
+<!-- EN: The Ravenous Shadow has wiped out the human resistance group in the $planetName nebula. -->
 <ln id="Journal_OffroadScenario_HumanRebelsRoamingEnclaveRescue_Lost_AlliesDestroyed_LongTitle">Ненасытная Тень уничтожила человеческую сопротивленческую группу в туманности $planetName.</ln>
+<!-- EN: 
+From: Lt. Allen Carmichael
+Special Operations, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+The Ravenous Shadow has destroyed the last facility belonging to the "In Memoriam Terra" resistance in the $planetName nebula.  All the fleeing neinzul enclaves have either scattered or been destroyed. -->
 <ln id="Journal_OffroadScenario_HumanRebelsRoamingEnclaveRescue_Lost_AlliesDestroyed_Text">
 От: Лт. Аллен Кармайкл
 СпецНаз, Столичная Станция
@@ -532,8 +1043,35 @@ Spire'ы очень долго не были в этой туманности, �
 
 Ненасытная Тень уничтожила последнее строение, принадлежащее сопротивлению "В Память о Земле" в туманности $planetName. Все убегающие фракции Neinzul'ов были разбросаны или уничтожены.</ln>
 
+<!-- EN: Ravenous Shadow Repelled -->
 <ln id="Journal_OffroadScenario_HumanRebelsRoamingEnclaveRescue_1_BossDestroyed_ShortTitle">Ненасытная Тень Отброшена</ln>
+<!-- EN: The IMT cell in the $planetName nebula has repelled the attack from the Ravenous Shadow. -->
 <ln id="Journal_OffroadScenario_HumanRebelsRoamingEnclaveRescue_1_BossDestroyed_LongTitle">Группа ВПЗ в туманности $planetName отразила атаку Ненасытной Тени.</ln>
+<!-- EN: 
+From: Lt. Allen Carmichael
+Special Operations, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+The Ravenous Shadow in the $planetName has been destroyed.  Goodness, that thing took a tremendous amount of punishment.  Attaching transmission from Vice Admiral Putnam.
+
+=== ATTACHED MESSAGE ===
+
+From: Vice Adm Putnam
+
+I did not expect to survive that, but I won't complain too loudly.
+
+Killing that thing was like chipping the moon into rubble with an autocannon, but you managed it before the thing killed us all.  Congratulations.
+
+The neinzul are grateful, commander.  Once the surviving enclaves have a chance to circulate among their kind, I wouldn't be surprised if some of the others finally got over what happened at Vega and tried to help us.
+
+The IMT is grateful too, of course.  This facility is no longer of strategic importance, so we will send our remaining ships out to assist you.  Our overall operational posture doesn't leave much to spare on a broader scale, but the base here will contribute construction material to your reserves, and you may build some ships here if you wish.  What's probably of greater interest, however, is the collection of shadow relics we've managed to recover during our time in the nebula.  All of the artifacts at this base have been turned over to your technical teams along with the data we've been able to put together about them.
+
+As for us, there are some other leads I need to follow.  Perhaps we will meet again.
+
+Godspeed, commander. -->
 <ln id="Journal_OffroadScenario_HumanRebelsRoamingEnclaveRescue_1_BossDestroyed_Text">
 От: Лт. Аллен Кармайкл
 СпецНаз, Столичная Станция
@@ -560,8 +1098,19 @@ Neinzul'ы благодарны, главнокомандующий. У оста
 
 Счастливого пути, командир.</ln>
 
+<!-- EN: IMT Needs Help Again -->
 <ln id="Journal_OffroadScenario_HumanRebelsAndNeinzulMournersVsZenithArchitectsAndDarkSpire_0_HeroArrived_ShortTitle">ВПЗ Снова Нужна Помощь</ln>
+<!-- EN: The IMT and their Neinzul Mourner allies are fighting the Citadel Ascendant and the Dark Spire in the $planetName nebula. -->
 <ln id="Journal_OffroadScenario_HumanRebelsAndNeinzulMournersVsZenithArchitectsAndDarkSpire_0_HeroArrived_LongTitle">ВПЗ и их союзники Плакальщики Neinzul'ов сражаются с Цитаделью Восхождения и Тёмными Spire'ами в туманности $planetName.</ln>
+<!-- EN: 
+From: Lt. Allen Carmichael
+Special Operations, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+As we entered the $planetName nebula we received another message from the "In Memoriam Terra" resistance: the IMT discovered an alliance between the Citadel Ascendant and Dark Spire, and has moved to attack the joint base in this nebula.  Thankfully, they've also managed to secure support from some Neinzul Mourner hives to help even the odds. -->
 <ln id="Journal_OffroadScenario_HumanRebelsAndNeinzulMournersVsZenithArchitectsAndDarkSpire_0_HeroArrived_Text_Prefix">
 От: Лт. Аллен Кармайкл
 СпецНаз, Столичная Станция
@@ -571,16 +1120,34 @@ Neinzul'ы благодарны, главнокомандующий. У оста
 Главнокомандующий,
 
 При вхождении в туманность $planetName мы получили новое сообщение от сопротивления "В Память о Земле": ВПЗ обнаружило альянс Цитадели Восхождения и Тёмных Spire'ов, и отправилось в атаку на объединённую базу в этой туманности. К счастью, им удалось заручиться поддержкой со стороны нескольких ульев Плакальщиков Neinzul'ов, чтобы увеличить свои шансы.</ln>
+<!-- EN: Vice Admiral Putnam's force joined the attack a few days ago, and he sends his regards.  Something about "compared to that monster, this should be cakewalk". -->
 <ln id="Journal_OffroadScenario_HumanRebelsAndNeinzulMournersVsZenithArchitectsAndDarkSpire_0_HeroArrived_Text_ResistanceInfix_PreviousWin">Силы Вице Адмирала Путсан'а присоединились к битве несколько дней назад, он посылает своё уважение. Что-то про "по сравнению с тем монстром, это будет лёгкая прогулка".</ln>
+<!-- EN: Regrettably, this IMT base is understrength; they were counting on Vice Admiral Putnam to reinforce them.  If only we could have stopped the Ravenous Shadow.  It appears the enemies have not called in many reinforcements of their own, and that may help our chances, but I don't like to think what those ships could be doing elsewhere. -->
 <ln id="Journal_OffroadScenario_HumanRebelsAndNeinzulMournersVsZenithArchitectsAndDarkSpire_0_HeroArrived_Text_ResistanceInfix_PreviousLoss">К сожалению, эта база ВПЗ неукомплектована; она рассчитывала на Вице-Адмирала Путсан'а, который мог дать подкрепление. Ели бы мы только смогли остановить Ненасытную Тень. Оказывается, враги не вызвали для себя подкрепления, что повышает наши шансы, но мне не хочется думать, что эти корабли могли бы сделать в ином случае.</ln>
+<!-- EN: The Mourners have also greeted us.  They have heard from the wardens of the dimensional prison and wish to... er, the translation is difficult.  "Fervently express their gratitude upon our mutual enemies" is about the closest we can get.  It'll do. -->
 <ln id="Journal_OffroadScenario_HumanRebelsAndNeinzulMournersVsZenithArchitectsAndDarkSpire_0_HeroArrived_Text_MournersInfix_PreviousWin">Плакальщики также нас приветствуют. Они слышали о надзирателях межпространственной тюрьмы  и хотят... эм, перевод сложен. "Пылко выразить свою благодарность на наших общих врагах" самое близкое значение, что мы подобрали. Так сойдёт.</ln>
+<!-- EN: The Mourners were not able to muster as many forces as they wanted.  It appears the loss of the wardens guarding that dimensional prison hurt them more than we anticipated.  The enemies seem to have noticed this as well, and have held back on committing additional reinforcements.  That could be good in the short run, and bad in the long one. -->
 <ln id="Journal_OffroadScenario_HumanRebelsAndNeinzulMournersVsZenithArchitectsAndDarkSpire_0_HeroArrived_Text_MournersInfix_PreviousLoss">Плакальщики не смогли собрать столько сил, как бы им хотелось. Оказалось, что потеря стражников межпространственной тюрьмы сказалась на них сильнее, чем мы ожидали. Похоже, враги это заметили, и отправили дополнительное подкрепление. Это может быть хорошо в краткосрочной перспективе и плохо в долгосрочной.</ln>
+<!-- EN: The Citadel Ascendant have sent their own, um, message.  I'll spare you.  They're insufferably pleased to have another chance to show off their toys, it seems. -->
 <ln id="Journal_OffroadScenario_HumanRebelsAndNeinzulMournersVsZenithArchitectsAndDarkSpire_0_HeroArrived_Text_ArchitectsInfix_PreviousLoss">Цитадель Восхождения прислала своё собственное (как бы) сообщение. Я не стану грузить Вас. Кажется, они нестерпимо рады иметь ещё один шанс показать свои игрушки.</ln>
+<!-- EN: Thankfully, the Citadel Ascendant does not appear to have deployed Dyson Gatlings or any of those so-called "colony ships".  Maybe we took out all of them, or maybe just enough to not have to face them here.  I suppose time will tell. -->
 <ln id="Journal_OffroadScenario_HumanRebelsAndNeinzulMournersVsZenithArchitectsAndDarkSpire_0_HeroArrived_Text_ArchitectsInfix_NoPreviousLoss">К счастью, Цитадель Восхождения, похоже, не использует Гатлинги Дайсона или так называемые "колониальные корабли". Возможно, мы уничтожили их все, или их не достаточно, чтобы сражаться с нами. Полагаю, время покажет.</ln>
+<!-- EN: In any event, our objectives are clear: destroy all basing facilities of the Dark Spire and Citadel Ascendant to force them to abandon this nebula and its resources, and prevent them from doing the same to our allies. -->
 <ln id="Journal_OffroadScenario_HumanRebelsAndNeinzulMournersVsZenithArchitectsAndDarkSpire_0_HeroArrived_Text_Suffix">В любом случае наша цель ясна: уничтожить все базовые строения Тёмных Spire'ов и Цитадели Восхождения, чтобы заставить их покинуть эту туманность и её ресурсы, и помешать им проделать то же самое с нашими союзниками.</ln>
 
+<!-- EN: IMT and Mourners Lose -->
 <ln id="Journal_OffroadScenario_HumanRebelsAndNeinzulMournersVsZenithArchitectsAndDarkSpire_Lost_AlliesDestroyed_ShortTitle">ВПЗ и Плакальщики Проиграли</ln>
+<!-- EN: Our allies in the $planetName nebula have lost the battle. -->
 <ln id="Journal_OffroadScenario_HumanRebelsAndNeinzulMournersVsZenithArchitectsAndDarkSpire_Lost_AlliesDestroyed_LongTitle">Наши союзники в туманности $planetName проиграли битву.</ln>
+<!-- EN: 
+From: Lt. Allen Carmichael
+Special Operations, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+The Citadel Ascendant and their Dark Spire allies in the $planetName nebula have defeated the IMT and Neinzul Mourners.  Let us hope this will not have serious consequences for the war. -->
 <ln id="Journal_OffroadScenario_HumanRebelsAndNeinzulMournersVsZenithArchitectsAndDarkSpire_Lost_AlliesDestroyed_Text">
 От: Лт. Аллен Кармайкл
 СпецНаз, Столичная Станция
@@ -591,8 +1158,19 @@ Neinzul'ы благодарны, главнокомандующий. У оста
 
 Цитадель Возрождения и их союзники Тёмные Spire'ы в туманности $planetName уничтожили ВПЗ и Плакальщиков Neinzul'ов. Будем надеяться, что это не окажет серьёзного влияния на ход войны.</ln>
 
+<!-- EN: IMT and Mourners Win -->
 <ln id="Journal_OffroadScenario_HumanRebelsAndNeinzulMournersVsZenithArchitectsAndDarkSpire_1_EnemiesDestroyed_ShortTitle">ВПЗ и Плакальщики Победили</ln>
+<!-- EN: The IMT cell and their Neinzul Mourner allies have defeated the Citadel Ascendant and Dark Spire in the $planetName nebula. -->
 <ln id="Journal_OffroadScenario_HumanRebelsAndNeinzulMournersVsZenithArchitectsAndDarkSpire_1_EnemiesDestroyed_LongTitle">Группа ВПЗ и их союзники Плакальщики Neinzul'ов победили Цитадель Восхождения и Тёмных Spire'ов в туманности $planetName.</ln>
+<!-- EN: 
+From: Lt. Allen Carmichael
+Special Operations, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+Good news.  Our allies have successfully driven the Citadel Ascendant and Dark Spire from the $planetName nebula.  The Mourners and the IMT have expressed their gratitude briefly, but are quite preoccupied preparing for another operation.  Things seem to be heating up among the other splinter factions. -->
 <ln id="Journal_OffroadScenario_HumanRebelsAndNeinzulMournersVsZenithArchitectsAndDarkSpire_1_EnemiesDestroyed_Text_Prefix">
 От: Лт. Аллен Кармайкл
 СпецНаз, Столичная Станция
@@ -603,7 +1181,29 @@ Neinzul'ы благодарны, главнокомандующий. У оста
 
 Хорошие новости. Наши союзники успешно изгнали Цитадель Восхождения и Тёмных Spire'ов из туманности $planetName. Плакальщики и ВПЗ выразили краткую благодарность, но весьма озабочены подготовкой к другой операции. Похоже, ситуация накаляется среди другими разделённые фракциями.</ln>
 
+<!-- EN: Between the wreckage of the enemy bases and what our allies had on hand, we've also recovered a significant number of shadow relics.  Let us hope they bring us another step closer to ending this war. -->
 <ln id="Journal_OffroadScenario_HumanRebelsAndNeinzulMournersVsZenithArchitectsAndDarkSpire_1_EnemiesDestroyed_Text_NormalSuffix">Из обломков вражеских баз и из того, что дали наши союзники, мы получили значительное количество теневых реликвий. Будем надеяться, что они приблизят конец нашей войны.</ln>
+<!-- EN: I'm attaching an urgent transmission from Vice Admiral Putnam of the IMT.
+
+=== ATTACHED MESSAGE ===
+
+From: Vice Adm Putnam, IMT
+
+Good to see you're still with us, commander.  Our race needs every warrior that will defend it in this hour.
+
+We've recovered a significant cache of shadow relics from this nebula.  You are, of course, welcome to anything that will help improve your vessel.
+
+What is more important, however, are the records we found not long ago describing a Shadow Spire planetary "adjustment" device.  It's nothing like the terraforming technologies we were researching before the war.  It's far more powerful than that.
+
+I've been... cautious about hoping for too much, commander, but I'm sure you can understand that we wish to do more than remember our homeworld.  We wish to return.  The project was too big to seriously consider, and we focused mainly on survival.  But now...
+
+In any event, the possible locations of the device are all quite likely to contain several other useful relics.  So the decision to search for it wasn't so hard, after all.
+
+Regrettably, the various hostile splinter factions have also caught wind of these sites, so when we search we have to move with high force concentrations, not just survey teams.  The IMT simply doesn't have the numbers to do this fast enough, so I've also shared this information with Gustav van Eik of the Epsilon Eridani remnant.  I believe you've met.  He never could see reason before the war, but he has his own sort of honor.
+
+We haven't found the device yet, obviously, but we've recovered several other archives that narrow down the potential locations.  My allies and I will depart soon to resume the search, despite the growing resistance we're encountering.  Before the next major conflict I hope to join up with the Eridani force, but I know we'll need your help sooner than later.
+
+Keep your blade keen, commander. -->
 <ln id="Journal_OffroadScenario_HumanRebelsAndNeinzulMournersVsZenithArchitectsAndDarkSpire_1_EnemiesDestroyed_Text_OnTheRoadToSpecialEndingSuffix">Прилагаю срочное сообщение от Вице Адмирала ВПЗ Путсан'а.
 
 === ПРИКРЕПЛЁННОЕ СООБЩЕНИЕ ===
@@ -626,8 +1226,21 @@ Neinzul'ы благодарны, главнокомандующий. У оста
 
 Держи нос по верту, командир.</ln>
 
+<!-- EN: Allies Under Attack -->
 <ln id="Journal_OffroadScenario_HumanMinersAndZenithRefugeesAndGraySpireVsHumanMaraudersAndNeinzulAstrids_0_HeroArrived_ShortTitle">Союзники Атакованы</ln>
+<!-- EN: The Epsilon Eridani remnant, Shattered Pillar Zenith, and Gray Spire are under attack by the Sorrow's Fang and the Neinzul Astrids in the $planetName nebula. -->
 <ln id="Journal_OffroadScenario_HumanMinersAndZenithRefugeesAndGraySpireVsHumanMaraudersAndNeinzulAstrids_0_HeroArrived_LongTitle">Остатки Эпсилон Эридана, Zenith'ы Разрушенного Столпа и Серые Spire'ы атакованы Клыком Печали и Астридами Neinzul'ов в туманности $planetName.</ln>
+<!-- EN: 
+From: Lt. Allen Carmichael
+Special Operations, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+Our shadow vessel has entered the $planetName nebula, and there's quite a brawl in progress.  On one side, three of our allies: the Epsilon Eridani remnant, the Shattered Pillar Zenith, and the Gray Spire.  On the other, the Sorrow's Fang raiders and the Neinzul Astrids.  Apparently the various splinter groups have figured out they cannot stand alone.
+
+The tactical situation looks grim.  Our allies were in the process of setting up a joint base but are still too early in that process to hold off this kind of attack. -->
 <ln id="Journal_OffroadScenario_HumanMinersAndZenithRefugeesAndGraySpireVsHumanMaraudersAndNeinzulAstrids_0_HeroArrived_Text_Prefix">
 От: Лт. Аллен Кармайкл
 СпецНаз, Столичная Станция
@@ -639,20 +1252,42 @@ Neinzul'ы благодарны, главнокомандующий. У оста
 Наш теневой корабль вошёл в туманность $planetName, а в ней обнаружилась битва уже в процессе. С одной стороны трое наших союзников: остатки Эпсилон Эридана, Разрушенный Столп Zenith'ов и Серые Spire'ы. С другой - налётчики Клыка Печали и Астриды Neinzul'ов. Видимо, разделённые фракции поняли, что не смогут существовать в одиночку.
 
 Тактическая ситуация выглядит мрачной. Наши союзники создавали совместную базу, но процесс ещё на слишком ранней стадии, чтобы удержать атакующих.</ln>
+<!-- EN: None of the combatants has much time to chat, but Gustav of the Eridani remembers our earlier assistance and sends word that they have more production facilities coming online.  Perhaps if we can help them avoid losing any core bases, victory will be possible. -->
 <ln id="Journal_OffroadScenario_HumanMinersAndZenithRefugeesAndGraySpireVsHumanMaraudersAndNeinzulAstrids_0_HeroArrived_Text_MinerInfix_PreviousWin">Ни у кого из бойцов нет времени болтать, но Gustav из Эридана помнит нашу прошлую помощь и даёт слово, что они имеют больше производственных сооружений в режиме готовности. Кроме того, если мы поможем им избежать потери какой-либо ключевой базы, то победа будет обеспечена.</ln>
+<!-- EN: It's a shame we couldn't help the Eridani win their earlier skirmish with the Sorrow's Fang.  Without Gustav's help here their position is very fragile.  Nonetheless, they've sent word that they have more production facilities coming online.  Perhaps if we can help them avoid losing any core bases, victory will be possible. -->
 <ln id="Journal_OffroadScenario_HumanMinersAndZenithRefugeesAndGraySpireVsHumanMaraudersAndNeinzulAstrids_0_HeroArrived_Text_MinerInfix_PreviousLoss">Очень жаль, что мы не смогли помочь Эридану выиграть их раннюю стычку с Клыком Печали. Без помощи Gustav'а их позиция очень слаба. Тем не менее, они дают слово, что имеют больше производственных сооружений в режиме готовности. Если им помочь избежать потери какой-либо ключевой базы, то победа будет обеспечена.</ln>
+<!-- EN: In their usual poetic form, the Shattered Pillar expressed relief at our arrival. -->
 <ln id="Journal_OffroadScenario_HumanMinersAndZenithRefugeesAndGraySpireVsHumanMaraudersAndNeinzulAstrids_0_HeroArrived_Text_RefugeeInfix_PreviousWin">В их обычной поэтической форме Разрешенный Столп выразил облегчение о нашем прибытии.</ln>
+<!-- EN: The Shattered Pillar, regrettably, are living up to their name after their earlier defeat.  The zenith still have enough strength to make a difference, but it's not what it could be. -->
 <ln id="Journal_OffroadScenario_HumanMinersAndZenithRefugeesAndGraySpireVsHumanMaraudersAndNeinzulAstrids_0_HeroArrived_Text_RefugeeInfix_PreviousLoss">Разрушенный Столп, с сожалению, отражает своим названием своё состояние. Zenith'ы всё ещё имеют достаточно сил, чтобы изменить ситуацию, но их не так много, как могло быть в ином случае.</ln>
+<!-- EN: The Gray Spire have really put their backs (if that's the word) into the defense.  After seeing what they could do against those malfunctioning dyson gatlings, I'm glad to have them on our side. -->
 <ln id="Journal_OffroadScenario_HumanMinersAndZenithRefugeesAndGraySpireVsHumanMaraudersAndNeinzulAstrids_0_HeroArrived_Text_GrayInfix_PreviousWin">Серые Spire'ы выложились по полной в защиту. После того, как я увидел, как они справляются с неисправными Гатлингами Дайсона, я рад, что они на нашей стороне.</ln>
+<!-- EN: The Gray Spire are still hurting from the destruction of their other base by those dyson gatlings.  Still, they're strong enough to fight back, and I don't think our foes will like those photon lances one bit. -->
 <ln id="Journal_OffroadScenario_HumanMinersAndZenithRefugeesAndGraySpireVsHumanMaraudersAndNeinzulAstrids_0_HeroArrived_Text_GrayInfix_PreviousLoss">Серым Spire'ам всё ещё тяжело после поражения их базы от Гатлингов Дайсона. Но они всё ещё сильны, чтобы отбиться, я я не думаю, что нашим противникам понравятся их фотонные копья.</ln>
+<!-- EN: Good thing we hurt the Sorrow's Fang at their earlier confrontation with the Eridani.  They still have far more strength than I'm comfortable with, but this may be the edge we need. -->
 <ln id="Journal_OffroadScenario_HumanMinersAndZenithRefugeesAndGraySpireVsHumanMaraudersAndNeinzulAstrids_0_HeroArrived_Text_MarauderInfix_PreviousWin">Хорошо, что мы ранили Клык Печали в их ранней конфронтации с Эриданом. У них всё ещё много сил, чем мне бы хотелось, но больше нам и не нужно.</ln>
+<!-- EN: The Sorrow's Fang looks as sharp as ever.  Pity we couldn't bloody their noses a bit more in their conflict with the Eridani. -->
 <ln id="Journal_OffroadScenario_HumanMinersAndZenithRefugeesAndGraySpireVsHumanMaraudersAndNeinzulAstrids_0_HeroArrived_Text_MarauderInfix_PreviousLoss">Клык Печали выглядит взведённым, как никогда. Жаль, что мы не разбили им носы во время конфликта с Эриданом.</ln>
+<!-- EN: Readings from the Astrid bases indicate they're still recovering from their defeat against the Shattered Pillar and Dark Spire. -->
 <ln id="Journal_OffroadScenario_HumanMinersAndZenithRefugeesAndGraySpireVsHumanMaraudersAndNeinzulAstrids_0_HeroArrived_Text_AstridInfix_PreviousWin">Показания баз Астридов указывают, что они всё ещё не отошли поражения в битве против Разрушенного Столпа и Тёмных Spire'ов.</ln>
+<!-- EN: The Astrid's "song" seems to be... gloating.  Well, if their earlier victory against the Shattered Pillar makes them overconfident, then so be it. -->
 <ln id="Journal_OffroadScenario_HumanMinersAndZenithRefugeesAndGraySpireVsHumanMaraudersAndNeinzulAstrids_0_HeroArrived_Text_AstridInfix_PreviousLoss">"Песня" Астридов полна... злорадства. Что же, если их прежняя победа над Разрушенным Столпом сделала их самоуверенными, так тому и быть.</ln>
+<!-- EN: All told, this looks to be a fierce battle.  Hopefully we can hold out long enough for our allies to get sufficient production online. -->
 <ln id="Journal_OffroadScenario_HumanMinersAndZenithRefugeesAndGraySpireVsHumanMaraudersAndNeinzulAstrids_0_HeroArrived_Text_Suffix">Учитывая сказанное, бой будет ожесточённом. Надеюсь, мы сможем продержаться достаточно долго, чтобы продержать их производственные строения в рабочем режиме.</ln>
 
+<!-- EN: Allies Destroyed -->
 <ln id="Journal_OffroadScenario_HumanMinersAndZenithRefugeesAndGraySpireVsHumanMaraudersAndNeinzulAstrids_Lost_AlliesDestroyed_ShortTitle">Союзники Уничтожены</ln>
+<!-- EN: Our allies in the $planetName nebula have been destroyed. -->
 <ln id="Journal_OffroadScenario_HumanMinersAndZenithRefugeesAndGraySpireVsHumanMaraudersAndNeinzulAstrids_Lost_AlliesDestroyed_LongTitle">Наши союзники в туманности $planetName были уничтожены.</ln>
+<!-- EN: 
+From: Lt. Allen Carmichael
+Special Operations, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+The alliance of Epsilon Eridani, Shattered Pillar, and Gray Spire have lost the battle in the $planetName nebula.  If the Sorrow's Fang and Neinzul Astrids capitalize on their momentum... this could get bad. -->
 <ln id="Journal_OffroadScenario_HumanMinersAndZenithRefugeesAndGraySpireVsHumanMaraudersAndNeinzulAstrids_Lost_AlliesDestroyed_Text">
 От: Лт. Аллен Кармайкл
 СпецНаз, Столичная Станция
@@ -663,8 +1298,19 @@ Neinzul'ы благодарны, главнокомандующий. У оста
 
 Альянс Эпсилона Эридана, Разрушенного Столпа и Серых Spire'ов проиграл битву в туманности $planetName. Если Клык Печали и Астриды Neinzul'ов воспользуются своим преимуществом... будет плохо.</ln>
 
+<!-- EN: Allies Victorious -->
 <ln id="Journal_OffroadScenario_HumanMinersAndZenithRefugeesAndGraySpireVsHumanMaraudersAndNeinzulAstrids_1_EnemiesDestroyed_ShortTitle">Союзники Побеждают</ln>
+<!-- EN: Our allies in the $planetName nebula have won the battle against the Sorrow's Fang and Neinzul Astrids -->
 <ln id="Journal_OffroadScenario_HumanMinersAndZenithRefugeesAndGraySpireVsHumanMaraudersAndNeinzulAstrids_1_EnemiesDestroyed_LongTitle">Наши союзники в туманности $planetName победили в битве против Клыка Печали и Астридов Neinzul'ов</ln>
+<!-- EN: 
+From: Lt. Allen Carmichael
+Special Operations, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+Excellent news!  Our allies in the $planetName nebula have triumphed over the attacking Sorrow's Fang and Neinzul Astrids.  Our friends here could be powerful help indeed if they can solidify their position. -->
 <ln id="Journal_OffroadScenario_HumanMinersAndZenithRefugeesAndGraySpireVsHumanMaraudersAndNeinzulAstrids_1_EnemiesDestroyed_Text_Prefix">
 От: Лт. Аллен Кармайкл
 СпецНаз, Столичная Станция
@@ -675,7 +1321,25 @@ Neinzul'ы благодарны, главнокомандующий. У оста
 
 потрясающие новости! Наши союзники в туманности $planetName празднуют победу над Клыком Печали и Астридами Neinzul'ов. Наши друзья станут отличной помощью, как только укрепят свои позиции.</ln>
 
+<!-- EN: We've had our setbacks in the nebulae, but with relics like the ones recovered here we may be able to gain a decisive advantage over the AI.  And if we can survive the AI, surely we can handle whatever we've run into out here. -->
 <ln id="Journal_OffroadScenario_HumanMinersAndZenithRefugeesAndGraySpireVsHumanMaraudersAndNeinzulAstrids_1_EnemiesDestroyed_Text_NormalSuffix">У нас случались неудачи в туманностях, но с реликвиями, находящимися здесь, мы можем получить решающее преимущество над ИИ. А если мы сможем выжить против ИИ, то мы сможем справиться со всяким, кого встретим здесь.</ln>
+<!-- EN: I'm attaching an urgent transmission from Gustav of the Eridani.
+
+=== ATTACHED MESSAGE ===
+
+From: Gustav van Eik, Chairman, Eridani Council
+
+It's been a while.  Glad to see you're still with us.  Glad to see WE are still with us, after all that.
+
+I've been in contact with Vice Admiral Putnam of the IMT.  I believe you've met.  We never did see eye to eye before the war, but I suppose you could say he's an old acquaintance.  Well, not much room for squabbles anymore, with all our planets burning and depopulated.  Which brings me to the point:
+
+Not long ago, the IMT discovered records of a Shadow Spire planetary "adjustment" device.  Not like terraforming, or the introduction of a new biosphere, but a form of working with what's already there.  If the records are accurate, however, the power of the thing is simply incredible.  You can guess what the IMT wanted it for.
+
+They quickly realized that they didn't have the resources to carry out the search alone, so ol' Putnam swallowed his pride and tracked me down to enlist our help.  Very few of my people have much attachment to the homeworld... but it is the homeworld.
+
+We haven't found it yet, but we've recovered several other archives that narrow down the potential locations.  My allies and I will depart soon to resume the search.  The bad news is that the less... desirable sorts out here are hunting for the same artifact caches.  Another collision is inevitable.  I hope that before then we'll be able to join up with Putnam's force, but in any event I know we'll need your help.
+
+Keep an eye out for us. -->
 <ln id="Journal_OffroadScenario_HumanMinersAndZenithRefugeesAndGraySpireVsHumanMaraudersAndNeinzulAstrids_1_EnemiesDestroyed_Text_OnTheRoadToSpecialEndingSuffix">Прилагаю срочную передачу от Gustav'а из Эридана.
 
 === ПРИКРЕПЛЁННОЕ СООБЩЕНИЕ ===
@@ -694,8 +1358,21 @@ Neinzul'ы благодарны, главнокомандующий. У оста
 
 Следите за нами.</ln>
 
+<!-- EN: The Battle Rages -->
 <ln id="Journal_OffroadScenario_BrawlRoyale_0_HeroArrived_ShortTitle">Ярость Битвы</ln>
+<!-- EN: Our allies are embroiled in a large battle in the $planetName nebula. -->
 <ln id="Journal_OffroadScenario_BrawlRoyale_0_HeroArrived_LongTitle">Наши союзники погрязли в большом сражении в туманности $planetName.</ln>
+<!-- EN: 
+From: Lt. Allen Carmichael
+Special Operations, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+There's quite a brawl in the $planetName nebula.  Every splinter faction we've encountered thus far is involved.  Well, none of those Ravenous Shadow monstrosities have showed up, but I wouldn't put it past them.
+
+There's a large derelict shadow facility in the center, but our enemies got here first.  They've set up a strong defensive position around it, and I don't like to think what they could do with those relics if this assault fails.  Speaking of assault, thankfully all of the friendly factions have allied together to face this threat. -->
 <ln id="Journal_OffroadScenario_BrawlRoyale_0_HeroArrived_Text_Prefix">
 От: Лт. Аллен Кармайкл
 СпецНаз, Столичная Станция
@@ -708,12 +1385,26 @@ Neinzul'ы благодарны, главнокомандующий. У оста
 
 В центре находится заброшенное теневое строение, но наши враги пришли туда первыми. Они заняли сильную оборонительную позицию вокруг него, и мне бы не хотелось знать, что они смогут сделать с этими реликвиями, если наше нападение потерпит неудачу. Кстати о нападении, к счастью, все дружественные фракции союзников объединились вместе, чтобы встретиться с этой угрозой.</ln>
 
+<!-- EN: In theory, we actually have a numeric edge here.  Our previous victories have taken their toll on our foes' strength levels, and our allies have fared better.  Still, the enemy's position will make it very difficult to dislodge, and the allied bases are spread out and more vulnerable to focused attack. -->
 <ln id="Journal_OffroadScenario_BrawlRoyale_0_HeroArrived_Text_Infix_AlliedAdvantage">Теоретически, у нас имеется численное преимущество. Наши прошлые победы отразились на уровне силы наших врагов, а наши союзники живут лучше. Тем не менее, позиция врагов очень сложна для вытеснения, а базы союзников рассредоточены и уязвимы для целенаправленных атак.</ln>
+<!-- EN: Our past defeats have hampered the allied effort, however.  Combined with the superior enemy position this could be a very difficult battle indeed. -->
 <ln id="Journal_OffroadScenario_BrawlRoyale_0_HeroArrived_Text_Infix_EnemyAdvantage">Наши прошлые неудачи препятствуют усилению союзников. Учитывая превосходящую позицию противника это будет по-настоящему сложный бой.</ln>
+<!-- EN: We need our allies for this, and defending them is important.  On the other hand, it seems inevitable that the enemy forces would triumph in a battle of attrition.  We've got to take out some of their core bases before they do the same to us. -->
 <ln id="Journal_OffroadScenario_BrawlRoyale_0_HeroArrived_Text_Suffix">Наши союзники нам очень нужны и их защита имеет важное значение. С другой стороны, кажется неизбежным, что вражеские силы победят в битве на истощение. Мы должны вынести несколько их основных баз, прежде чем они сделают то же самое с нами.</ln>
 
+<!-- EN: Allied Defeat -->
 <ln id="Journal_OffroadScenario_BrawlRoyale_Lost_AlliesDestroyed_ShortTitle">Союзники Повержены</ln>
+<!-- EN: Our allies in the $planetName nebula have been destroyed. -->
 <ln id="Journal_OffroadScenario_BrawlRoyale_Lost_AlliesDestroyed_LongTitle">Наши союзники в туманности $planetName были уничтожены.</ln>
+<!-- EN: 
+From: Lt. Allen Carmichael
+Special Operations, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+This isn't good, the allied forces in the $planetName nebula have been defeated and were unable to secure the large cache of shadow relics. -->
 <ln id="Journal_OffroadScenario_BrawlRoyale_Lost_AlliesDestroyed_Text">
 От: Лт. Аллен Кармайкл
 СпецНаз, Столичная Станция
@@ -724,8 +1415,19 @@ Neinzul'ы благодарны, главнокомандующий. У оста
 
 Случилось ужасное: силы союзников в туманности $planetName были повержены и не способны поставлять теневые реликвии.</ln>
 
+<!-- EN: Allied Victory -->
 <ln id="Journal_OffroadScenario_BrawlRoyale_1_EnemiesDestroyed_ShortTitle">Победа Союзников</ln>
+<!-- EN: Our allies have defeated their enemies in the $planetName nebula. -->
 <ln id="Journal_OffroadScenario_BrawlRoyale_1_EnemiesDestroyed_LongTitle">Наши союзники уничтожили своих врагов в туманности $planetName.</ln>
+<!-- EN: 
+From: Lt. Allen Carmichael
+Special Operations, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+Finally, the last enemy base in the $planetName nebula has fallen.  With our enemies experiencing such losses, this may well be a turning point in the balance of power among the splinter factions. -->
 <ln id="Journal_OffroadScenario_BrawlRoyale_1_EnemiesDestroyed_Text_Prefix">
 От: Лт. Аллен Кармайкл
 СпецНаз, Столичная Станция
@@ -736,7 +1438,23 @@ Neinzul'ы благодарны, главнокомандующий. У оста
 
 Наконец-то пала последняя вражеская база в туманности $planetName. Учитывая потери врагов, это может стать поворотным моментом в расстановке сил среди разделённыз фракций.</ln>
 
+<!-- EN: We've recovered the main cache of relics aboard the derelict facility.  Many relics appear to have been recently removed or destroyed, but many remain... including the remains of a truly massive shadow vessel.  The ship itself is too far gone for repair, but our own shadow vessel is now capable of assuming its ultimate form.  Perhaps now we have a weapon with which to strike at the AI's heart. -->
 <ln id="Journal_OffroadScenario_BrawlRoyale_1_EnemiesDestroyed_Text_NormalSuffix">Мы восстановили основной кэш реликвий на борту заброшенного строения. Множестов реликвий было удалено или уничтожено, но многие остались... включая останки по-настоящему огромного теневого корабля. Сам корабль не подлежит ремонту, но наш собственный теневой корабль способен принять свою окончательную форму. Возможно, теперь у нас есть оружие, с помощью которого можно ударить в самое сердце ИИ.</ln>
+<!-- EN: Our allies have secured the derelict facility.  The enemy was in the process of destroying the relics but didn't get very far.  Vice Admiral Putnam sends words of two particularly important discoveries.
+
+=== ATTACHED MESSAGE ===
+
+From: Vice Adm Putnam, IMT
+
+Commander, today is a good day.  You have our gratitude, as always, for assisting us in our time of need.
+
+Among the ruins we discovered the remains of a truly massive shadow vessel.  The ship itself is too far gone for repair, but your teams have already figured out how to adapt your own shadow vessel into the larger form.  Indeed, from all the records we have found, this is the ultimate form of that vessel.  You now have a blade beyond compare, commander, one fit to slay the dragon that nearly consumed us all.
+
+Of even greater importance, however: we have finally found the shadow "planetary adjustment" device.  The device is nearly pristine, which boggles my mind.  I don't know how many thousands of years it's been out here aboard this drifting hulk.  But perhaps providence has smiled upon our devastated race.
+
+In any event, the IMT now has much work to do investigating how to properly use the adjustment device.  Approaching Terra won't be easy, either, but we can manage.
+
+Of course, the AI will just destroy it again, if we try to reclaim the homeworld.  That's where you come in.  We and the others will help as we have, but you're the only one who can put that thing down before it's too late. -->
 <ln id="Journal_OffroadScenario_BrawlRoyale_1_EnemiesDestroyed_Text_OnTheRoadToSpecialEndingSuffix">Наши союзники защитили заброшенное строение. Враг был в процессе уничтожения реликвий, но не приуспел.  Вице Адмирал Путсан передал пару слов об особо важных открытиях.
 
 === ПРИКРЕПЛЁННОЕ СООБЩЕНИЕ ===
@@ -753,8 +1471,31 @@ Neinzul'ы благодарны, главнокомандующий. У оста
 
 Конечно, ИИ просто уничтожит её снова, если просто попытаемся вернуть планету. Вот тут-то Вы и вступаете в игру. Мы и другие будем помогать всем, чем сможем, но вы единственный, кто сможет вырубить эту штуку до того, как будет слишком поздно.</ln>
 
+<!-- EN: Empty Nebula -->
 <ln id="Journal_OffroadScenario_NoEligibleScenariosToSpawn_ShortTitle">Пустая Туманность</ln>
+<!-- EN: This nebula is empty... for now -->
 <ln id="Journal_OffroadScenario_NoEligibleScenariosToSpawn_LongTitle">Эта туманность пуста... пока что</ln>
+<!-- EN: 
+From: Lt. Allen Carmichael
+Special Operations, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+Our shadow vessel has entered the nebula, but we are not detecting anything out of the ordinary.  Best move on, I suppose.
+
+=== Note From The Developer ===
+
+There are two reasons you may be seeing this:
+
+1) All remaining scenarios require the resolution of some of the currently-ongoing nebula scenarios.  In general you probably don't want to start more than one scenario at once because each usually requires direct attention if you want to win.
+
+or
+
+2) All scenarios have already been seeded into the game.  Only so many unique nebula scenarios are defined for the game, and they don't make sense to duplicate, so any nebulae beyond the number of unique scenarios are simply empty.  If we define more scenarios in a later version, then revisiting an empty nebula will cause one of those new scenarios to spawn there.
+
+We hope you enjoy the game! -->
 <ln id="Journal_OffroadScenario_NoEligibleScenariosToSpawn_Text">
 От: Лт. Аллен Кармайкл
 СпецНаз, Столичная Станция
@@ -777,8 +1518,24 @@ Neinzul'ы благодарны, главнокомандующий. У оста
 
 Надеемся, вам нравится наша игра!</ln>
 
+<!-- EN: In Memoriam Terra -->
 <ln id="Journal_AncientShadows_Win_ReterraformingOfEarth_ShortTitle">В Память о Земле</ln>
+<!-- EN: With the AI defeated, the IMT has begun the reterraforming of Earth -->
 <ln id="Journal_AncientShadows_Win_ReterraformingOfEarth_LongTitle">С гибелью ИИ фракция ВПЗ начала процесс терраформирования Земли</ln>
+<!-- EN: 
+From: Vice Adm Putnam, IMT
+
+Commander, no gratitude I can express would be sufficient.  Through you we have been delivered from both death and exile.  
+
+I am transmitting this message from the high orbitals of Terra, in the Sol system.  With the AI distracted during your final assault we were able to traverse deep space and break the diminished AI garrison.  We have regained control of the homeworld.
+
+What's left of her.
+
+The damage is actually far worse than we anticipated from the last scans during our retreat.  Thankfully, that's where the planetary adjustment device comes in.  It's very slow work, but now the AIs are off our backs and we have a working coalition with the dominant factions of Zenith, Neinzul, and Spire in this galaxy.  Miracle of miracles, we even have agreement among most of the human remnants.  We're not out of the woods, but we have a shot.
+
+After all this no one is going to try to tell you what to do, but I know we'll have a better chance of holding this alliance together with you than without.
+
+Post tenebras lux.  Fare well wherever you fare, commander. -->
 <ln id="Journal_AncientShadows_Win_ReterraformingOfEarth_Text">
 От: Вице Адм Путсан, IMT
 

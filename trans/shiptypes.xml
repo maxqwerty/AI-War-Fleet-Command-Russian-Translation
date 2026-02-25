@@ -1,120 +1,237 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
+<!-- EN: None -->
 <ln id="None">Нет</ln>
+<!-- EN: Scout -->
 <ln id="Scout">Разведчик</ln>
+<!-- EN: Fighter -->
 <ln id="Fighter">Истребитель</ln>
+<!-- EN: Raider -->
 <ln id="Raider">Рейдер</ln>
+<!-- EN: Constructor -->
 <ln id="Constructor">Строитель</ln>
+<!-- EN: Colony Ship -->
 <ln id="Colony_Ship">Корабль-колония</ln>
+<!-- EN: Sniper Turret -->
 <ln id="Sniper_Turret">Снайп. тур.</ln>
+<!-- EN: Frigate -->
 <ln id="Cruiser">Фрегат</ln>
+<!-- EN: Tank -->
 <ln id="Tank">Танк</ln>
+<!-- EN: Command Station -->
 <ln id="Command_Station">Командная станция</ln>
+<!-- EN: Scout Starship -->
 <ln id="Scout_Starship">Звездолёт-разведчик</ln>
+<!-- EN: Resource -->
 <ln id="Resource">Ресурсы</ln>
+<!-- EN: Sensor -->
 <ln id="Sensor">Сенсор</ln>
+<!-- EN: Laser Gatling -->
 <ln id="Lazer_Gatling">Лазерный Гатлинг</ln>
+<!-- EN: Bomber -->
 <ln id="Bomber">Бомбардировщик</ln>
+<!-- EN: Heavy Defense -->
 <ln id="Heavy_Defense">Мощная защита</ln>
+<!-- EN: Sniper -->
 <ln id="Sniper">Снайпер</ln>
+<!-- EN: Mine -->
 <ln id="Mine">Мина</ln>
+<!-- EN: Engineer -->
 <ln id="Engineer">Инженер</ln>
+<!-- EN: Gate -->
 <ln id="Gate">Врата</ln>
+<!-- EN: Armored -->
 <ln id="Armored">Бронированный</ln>
+<!-- EN: Anti Armor -->
 <ln id="Anti_Armor">Бронебойный</ln>
+<!-- EN: Parasite -->
 <ln id="Parasite">Паразит</ln>
+<!-- EN: MLRS -->
 <ln id="MLRS">РСЗО</ln>
+<!-- EN: Raptor -->
 <ln id="Raptor">Раптор</ln>
+<!-- EN: Astro Train -->
 <ln id="Astro_Train">Звёздный поезд</ln>
+<!-- EN: Guard Post -->
 <ln id="Command_Post">Караульный Пост</ln>
+<!-- EN: Wormhole Guard Post -->
 <ln id="WormholeGuardPost">Караульный Пост Червоточины</ln>
+<!-- EN: Core Turret Controller -->
 <ln id="CoreTurretController">Основной Контроллер Турели</ln>
+<!-- EN: Plane -->
 <ln id="Plane">Разв.</ln>
+<!-- EN: Shield Bearer -->
 <ln id="Shield">Сил. поле</ln>
+<!-- EN: Data Center -->
 <ln id="Data_Center">Банк Данных</ln>
+<!-- EN: Cutlass -->
 <ln id="Cutlass">Сабля</ln>
+<!-- EN: Attractor -->
 <ln id="Deflector">Отражат.</ln>
+<!-- EN: Doomsday -->
 <ln id="Doomsday">Оружие Судного Дня</ln>
+<!-- EN: Infiltrator -->
 <ln id="Infiltrator">Лазутчик</ln>
+<!-- EN: Spider -->
 <ln id="Spider">Паук</ln>
+<!-- EN: Autocannon -->
 <ln id="Autocannon">Пулемёт</ln>
+<!-- EN: Teleport Raider -->
 <ln id="Teleport_Raider">Рейдер-телепорт</ln>
+<!-- EN: Teleport Station -->
 <ln id="Teleport_Station">Станция-телепорт</ln>
+<!-- EN: Bulletproof -->
 <ln id="Bulletproof">Пуленепробиваемый</ln>
+<!-- EN: Electric Shuttle -->
 <ln id="Electric_Shuttle">Электрический шаттл</ln>
+<!-- EN: Advanced Research -->
 <ln id="Advanced_Research">Улучшенная лаборатория</ln>
+<!-- EN: Advanced Production -->
 <ln id="Advanced_Factory">Продвинутое Производство</ln>
+<!-- EN: Ion Cannon -->
 <ln id="Ion_Cannon">Ионная Пушка</ln>
+<!-- EN: Remains -->
 <ln id="Remains">Останки</ln>
+<!-- EN: Cloaked -->
 <ln id="Cloaked">Скрытый</ln>
+<!-- EN: MicroFighter -->
 <ln id="MicroFighter">МикроИстребитель</ln>
+<!-- EN: EtherJet -->
 <ln id="EtherJet">НеоИстребитель</ln>
+<!-- EN: Vampire -->
 <ln id="Vampire">Вампир</ln>
+<!-- EN: Eye Bot -->
 <ln id="Eye_Bot">Наблюдатель</ln>
+<!-- EN: Munitions Booster -->
 <ln id="Munitions">Усилитель</ln>
+<!-- EN: Metal -->
 <ln id="Metal">Металл</ln>
+<!-- EN: Crystal -->
 <ln id="Crystal">Кристалл</ln>
+<!-- EN: Manufactory -->
 <ln id="Manufactory">Производство</ln>
+<!-- EN: Energy -->
 <ln id="Energy">Энергия</ln>
+<!-- EN: Science -->
 <ln id="Science">Наука</ln>
+<!-- EN: Train Station -->
 <ln id="Train_Station">Поездная Станция</ln>
+<!-- EN: Captive Settlement -->
 <ln id="Captive_Settlement">Захваченное поселение</ln>
+<!-- EN: Counter Spy -->
 <ln id="Counter_Spy">Контршпион</ln>
+<!-- EN: SuperFortress -->
 <ln id="SuperFortress">Суперкрепость</ln>
+<!-- EN: Avenger -->
 <ln id="Avenger">Мститель</ln>
+<!-- EN: Planetary Cloaker -->
 <ln id="Planetary_Cloaker">Устройство абсолютной маскировки</ln>
+<!-- EN: Attrition Emitter -->
 <ln id="Attrition_Emitter">Истощитель</ln>
+<!-- EN: Troop Accelerator -->
 <ln id="Troop_Accelerator">Ускоритель подкреплений</ln>
+<!-- EN: Warhead -->
 <ln id="Launched_Missile">Боеголовка</ln>
+<!-- EN: Force Field -->
 <ln id="Force_Field">Силовое поле</ln>
+<!-- EN: Tractor Beam -->
 <ln id="Tractor_Beam">Гравитационный луч</ln>
+<!-- EN: Raid Starship -->
 <ln id="Raid_Starship">Рейдовый звездолёт</ln>
+<!-- EN: Fleet Starship -->
 <ln id="Fleet_Starship">Флотский звездолёт</ln>
+<!-- EN: Alien Starship -->
 <ln id="Alien_Starship">Звездолёт Чужих</ln>
+<!-- EN: Plasma Siege Starship -->
 <ln id="Dreadnought">Плазменный Осадной Звездолёт</ln>
+<!-- EN: Heavy Bomber Starship -->
 <ln id="Bomber_Starship">Звездолёт-бомбардировщик</ln>
+<!-- EN: Starship All -->
 <ln id="Starship_All">Все звездолёты</ln>
+<!-- EN: Turret All -->
 <ln id="Turret_All">Все турели</ln>
+<!-- EN: Needler Turret -->
 <ln id="Basic_Turret">Игольчатая турель</ln>
+<!-- EN: MLRS Turret -->
 <ln id="MLRS_Turret">РСЗО турель</ln>
+<!-- EN: Flak Turret -->
 <ln id="Flak_Turret">Зенитная турель</ln>
+<!-- EN: Missile Turret -->
 <ln id="Missile_Turret">Ракетная турель</ln>
+<!-- EN: Laser Turret -->
 <ln id="Laser_Turret">Лазерная турель</ln>
+<!-- EN: Heavy Beam Cannon -->
 <ln id="HeavyBeamTurret">Тяжелая Лучевая Пушка</ln>
+<!-- EN: Lightning Turret -->
 <ln id="Lightning_Turret">Электрическая турель</ln>
+<!-- EN: Counter Turret -->
 <ln id="Counter_Turret">Контртурель</ln>
+<!-- EN: Grav Turret -->
 <ln id="Grav_Turret">Гравитурель</ln>
+<!-- EN: Transport -->
 <ln id="Transport">Транспорт</ln>
+<!-- EN: Command Station Core -->
 <ln id="Command_Station_Core">Главная командная станция</ln>
+<!-- EN: Fabricator - Core -->
 <ln id="FabricatorCore">Завод - Главный</ln>
+<!-- EN: Perma-Cloaked -->
 <ln id="PermaCloaked">Всегда в невидимости</ln>
+<!-- EN: Rally Post -->
 <ln id="RallyPost">Сборный пункт</ln>
+<!-- EN: Fabricator - Experiment -->
 <ln id="FabricatorExperimental">Завод - Экспериментальный</ln>
+<!-- EN: Fabricator - Exp Starships -->
 <ln id="FabricatorExperimentalStarship">Завод - Эксп. звездолётов</ln>
+<!-- EN: Exp Starship -->
 <ln id="ExperimentalStarship">Эксп. звездолёт</ln>
+<!-- EN: Experimental -->
 <ln id="Experimental">Экспериментальный</ln>
+<!-- EN: Control Node -->
 <ln id="ControlNode">Контрольный узел</ln>
+<!-- EN: Marauder -->
 <ln id="Marauder">Мародёр</ln>
+<!-- EN: Resistance Fighter -->
 <ln id="ResistanceFighter">Истребитель сопротивления</ln>
+<!-- EN: Leech Starship -->
 <ln id="Leech_Starship">Звездолёт-пиявка</ln>
+<!-- EN: Ship Module -->
 <ln id="ShipModule">Корабельный модуль</ln>
+<!-- EN: Civilian -->
 <ln id="Civilian">Гражданский</ln>
+<!-- EN: AI Barracks -->
 <ln id="Barracks">Барраки ИИ</ln>
+<!-- EN: Guardian -->
 <ln id="Guardian">Страж</ln>
+<!-- EN: Sentinel -->
 <ln id="AISentinel">Часовой</ln>
+<!-- EN: Eye -->
 <ln id="AIEye">Глаз</ln>
+<!-- EN: AI Hunter/Killer -->
 <ln id="AIHunterKiller">Охотник/Убийца ИИ</ln>
+<!-- EN: AI Carrier -->
 <ln id="Carrier">Носитель ИИ</ln>
+<!-- EN: Asteroid -->
 <ln id="Asteroid">Астероид</ln>
+<!-- EN: Mining Ship -->
 <ln id="MiningShip">Корабль Добытчик</ln>
+<!-- EN: Harvester -->
 <ln id="Harvester">Сборщик</ln>
+<!-- EN: Riot Starship -->
 <ln id="RiotStarship">Звездолёт Подавления</ln>
+<!-- EN: AI Mothership -->
 <ln id="AIMothership">Материнский Корабль ИИ</ln>
+<!-- EN: N Laser Drone -->
 <ln id="NeinzulLaserDrone">N Лазерный Дрон</ln>
+<!-- EN: N Needler Drone -->
 <ln id="NeinzulNeedlerDrone">N Игольчатый Дрон</ln>
+<!-- EN: N MLRS Drone -->
 <ln id="NeinzulMLRSDrone">N РСЗО Дрон</ln>
+<!-- EN: N Missile Drone -->
 <ln id="NeinzulMissileDrone">N Ракетный Дрон</ln>
+<!-- EN: Zenith Starship -->
 <ln id="ZenithStarship">Зенитный Звездолёт</ln>
+<!-- EN: Spire Starship -->
 <ln id="SpireStarship">Шпилевой Звездолёт</ln>
+<!-- EN: Length -->
 <ln id="Length">Длина</ln>
 </root>

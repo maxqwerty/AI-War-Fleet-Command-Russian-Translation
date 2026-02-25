@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
+<!-- EN: Tree -->
 <ln id="EXP1_Tree">Дерево</ln>
+<!-- EN: Spokes -->
 <ln id="EXP1_Spokes">Спицы</ln>
+<!-- EN: Snake -->
 <ln id="EXP1_Snake">Змея</ln>
+<!-- EN: Vines -->
 <ln id="EXP1_Vines">Грозди</ln>
+<!-- EN: Lattice -->
 <ln id="EXP1_Lattice">Сетка</ln>
 </root>

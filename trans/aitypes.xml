@@ -1,40 +1,75 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
+<!-- EN: None -->
 <ln id="None">Нет</ln>
+<!-- EN: Random Easier -->
 <ln id="Random_Easier">Случайный лёгкий</ln>
+<!-- EN: Entrenched Homeworlder -->
 <ln id="Entrenched_Homeworlder">Окопавшийся</ln>
+<!-- EN: Fortress Baron -->
 <ln id="Fortress_Baron">Повелитель крепости</ln>
+<!-- EN: Sledge Hammer -->
 <ln id="Sledge_Hammer">Молот</ln>
+<!-- EN: Turtle -->
 <ln id="Turtle">Черепаха</ln>
+<!-- EN: Train Master -->
 <ln id="Train_Master">Машинист</ln>
+<!-- EN: Mine Enthusiast -->
 <ln id="Mine_Enthusiast">Минёр</ln>
+<!-- EN: The Tank -->
 <ln id="The_Tank">Танк</ln>
 
+<!-- EN: Random Moderate -->
 <ln id="Random_Moderate">Случайный средний</ln>
+<!-- EN: Random Moderate/Easier -->
 <ln id="Random_Moderate_And_Easier">Случайный средний/лёгкий</ln>
+<!-- EN: Vicious Raider -->
 <ln id="Vicious_Raider">Налётчик</ln>
+<!-- EN: Mad Bomber -->
 <ln id="Mad_Bomber">Сумасшедший бомбер</ln>
+<!-- EN: Feeding Parasite -->
 <ln id="Feeding_Parasite">Паразит</ln>
+<!-- EN: Stealth Master -->
 <ln id="Stealth_Master">Мастер Маскировки</ln>
+<!-- EN: Counter Spy -->
 <ln id="Counter_Spy">Контршпион</ln>
+<!-- EN: Teleporter Turtle -->
 <ln id="Teleporter_Turtle">Черепаха-Телепорт</ln>
+<!-- EN: Backdoor Hacker -->
 <ln id="Backdoor_Hacker">Взломщик</ln>
+<!-- EN: Assassin -->
 <ln id="Assassin">Асcасин</ln>
+<!-- EN: Bully -->
 <ln id="Bully">Задира</ln>
 
+<!-- EN: Random Harder -->
 <ln id="Random_Harder">Случайный сложный</ln>
+<!-- EN: Random Harder Non-Technologist -->
 <ln id="Random_Harder_Non_Technologist">Случайный сложный (не технолог)</ln>
+<!-- EN: Attritioner -->
 <ln id="Attritioner">Кровопийца</ln>
+<!-- EN: Scorched Earth -->
 <ln id="Scorched_Earth">Выжигатель</ln>
+<!-- EN: Shadow Master -->
 <ln id="Shadow_Master">Повелитель тени</ln>
+<!-- EN: Special Forces Captain -->
 <ln id="Special_Forces_Captain">Командир Десанта</ln>
+<!-- EN: Technologist Homeworlder -->
 <ln id="Technologist_Homeworlder">Окопавшийся технолог</ln>
+<!-- EN: Technologist Raider -->
 <ln id="Technologist_Raider">Налётчик-технолог</ln>
+<!-- EN: Technologist Sledge -->
 <ln id="Technologist_Sledge_Hammer">Молот-технолог</ln>
+<!-- EN: Technologist Turtle -->
 <ln id="Technologist_Turtle">Черепаха-технолог</ln>
+<!-- EN: Technologist Parasite -->
 <ln id="Technologist_Parasite">Паразит-технолог</ln>
+<!-- EN: The Core -->
 <ln id="The_Core">Ядро</ln>
+<!-- EN: Random All -->
 <ln id="Random_All">Любой случайный</ln>
+<!-- EN: Random All Non-Technologist -->
 <ln id="Random_All_Non_Technologist">Любой случайный (не технолог)</ln>
+<!-- EN: Length -->
 <ln id="Length">Длина</ln>
 </root>

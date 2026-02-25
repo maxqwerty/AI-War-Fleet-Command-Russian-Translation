@@ -1,612 +1,1078 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
+<!-- EN: Zenith Bombardment Ship -->
 <ln id="ZenithBombardment_Full">Бомбардир Zenith'ов</ln>
+<!-- EN: Bombard I -->
 <ln id="ZenithBombardment_Short">Бомбардир I</ln>
+<!-- EN: Zenith Bombards -->
 <ln id="ZenithBombardment_Wave">Бомбардиры Zenith'ов</ln>
+<!-- EN: Fires very powerful, very long-range antimatter bombs, but is expensive and has a very slow reload time. -->
 <ln id="ZenithBombardment_Desc">Стреляет очень мощными, очень дальнобойными бомбами антиматерии, но очень дорогой и долго перезаряжается.</ln>
 
+<!-- EN: Zenith Bombardment Ship Mark II -->
 <ln id="ZenithBombardmentII_Full">Бомбардир Zenith'ов Модель II</ln>
+<!-- EN: Bombard II -->
 <ln id="ZenithBombardmentII_Short">Бомбардир II</ln>
 
+<!-- EN: Zenith Bombardment Ship Mark III -->
 <ln id="ZenithBombardmentIII_Full">Бомбардир Zenith'ов Модель III</ln>
+<!-- EN: Bombard III -->
 <ln id="ZenithBombardmentIII_Short">Бомбардир III</ln>
 
+<!-- EN: Zenith Bombardment Ship Mark IV -->
 <ln id="ZenithBombardmentIV_Full">Бомбардир Zenith'ов Модель IV</ln>
+<!-- EN: Bombard IV -->
 <ln id="ZenithBombardmentIV_Short">Бомбардир IV</ln>
 
+<!-- EN: Zenith Bombardment Ship Mark V -->
 <ln id="CoreZenithBombardment_Full">Бомбардир Zenith'ов Модель V</ln>
+<!-- EN: Bombard V -->
 <ln id="CoreZenithBombardment_Short">Бомбардир V</ln>
 
+<!-- EN: Zenith AutoBomb -->
 <ln id="ZenithAutoBomb_Full">АвтоБомб Zenith'ов</ln>
+<!-- EN: AutoBomb I -->
 <ln id="ZenithAutoBomb_Short">АвтоБомб I</ln>
+<!-- EN: Zenith AutoBombs -->
 <ln id="ZenithAutoBomb_Wave">АвтоБомбы Zenith'ов</ln>
+<!-- EN: Suicidal unit destroys itself when attacking in order to deal focused area damage to enemies. -->
 <ln id="ZenithAutoBomb_Desc">Суицидальный юнит, уничтожающий себяпри атаке, чтобы нанести врагам урон по площади.</ln>
 
+<!-- EN: Zenith AutoBomb Mark II -->
 <ln id="ZenithAutoBombII_Full">АвтоБомб Zenith'ов Модель II</ln>
+<!-- EN: AutoBomb II -->
 <ln id="ZenithAutoBombII_Short">АвтоБомб II</ln>
 
+<!-- EN: Zenith AutoBomb Mark III -->
 <ln id="ZenithAutoBombIII_Full">АвтоБомб Zenith'ов Модель III</ln>
+<!-- EN: AutoBomb III -->
 <ln id="ZenithAutoBombIII_Short">АвтоБомб III</ln>
 
+<!-- EN: Zenith AutoBomb Mark IV -->
 <ln id="ZenithAutoBombIV_Full">АвтоБомб Zenith'ов Модель IV</ln>
+<!-- EN: AutoBomb IV -->
 <ln id="ZenithAutoBombIV_Short">АвтоБомб IV</ln>
 
+<!-- EN: Zenith AutoBomb Mark V -->
 <ln id="CoreZenithAutoBomb_Full">АвтоБомб Zenith'ов Модель V</ln>
+<!-- EN: AutoBomb V -->
 <ln id="CoreZenithAutoBomb_Short">АвтоБомб V</ln>
 
+<!-- EN: Grenade Launcher -->
 <ln id="GrenadeLauncher_Full">Гранатомёт</ln>
+<!-- EN: Grenade Launch I -->
 <ln id="GrenadeLauncher_Short">Гранатомёт I</ln>
+<!-- EN: Grenade Launchers -->
 <ln id="GrenadeLauncher_Wave">Гранатомёты</ln>
+<!-- EN: Launches mid-power grenades over medium distance.  Grenades explode on contact and deal area damage to enemies. -->
 <ln id="GrenadeLauncher_Desc">Запускает гранаты средней мощности на среднее расстояние. Гранаты взрываются при контакте и наносят урон по площади.</ln>
 
+<!-- EN: Grenade Launcher Mark II -->
 <ln id="GrenadeLauncherII_Full">Гранатомёт Модель II</ln>
+<!-- EN: GrenadeLaunch  II -->
 <ln id="GrenadeLauncherII_Short">Гранатомёт  II</ln>
 
+<!-- EN: Grenade Launcher Mark III -->
 <ln id="GrenadeLauncherIII_Full">Гранатомёт Модель III</ln>
+<!-- EN: Grenade Launch III -->
 <ln id="GrenadeLauncherIII_Short">Гранатомёт III</ln>
 
+<!-- EN: Grenade Launcher Mark IV -->
 <ln id="GrenadeLauncherIV_Full">Гранатомёт Модель IV</ln>
+<!-- EN: Grenade Launch IV -->
 <ln id="GrenadeLauncherIV_Short">Гранатомёт IV</ln>
 
+<!-- EN: Grenade Launcher Mark V -->
 <ln id="CoreGrenadeLauncher_Full">Гранатомёт Модель V</ln>
+<!-- EN: Grenade Launch V -->
 <ln id="CoreGrenadeLauncher_Short">Гранатомёт V</ln>
 
+<!-- EN: Armored Golem -->
 <ln id="ArmoredGolem_Full">Бронированный Голем</ln>
+<!-- EN: Armored Golem -->
 <ln id="ArmoredGolem_Short">Бронированный Голем</ln>
+<!-- EN: This incredibly tough golem can blast through even the strongest armor with wave after wave of intense plasma-flame.
+ -->
 <ln id="ArmoredGolem_Desc">Этот невероятно жёсткий Голем может пробить даже самую сильную броню интенсивными волнами плазменного огня.
 </ln>
 
+<!-- EN: Armored Golem (AI) -->
 <ln id="ArmoredGolemAI_Full">Бронированный Голем (ИИ)</ln>
+<!-- EN: Armored Golem - AI -->
 <ln id="ArmoredGolemAI_Short">Бронированный Голем - ИИ</ln>
 
+<!-- EN: Armored Golem (AI) -->
 <ln id="ArmoredGolemAIAdvanced_Full">Бронированный Голем (ИИ)</ln>
+<!-- EN: Armored Golem - AI -->
 <ln id="ArmoredGolemAIAdvanced_Short">Бронированный Голем - ИИ</ln>
 
+<!-- EN: Broken Armored Golem -->
 <ln id="ArmoredGolemBroken_Full">Сломанный Бронированный Голем</ln>
+<!-- EN: Broken Armored Golem -->
 <ln id="ArmoredGolemBroken_Short">Сломанный Бронированный Голем</ln>
+<!-- EN: This incredibly tough golem can blast through even the strongest armor with wave after wave of intense plasma-flame.
+This golem is ancient and broken, and must be repaired to full health before it will become operational.
+You must also have enough net energy available to power the golem (200k on Broken-Golems-Medium, 20k otherwise) before it will come online. -->
 <ln id="ArmoredGolemBroken_Desc">Этот невероятно жёсткий Голем может пробить даже самую сильную броню интенсивными волнами плазменного огня.
 Этот Голем старый и сломанный; он должен быть восстановлен перед тем, как сможет работать.
 У Вас должно быть достаточно энергии, чтобы запитать Голема (200К для Среднего, иначе 20К) перед тем, как он оживёт.</ln>
 
+<!-- EN: Artillery Golem -->
 <ln id="ArtilleryGolem_Full">Голем Артиллерист</ln>
+<!-- EN: Artillery Golem -->
 <ln id="ArtilleryGolem_Short">Голем Артиллерист</ln>
+<!-- EN: Fires extremely, extremely powerful artillery shots over long ranges. Is very slow, though.  Great for taking out very heavily defended targets.
+ -->
 <ln id="ArtilleryGolem_Desc">Стреляет экстремально мощными артиллеристскими снарядами на дальние расстояния. Очень медленный, жёсткий. Хорош в уничтожении хорошо защищённых целей.
 </ln>
 
+<!-- EN: Artillery Golem (AI) -->
 <ln id="ArtilleryGolemAI_Full">Голем Артиллерист (ИИ)</ln>
+<!-- EN: Artillery Golem - AI -->
 <ln id="ArtilleryGolemAI_Short">Голем Артиллерист - ИИ</ln>
 
+<!-- EN: Artillery Golem (AI) -->
 <ln id="ArtilleryGolemAIAdvanced_Full">Голем Артиллерист (ИИ)</ln>
+<!-- EN: Artillery Golem - AI -->
 <ln id="ArtilleryGolemAIAdvanced_Short">Голем Артиллерист - ИИ</ln>
 
+<!-- EN: Broken Artillery Golem -->
 <ln id="ArtilleryGolemBroken_Full">Сломанный Голем Артиллерист</ln>
+<!-- EN: Broken Artillery Golem -->
 <ln id="ArtilleryGolemBroken_Short">Сломанный Голем Артиллерист</ln>
+<!-- EN: Fires extremely, extremely powerful artillery shots over long ranges. Is very slow, and very fragile, though.  Great for taking out very heavily defended targets.
+This golem is ancient and broken, and must be repaired to full health before it will become operational.
+You must also have enough net energy available to power the golem (150k on Broken-Golems-Medium, 15 otherwise) before it will come online. -->
 <ln id="ArtilleryGolemBroken_Desc">Стреляет экстремально мощными артиллеристскими снарядами на дальние расстояния. Очень медленный, жёсткий. Хорош в уничтожении хорошо защищённых целей.
 Этот Голем старый и сломанный; он должен быть восстановлен перед тем, как сможет работать.
 У Вас должно быть достаточно энергии, чтобы запитать Голема (150К для Среднего, иначе 15К) перед тем, как он оживёт.</ln>
 
+<!-- EN: Black Widow Golem -->
 <ln id="BlackWidowGolem_Full">Голем Чёрная Вдова</ln>
+<!-- EN: Black Widow Golem -->
 <ln id="BlackWidowGolem_Short">Голем Чёрная Вдова</ln>
+<!-- EN: This fast, giant-spider-like golem can catch and immobilize large groups of ships with its many high-range paralyzing-tractor beams and powerful, engine-destroying multi-shot cannons.
+ -->
 <ln id="BlackWidowGolem_Desc">Этот быстрый, похожий на паука Голем может поймать и обездвижить большие группы кораблей с помощью множества дальнобойных парализующих тяговых лучей и мощных, уничтожающих двигатели, многострелных пушек.
 </ln>
 
+<!-- EN: Black Widow Golem (AI) -->
 <ln id="BlackWidowGolemAI_Full">Голем Чёрная Вдова (ИИ)</ln>
+<!-- EN: Black Widow Golem - AI -->
 <ln id="BlackWidowGolemAI_Short">Голем Чёрная Вдова - ИИ</ln>
 
+<!-- EN: Black Widow Golem (AI) -->
 <ln id="BlackWidowGolemAIAdvanced_Full">Голем Чёрная Вдова (ИИ)</ln>
+<!-- EN: Black Widow Golem - AI -->
 <ln id="BlackWidowGolemAIAdvanced_Short">Голем Чёрная Вдова - ИИ</ln>
 
+<!-- EN: Broken Black Widow Golem -->
 <ln id="BlackWidowGolemBroken_Full">Сломанный Голем Чёрная Голем</ln>
+<!-- EN: Broken Black Widow Golem -->
 <ln id="BlackWidowGolemBroken_Short">Сломанный Голем Чёрная Голем</ln>
+<!-- EN: This fast, giant-spider-like golem can catch and immobilize large groups of ships with its many high-range paralyzing-tractor beams and powerful, engine-destroying multi-shot cannons.
+This golem is ancient and broken, and must be repaired to full health before it will become operational.
+You must also have enough net energy available to power the golem (170k on Broken-Golems-Medium, 17k otherwise) before it will come online. -->
 <ln id="BlackWidowGolemBroken_Desc">Этот быстрый, похожий на паука Голем может поймать и обездвижить большие группы кораблей с помощью множества дальнобойных парализующих тяговых лучей и мощных, уничтожающих двигатели, многострелных пушек.
 Этот Голем старый и сломанный; он должен быть восстановлен перед тем, как сможет работать.
 У Вас должно быть достаточно энергии, чтобы запитать Голема (170К для Среднего, иначе 17К) перед тем, как он оживёт.</ln>
 
-<ln id="AlarmPost_Full">Пост Тревоги</ln>
-<ln id="AlarmPost_Short">Тревога</ln>
-<ln id="AlarmPost_Desc">Когда Командная Станция ИИ уничтожается на планете Поста Тревоги или на соседней планете, все не-Стражи на текущей планете оставляют свои посты и идут в атаку. Если же атакован или уничтожен сам Пост Тревоги, то шанс потревожить стражей составит 50%.</ln>
+<!-- EN: Alarm Post -->
+<ln id="AlarmPost_Full">Сигнальный Пост</ln>
+<!-- EN: Alarm -->
+<ln id="AlarmPost_Short">СигнПост</ln>
+<!-- EN: When an AI Command Station is destroyed on the alarm post's planet, or an adjacent planet, all of the non-Guardian guards at the current planet will desert their posts and go on the attack.  If the alarm post itself is attacked and destroyed, there is only a 50% chance of it alerting the guards. -->
+<ln id="AlarmPost_Desc">Когда Командная Станция ИИ уничтожается на планете Сигнального Поста или на соседней планете, все не-Стражи на текущей планете оставляют свои посты и идут в атаку. Если же атакован или уничтожен сам Сигнальный Пост, то шанс потревожить стражей составит 50%.</ln>
 
-<ln id="AlarmPostSpecialForces_Full">Десантный Пост Тревоги</ln>
-<ln id="AlarmPostSpecialForces_Short">Десантная Тревога</ln>
-<ln id="AlarmPostSpecialForces_Desc">Когда Командная Станция ИИ уничтожается на планете Поста Тревоги или на соседней планете, все "десантные" корабли по всей галактике становятся агрессивными и атакуют людей. Если же атакован или уничтожен сам Пост Тревоги, то (к счастью) нет шансов пробудить десантные корабли.</ln>
+<!-- EN: Special Forces Alarm Post -->
+<ln id="AlarmPostSpecialForces_Full">Десантный Сигнальный Пост</ln>
+<!-- EN: Special Forces Alarm -->
+<ln id="AlarmPostSpecialForces_Short">ДесантнСигнПост</ln>
+<!-- EN: When an AI Command Station is destroyed on the alarm post's planet, or an adjacent planet, all of the "special forces" ships in the entire galaxy will turn aggressive and attack the humans.  If the alarm post itself is attacked and destroyed, there is (thankfully) no chance of it alerting the special forces ships. -->
+<ln id="AlarmPostSpecialForces_Desc">Когда Командная Станция ИИ уничтожается на планете Сигнального Поста или на соседней планете, все "десантные" корабли по всей галактике становятся агрессивными и атакуют людей. Если же атакован или уничтожен сам Сигнальный Пост, то (к счастью) нет шансов пробудить десантные корабли.</ln>
 
+<!-- EN: Raid Engine -->
 <ln id="RaidEngine_Full">Налётчик</ln>
+<!-- EN: Raid Engine -->
 <ln id="RaidEngine_Short">Налётчик</ln>
+<!-- EN: Launches brutal waves against its own planet or any adjacent planets, if those planets are not controlled
+by AI players, or if the human players have any military units there.  If human players don't have warp sensors on these planets,
+the waves may well arrive unannounced.  These waves arrive around every four minutes, contain a broad mix of AI ships, and use 
+the tech level of the planet if that is higher than the current wave level for the controlling AI player. -->
 <ln id="RaidEngine_Desc">Запускает грубые волны на свою собственную планету или соседние с ней, если они не под контролем
 ИИ, или если игрок держит на них военные корабли. Если у игрока нет Сенсора на этих планетах,
 то волны будут приходит без предупреждения. Эти волны возврящаются через 4 минуты, содержат смешанные типы кораблей ИИ и используют
 технический уровень планеты, если он выше уровня текущей волны ИИ.</ln>
 
+<!-- EN: One-Shot Raid Engine -->
 <ln id="OneShotRaidEngineNoAIP_Full">Однострельный Налётчик</ln>
+<!-- EN: OS Raid Eng -->
 <ln id="OneShotRaidEngineNoAIP_Short">ОС Налётчик</ln>
+<!-- EN: Launches a brutal wave against its own planet or an adjacent planets, if that planet is not controlled by an AI player, or if the human players have any military units there.  If human players don't have warp sensors near the planet, the wave may well arrive unannounced.  The wave contains a broad mix of AI ships, and uses the tech level of the planet if that is higher than the current wave level for the controlling AI player.
+
+This particular structure was purchased from a Zenith Trader and does not cause AIP on death, and is consumed once it is triggered. -->
 <ln id="OneShotRaidEngineNoAIP_Desc">Запускает грубые волны на свою собственную планету или соседние с ней, если они не под контролем ИИ, или если игрок держит на них военные корабли. Если у игрока нет Сенсора на этих планетах, то волны будут приходит без предупреждения. Эти волны возврящаются через 4 минуты, содержат смешанные типы кораблей ИИ и используют технический уровень планеты, если он выше уровня текущей волны ИИ.
 
 Это особая структура была куплена у Торговца Zenith'ов и не увеличивает Прогресс ИИ при уничтожении и расходуется после первого срабатывания.</ln>
 
+<!-- EN: Cloaker Starship -->
 <ln id="CloakerStarship_Full">Скрытый Звездолёт</ln>
+<!-- EN: Star:Cloaker I -->
 <ln id="CloakerStarship_Short">Звезд:Скрытый I</ln>
+<!-- EN: Starship that cloaks some other ships near it, even if those ships normally do not have cloaking.  Also provides counter-sniper and counter-dark-matter protection to all ships near it. -->
 <ln id="CloakerStarship_Desc">Звездолёт, скрывающий другие корабли рядом с собой, даже если эти корабли обычно не умеют скрываться. Также даёт противоснайперскую и защиту против тёмной материи для всех кораблей рядом с ним.</ln>
 
+<!-- EN: Cloaker Starship Mark II -->
 <ln id="CloakerStarshipII_Full">Скрытый Звездолёт Модель II</ln>
+<!-- EN: Star:Cloaker II -->
 <ln id="CloakerStarshipII_Short">Звезд:Скрытый II</ln>
 
+<!-- EN: Cloaker Starship Mark III -->
 <ln id="CloakerStarshipIII_Full">Скрытый Звездолёт Модель III</ln>
+<!-- EN: Star:Cloaker III -->
 <ln id="CloakerStarshipIII_Short">Звезд:Скрытый III</ln>
+<!-- EN: Starships -->
 <ln id="CloakerStarshipIII_Wave">Звездолёты</ln>
 
+<!-- EN: Zenith Electric Bomber -->
 <ln id="ZenithElectricBomber_Full">ЭлектроБомбер Zenith'ов</ln>
+<!-- EN: Electric Bomber I -->
 <ln id="ZenithElectricBomber_Short">ЭлектроБомбер I</ln>
+<!-- EN: Electric Bombers -->
 <ln id="ZenithElectricBomber_Wave">ЭлектроБомберы</ln>
+<!-- EN: Large bomber that delivers a tremendous payload. -->
 <ln id="ZenithElectricBomber_Desc">Большой Бомбардир, обеспечивающий огромную полезную нагрузку.</ln>
 
+<!-- EN: Zenith Electric Bomber Mark II -->
 <ln id="ZenithElectricBomberII_Full">ЭлектроБомбер Zenith'ов Модель II</ln>
+<!-- EN: Electric Bomber II -->
 <ln id="ZenithElectricBomberII_Short">ЭлектроБомбер II</ln>
 
+<!-- EN: Zenith Electric Bomber Mark III -->
 <ln id="ZenithElectricBomberIII_Full">ЭлектроБомбер Zenith'ов Модель III</ln>
+<!-- EN: Electric Bomber III -->
 <ln id="ZenithElectricBomberIII_Short">ЭлектроБомбер III</ln>
 
+<!-- EN: Zenith Electric Bomber Mark IV -->
 <ln id="ZenithElectricBomberIV_Full">ЭлектроБомбер Zenith'ов Модель IV</ln>
+<!-- EN: Electric Bomber IV -->
 <ln id="ZenithElectricBomberIV_Short">ЭлектроБомбер IV</ln>
 
+<!-- EN: Zenith Electric Bomber Mark V -->
 <ln id="CoreZenithElectricBomber_Full">ЭлектроБомбер Zenith'ов Модель V</ln>
+<!-- EN: Electric Bomber V -->
 <ln id="CoreZenithElectricBomber_Short">ЭлектроБомбер V</ln>
 
+<!-- EN: Sentinel Frigate -->
 <ln id="SentinelFrigate_Full">Фрегат-Часовой</ln>
+<!-- EN: Sentinel Frig I -->
 <ln id="SentinelFrigate_Short">Фрегат-Часовой I</ln>
+<!-- EN: Sentinel Frigates -->
 <ln id="SentinelFrigate_Wave">Фрегат-Часовой</ln>
+<!-- EN: Powerful frigate with extremely long-range Energy Wave cannon (this is susceptible to counter-sniper coverage).  Includes an onboard advanced warp sensor. -->
 <ln id="SentinelFrigate_Desc">Мощный фрегат с экстремально дальнобойными пушкам Энергетических Волн (блокируются противоснайперским укрытием). Включает бортовой улучшенный сенсор.</ln>
 
+<!-- EN: Sentinel Frigate Mark II -->
 <ln id="SentinelFrigateII_Full">Фрегат-Часовой Модель II</ln>
+<!-- EN: Sentinel Frig II -->
 <ln id="SentinelFrigateII_Short">Фрегат-Часовой II</ln>
 
+<!-- EN: Sentinel Frigate Mark III -->
 <ln id="SentinelFrigateIII_Full">Фрегат-Часовой Модель III</ln>
+<!-- EN: Sentinel Frig III -->
 <ln id="SentinelFrigateIII_Short">Фрегат-Часовой III</ln>
 
+<!-- EN: Sentinel Frigate Mark IV -->
 <ln id="SentinelFrigateIV_Full">Фрегат-Часовой Модель IV</ln>
+<!-- EN: Sentinel Frig IV -->
 <ln id="SentinelFrigateIV_Short">Фрегат-Часовой IV</ln>
 
+<!-- EN: Sentinel Frigate Mark V -->
 <ln id="CoreSentinelFrigate_Full">Фрегат-Часовой Модель V</ln>
+<!-- EN: Sentinel Frig V -->
 <ln id="CoreSentinelFrigate_Short">Фрегат-Часовой V</ln>
 
+<!-- EN: Zenith Mirror -->
 <ln id="ZenithMirror_Full">Зеркало Zenith'ов</ln>
+<!-- EN: Mirror I -->
 <ln id="ZenithMirror_Short">Зеркало I</ln>
+<!-- EN: Zenith Mirrors -->
 <ln id="ZenithMirror_Wave">Зеркала Zenith'ов</ln>
+<!-- EN: Mid-power main attack, but has the unique ability to reflect all incoming shots against its attackers.  With its armor, can often deal out significantly more damage than it actually receives in this way.
+Mirrors can be countered by area-of-effect and missile attacks, since those cannot be reflected.
+They also cannot reflect shots at a further range than the mirror can shoot on its own.
+
+Note: the mirror's HP is very high, but all attackers automatically do 10x normal damage against it (this replaces any normal multiplier they might have vs the mirror's hull type).  This naturally makes the shot reflection more dangerous. -->
 <ln id="ZenithMirror_Desc">Основная атака средней мощности, но имеет уникальную возможность обращать все выстрелы против атакующего. С такой защитой, часто может нанести этим способом значительно больше урона, чем ему нанесли.
 Может быть повержен площадными или ракетными атаками, которые не может отразить.
 Также не может отразить атаку с более дальнего расстояния, чем сам стреляет.
 
 Прим.: у Зеркала много жизней, но все атакующие наносят ему 10X от нормального повреждения (это убирает любой множитель, который может быть против брони зеркал). Это делает отражение выстрела более опасным.</ln>
 
+<!-- EN: Zenith Mirror Mark II -->
 <ln id="ZenithMirrorII_Full">Зеркало Zenith'ов Модель II</ln>
+<!-- EN: Mirror II -->
 <ln id="ZenithMirrorII_Short">Зеркало II</ln>
 
+<!-- EN: Zenith Mirror Mark III -->
 <ln id="ZenithMirrorIII_Full">Зеркало Zenith'ов Модель III</ln>
+<!-- EN: Mirror III -->
 <ln id="ZenithMirrorIII_Short">Зеркало III</ln>
 
+<!-- EN: Zenith Mirror Mark IV -->
 <ln id="ZenithMirrorIV_Full">Зеркало Zenith'ов Модель IV</ln>
+<!-- EN: Mirror IV -->
 <ln id="ZenithMirrorIV_Short">Зеркало IV</ln>
 
+<!-- EN: Zenith Mirror Mark V -->
 <ln id="CoreZenithMirror_Full">Зеркало Zenith'ов Модель V</ln>
+<!-- EN: Mirror V -->
 <ln id="CoreZenithMirror_Short">Зеркало V</ln>
 
+<!-- EN: Zenith Paralyzer -->
 <ln id="ZenithParalyzer_Full">Паралич Zenith'ов</ln>
+<!-- EN: Paralyzer I -->
 <ln id="ZenithParalyzer_Short">Паралич I</ln>
+<!-- EN: Zenith Paralyzers -->
 <ln id="ZenithParalyzer_Wave">Параличи Zenith'ов</ln>
+<!-- EN: Very weak attack, but inflicts temporary paralysis against targets it hits.
+Great when combined with other ship types. -->
 <ln id="ZenithParalyzer_Desc">Очень слабая атака, но наносит временный паралич целям, в которых попадает.
 Отлично работает совместно с другими типами.</ln>
 
+<!-- EN: Zenith Paralyzer Mark II -->
 <ln id="ZenithParalyzerII_Full">Паралич Zenith'ов Модель II</ln>
+<!-- EN: Paralyzer II -->
 <ln id="ZenithParalyzerII_Short">Паралич II</ln>
 
+<!-- EN: Zenith Paralyzer Mark III -->
 <ln id="ZenithParalyzerIII_Full">Паралич Zenith'ов Модель III</ln>
+<!-- EN: Paralyzer III -->
 <ln id="ZenithParalyzerIII_Short">Паралич III</ln>
 
+<!-- EN: Zenith Paralyzer Mark IV -->
 <ln id="ZenithParalyzerIV_Full">Паралич Zenith'ов Модель IV</ln>
+<!-- EN: Paralyzer IV -->
 <ln id="ZenithParalyzerIV_Short">Паралич IV</ln>
 
+<!-- EN: Zenith Paralyzer Mark V -->
 <ln id="CoreZenithParalyzer_Full">Паралич Zenith'ов Модель V</ln>
+<!-- EN: Paralyzer V -->
 <ln id="CoreZenithParalyzer_Short">Паралич V</ln>
 
+<!-- EN: Armor Booster -->
 <ln id="ShieldBooster_Full">Усилитель Брони</ln>
+<!-- EN: Armor Boost I -->
 <ln id="ShieldBooster_Short">Усилитель Брони I</ln>
+<!-- EN: Armor Boosters -->
 <ln id="ShieldBooster_Wave">Усилители Брони</ln>
+<!-- EN: Boosts the armor of nearby ships on your team. -->
 <ln id="ShieldBooster_Desc">Усиливает броню соседних кораблей вашей команды.</ln>
 
+<!-- EN: Armor Booster Mark II -->
 <ln id="ShieldBoosterII_Full">Усилитель Брони Модель II</ln>
+<!-- EN: Armor Boost II -->
 <ln id="ShieldBoosterII_Short">Усилитель Брони II</ln>
 
+<!-- EN: Armor Booster Mark III -->
 <ln id="ShieldBoosterIII_Full">Усилитель Брони Модель III</ln>
+<!-- EN: Armor Boost III -->
 <ln id="ShieldBoosterIII_Short">Усилитель Брони III</ln>
 
+<!-- EN: Armor Booster Mark IV -->
 <ln id="ShieldBoosterIV_Full">Усилитель Брони Модель IV</ln>
+<!-- EN: Armor Boost IV -->
 <ln id="ShieldBoosterIV_Short">Усилитель Брони IV</ln>
 
+<!-- EN: Armor Booster Mark V -->
 <ln id="CoreShieldBooster_Full">Усилитель Брони Модель V</ln>
+<!-- EN: Armor Boost V -->
 <ln id="CoreShieldBooster_Short">Усилитель Брони V</ln>
 
+<!-- EN: Zenith Beam Frigate -->
 <ln id="ZenithBeamFrigate_Full">Лучевой Фрегат Zenith'ов</ln>
+<!-- EN: Beam Frigate I -->
 <ln id="ZenithBeamFrigate_Short">Лучевой Фрегат I</ln>
+<!-- EN: Zenith Beam Frigates -->
 <ln id="ZenithBeamFrigate_Wave">Лучевые Фрегаты Zenith'ов</ln>
+<!-- EN: Fires powerful beam weapon that strikes up to 9 enemy ships in a line.  If more than that many targets are on the line then the actually-damaged ones are picked randomly. -->
 <ln id="ZenithBeamFrigate_Desc">Стреляет мощным лучевым оружием, которое поражает до 9 вражеских кораблей на линии. Если целей на линии больше, то получающие повреждения выбираются случайно.</ln>
 
+<!-- EN: Zenith Beam Frigate Mark II -->
 <ln id="ZenithBeamFrigateII_Full">Лучевой Фрегат Zenith'ов Модель II</ln>
+<!-- EN: Beam Frigate II -->
 <ln id="ZenithBeamFrigateII_Short">Лучевой Фрегат II</ln>
 
+<!-- EN: Zenith Beam Frigate Mark III -->
 <ln id="ZenithBeamFrigateIII_Full">Лучевой Фрегат Zenith'ов Модель III</ln>
+<!-- EN: Beam Frigate III -->
 <ln id="ZenithBeamFrigateIII_Short">Лучевой Фрегат III</ln>
 
+<!-- EN: Zenith Beam Frigate Mark IV -->
 <ln id="ZenithBeamFrigateIV_Full">Лучевой Фрегат Zenith'ов Модель IV</ln>
+<!-- EN: Beam Frigate IV -->
 <ln id="ZenithBeamFrigateIV_Short">Лучевой Фрегат IV</ln>
 
+<!-- EN: Zenith Beam Frigate Mark V -->
 <ln id="CoreZenithBeamFrigate_Full">Лучевой Фрегат Zenith'ов Модель V</ln>
+<!-- EN: Beam Frigate V -->
 <ln id="CoreZenithBeamFrigate_Short">Лучевой Фрегат V</ln>
 
+<!-- EN: Mercenary Zenith Beam Frigate -->
 <ln id="MercenaryZenithBeamFrigate_Full">Наёмный Лучевой Фрегат Zenith'ов</ln>
+<!-- EN: Merc Beam Frigate -->
 <ln id="MercenaryZenithBeamFrigate_Short">Наём Лучевой Фрегат</ln>
+<!-- EN: Zenith Beam Frigates -->
 <ln id="MercenaryZenithBeamFrigate_Wave">Лучевые Фрегаты Zenith'ов</ln>
+<!-- EN: Fires powerful high-range beam weapons that strikes up to 9 enemy ships in a line.  If more than that many targets are on the line then the actually-damaged ones are picked randomly.
+Identical to the Zenith Beam Frigate Mark IV, except 10x more expensive and a much larger ship cap. -->
 <ln id="MercenaryZenithBeamFrigate_Desc">Стреляет мощным лучевым оружием, которое поражает до 9 вражеских кораблей на линии. Если целей на линии больше, то получающие повреждения выбираются случайно.
 Идентичен Лучевому Фрегату Zenith'ов Модели IV, кроме 10-кратной стоимости и большего предела по количеству.</ln>
 
+<!-- EN: Zenith Chameleon -->
 <ln id="ZenithChameleon_Full">Хамелеон Zenith'ов</ln>
+<!-- EN: Chameleon I -->
 <ln id="ZenithChameleon_Short">Хамелеон I</ln>
+<!-- EN: Zenith Chameleons -->
 <ln id="ZenithChameleon_Wave">Хамелеоны Zenith'ов</ln>
+<!-- EN: Midrange bomber that takes on the appearance of junk, and is unassailable, when not moving. -->
 <ln id="ZenithChameleon_Desc">Бомбардир средней дальности, принимающий образ обломков и неуничтожим, когда не двигается.</ln>
 
+<!-- EN: Zenith Chameleon Mark II -->
 <ln id="ZenithChameleonII_Full">Хамелеон Zenith'ов Модель II</ln>
+<!-- EN: Chameleon II -->
 <ln id="ZenithChameleonII_Short">Хамелеон II</ln>
 
+<!-- EN: Zenith Chameleon Mark III -->
 <ln id="ZenithChameleonIII_Full">Хамелеон Zenith'ов Модель III</ln>
+<!-- EN: Chameleon III -->
 <ln id="ZenithChameleonIII_Short">Хамелеон III</ln>
 
+<!-- EN: Zenith Chameleon Mark IV -->
 <ln id="ZenithChameleonIV_Full">Хамелеон Zenith'ов Модель IV</ln>
+<!-- EN: Chameleon IV -->
 <ln id="ZenithChameleonIV_Short">Хамелеон IV</ln>
 
+<!-- EN: Zenith Chameleon Mark V -->
 <ln id="CoreZenithChameleon_Full">Хамелеон Zenith'ов Модель V</ln>
+<!-- EN: Chameleon V -->
 <ln id="CoreZenithChameleon_Short">Хамелеон V</ln>
 
+<!-- EN: Zenith Polarizer -->
 <ln id="ZenithPolarizer_Full">Поляризатор Zenith'ов</ln>
+<!-- EN: Polarizer I -->
 <ln id="ZenithPolarizer_Short">Поляризатор I</ln>
+<!-- EN: Zenith Polarizers -->
 <ln id="ZenithPolarizer_Wave">Поляризаторы Zenith'ов</ln>
+<!-- EN: Has high armor piercing, and does higher damage to ships with more armor. -->
 <ln id="ZenithPolarizer_Desc">Высокая бронепробиваемость, наносит больше урона бронированным кораблям.</ln>
 
+<!-- EN: Zenith Polarizer Mark II -->
 <ln id="ZenithPolarizerII_Full">Поляризатор Zenith'ов Модель II</ln>
+<!-- EN: Polarizer II -->
 <ln id="ZenithPolarizerII_Short">Поляризатор II</ln>
 
+<!-- EN: Zenith Polarizer Mark III -->
 <ln id="ZenithPolarizerIII_Full">Поляризатор Zenith'ов Модель III</ln>
+<!-- EN: Polarizer III -->
 <ln id="ZenithPolarizerIII_Short">Поляризатор III</ln>
 
+<!-- EN: Zenith Polarizer Mark IV -->
 <ln id="ZenithPolarizerIV_Full">Поляризатор Zenith'ов Модель IV</ln>
+<!-- EN: Polarizer IV -->
 <ln id="ZenithPolarizerIV_Short">Поляризатор IV</ln>
 
+<!-- EN: Zenith Polarizer Mark V -->
 <ln id="CoreZenithPolarizer_Full">Поляризатор Zenith'ов Модель V</ln>
+<!-- EN: Polarizer V -->
 <ln id="CoreZenithPolarizer_Short">Поляризатор V</ln>
 
+<!-- EN: Zenith Viral Shredder -->
 <ln id="ZenithViralShredder_Full">Вирусный Шреддер Zenith'ов</ln>
+<!-- EN: Viral Shredder I -->
 <ln id="ZenithViralShredder_Short">Вирусный Шреддер I</ln>
+<!-- EN: Zenith Viral Shredders -->
 <ln id="ZenithViralShredder_Wave">Вирусные Шреддеры Zenith'ов</ln>
+<!-- EN: Melee ship that generates build points as it attacks, spawning a free copy of itself when enough are accumulated.  This replication costs a portion of the replicator's health, and will not happen below a certain percent of health.  Also, when the owner controls more shredders of a specific level than the natural ship cap, the build points required to replicate will increase exponentially. -->
 <ln id="ZenithViralShredder_Desc">Корабль ближнего боя, создающий строительную точку когда атакован, которая создаёт бесплатную копию корабля при достаточном накоплении. Эта репликация стоит части здоровья репликатора, и не произойдёт при низком уровне здоровья. Также, когда владелец контролирует больше шреддеров определённого уровня, чем поддерживает обычное ограничение, очки стоимости репликации возрастают экспоненциально.</ln>
 
+<!-- EN: Zenith Viral Shredder Mark II -->
 <ln id="ZenithViralShredderII_Full">Вирусный Шреддер Zenith'ов Модель II</ln>
+<!-- EN: Viral Shredder II -->
 <ln id="ZenithViralShredderII_Short">Вирусный Шреддер II</ln>
 
+<!-- EN: Zenith Viral Shredder Mark III -->
 <ln id="ZenithViralShredderIII_Full">Вирусный Шреддер Zenith'ов Модель III</ln>
+<!-- EN: Viral Shredder III -->
 <ln id="ZenithViralShredderIII_Short">Вирусный Шреддер III</ln>
 
+<!-- EN: Zenith Viral Shredder Mark IV -->
 <ln id="ZenithViralShredderIV_Full">Вирусный Шреддер Zenith'ов Модель IV</ln>
+<!-- EN: Viral Shredder IV -->
 <ln id="ZenithViralShredderIV_Short">Вирусный Шреддер IV</ln>
 
+<!-- EN: Zenith Viral Shredder Mark V -->
 <ln id="CoreZenithViralShredder_Full">Вирусный Шреддер Zenith'ов Модель V</ln>
+<!-- EN: Viral Shredder V -->
 <ln id="CoreZenithViralShredder_Short">Вирусный Шреддер V</ln>
 
+<!-- EN: Impulse Reaction Emitter -->
 <ln id="ImpulseReactionEmitter_Full">Реактивный Излучатель</ln>
+<!-- EN: Impulse Emitter I -->
 <ln id="ImpulseReactionEmitter_Short">Реактивный Излучатель I</ln>
+<!-- EN: Impulse Reaction Emitters -->
 <ln id="ImpulseReactionEmitter_Wave">Реактивные Излучатели</ln>
+<!-- EN: Attacks with ammo that reacts with enemy energy sources, doing much higher damage to ships with higher energy use. -->
 <ln id="ImpulseReactionEmitter_Desc">Атакует снарядами, реагирующими с источниками энергии врага, нанося больше урона кораблям с высоким потреблением энергии.</ln>
 
+<!-- EN: Impulse Reaction Emitter Mark II -->
 <ln id="ImpulseReactionEmitterII_Full">Реактивный Излучатель Модель II</ln>
+<!-- EN: Impulse Emitter II -->
 <ln id="ImpulseReactionEmitterII_Short">Реактивный Излучатель II</ln>
 
+<!-- EN: Impulse Reaction Emitter Mark III -->
 <ln id="ImpulseReactionEmitterIII_Full">Реактивный Излучатель Модель III</ln>
+<!-- EN: Impulse Emitter III -->
 <ln id="ImpulseReactionEmitterIII_Short">Реактивный Излучатель III</ln>
 
+<!-- EN: Impulse Reaction Emitter Mark IV -->
 <ln id="ImpulseReactionEmitterIV_Full">Реактивный Излучатель Модель IV</ln>
+<!-- EN: Impulse Emitter IV -->
 <ln id="ImpulseReactionEmitterIV_Short">Реактивный Излучатель IV</ln>
 
+<!-- EN: Impulse Reaction Emitter Mark V -->
 <ln id="CoreImpulseReactionEmitter_Full">Реактивный Излучатель Модель V</ln>
+<!-- EN: Impulse Emitter V -->
 <ln id="CoreImpulseReactionEmitter_Short">Реактивный Излучатель V</ln>
 
+<!-- EN: Acid Sprayer -->
 <ln id="AcidSprayer_Full">Распылитель Кислоты</ln>
+<!-- EN: Acid Sprayer I -->
 <ln id="AcidSprayer_Short">Распылитель Кислоты I</ln>
+<!-- EN: Acid Sprayers -->
 <ln id="AcidSprayer_Wave">Распылители Кислоты</ln>
+<!-- EN: Fires an acid shot at close range. Excellent at dissolving unusual hull materials. -->
 <ln id="AcidSprayer_Desc">Стреляет кислотой на близком расстоянии. Хорош в растворении экзотических корпусов.</ln>
 
+<!-- EN: Acid Sprayer Mark II -->
 <ln id="AcidSprayerII_Full">Распылитель Кислоты Модель II</ln>
+<!-- EN: Acid Sprayer II -->
 <ln id="AcidSprayerII_Short">Распылитель Кислоты II</ln>
 
+<!-- EN: Acid Sprayer Mark III -->
 <ln id="AcidSprayerIII_Full">Распылитель Кислоты Модель III</ln>
+<!-- EN: Acid Sprayer III -->
 <ln id="AcidSprayerIII_Short">Распылитель Кислоты III</ln>
 
+<!-- EN: Acid Sprayer Mark IV -->
 <ln id="AcidSprayerIV_Full">Распылитель Кислоты Модель IV</ln>
+<!-- EN: Acid Sprayer IV -->
 <ln id="AcidSprayerIV_Short">Распылитель Кислоты IV</ln>
 
+<!-- EN: Acid Sprayer Mark V -->
 <ln id="CoreAcidSprayer_Full">Распылитель Кислоты Модель V</ln>
+<!-- EN: Acid Sprayer V -->
 <ln id="CoreAcidSprayer_Short">Распылитель Кислоты V</ln>
 
+<!-- EN: Zenith Power Generator -->
 <ln id="ZenithPowerGenerator_Full">Энергогенератор Zenith'ов</ln>
+<!-- EN: Z Power Gen -->
 <ln id="ZenithPowerGenerator_Short">ЭнерГен Z</ln>
+<!-- EN: Advanced Zenith power generator that produces a massive amount of energy at no cost.
+AI progress goes up if this is destroyed. -->
 <ln id="ZenithPowerGenerator_Desc">Продвинутый генератор энергии Zenith'ов, производящий большое количество бесплатной энергии.
 При уничтожении увеличивает Прогресс ИИ.</ln>
 
+<!-- EN: Zenith SpaceTime Manipulator -->
 <ln id="ZenithSpaceTimeManipulator_Full">Манипулятор П-Временем Zenith'ов</ln>
+<!-- EN: Z SpaceTime -->
 <ln id="ZenithSpaceTimeManipulator_Short">П-Вермя Z</ln>
+<!-- EN: Alien-tech ship that increases the speed of all friendly non-minor-faction ships in the current system.
+This effect is cumulative when multiple spacetime manipulators are present. -->
 <ln id="ZenithSpaceTimeManipulator_Desc">Инопланетный корабль, увеличивающий скорость всех дружественных нефракционных кораблей в текущей системе.
 Эффект суммируется при присутствии нескольких Манипуляторов Пространсвом-Временем.</ln>
 
+<!-- EN: Astro Turret Train -->
 <ln id="TurretTrain_Full">Турельный Звёздный Поезд</ln>
+<!-- EN: Ast Turret Train I -->
 <ln id="TurretTrain_Short">Турель ЗвздПоезд I</ln>
+<!-- EN: Nearly-indestructible robotic courier.  Destroy Astro Train Stations to influence their routing. -->
 <ln id="TurretTrain_Desc">Почти неуничтожимый робот-курьер. Уничтожьте Звёздные Станции, чтобы изменить маршрут.</ln>
 
+<!-- EN: Astro Turret Train Mark II -->
 <ln id="TurretTrainII_Full">Турельный Звёздный Поезд Модель II</ln>
+<!-- EN: Ast Turret Train II -->
 <ln id="TurretTrainII_Short">Турель ЗвздПоезд II</ln>
 
+<!-- EN: Astro Turret Train Mark III -->
 <ln id="TurretTrainIII_Full">Турельный Звёздный Поезд Модель III</ln>
+<!-- EN: Ast Turret Train III -->
 <ln id="TurretTrainIII_Short">Турель ЗвздПоезд III</ln>
 
+<!-- EN: Warbird Starship -->
 <ln id="WarbirdStarship_Full">Звездолёт Птица Войны</ln>
+<!-- EN: Star:Warbird -->
 <ln id="WarbirdStarship_Short">Звзд:Птица</ln>
+<!-- EN: Extremely fast starship with cloaking and a huge multi-targeting energy burst system.
+Great for clearing out hordes of enemy ships. -->
 <ln id="WarbirdStarship_Desc">Экстремально быстрый звездолёт, с системой скрытия и многоприцельной системой энергетического взрыва.
 Хорош в уничтожении целых орд вражеских кораблей.</ln>
 
+<!-- EN: Beam Starship -->
 <ln id="BeamStarship_Full">Лучевой Звездолёт</ln>
+<!-- EN: Star:Beam -->
 <ln id="BeamStarship_Short">Звзд:Луч</ln>
+<!-- EN: Fires very powerful high-range beam weapons that strike up to 9 enemy ships in a line. -->
 <ln id="BeamStarship_Desc">Стреляет очень мощным дальнобойным лучевым оружием, поражающим до 9 противников на одной линии.</ln>
 
+<!-- EN: Speed Booster -->
 <ln id="SpeedBooster_Full">Ускоритель</ln>
+<!-- EN: Exp:Speed Boost -->
 <ln id="SpeedBooster_Short">Усил:Ускорение</ln>
+<!-- EN: Mobile ship that increases the speed of all friendly non-minor-faction ships in the current system by a small amount.
+This effect is cumulative when multiple speed boosters are present. -->
 <ln id="SpeedBooster_Desc">Мобильный корабль, ускоряющий дружественные корабли, не принадлежащие фракциям, в текущей системе на небольшое значение.
 Эффект суммируется при присутствии нескольких Ускорителей.</ln>
 
+<!-- EN: Decoy Drone -->
 <ln id="DecoyDrone_Full">Дрон-Приманка</ln>
+<!-- EN: Exp:Decoy -->
 <ln id="DecoyDrone_Short">Усил:Приманка</ln>
+<!-- EN: Tough, high-health vessel with no significant guns. Attracts all fire from enemy ships to itself in place of ships within its protection area.
+Enemy ships that can fire through force fields (such as snipers and infiltrators) can also fire past decoys. -->
 <ln id="DecoyDrone_Desc">Жёсткий, с высоким здоровьем корабль, без существенного вооружения. Принимает весь огонь от вражеских кораблей на себя в пределах своей зоны защиты.
 Враги, стреляющие через энергетические поля, (такие, как снайперы и диверсанты) также способны стрелять мимо Приманки.</ln>
 
+<!-- EN: Translocator -->
 <ln id="Translocator_Full">Транслокатор</ln>
+<!-- EN: Exp:Translocator -->
 <ln id="Translocator_Short">Усил:Таранслок</ln>
+<!-- EN: Mid-power teleporting fighter that fires shots that cause enemy targets to be teleported far across the current planet when they are hit. -->
 <ln id="Translocator_Desc">Телепортирующийся Истребитель средней мощности, стреляющий снарядами, которые при попадании телепортируют врагов подальше в пределах текущей планеты.</ln>
 
+<!-- EN: MicroParasite -->
 <ln id="MicroParasite_Full">Микропаразит</ln>
+<!-- EN: Exp:MicroParasite -->
 <ln id="MicroParasite_Short">Усил:МикроПаразит</ln>
+<!-- EN: Reclaims enemy ships it kills (reclaimed ships have health = damage inflicted by reclamator).
+Overall very weak, but quite adept a picking up high-value targets for your use if it survives. -->
 <ln id="MicroParasite_Desc">Переманивает вражеские корабли, которые убивает (корабль будет иметь здоровье = урон нанесённый переманивателем).
 В целом очень слаб, но весьма умело захватывает для Вас высокоуровневые цели, если выживает.</ln>
 
+<!-- EN: Regenerator Golem -->
 <ln id="RegeneratorGolem_Full">Голем Регенератор</ln>
+<!-- EN: Regen Golem -->
 <ln id="RegeneratorGolem_Short">Regen Голем</ln>
+<!-- EN: Has very little in the way of weapons, but is able to use its own health to resurrect allied mobile ships that are killed on the current planet. Resurrected ships are teleported to the golem at full health at no cost beyond the health of the golem.  The regeneration function stops when the golem drops to 10% health or lower. -->
 <ln id="RegeneratorGolem_Desc">Не очень хорош в вооружении, но способен использовать своё собственное здоровье, чтобы воскресить союзные мобильные корабли, убитые на текущей планете. Воскрешенные корабли телепортируются к Голему с полным здоровьем без каких-либо затрат, кроме здоровья Голема. Способность к восстановлению прекращается, когда у Голема остаётся меньше 10% здоровья.</ln>
 
+<!-- EN: Regenerator Golem (AI) -->
 <ln id="RegeneratorGolemAI_Full">Голем Регенератор (ИИ)</ln>
+<!-- EN: Regen Golem - AI -->
 <ln id="RegeneratorGolemAI_Short">Голем Регенератор- ИИ</ln>
 
+<!-- EN: Regenerator Golem (AI) -->
 <ln id="RegeneratorGolemAIAdvanced_Full">Голем Регенератор (ИИ)</ln>
+<!-- EN: Regen Golem - AI -->
 <ln id="RegeneratorGolemAIAdvanced_Short">Голем Регенератор - ИИ</ln>
 
+<!-- EN: Broken Regenerator Golem -->
 <ln id="RegeneratorGolemBroken_Full">Сломанный Голем Регенератор</ln>
+<!-- EN: Broken Regen Golem -->
 <ln id="RegeneratorGolemBroken_Short">Сломанный Голем Регенератор</ln>
+<!-- EN: Has very little in the way of weapons, but is able to use its own health to resurrect allied mobile ships that are killed on the current planet. Resurrected ships are teleported to the golem at full health at no cost beyond the health of the golem.  The regeneration function stops when the golem drops to 10% health or lower.
+This golem is ancient and broken, and must be repaired to full health before it will become operational.
+You must also have enough net energy available to power the golem (250k on Broken-Golems-Medium, 25k otherwise) before it will come online. -->
 <ln id="RegeneratorGolemBroken_Desc">Не очень хорош в вооружении, но способен использовать своё собственное здоровье, чтобы воскресить союзные мобильные корабли, убитые на текущей планете. Воскрешенные корабли телепортируются к Голему с полным здоровьем без каких-либо затрат, кроме здоровья Голема. Способность к восстановлению прекращается, когда у Голема остаётся меньше 10% здоровья.
 Этот Голем старый и сломанный; он должен быть восстановлен перед тем, как сможет работать.
 У Вас должно быть достаточно энергии, чтобы запитать Голема (250К для Среднего, иначе 25К) перед тем, как он оживёт.</ln>
 
+<!-- EN: Cursed Golem -->
 <ln id="CursedGolem_Full">Проклятый Голем</ln>
+<!-- EN: Cursed Golem -->
 <ln id="CursedGolem_Short">Проклятый Голем</ln>
+<!-- EN: The Cursed Golem is less durable than other golems, but can project its high firepower over effectively infinite range. -->
 <ln id="CursedGolem_Desc">Проклятый Голем менее долговечен, чем другие големы, но может проецировать свою большую огневую мощь на бесконечное расстояние.</ln>
 
+<!-- EN: Broken Cursed Golem -->
 <ln id="CursedGolemBroken_Full">Сломанный Проклятый Голем</ln>
+<!-- EN: Broken Cursed Golem -->
 <ln id="CursedGolemBroken_Short">Сломанный Проклятый Голем</ln>
+<!-- EN: The Cursed Golem is less durable than other golems, but can project its high firepower over effectively infinite range
+This golem is ancient and broken, and must be repaired to full health before it will become operational.
+You must also have enough net energy available to power the golem (150k on Broken-Golems-Medium, 15k otherwise) before it will come online. -->
 <ln id="CursedGolemBroken_Desc">Проклятый Голем менее долговечен, чем другие големы, но может проецировать свою большую огневую мощь на бесконечное расстояние.
 Этот Голем старый и сломанный; он должен быть восстановлен перед тем, как сможет работать.
 У Вас должно быть достаточно энергии, чтобы запитать Голема (150К для Среднего, иначе 15К) перед тем, как он оживёт.</ln>
 
+<!-- EN: Core Warhead Interceptor -->
 <ln id="CoreWarheadInterceptor_Full">Главный Перехватчик Боеголовок</ln>
+<!-- EN: Warhead Intercept -->
 <ln id="CoreWarheadInterceptor_Short">Перехватчик Боеголовок</ln>
+<!-- EN: Warhead Interceptors -->
 <ln id="CoreWarheadInterceptor_Wave">Перехватчики Боеголовок</ln>
+<!-- EN: Advanced weapon insta-kills warheads (which explode without doing any damage or incurring any AI Progress increase). -->
 <ln id="CoreWarheadInterceptor_Desc">Продвинутое оружие уничтожает боеголовки (которые взрываются без нанесения урона и влияния на Прогресс ИИ).</ln>
 
+<!-- EN: Orbital Mass Driver -->
 <ln id="OrbitalMassDriver_Full">Орбитальный Драйвер Очистки</ln>
+<!-- EN: Orbital Mass Driver -->
 <ln id="OrbitalMassDriver_Short">Орбитальный Драйвер Очистки</ln>
+<!-- EN: Advanced weapon sends projectiles stripped from an iron asteroid to deal heavy damage to starships, guardians, and golems, but cannot fire on other targets. -->
 <ln id="OrbitalMassDriver_Desc">Продвинутое оружие посылает снаряды, созданные из железных астероидов, наносящий тяжёлые повреждения звездолётам, стражам и големам, но не может стрелять по другим целям.</ln>
 
+<!-- EN: Experimental Engineer Drone -->
 <ln id="ExperimentalEngineer_Full">Экспериментальный Инженер</ln>
+<!-- EN: Exp:Engineer -->
 <ln id="ExperimentalEngineer_Short">Эксп:Инженер</ln>
+<!-- EN: Repairs damaged ships or can accelerate construction done by other ships.
+Unless issued a specific command by its controller, it will automatically repair nearby allies.
+Advanced prototype model that can regenerate itself as well as repairing other ships very quickly. -->
 <ln id="ExperimentalEngineer_Desc">Чинит повреждённые корабли или ускоряет строительство других кораблей.
 Если не получает специальную команду на контроллер, то автоматически восстанавливает ближайшие корабли.
 Продвинутый прототип, способный восстановить себя так же, как и другие корабли.</ln>
 
+<!-- EN: Astro Speed Booster Train -->
 <ln id="BoosterTrain_Full">Звёздный Поезд Ускоритель</ln>
+<!-- EN: Ast Booster Train I -->
 <ln id="BoosterTrain_Short">ЗвздПоезд Ускор I</ln>
+<!-- EN: Nearly-indestructible robotic courier.  Boosts speed of most AI ships on the same planet.  Destroy Astro Train Stations to influence their routing. -->
 <ln id="BoosterTrain_Desc">Почти неуничтожимый робот-курьер. Ускоряет большинство кораблей ИИ на планете. Уничтожьте Звёздные Станции, чтобы изменить маршрут.</ln>
 
+<!-- EN: Astro Speed Booster Train Mark II -->
 <ln id="BoosterTrainII_Full">Звёздный Поезд Ускоритель Модель II</ln>
+<!-- EN: Ast Booster Train II -->
 <ln id="BoosterTrainII_Short">ЗвздПоезд Ускор II</ln>
 
+<!-- EN: Astro Speed Booster Train Mark III -->
 <ln id="BoosterTrainIII_Full">Звёздный Поезд Ускоритель Модель III</ln>
+<!-- EN: Ast Booster Train III -->
 <ln id="BoosterTrainIII_Short">ЗвздПоезд Ускор III</ln>
 
+<!-- EN: Astro Regenerator Train -->
 <ln id="RegeneratorTrain_Full">Звёздный Поезд Регенератор</ln>
+<!-- EN: Ast Regen Train I -->
 <ln id="RegeneratorTrain_Short">ЗвздПоезд Реген I</ln>
+<!-- EN: Nearly-indestructible robotic courier.  Uses its own health to resurrect AI mobile ships that are killed on the same planet.  Resurrected ships are teleported to another AI planet at full health at no cost beyond the health of the train.  Destroy Astro Train Stations to influence their routing. -->
 <ln id="RegeneratorTrain_Desc">Почти неуничтожимый робот-курьер. Использует своё собственное здоровье, чтобы воскресить мобильные корабли ИИ, уничтоженные на той же планете. Воскрешённые корабли телепортируются на другую планету ИИ с полным здоровьем без затрат, кроме здоровья поезда. Уничтожьте Звёздные Станции, чтобы изменить маршрут.</ln>
 
+<!-- EN: Astro Regenerator Train Mark II -->
 <ln id="RegeneratorTrainII_Full">Звёздный Поезд Регенератор Модель II</ln>
+<!-- EN: Ast Regen Train II -->
 <ln id="RegeneratorTrainII_Short">ЗвздПоезд Реген II</ln>
 
+<!-- EN: Astro Regenerator Train Mark III -->
 <ln id="RegeneratorTrainIII_Full">Звёздный Поезд Регенератор Модель III</ln>
+<!-- EN: Ast Regen Train III -->
 <ln id="RegeneratorTrainIII_Short">ЗвздПоезд Реген III</ln>
 
+<!-- EN: Radar Jammer -->
 <ln id="RadarJammer_Full">Глушитель</ln>
+<!-- EN: Radar Jam -->
 <ln id="RadarJammer_Short">Глушитель</ln>
+<!-- EN: Halves the effective range of all ships on the planet. -->
 <ln id="RadarJammer_Desc">Уменьшает вдвое эффективную дальность всех кораблей на планете.</ln>
 
+<!-- EN: Radar Jammer Mark II -->
 <ln id="RadarJammerII_Full">Глушитель Модель II</ln>
+<!-- EN: Radar Jam II -->
 <ln id="RadarJammerII_Short">Глушитель II</ln>
+<!-- EN: Halves the effective range of all enemy ships on the planet. -->
 <ln id="RadarJammerII_Desc">Уменьшает вдвое эффективную дальность всех вражеских кораблей на планете.</ln>
 
+<!-- EN: Planetary Armor Booster -->
 <ln id="PlanetaryShieldBooster_Full">Планетарный Усилитель</ln>
+<!-- EN: P-Armor Boost -->
 <ln id="PlanetaryShieldBooster_Short">Усил. Брони</ln>
+<!-- EN: Provides bonus to the armor strength of all allied ships on the current planet, making them take less damage.
+Also causes allied forcefields to take half damage. -->
 <ln id="PlanetaryShieldBooster_Desc">Даёт бонус к броне всем союзным кораблям на текущей планете, делая их менее восприимчивыми к урону.
 Также, вдвое уменьшает урон по союзным силовым полям.</ln>
 
+<!-- EN: (Old) Planetary Armor Inhibitor -->
 <ln id="PlanetaryShieldInhibitor_Full">(Стар.) Планетарный Ингибитор</ln>
+<!-- EN: P-Armor Inhibit -->
 <ln id="PlanetaryShieldInhibitor_Short">Ингибитор</ln>
+<!-- EN: Disables the armor of all enemy ships on the current planet, making them take far more damage.
+Also disables enemy force fields.
+
+This is an older version of the unit, should only be present if spawned via cheat. -->
 <ln id="PlanetaryShieldInhibitor_Desc">Отключает броню вражеских кораблей на текущей планете, делая их более восприимчивыми к урону.
 Также отключает вражеские силовые поля.
 
 Это старая версия юнита, и она создаётся только читами.</ln>
 
+<!-- EN: Planetary Armor Inhibitor -->
 <ln id="NewPlanetaryArmorInhibitor_Full">Планетарный Ингибитор</ln>
+<!-- EN: P-Armor Inhibit -->
 <ln id="NewPlanetaryArmorInhibitor_Short">Инг. Брони</ln>
+<!-- EN: Disables the armor of all enemy ships on the current planet, making them take far more damage.
+Also causes enemy forcefields to take double damage. -->
 <ln id="NewPlanetaryArmorInhibitor_Desc">Отключает броню вражеских кораблей на текущей планете, делая их более восприимчивыми к урону.
 Также наносит вражеским силовым полям двойной урон.</ln>
 
+<!-- EN: Interplanetary Munitions Booster -->
 <ln id="InterplanetaryMunitionsBooster_Full">Межпланетарный Усилитель Боеприпасов</ln>
+<!-- EN: Inter-P Munitions -->
 <ln id="InterplanetaryMunitionsBooster_Short">Интер Усил Боеп</ln>
+<!-- EN: Doubles the attack of all allied ships on its planet and all adjacent planets. -->
 <ln id="InterplanetaryMunitionsBooster_Desc">Удваивает силу атаки союзных кораблей на этой планете и на всех соседних планетах.</ln>
 
+<!-- EN: Black Hole Machine -->
 <ln id="BlackHoleMachine_Full">Машина Чёрной Дыры</ln>
+<!-- EN: Black Hole Mach -->
 <ln id="BlackHoleMachine_Short">Машина Чёрной Дыры</ln>
+<!-- EN: Prevents all enemy ships (except scouts) from escaping from this planet through wormholes,
+though enemy ships can still enter through wormholes as normal. -->
 <ln id="BlackHoleMachine_Desc">Предотвращает возможность вражеских кораблей (кроме Разведчиков) уйти с этой планеты через червоточины,
 хотя вражеские корабли могут входить на планету через червоточины как обычно.</ln>
 
+<!-- EN: Prevents all enemy ships (except scouts) from escaping from this planet through wormholes,
+though enemy ships can still enter through wormholes as normal.
+
+This particular structure was purchased from a Zenith Trader and does not cause AIP on death. -->
 <ln id="BlackHoleMachineNoAIP_Desc">Предотвращает возможность вражеских кораблей (кроме Разведчиков) уйти с этой планеты через червоточины,
 хотя вражеские корабли могут входить на планету через червоточины как обычно.
 
 Это особая структура была куплена у Торговца Zenith'ов и не увеличивает Прогресс ИИ при уничтожении.</ln>
 
+<!-- EN: Gravity Drill Station -->
 <ln id="GravityDrillStation_Full">Станция-Гравидрель</ln>
+<!-- EN: Gravity Drill -->
 <ln id="GravityDrillStation_Short">Гравидрель</ln>
+<!-- EN: A large station that bores a hole into the fabric of spacetime to generate energy and metal for the player holding it.  Also causes a planet-wide gravity effect that reduces the movement speed of most ships. -->
 <ln id="GravityDrillStation_Desc">Большая станция, проделывающая дыру в пространстве-времени, чтобы создать энергию и металл для игрока, владеющего ей. Также становится причиной планетарного эффекта, уменьшающего скорость большинства кораблей.</ln>
 
+<!-- EN: Zenith Reserve -->
 <ln id="ZenithReserveShipsI_Full">Резерв Zenith'ов</ln>
+<!-- EN: Z Reserve I -->
 <ln id="ZenithReserveShipsI_Short">Резерв Z I</ln>
+<!-- EN: Destroy to capture a large cache of Mark I Zenith vessels for your own use (at some AI Progress cost).
+Given the large number of ships that come online at once, be sure to have between 20k and 40k energy available to support them. -->
 <ln id="ZenithReserveShipsI_Desc">Уничтожьте, чтобы получить большой набор кораблей Zenith'ов Модели I в собственное использование (в счёт роста Прогресса ИИ).
 Даёт большое количество кораблей, которые сразу же активируются, поэтому убедитесь, что у Вас имеется от 20К до 40К доступной энергии, чтобы их содержать.</ln>
 
+<!-- EN: Zenith Reserve Mark II -->
 <ln id="ZenithReserveShipsII_Full">Резерв Zenith'ов Модель II</ln>
+<!-- EN: Z Reserve II -->
 <ln id="ZenithReserveShipsII_Short">Резерв Z II</ln>
+<!-- EN: Destroy to capture a large cache of Mark II Zenith vessels for your own use (at some AI Progress cost).
+Given the large number of ships that come online at once, be sure to have between 20k and 40k energy available to support them. -->
 <ln id="ZenithReserveShipsII_Desc">Уничтожьте, чтобы получить большой набор кораблей Zenith'ов Модели II в собственное использование (в счёт роста Прогресса ИИ).
 Даёт большое количество кораблей, которые сразу же активируются, поэтому убедитесь, что у Вас имеется от 20К до 40К доступной энергии, чтобы их содержать.</ln>
 
+<!-- EN: Zenith Reserve Mark III -->
 <ln id="ZenithReserveShipsIII_Full">Резерв Zenith'ов Модель III</ln>
+<!-- EN: Z Reserve III -->
 <ln id="ZenithReserveShipsIII_Short">Резерв Z III</ln>
+<!-- EN: Destroy to capture a large cache of Mark III Zenith vessels for your own use (at some AI Progress cost).
+Given the large number of ships that come online at once, be sure to have between 20k and 40k energy available to support them. -->
 <ln id="ZenithReserveShipsIII_Desc">Уничтожьте, чтобы получить большой набор кораблей Zenith'ов Модели III в собственное использование (в счёт роста Прогресса ИИ).
 Даёт большое количество кораблей, которые сразу же активируются, поэтому убедитесь, что у Вас имеется от 20К до 40К доступной энергии, чтобы их содержать.</ln>
 
+<!-- EN: Zenith Reserve Mark IV -->
 <ln id="ZenithReserveShipsIV_Full">Резерв Zenith'ов Модель IV</ln>
+<!-- EN: Z Reserve IV -->
 <ln id="ZenithReserveShipsIV_Short">Резерв Z IV</ln>
+<!-- EN: Destroy to capture a large cache of Mark IV Zenith vessels for your own use (at some AI Progress cost).
+Given the large number of ships that come online at once, be sure to have between 20k and 40k energy available to support them. -->
 <ln id="ZenithReserveShipsIV_Desc">Уничтожьте, чтобы получить большой набор кораблей Zenith'ов Модели IV в собственное использование (в счёт роста Прогресса ИИ).
 Даёт большое количество кораблей, которые сразу же активируются, поэтому убедитесь, что у Вас имеется от 20К до 40К доступной энергии, чтобы их содержать.</ln>
 
+<!-- EN: Zenith Reserve Mark V -->
 <ln id="ZenithReserveShipsV_Full">Резерв Zenith'ов Модель V</ln>
+<!-- EN: Z Reserve V -->
 <ln id="ZenithReserveShipsV_Short">Резерв Z V</ln>
+<!-- EN: Destroy to capture a large cache of Mark V Zenith vessels for your own use (at some AI Progress cost).
+Given the large number of ships that come online at once, be sure to have between 20k and 40k energy available to support them. -->
 <ln id="ZenithReserveShipsV_Desc">Уничтожьте, чтобы получить большой набор кораблей Zenith'ов Модели V в собственное использование (в счёт роста Прогресса ИИ).
 Даёт большое количество кораблей, которые сразу же активируются, поэтому убедитесь, что у Вас имеется от 20К до 40К доступной энергии, чтобы их содержать.</ln>
 
+<!-- EN: Distribution Node -->
 <ln id="DistributionNode_Full">Точка Распределения</ln>
+<!-- EN: Distribution -->
 <ln id="DistributionNode_Short">Распределение</ln>
+<!-- EN: Destroy to capture a sizable cache of metal (between 600k and 800k) for the player destroying it (at some AI Progress cost). -->
 <ln id="DistributionNode_Desc">Уничтожьте, чтобы получить значительный кусок металла (от 600К до 800К) для игрока, разрушившего его (в счёт роста Прогресса ИИ).</ln>
 
+<!-- EN: AI Co-Processor -->
 <ln id="AICoProcessor_Full">Со-Процессор ИИ</ln>
+<!-- EN: AI Co-Processor -->
 <ln id="AICoProcessor_Short">Со-Процессор ИИ</ln>
+<!-- EN: Destroying a co-processor normally increases the AI Progress by 20.
+However, when you destroy the last co-processor, the AI Progress instead takes a massive drop of 120 (105 on Diff 8+, 90 on Diff 9+), so hitting all four of them simultaneously is ideal.
+Co-Processors also interfere with supply on their planet. -->
 <ln id="AICoProcessor_Desc">Уничтожение Со-Процессора обычно увеличивает Прогресс ИИ на 20.
 Тем не менее, при уничтожении последнего Со-Процессора, Прогресс ИИ упадёт на значительный уровень - 120 (105 на сложности 8+, 90 на сложности 9+), так что идеально было бы уничтожить их одновременно.
 Со-Процессоры также имеют поддержку на своих планетах.</ln>
 
+<!-- EN: AI SuperTerminal -->
 <ln id="AISuperTerminal_Full">Супертерминал ИИ</ln>
+<!-- EN: AI SuperTerminal -->
 <ln id="AISuperTerminal_Short">Супертерминал ИИ</ln>
+<!-- EN: When humans capture the planet on which this resides, they gain direct access to the core network of the AI, where they can greatly damage the AI's processing capabilities.  Periodically (generally every 5 seconds) this decreases AI Progress by one, but as a side effect, this increases the AI Progress Floor by 0.2 (0.25 on Diff 8+, 0.33 on Diff 9+).  At each reduction the terminal will spawn AI ships (not always directly from the terminal) proportional to the amount of hacking the human team has done thus far in the game (including AI progress reduction from the terminal).  For AI progress details, move the mouse cursor over the AI progress display at the top of the screen.  Most spawned ships are zombie bots, which are overly aggressive as well as being immune to reclamation.
+
+Past a certain point the terminal's response will probably become overwhelming, so make sure you are able to destroy the terminal before you lose control of the area or you will probably lose the game. -->
 <ln id="AISuperTerminal_Desc">Когда люди захватят планету, на которой он находится, он предоставит прямой доступ к главной сети ИИ, с помощью которого можно сильно повредить возможности обработки данных для ИИ. Периодически (примерно раз в 5 сек.) он уменьшает Прогресс ИИ на 1, но с другой стороны, увеличивает минимальный уровень Прогресса ИИ на 0.2 (0.25 на сложности 8+, 0.33 на сложности 9+). При каждой итеррации терминал будет создавать корабли ИИ (не всегда прямо из терминала) пропорционально количеству очков Взлома, совершённого до сих пор людьми в течение игры (включая уменьшение Прогресса ИИ через Терминал). Для получения описания Прогресса ИИ, наведите курсор мыши на изображение величины Прогресса ИИ вверху экрана. Большинство создаваемых кораблей - зомби, которые очень агрессивны и имеют иммунитет к переманиванию.
 
 Через определённое время защитная реакция терминала, вероятно, станет подавляющей, так что убедитесь, что сможете уничтожить терминал прежде, чем потеряете контроль над планетой, иначе Вы можете проиграть.</ln>
 
+<!-- EN: Widow Minefield -->
 <ln id="EMPMine_Full">Мина Вдовы</ln>
+<!-- EN: Widow Mine -->
 <ln id="EMPMine_Short">Мина Вдовы</ln>
+<!-- EN: Widow Mines -->
 <ln id="EMPMine_Wave">Мины Вдовы</ln>
+<!-- EN: Enemy ships coming too close to these invisible traps will heavy damage.  The minefield is also damaged, and eventually destroyed, in the process.  
+
+If the ship triggering the minefield survives, it will also be paralyzed for 10 seconds and suffer engine damage.  The burst of paralysis and engine damage (but not the hull damage) also effects other ships that are close by.  These are particularly useful for stalling out large incoming vessels that don't have mine avoidance or paralysis-immunity. -->
 <ln id="EMPMine_Desc">Вражеские корабли, проходящие слишком близко к этой невидимой ловушке, получат тяжёлый урон. Минное поле тоже получает урон и уничтожается.  
 
 Корабль, попавший в минное поле и выживший, парализуется на 10 секунд и получает урон двигателю. Парализация и урон двигателю (но не урон корпусу) также действует на рядом стоящие корабли. Очень полезно для остановки крупных кораблей, у которых нет способности избегать мины или иммунитета к параличу.</ln>
 
+<!-- EN: Widow Minefield ( Remains) -->
 <ln id="EMPMineRemains_Full">Мина Вдовы (Останки)</ln>
+<!-- EN: Widow Mine Remains -->
 <ln id="EMPMineRemains_Short">Останки Мины Вдовы</ln>
+<!-- EN: Useless remains of an exploded Widow minefield. Scrap to clear the way for replacement, or leave in place so that a Remains Rebuilder can rebuild it. 
+
+Remains belonging to enemies can be cleared by cleanup drones. -->
 <ln id="EMPMineRemains_Desc">Бесполезные останки взорвавшейся Мины Вдовы. Уничтожьте, чтобы расчистить область для застройки или прикажите Восстановителю Останков восстановить их. 
 
 Останки, принадлежащие врагу, могут быть собраны Дроном Очистки.</ln>
 
+<!-- EN: Area Minefield -->
 <ln id="AreaMine_Full">Минное Поле</ln>
+<!-- EN: Area Mine -->
 <ln id="AreaMine_Short">Поле Мин</ln>
+<!-- EN: Area Mines -->
 <ln id="AreaMine_Wave">Минные Поля</ln>
+<!-- EN: Enemy ships coming too close to these invisible traps will incur damage.  The minefield is also damaged, and eventually destroyed, in the process.
+
+The explosions from these  minefields also effect other enemy ships that are close by.  These are obviously useful for taking out groups of ships, but they are also useful for hitting ships that have Mine Avoidance  - -  those ships can still get caught in the blasts of area minefields that are triggered by another ship. -->
 <ln id="AreaMine_Desc">Вражеские корабли, проходящие слишком близко к этой невидимой ловушке, получат урон. Минное Поле тоже получает урон и уничтожается.
 
 Взрыв от этого минного поля действует на ближайшие корабли. Очевидно, они полезны в уничтожении больших групп кораблей, но они также полезны для повреждения кораблей, способных обходить мины -- эти корабли могут получить урон от взрыва Минного Поля, которое сработало из-за другого корабля.</ln>
 
+<!-- EN: Area Minefield (Remains) -->
 <ln id="AreaMineRemains_Full">Минное Поле (Останки)</ln>
+<!-- EN: Area Mine Remains -->
 <ln id="AreaMineRemains_Short">Останки Минного Поля</ln>
+<!-- EN: Useless remains of an exploded area minefield. Scrap to clear the way for replacement, or leave in place so that a Remains Rebuilder can rebuild it. 
+
+Remains belonging to enemies can be cleared by cleanup drones. -->
 <ln id="AreaMineRemains_Desc">Бесполезные останки взорвавшейся Минного Поля. Уничтожьте, чтобы расчистить область для застройки или прикажите Восстановителю Останков восстановить их. 
 
 Останки, принадлежащие врагу, могут быть собраны Дроном Очистки.</ln>
 
+<!-- EN: Hive Golem -->
 <ln id="HiveGolem_Full">Голем Улей</ln>
+<!-- EN: Hive Golem -->
 <ln id="HiveGolem_Short">Голем Улей</ln>
+<!-- EN: Large, slow transport that automatically fills over time with up to 500 small wasp ships. When the wasps are unloaded, they will automatically spread out and attack enemy ships on the current planet; they cannot be directly controlled, cannot leave the current planet, and lose health slowly over 3 minutes. -->
 <ln id="HiveGolem_Desc">Большой, медленный транспорт, который автоматически со временем наполняется до 500 маленькими осиными кораблями. Когда осы выгружаются, они автоматически распространяются и атакуют вражеские корабли на текущей планете; ими нельзя управлять, они не покидают планету и медленно теряют здоровье в течение 3х минут.</ln>
 
+<!-- EN: Broken Hive Golem -->
 <ln id="HiveGolemBroken_Full">Сломанный Голем Улей</ln>
+<!-- EN: Broken Hive Golem -->
 <ln id="HiveGolemBroken_Short">Сломанный Голем Улей</ln>
+<!-- EN: Large, slow transport that automatically fills over time with up to 500 small wasp ships. When the wasps are unloaded, they will automatically spread out and attack enemy ships on the current planet; they cannot be directly controlled, cannot leave the current planet, and lose health slowly over 3 minutes.
+This golem is ancient and broken, and must be repaired to full health before it will become operational.
+You must also have enough net energy available to power the golem (200k on Broken-Golems-Medium, 20k otherwise) before it will come online. -->
 <ln id="HiveGolemBroken_Desc">Большой, медленный транспорт, который автоматически со временем наполняется до 500 маленькими осиными кораблями. Когда осы выгружаются, они автоматически распространяются и атакуют вражеские корабли на текущей планете; ими нельзя управлять, они не покидают планету и медленно теряют здоровье в течение 3х минут.
 Этот Голем старый и сломанный; он должен быть восстановлен перед тем, как сможет работать.
 У Вас должно быть достаточно энергии, чтобы запитать Голема (200К для Среднего, иначе 20К) перед тем, как он оживёт.</ln>
 
+<!-- EN: Wasp -->
 <ln id="Wasp_Full">Оса</ln>
+<!-- EN: Wasp -->
 <ln id="Wasp_Short">Оса</ln>
+<!-- EN: Very fast and nasty melee ship  - -  loses health over a 3 minute period, then self-destructs.
+Created inside Hive Golems, when these are unloaded they are uncontrollable but will viciously attack
+the enemy on the current planet. Players cannot give direct orders to the wasps. -->
 <ln id="Wasp_Desc">Очень быстрый и противный рукопашный корабль -- теряет здоровье в течение 3х минут, затем саморазрушается.
 Создаётся Големом Ульем, при разгрузке не контролируется, но атакует врагов на своей планете. Игроки не могут отдавать прямых приказов Осам.</ln>
 
+<!-- EN: Botnet Golem -->
 <ln id="BotnetGolem_Full">Голем Ботнет</ln>
+<!-- EN: Botnet Golem -->
 <ln id="BotnetGolem_Short">Голем Ботнет</ln>
+<!-- EN: Reclaims enemy ships it kills (reclaimed ships have health = full damage inflicted by reclamator).  Reclaimed ships come back as Zombie Bots, which cannot be controlled but which will attack enemy ships mercilessly until they die.  Zombie bots will travel to enemy planets if no enemies present, and cannot be reclaimed.  This golem cannot attack ships that are immobile, have no attack, or are immune to reclamation. -->
 <ln id="BotnetGolem_Desc">Переманивает вражеские корабли, которых убивает (здоровье этих кораблей = полный урон, нанесённый големом). Переманенные корабли становятся Зомби Ботами, которых нельзя контролировать, но они будут беспощадно атаковать врагов, пока не погибнут. Зомби Боты полетят на планету врага, если врагов на их планете нет, и не могут быть переманены. Этот Голем не может атаковать неподвижные цели, неатакующие корабли или с иммунитетом к переманиванию.</ln>
 
+<!-- EN: Botnet Golem (AI) -->
 <ln id="BotnetGolemAI_Full">Botnet Голем (ИИ)</ln>
+<!-- EN: Botnet Golem - AI -->
 <ln id="BotnetGolemAI_Short">Botnet Голем - ИИ</ln>
 
+<!-- EN: Broken Botnet Golem -->
 <ln id="BotnetGolemBroken_Full">Сломанный Голем Ботнет</ln>
+<!-- EN: Broken Botnet Golem -->
 <ln id="BotnetGolemBroken_Short">Сломанный Голем Ботнет</ln>
+<!-- EN: Reclaims enemy ships it kills (reclaimed ships have health = full damage inflicted by reclamator).  Reclaimed ships come back as Zombie Bots, which cannot be controlled but which will attack enemy ships mercilessly until they die.  Zombie bots will travel to enemy planets if no enemies present, and cannot be reclaimed.  This golem cannot attack ships that are immobile, have no attack, or are immune to reclamation.
+This golem is ancient and broken, and must be repaired to full health before it will become operational.
+You must also have enough net energy available to power the golem (800k on Botnet-Golems-Medium, 80k otherwise) before it will come online. -->
 <ln id="BotnetGolemBroken_Desc">Переманивает вражеские корабли, которых убивает (здоровье этих кораблей = полный урон, нанесённый големом). Переманенные корабли становятся Зомби Ботами, которых нельзя контролировать, но они будут беспощадно атаковать врагов, пока не погибнут. Зомби Боты полетят на планету врага, если врагов на их планете нет, и не могут быть переманены. Этот Голем не может атаковать неподвижные цели, неатакующие корабли или с иммунитетом к переманиванию.
 Этот Голем старый и сломанный; он должен быть восстановлен перед тем, как сможет работать.
 У Вас должно быть достаточно энергии, чтобы запитать Голема (800К для Среднего, иначе 80К) перед тем, как он оживёт.</ln>
 
+<!-- EN: Devourer Golem -->
 <ln id="DevourerGolem_Full">Голем Пожиратель</ln>
+<!-- EN: Devourer Golem -->
 <ln id="DevourerGolem_Short">Голем Пожиратель</ln>
+<!-- EN: This indestructible Golem makes its way slowly around the galaxy, absorbing all of 
+the non-mark-V mobile military ships on planets it visits in order to power and repair itself.  
+Its attack power is so high that it will insta-kill most ships, 
+but it will only attack non-mark-V ships that are both mobile and which have attack power (or are scouts).
+The only way for those ships to survive is for them to flee to another planet until the devourer has moved on. -->
 <ln id="DevourerGolem_Desc">Этот неуничтожимый Голем медленно перемещается по галактике, поглощая все 
 мобильные военные корабли не Модели V на планете, которую посещает, чтобы усилить и починить себя.  
 Его атакующая мощь так высока, что он мгновенно уничтожает большинство кораблей, 
 Но он атакует только корабли не Модели V, которые подвижны и обладают способностью стрелять (или Разведчиков).
 Единственный способ выжить - улететь на другую планету, пока пожиратель не улетит.</ln>
 
+<!-- EN: Mining Golem -->
 <ln id="MiningGolem_Full">Голем Шахтёр</ln>
+<!-- EN: Mining Golem -->
 <ln id="MiningGolem_Short">Голем Шахтёр</ln>
+<!-- EN: This golem is sent from deep space for one purpose: to consume the planet it is heading toward.
+It will fire on human ships that approach it, but it emits a signal that tricks AI ships into ignoring it as harmless.
+It takes it quite a while to reach the planet, but as soon as it does, it causes a blast the same as if a nuclear
+weapon had been set off  - -  destroying all the resources and making the planet unable to sustain supply.
+It doesn't harm the ships on the planet, however, so it won't cause an AI Progress increase if it goes off on an AI Planet. -->
 <ln id="MiningGolem_Desc">Этот Голем прибыл из глубокого космоса с одной целью: поглотить планету, к которой движется.
 Он будет стрелять по человеческим кораблям, которые приблизятся к нему, но также испускает особый сигнал, чтобы корабли ИИ воспринимали его как безвредного.
 Поглощение планеты потребует времени, но как только это произойдёт, то произойдёт подобный взрыв, как будто сработало 
 ядерное оружие -- уничтожение всех ресурсов и делая планету неспособной предоставлять ресурсы.
 Этот процесс влияет на корабли на планете, поэтому это не вызовет роста Прогресса ИИ, если была поглощена планета ИИ.</ln>
 
+<!-- EN: Zenith Trade Ship -->
 <ln id="ZenithTradeShip_Full">Торговый Корабль Zenith'ов</ln>
+<!-- EN: Z Trade Ship -->
 <ln id="ZenithTradeShip_Short">Торговец Z</ln>
+<!-- EN: These neutral (and invulnerable) traders are happy to trade with humans or AIs, although they charge quite a lot in return  - -  and their wares are a bit different for AIs versus humans.  The trade ship travels slowly around the galaxy, and when it has supply from your team, your entire team can use it to build very expensive and powerful ships that you can't directly build any other way.  The AI will use it to build such things as even new Warp Gates or Astro Train Stations  - -  but they only make purchases about 1% of the time when the trader exits a system belonging to them. -->
 <ln id="ZenithTradeShip_Desc">Эти нейтральные (и неуязвимые) торговцы рады торговать с людьми и ИИ, хотя они требуют много взамен, а их изделия различаются для ИИ и для людей. Торговый корабль медленно путешествует по галактике, и получив поддержку от Вашей команды, вся команда сможет использовать его, чтобы строить очень дорогие и мощные корабли, которые нельзя построить никаким другим способом. ИИ будет использовать его, чтобы построить новые Врата или Звёздные Станции, но они делают покупки в 1% случаев, когда торговец выходит из их системы.</ln>
 
+<!-- EN: Dyson Sphere Golem -->
 <ln id="DysonSphereGolem_Full">Голем Сфера Дайсона</ln>
+<!-- EN: Dyson Sphere -->
 <ln id="DysonSphereGolem_Short">Сфера Дайсона</ln>
+<!-- EN: This massive immobile golem lurks at the edge of a planet's orbit  - -  conventional weapons cannot even damage it. 
+If you free the planet from the AI, the sphere will realize your beneign intent and will help you on nearby planets.
+If you take the planet for yourself, the sphere will attack you until you give up the planet. -->
 <ln id="DysonSphereGolem_Desc">Этот массивный неподвижный Голем скрывается на краю орбиты планеты -- обычное оружие не может нанести ему урон. 
 Если Вы освободите планету от ИИ, сфера поймёт Ваши добрые намерения и поможет на соседних планетах.
 Если Вы захватите планету, то сфера будет атаковать Вас, пока Вы не сдадите планету.</ln>
 
+<!-- EN: Dyson Gatling -->
 <ln id="DysonGatling_Full">Гатлинг Дайсона</ln>
+<!-- EN: Dyson Gatling -->
 <ln id="DysonGatling_Short">Гатлинг Дайсона</ln>
+<!-- EN: These oversized, automated alien ships fire lightning-fast energy bursts at long range.
+Depending on the mood of the dyson sphere when these are created, they may attack everyone, AIs only, or humans only.
+
+Neutral Dyson Gatlings cannot shoot at Mark V targets.
+Neutral and Player-Ally Dyson Gatlings do not attack AI targets that could free AI ships (guard posts, command stations, etc). -->
 <ln id="DysonGatling_Desc">Этот крупногабаритный, автоматизированный инопланетный корабль стреляет молниеносными энергетическими всплесками на большую дистанцию.
 В зависимости от настроя Сферы Дайсона на момент своего создания, они будут атаковать либо ИИ, либо людей.
 

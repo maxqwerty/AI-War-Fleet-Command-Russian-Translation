@@ -1,40 +1,77 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
+<!-- EN: Subspace Signal -->
 <ln id="SurveyMarker">Субкосмический Сигнал</ln>
+<!-- EN: Shard -->
 <ln id="Shard">Осколок</ln>
+<!-- EN: Survey Ship -->
 <ln id="SurveyShip">Корабль Исследования</ln>
+<!-- EN: Subspace Receiver -->
 <ln id="SubspaceReceiver">Субкосмический Приёмник</ln>
+<!-- EN: Refugee Ship -->
 <ln id="RefugeeShip">Корабль Беженцев</ln>
+<!-- EN: Refugee Outpost -->
 <ln id="RefugeeOutpost">Застава Беженцев</ln>
+<!-- EN: Spire Frigate -->
 <ln id="SpireFrigate">Фрегат Spire'ов</ln>
+<!-- EN: Spire Colony Ship -->
 <ln id="SpireColonyShip">Корабль Колония Spire'ов</ln>
+<!-- EN: Spire City Facility -->
 <ln id="SpireCityFacility">Городской Комплекс Spire'ов</ln>
+<!-- EN: Spire Destroyer -->
 <ln id="SpireDestroyer">Уничтожитель Spire'ов</ln>
+<!-- EN: Spire Cruiser -->
 <ln id="SpireCruiser">Крейсер Spire'ов</ln>
+<!-- EN: Spire Battleship -->
 <ln id="SpireBattleship">Линкор Spire'ов</ln>
+<!-- EN: Spire Dreadnought -->
 <ln id="SpireDreadnought">Дредноут Spire'ов</ln>
+<!-- EN: Spire Super Dreadnought -->
 <ln id="SpireSuperDreadnought">Супер Дредноут Spire'ов</ln>
+<!-- EN: Armor Rotter -->
 <ln id="SpireArmorRotter">Бронированная Дрянь</ln>
+<!-- EN: Blade Spawner -->
 <ln id="SpireBladeSpawner">Спаунер Лезвий</ln>
+<!-- EN: Spire Blade -->
 <ln id="SpireBlade">Лезвие Spire'ов</ln>
+<!-- EN: Gravity Drain -->
 <ln id="SpireGravityDrain">ГравиСток</ln>
+<!-- EN: Gravity Ripper -->
 <ln id="SpireGravityRipper">ГравиРиппер</ln>
+<!-- EN: Maw -->
 <ln id="SpireMaw">Пасть</ln>
+<!-- EN: Mini Ram -->
 <ln id="SpireMiniRam">Мини Таран</ln>
+<!-- EN: Stealth Battleship -->
 <ln id="SpireStealthBattleship">Хитрый Линкор</ln>
+<!-- EN: Teleporting Leech -->
 <ln id="SpireTeleportingLeech">Телепортирующийся Лич</ln>
+<!-- EN: Tractor Platform -->
 <ln id="SpireTractorPlatform">Тяговая Платформа</ln>
+<!-- EN: Spire Civilians -->
 <ln id="SpireCivilians">Гражданские Spire'ов</ln>
+<!-- EN: SC Attritioner -->
 <ln id="SpirecraftAttritioner">SC Истощитель</ln>
+<!-- EN: SC Implosion -->
 <ln id="SpirecraftImplosion">SC Имплозия</ln>
+<!-- EN: SC Trans -->
 <ln id="SpirecraftIon">SC Транс</ln>
+<!-- EN: SC Jumpship -->
 <ln id="SpirecraftJumpship">SC Прыгун</ln>
+<!-- EN: SC Martyr -->
 <ln id="SpirecraftMartyr">SC Мученик</ln>
+<!-- EN: SC Penetrator -->
 <ln id="SpirecraftPenetrator">SC Вторгатель</ln>
+<!-- EN: SC Ram -->
 <ln id="SpirecraftRam">SC Таран</ln>
+<!-- EN: SC Scout -->
 <ln id="SpirecraftScout">SC Разведчик</ln>
+<!-- EN: SC Shield Bearer -->
 <ln id="SpirecraftShieldBearer">SC Щитоносец</ln>
+<!-- EN: SC Siege Tower -->
 <ln id="SpirecraftSiegeTower">SC Осадная Башня</ln>
+<!-- EN: Exogalactic Transceiver -->
 <ln id="SpireExoGalacticTransceiver">Экзогалактический Трансивер</ln>
+<!-- EN: AI Beachhead -->
 <ln id="AIBeachhead">Плацдарм ИИ</ln>
 </root>

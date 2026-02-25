@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
+<!-- EN: Hunter -->
 <ln id="EXP5_Hunter">Охотник</ln>
+<!-- EN: Shark-A -->
 <ln id="EXP5_Shark">Акула-A</ln>
+<!-- EN: Shark-B -->
 <ln id="EXP5_Shark_B">Акула-B</ln>
 </root>

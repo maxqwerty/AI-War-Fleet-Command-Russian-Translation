@@ -4,81 +4,127 @@
 
 <!--2. Basic AI Types-->
 
+<!-- EN: 2. Vaccinator -->
 <ln id="EXP2_BeatNeinzulViralEnthusiast_Bronze">2. Вакцинатор</ln>
+<!-- EN: Win against Neinzul Viral Enthusiast on any difficulty. -->
 <ln id="EXP2_BeatNeinzulViralEnthusiast_Bronze_Desc">Победите Вирусного Энтузиаста Neinzul'ов на любой сложности.</ln>
 
+<!-- EN: 2. Vaccinator -->
 <ln id="EXP2_BeatNeinzulViralEnthusiast_Silver">2. Вакцинатор</ln>
+<!-- EN: Win against Neinzul Viral Enthusiast on difficulty 7 or up. -->
 <ln id="EXP2_BeatNeinzulViralEnthusiast_Silver_Desc">Победите Вирусного Энтузиаста Neinzul'ов на сложности 7 или выше.</ln>
 
+<!-- EN: 2. Vaccinator -->
 <ln id="EXP2_BeatNeinzulViralEnthusiast_Gold">2. Вакцинатор</ln>
+<!-- EN: Win against Neinzul Viral Enthusiast on difficulty 9 or up. -->
 <ln id="EXP2_BeatNeinzulViralEnthusiast_Gold_Desc">Победите Вирусного Энтузиаста Neinzul'ов на сложности 9 или выше.</ln>
 
+<!-- EN: 2. Helping Hand Broke A Nail -->
 <ln id="EXP2_BeatSupportCorps_Bronze">2. Рука Помощи Сломала Ноготь</ln>
+<!-- EN: Win against Support Corps on any difficulty. -->
 <ln id="EXP2_BeatSupportCorps_Bronze_Desc">Победите Отдел Поддержки на любой сложности.</ln>
 
+<!-- EN: 2. Helping Hand Broke A Nail -->
 <ln id="EXP2_BeatSupportCorps_Silver">2. Рука Помощи Сломала Ноготь</ln>
+<!-- EN: Win against Support Corps on difficulty 7 or up. -->
 <ln id="EXP2_BeatSupportCorps_Silver_Desc">Победите Отдел Поддержки на сложности 7 или выше.</ln>
 
+<!-- EN: 2. Helping Hand Broke A Nail -->
 <ln id="EXP2_BeatSupportCorps_Gold">2. Рука Помощи Сломала Ноготь</ln>
+<!-- EN: Win against Support Corps on difficulty 9 or up. -->
 <ln id="EXP2_BeatSupportCorps_Gold_Desc">Победите Отдел Поддержки на сложности 9 или выше.</ln>
 
 <!--3. Moderate AI Types-->
 
+<!-- EN: 3. Pest Control -->
 <ln id="EXP2_BeatNeinzulClusterBomber_Bronze">3. Борьба С Вредителями</ln>
+<!-- EN: Win against Neinzul Cluster Bomber on any difficulty. -->
 <ln id="EXP2_BeatNeinzulClusterBomber_Bronze_Desc">Победите Кластерного Бомбера Neinzul'ов на любой сложности.</ln>
 
+<!-- EN: 3. Pest Control -->
 <ln id="EXP2_BeatNeinzulClusterBomber_Silver">3. Борьба С Вредителями</ln>
+<!-- EN: Win against Neinzul Cluster Bomber on difficulty 7 or up. -->
 <ln id="EXP2_BeatNeinzulClusterBomber_Silver_Desc">Победите Кластерного Бомбера Neinzul'ов на сложности 7 или выше.</ln>
 
+<!-- EN: 3. Pest Control -->
 <ln id="EXP2_BeatNeinzulClusterBomber_Gold">3. Борьба С Вредителями</ln>
+<!-- EN: Win against Neinzul Cluster Bomber on difficulty 9 or up. -->
 <ln id="EXP2_BeatNeinzulClusterBomber_Gold_Desc">Победите Кластерного Бомбера Neinzul'ов на сложности 9 или выше.</ln>
 
+<!-- EN: 3. You Would Make A Good Substitute Teacher -->
 <ln id="EXP2_BeatNeinzulYoungster_Bronze">3. Ты Был Бы Хорошим Учителем</ln>
+<!-- EN: Win against Neinzul Youngster on any difficulty. -->
 <ln id="EXP2_BeatNeinzulYoungster_Bronze_Desc">Победите Детёныша Neinzul'ов на любой сложности.</ln>
 
+<!-- EN: 3. You Would Make A Good Substitute Teacher -->
 <ln id="EXP2_BeatNeinzulYoungster_Silver">3. Ты Был Бы Хорошим Учителем</ln>
+<!-- EN: Win against Neinzul Youngster on difficulty 7 or up. -->
 <ln id="EXP2_BeatNeinzulYoungster_Silver_Desc">Победите Детёныша Neinzul'ов на сложности 7 или выше.</ln>
 
+<!-- EN: 3. You Would Make A Good Substitute Teacher -->
 <ln id="EXP2_BeatNeinzulYoungster_Gold">3. Ты Был Бы Хорошим Учителем</ln>
+<!-- EN: Win against Neinzul Youngster on difficulty 9 or up. -->
 <ln id="EXP2_BeatNeinzulYoungster_Gold_Desc">Победите Детёныша Neinzul'ов на сложности 9 или выше.</ln>
 
 <!--3. Minor Factions-->
 
+<!-- EN: 3. Manifest Destiny -->
 <ln id="EXP2_WonWithNeinzulPreservationWarden_Silver">3. Явное предначертание</ln>
-<ln id="EXP2_WonWithNeinzulPreservationWarden_Silver_Desc">Победите с включённой фракцией Заповедных Стражей Neinzul'ов (интенсивность >= 4) на любой сложности.</ln>
+<!-- EN: Win with the Neinzul Preservation Warden minor faction (intensity >= 4) enabled on any difficulty. -->
+<ln id="EXP2_WonWithNeinzulPreservationWarden_Silver_Desc">Победите с включённой фракцией Заповедных Стражей Neinzul'ов (интенсивность &gt;= 4) на любой сложности.</ln>
 
+<!-- EN: 3. End Of The Road -->
 <ln id="EXP2_WonWithNeinzulRoamingEnclaves_Silver">3. Конец Пути</ln>
-<ln id="EXP2_WonWithNeinzulRoamingEnclaves_Silver_Desc">Победите с включённой фракцией Скитающихся Анклавов Neinzul'ов (интенсивность >= 4) на любой сложности.</ln>
+<!-- EN: Win with the Neinzul Roaming Enclaves minor faction (intensity >= 4) enabled on any difficulty. -->
+<ln id="EXP2_WonWithNeinzulRoamingEnclaves_Silver_Desc">Победите с включённой фракцией Скитающихся Анклавов Neinzul'ов (интенсивность &gt;= 4) на любой сложности.</ln>
 
+<!-- EN: 3. Would You Like To Play A Game? -->
 <ln id="EXP2_WonWithNeinzulRocketryCorps_Silver">3. Давай Сыграем В Игру?</ln>
-<ln id="EXP2_WonWithNeinzulRocketryCorps_Silver_Desc">Победите с включённой фракцией Ракетный Корпус Neinzul'ов (интенсивность >= 4) на любой сложности.</ln>
+<!-- EN: Win with the Neinzul Rocketry Corps minor faction (intensity >= 4) enabled on any difficulty. -->
+<ln id="EXP2_WonWithNeinzulRocketryCorps_Silver_Desc">Победите с включённой фракцией Ракетный Корпус Neinzul'ов (интенсивность &gt;= 4) на любой сложности.</ln>
 
 <!--4. Hard AI Types-->
 
+<!-- EN: 4. Neinzul Exterminator -->
 <ln id="EXP2_BeatNeinzulNester_Bronze">4. Истребитель Neinzul'ов</ln>
+<!-- EN: Win against Neinzul Nester on any difficulty. -->
 <ln id="EXP2_BeatNeinzulNester_Bronze_Desc">Победите Гнездового Neinzul'ов на любой сложности.</ln>
 
+<!-- EN: 4. Neinzul Exterminator -->
 <ln id="EXP2_BeatNeinzulNester_Silver">4. Истребитель Neinzul'ов</ln>
+<!-- EN: Win against Neinzul Nester on difficulty 7 or up. -->
 <ln id="EXP2_BeatNeinzulNester_Silver_Desc">Победите Гнездового Neinzul'ов на сложности 7 или выше.</ln>
 
+<!-- EN: 4. Neinzul Exterminator -->
 <ln id="EXP2_BeatNeinzulNester_Gold">4. Истребитель Neinzul'ов</ln>
+<!-- EN: Win against Neinzul Nester on difficulty 9 or up. -->
 <ln id="EXP2_BeatNeinzulNester_Gold_Desc">Победите Гнездового Neinzul'ов на сложности 9 или выше.</ln>
 
+<!-- EN: 4. Hop, Skip, Boom -->
 <ln id="EXP2_BeatWarpJumper_Bronze">4. Прыжок, Хлопок, Взрыв</ln>
+<!-- EN: Win against Warp Jumper on any difficulty. -->
 <ln id="EXP2_BeatWarpJumper_Bronze_Desc">Победите Создателя Помех на любой сложности.</ln>
 
+<!-- EN: 4. Hop, Skip, Boom -->
 <ln id="EXP2_BeatWarpJumper_Silver">4. Прыжок, Хлопок, Взрыв</ln>
+<!-- EN: Win against Warp Jumper on difficulty 7 or up. -->
 <ln id="EXP2_BeatWarpJumper_Silver_Desc">Победите Создателя Помех на сложности 7 или выше.</ln>
 
+<!-- EN: 4. Hop, Skip, Boom -->
 <ln id="EXP2_BeatWarpJumper_Gold">4. Прыжок, Хлопок, Взрыв</ln>
+<!-- EN: Win against Warp Jumper on difficulty 9 or up. -->
 <ln id="EXP2_BeatWarpJumper_Gold_Desc">Победите Создателя Помех на сложности 9 или выше.</ln>
 
 <!--4. AI Plots-->
 
+<!-- EN: 4. Gap-In-The-Wall'd -->
 <ln id="EXP2_WonWithHybridHives_Gold">4. Дыра В Стене</ln>
+<!-- EN: Win a game with the Hybrid Hives Plot enabled on any difficulty. -->
 <ln id="EXP2_WonWithHybridHives_Gold_Desc">Победите с включённым сценарием Ульи Гибридов на любой сложности.</ln>
 
+<!-- EN: 4. Should Have Stuck With The Emergent Stuff -->
 <ln id="EXP2_WonWithAdvancedHybridHives_Gold">4. Должно Быть Застрял В Возникшем Веществе</ln>
+<!-- EN: Win a game with the Advanced Hybrids Plot enabled on any difficulty. -->
 <ln id="EXP2_WonWithAdvancedHybridHives_Gold_Desc">Победите с включённым сценарием Улучшенные Гибриды на любой сложности.</ln>
 
 </root>

@@ -1,8 +1,13 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
+<!-- EN: Simple -->
 <ln id="Simple">Простая</ln>
+<!-- EN: Realistic -->
 <ln id="Realistic">Реалистичная</ln>
+<!-- EN: Simple - Hubs -->
 <ln id="Simple_Hubs">Прост. cкопления</ln>
+<!-- EN: Realistic - Hubs -->
 <ln id="Realistic_Hubs">Реал. cкопления</ln>
+<!-- EN: Unknown -->
 <ln id="Unknown">Неизвестная</ln>
 </root>

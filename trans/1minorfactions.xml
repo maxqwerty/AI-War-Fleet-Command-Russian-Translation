@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
+<!-- EN: Zenith Traders -->
 <ln id="ZenithTraders">Торговец Zenith'ов</ln>
+<!-- EN: These alien traders are happy to do business with anyone who can pay.  They travel around the galaxy, providing special ships (for a hefty fee) to both human and AI players alike. Only works with galaxy maps with 30+ planets. -->
 <ln id="ZenithTraders_Desc">Эти инопланетные торговцы будут рады иметь дело с любым, кто может заплатить. Они путешествуют по галактике, предлагая особые корабли (за огромные деньги) как людям, так и ИИ. Работает на картах с 30+ планетами.</ln>
+<!-- EN: Zenith Miners -->
 <ln id="ZenithMiners">Шахтёры Zenith'ов</ln>
+<!-- EN: Every four hours or so, multiple Mining Golems will appear from deep space on player and/OR AI planets, and will consume those planets unless they are destroyed before they complete their task.  The destruction of a planet won't harm player or AI ships, but destroys the planet itself and all resource gather points on that planet.  This also prevents you from getting supply on that planet for the rest of the game.
+
+Only works with galaxy maps with 30+ planets.
+
+This faction's intensity can be set from 0-10, where 0 is disabled, 1 is a minimal impact on the game, and 10 can have a dominating impact on the game.  4 is a good middle-ground.  Please note: cranking this up high could result in an extremely difficult and/or annoying scenario.
+
+To increase intensity, left-click the faction's button.  To decrease intensity, right-click the faction's button. -->
 <ln id="ZenithMiners_Desc">Примерно каждые четыре часа несколько Големов-Шахтёров появятся на планетах игрока и/или ИИ и поглотят планету, если их не остановить, пока они не завершат своё дело. Уничтожение планеты не затронет корабли людей или ИИ, но уничтожит сами планеты и все источники ресурсов на планете. Это также лишит вас возможности посылать подкрепления на эту планету в дальнейшем.
 
 Работает на картах с 30+ планетами.
@@ -10,28 +20,56 @@
 Интенсивность фракции устанавливается в диапазоне 0-10, где 0 - влияния нет, 1 - минимально, а 10 - доминирующее.  4 - это "золотая" середина.  Прим.: установка на высокий уровень может стать причиной сложного и/или нудного сценария.
 
 Для увеличения интенсивности - нажмите ЛКМ.  Для уменьшения - нажмите ПКМ.</ln>
+<!-- EN: Zenith Dyson Sphere -->
 <ln id="ZenithDysonSphere">Сфера Дайсона Zenith'ов</ln>
+<!-- EN: The massive Dyson Sphere Golem exists at one of the AI planets, and is basically a massive fortress that will attack humans and AIs alike.  However, if you free the planet from the AI, the sphere will realize your benign intent and will help you fight the AI on nearby planets.  If you take the planet for yourself, the sphere will attack you until you give up the planet. Only works with galaxy maps with 30+ planets.
+
+This faction's intensity can be set from 0-10, where 0 is disabled, 1 is a minimal impact on the game, and 10 can have a dominating impact on the game.  4 is a good middle-ground.
+
+To increase intensity, left-click the faction's button.  To decrease intensity, right-click the faction's button. -->
 <ln id="ZenithDysonSphere_Desc">Огромная Сфера Дайсона Zenith'ов существует на одной из планет ИИ, и является мощной Крепостью, атакующей как ИИ, так и людей. Тем не менее, если Вы освободите планету от ИИ, то сфера поймёт Ваши доброжелательные намерения и поможет Вам в борьбе против ИИ на соседних планетах. Если Вы сами захватите планету, то сфера будет атаковать Вас, пока Вы не освободите планету. Работает на картах с 30+ планетами.
 
 Интенсивность фракции устанавливается в диапазоне 0-10, где 0 - влияния нет, 1 - минимально, а 10 - доминирующее.  4 - это "золотая" середина.
 
 Для увеличения интенсивности - нажмите ЛКМ.  Для уменьшения - нажмите ПКМ.</ln>
+<!-- EN: Zenith Devourer -->
 <ln id="ZenithDevourer">Пожиратель Zenith'ов</ln>
+<!-- EN: The nigh-indestructible Devourer Golem makes its way slowly around the galaxy, absorbing all of the non-core mobile military ships (including scouts) on planets it visits in order to power and repair itself. Only works with galaxy maps with 30+ planets. -->
 <ln id="ZenithDevourer_Desc">Тяжело разрушимый Голем-Пожиратель медленно прокладывает свой путь через галактику, поглощая все "неглавные" мобильные военные корабли(включая Разведчиков) на планетах, которые он посещает, чтобы усилить и починить себя. Работает на картах с 30+ планетами.</ln>
 
+<!-- EN: Broken Golems (Easy) -->
 <ln id="BrokenGolemsEasy">Сломанные Големы (Легко)</ln>
+<!-- EN: Massive broken golems can be found around the galaxy, ready for humanity to capture and repair them.  Once repaired, they represent enormous power to use against the AI.
+
+The EASY version of this minor faction simply gives you the golems with nothing in the way of benefit to the AI.  Consequently, your adjusted score is also halved. -->
 <ln id="BrokenGolemsEasy_Desc">Массивные сломанные големы могут быть обнаружены по всей галактике, готовые к тому, чтобы люди захватили и починили их. После ремонта, они предоставят огромные возможности для использования против ИИ.
 
 ЛЁГКАЯ версия этой фракции просто создаёт големов без чего-либо полезного для ИИ. Соответственно, Ваши получаемые очки уменьшены вдвое.</ln>
 
+<!-- EN: Broken Golems (Moderate) -->
 <ln id="BrokenGolemsModerate">Сломанные Големы (Средне)</ln>
+<!-- EN: Massive broken golems can be found around the galaxy, ready for humanity to capture and repair them.  Once repaired, they represent enormous power to use against the AI.
+
+The MODERATE version of this minor faction gives you the golems at a moderate energy cost and with a small AI Progress increase upon repairing them from their broken states.
+
+Using the moderate version will automatically disable the easy version if the easy version is also selected. -->
 <ln id="BrokenGolemsModerate_Desc">Массивные сломанные големы могут быть обнаружены по всей галактике, готовые к тому, чтобы люди захватили и починили их. После ремонта, они предоставят огромные возможности для использования против ИИ.
 
 СРЕДНЯЯ версия этой фракции создаёт големов со средним энергопотреблением и с маленьким увеличением Прогресса ИИ на время восстановления из сломанного состояния.
 
 Использование средней версии автоматически отключает лёгкую, если она была выбрана.</ln>
 
+<!-- EN: Broken Golems (Hard) -->
 <ln id="BrokenGolemsHard">Сломанные Големы (Тяжело)</ln>
+<!-- EN: Massive broken golems can be found around the galaxy, ready for humanity to capture and repair them.  Once repaired, they represent enormous power to use against the AI.
+
+The HARD version of this minor faction gives you the golems at their base energy requirements with no AI Progress cost to repair them.  However, whether or not you choose to capture any golems, the AI periodically launches large exogalactic strikeforces against you  - -  so you're highly advised to get some golems in order to survive.
+
+Using the hard version will automatically disable the easy and moderate versions if either of them is also selected.
+
+This faction's intensity can be set from 0-10, where 0 is disabled, 1 is a minimal impact on the game, and 10 can have a dominating impact on the game.  4 is a good middle-ground.  Please note: the only thing that changes with intensity for Broken Golems (Hard) is the strength of the exogalactic strikeforces, and cranking this up high could result in an extremely difficult and/or annoying scenario.
+
+To increase intensity, left-click the faction's button.  To decrease intensity, right-click the faction's button. -->
 <ln id="BrokenGolemsHard_Desc">Массивные сломанные големы могут быть обнаружены по всей галактике, готовые к тому, чтобы люди захватили и починили их. После ремонта, они предоставят огромные возможности для использования против ИИ.
 
 ТЯЖЁЛАЯ версия этой фракции создаёт големов со своим обычным энергопотреблением и без Прогресса ИИ для его починки. Тем не менее, решили Вы или нет захватывать голема, ИИ будет периодически запускать большие экзогалактические ударные силы против Вас -- так что очень советуем Вам получить несколько големов, чтобы выжить.
@@ -42,19 +80,39 @@
 
 Для увеличения интенсивности - нажмите ЛКМ.  Для уменьшения - нажмите ПКМ.</ln>
 
+<!-- EN: Botnet Golem (Easy) -->
 <ln id="BotnetGolemEasy">Голем Ботнет (Легко)</ln>
+<!-- EN: Somewhere in the galaxy lurks the broken hulk of the terrible Botnet Golem.  If found, captured, and repaired it can inhale entire waves of AI attack ships and turn them into tireless (if uncontrollable) defenders of humanity.
+
+The EASY version of this minor faction simply places the golem on the map and does nothing in the way of benefit to the AI.  Consequently, your adjusted score is also halved. -->
 <ln id="BotnetGolemEasy_Desc">Где-то в галактике скрывается сломанный остов ужасного Голема Ботнета. Если его найти, захватить, починить, то он может втянуть в себя целые вольны атакующих кораблей ИИ и обернуть их в неустанных (если неподконтрольных) защитников человечества.
 
 ЛЁГКАЯ версия этой фракции просто создаёт големов без чего-либо полезного для ИИ. Соответственно, Ваши получаемые очки уменьшены вдвое.</ln>
 
+<!-- EN: Botnet Golem (Moderate) -->
 <ln id="BotnetGolemModerate">Голем Ботнет (Средне)</ln>
+<!-- EN: Somewhere in the galaxy lurks the broken hulk of the terrible Botnet Golem.  If found, captured, and repaired it can inhale entire waves of AI attack ships and turn them into tireless (if uncontrollable) defenders of humanity.
+
+The MODERATE version of this minor faction causes the Botnet Golem to require a high amount of energy to run and makes reactivating the Botnet result in an intense AI Progress increase.
+
+Using the moderate version will automatically disable the easy version if the easy version is also selected. -->
 <ln id="BotnetGolemModerate_Desc">Где-то в галактике скрывается сломанный остов ужасного Голема Ботнета. Если его найти, захватить, починить, то он может втянуть в себя целые вольны атакующих кораблей ИИ и обернуть их в неустанных (если неподконтрольных) защитников человечества.
 
 СРЕДНЯЯ версия этой фракции потребует для Голема Ботнета большое количество энергии для запуска и сделает реактивацию голема причиной большого роста Прогресса ИИ.
 
 Использование средней версии автоматически отключает лёгкую, если она была выбрана.</ln>
 
+<!-- EN: Botnet Golem (Hard) -->
 <ln id="BotnetGolemHard">Голем Ботнет (Тяжело)</ln>
+<!-- EN: Somewhere in the galaxy lurks the broken hulk of the terrible Botnet Golem.  If found, captured, and repaired it can inhale entire waves of AI attack ships and turn them into tireless (if uncontrollable) defenders of humanity.
+
+The HARD version of this minor faction causes the Botnet Golem to have its normal energy requirement and cause no AIP when reactivated.  However, whether or not you choose to capture the golem, the AI periodically launches large exogalactic strikeforces against you  - -  so you're highly advised to get the golem in order to survive.
+
+Using the hard version will automatically disable the easy and moderate versions if either of them is also selected.
+
+This faction's intensity can be set from 0-10, where 0 is disabled, 1 is a minimal impact on the game, and 10 can have a dominating impact on the game.  4 is a good middle-ground.  Please note: the only thing that changes with intensity for Botnet Golem (Hard) is the strength of the exogalactic strikeforces, and cranking this up high could result in an extremely difficult and/or annoying scenario.
+
+To increase intensity, left-click the faction's button.  To decrease intensity, right-click the faction's button. -->
 <ln id="BotnetGolemHard_Desc">Где-то в галактике скрывается сломанный остов ужасного Голема Ботнета. Если его найти, захватить, починить, то он может втянуть в себя целые вольны атакующих кораблей ИИ и обернуть их в неустанных (если неподконтрольных) защитников человечества.
 
 ТЯЖЁЛАЯ версия этой фракции потребует для Голема Ботнета обычное количество энергии и не приведёт к росту Прогресса ИИ при активации. Тем не менее, решили Вы или нет захватывать голема, ИИ будет периодически запускать большие экзогалактические ударные силы против Вас -- так что очень советуем Вам получить несколько големов, чтобы выжить.

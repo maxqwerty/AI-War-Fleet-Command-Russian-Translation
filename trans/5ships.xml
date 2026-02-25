@@ -1,552 +1,1022 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
 
+<!-- EN: AI Needler Command Station -->
 <ln id="AICommandStation_Needler_Full">Игловая Командная Станция ИИ</ln>
+<!-- EN: Cmd (AI-Ndl) -->
 <ln id="AICommandStation_Needler_Short">Кмд(ИИ-Игл)</ln>
+<!-- EN: Nerve center of every AI's planetary base.  Destroy this to greatly hamper the AI's ability to reinforce itself.
+
+This particular command station is a fortified version mounting many heavy needlers. -->
 <ln id="AICommandStation_Needler_Desc">Нервный центр каждой планетарной базы ИИ. Уничтожение сильно ограничивает способность ИИ к созданию подкреплений.
 
 Эта особая командная станция представляет собой усиленную версию и вооружена множеством тяжёлых игольников.</ln>
+<!-- EN: AI Laser Command Station -->
 <ln id="AICommandStation_Laser_Full">Лазерная Командная Станция ИИ</ln>
+<!-- EN: Cmd (AI-Las) -->
 <ln id="AICommandStation_Laser_Short">Кмд (ИИ-Лаз)</ln>
+<!-- EN: Nerve center of every AI's planetary base.  Destroy this to greatly hamper the AI's ability to reinforce itself.
+
+This particular command station is a fortified version mounting many heavy laser cannons. -->
 <ln id="AICommandStation_Laser_Desc">Нервный центр каждой планетарной базы ИИ. Уничтожение сильно ограничивает способность ИИ к созданию подкреплений.
 
 Эта особая командная станция представляет собой усиленную версию и вооружена множеством тяжёлых ларерных пушек.</ln>
+<!-- EN: AI MLRS Command Station -->
 <ln id="AICommandStation_MLRS_Full">РСЗО Командная Станция ИИ</ln>
+<!-- EN: Cmd (AI-MLRS) -->
 <ln id="AICommandStation_MLRS_Short">Кмд (ИИ-РСЗО)</ln>
+<!-- EN: Nerve center of every AI's planetary base.  Destroy this to greatly hamper the AI's ability to reinforce itself.
+
+This particular command station is a fortified version mounting many Multiple Launch Rocket batteries. -->
 <ln id="AICommandStation_MLRS_Desc">Нервный центр каждой планетарной базы ИИ. Уничтожение сильно ограничивает способность ИИ к созданию подкреплений.
 
 Эта особая командная станция представляет собой усиленную версию и вооружена множеством Реактивных Систем Залпового Огня.</ln>
+<!-- EN: AI Missile Command Station -->
 <ln id="AICommandStation_Missile_Full">Ракетная Командная Станция ИИ</ln>
+<!-- EN: Cmd (AI-Mis) -->
 <ln id="AICommandStation_Missile_Short">Кмд (ИИ-Рак)</ln>
+<!-- EN: Nerve center of every AI's planetary base.  Destroy this to greatly hamper the AI's ability to reinforce itself.
+
+This particular command station is a fortified version mounting several heavy missile launchers. -->
 <ln id="AICommandStation_Missile_Desc">Нервный центр каждой планетарной базы ИИ. Уничтожение сильно ограничивает способность ИИ к созданию подкреплений.
 
 Эта особая командная станция представляет собой усиленную версию и вооружена несколькими пусковыми ракетными установками.</ln>
+<!-- EN: AI Railcannon Command Station -->
 <ln id="AICommandStation_Sniper_Full">Рельсотронная Командная Станция ИИ</ln>
+<!-- EN: Cmd (AI-Rail) -->
 <ln id="AICommandStation_Sniper_Short">Кмд (ИИ-Релс)</ln>
+<!-- EN: Nerve center of every AI's planetary base.  Destroy this to greatly hamper the AI's ability to reinforce itself.
+
+This particular command station is a fortified version mounting heavy railcannons with effectively infinite range. -->
 <ln id="AICommandStation_Sniper_Desc">Нервный центр каждой планетарной базы ИИ. Уничтожение сильно ограничивает способность ИИ к созданию подкреплений.
 
 Эта особая командная станция представляет собой усиленную версию и вооружена тяжёлыми рельсотронами с бесконечной дальностью поражения.</ln>
+<!-- EN: AI Spider Command Station -->
 <ln id="AICommandStation_Spider_Full">Паучья Командная Станция ИИ</ln>
+<!-- EN: Cmd (AI-Spd) -->
 <ln id="AICommandStation_Spider_Short">Кмд (ИИ-Пау)</ln>
+<!-- EN: Nerve center of every AI's planetary base.  Destroy this to greatly hamper the AI's ability to reinforce itself.
+
+This particular command station is a fortified version mounting a heavy "shotgun" weapon designed to cripple the engines of enemy units. -->
 <ln id="AICommandStation_Spider_Desc">Нервный центр каждой планетарной базы ИИ. Уничтожение сильно ограничивает способность ИИ к созданию подкреплений.
 
 Эта особая командная станция представляет собой усиленную версию и вооружена тяжёлым "дробовиковым" оружием, созданным для уничтожения двигателей вражеских юнитов.</ln>
+<!-- EN: AI Tachyon Command Station -->
 <ln id="AICommandStation_Tachyon_Full">Тахионная Командная Станция ИИ</ln>
+<!-- EN: Cmd (AI-Tach) -->
 <ln id="AICommandStation_Tachyon_Short">Кмд (ИИ-Тах)</ln>
+<!-- EN: Nerve center of every AI's planetary base.  Destroy this to greatly hamper the AI's ability to reinforce itself.
+
+This particular command station is a fortified version mounting some weaponry but more importantly an extremely powerful tachyon emitter that covers the entire planet. -->
 <ln id="AICommandStation_Tachyon_Desc">Нервный центр каждой планетарной базы ИИ. Уничтожение сильно ограничивает способность ИИ к созданию подкреплений.
 
 Эта особая командная станция представляет собой усиленную версию и вооружена некоторым оружием, но более важен - тахионный излучатель, покрывающий всю планету.</ln>
+<!-- EN: AI Gravitic Command Station -->
 <ln id="AICommandStation_Gravity_Full">Гравитационная Командная Станция ИИ</ln>
+<!-- EN: Cmd (AI-Grav) -->
 <ln id="AICommandStation_Gravity_Short">Кмд (ИИ-Грав)</ln>
+<!-- EN: Nerve center of every AI's planetary base.  Destroy this to greatly hamper the AI's ability to reinforce itself.
+
+This particular command station is a fortified version mounting some weaponry but more importantly an extremely powerful gravity generator which slows enemy ships in a very wide area around it. -->
 <ln id="AICommandStation_Gravity_Desc">Нервный центр каждой планетарной базы ИИ. Уничтожение сильно ограничивает способность ИИ к созданию подкреплений.
 
 Эта особая командная станция представляет собой усиленную версию и вооружена вооружена некоторым оружием, но более важен экстремально мощный гравитационный генератор, замедляющий врагов на большой площади.</ln>
+<!-- EN: AI Munitions-Boosting Command Station -->
 <ln id="AICommandStation_MunitionsBoosting_Full">Усилитель Боеприпасов Командная Станция ИИ</ln>
+<!-- EN: Cmd (AI-MB) -->
 <ln id="AICommandStation_MunitionsBoosting_Short">Кмд (ИИ-УБ)</ln>
+<!-- EN: Nerve center of every AI's planetary base.  Destroy this to greatly hamper the AI's ability to reinforce itself.
+
+This particular command station is a fortified version mounting some weaponry but more importantly providing a 100% munitions boost to all allied units on the planet. -->
 <ln id="AICommandStation_MunitionsBoosting_Desc">Нервный центр каждой планетарной базы ИИ. Уничтожение сильно ограничивает способность ИИ к созданию подкреплений.
 
 Эта особая командная станция представляет собой усиленную версию и вооружена некоторым оружием, но более важна поддержка 100% усиления всех юнитов на планете.</ln>
+<!-- EN: AI Lance Command Station -->
 <ln id="AICommandStation_PhotonLance_Full">Копья Командная Станция ИИ</ln>
+<!-- EN: Cmd (AI-Lnc) -->
 <ln id="AICommandStation_PhotonLance_Short">Кмд (ИИ-Коп)</ln>
+<!-- EN: Nerve center of every AI's planetary base.  Destroy this to greatly hamper the AI's ability to reinforce itself.
+
+This particular command station is a fortified version mounting a single heavy photon lance. -->
 <ln id="AICommandStation_PhotonLance_Desc">Нервный центр каждой планетарной базы ИИ. Уничтожение сильно ограничивает способность ИИ к созданию подкреплений.
 
 Эта особая командная станция представляет собой усиленную версию и вооружена одиночным тяжёлым фотонным копьём.</ln>
+<!-- EN: AI Troop-Accelerating Command Station -->
 <ln id="AICommandStation_TroopAccelerating_Full">Усилитель Отряда Командная Станция ИИ</ln>
+<!-- EN: Cmd (AI-TAc) -->
 <ln id="AICommandStation_TroopAccelerating_Short">Кмд (ИИ-УОт)</ln>
+<!-- EN: Nerve center of every AI's planetary base.  Destroy this to greatly hamper the AI's ability to reinforce itself.
+
+This particular command station is a fortified version mounting some weaponry but more importantly receives substantially more units when reinforced by the AI. -->
 <ln id="AICommandStation_TroopAccelerating_Desc">Нервный центр каждой планетарной базы ИИ. Уничтожение сильно ограничивает способность ИИ к созданию подкреплений.
 
 Эта особая командная станция представляет собой усиленную версию и вооружена вооружена некоторым оружием, но более важно получение большего числа юнитов в подкреплении ИИ.</ln>
+<!-- EN: AI Translocator Command Station -->
 <ln id="AICommandStation_Translocator_Full">Транслокаторная Командная Станция ИИ</ln>
+<!-- EN: Cmd (AI-Trn) -->
 <ln id="AICommandStation_Translocator_Short">Кмд (ИИ-Трн)</ln>
+<!-- EN: Nerve center of every AI's planetary base.  Destroy this to greatly hamper the AI's ability to reinforce itself.
+
+This particular command station is a fortified version mounting powerful long-range "knockback" railguns that actually translocate many targets further from the station. -->
 <ln id="AICommandStation_Translocator_Desc">Нервный центр каждой планетарной базы ИИ. Уничтожение сильно ограничивает способность ИИ к созданию подкреплений.
 
 Эта особая командная станция представляет собой усиленную версию и вооружена мощным дальнобойным "отбрасывающим" рельсотроном, который отбрасывает большинство юнитов подальше от станции.</ln>
 
+<!-- EN: AI Sniper Guard Post -->
 <ln id="AIGuardPost_Sniper_Full">Караульный Пост ИИ Снайпер</ln>
+<!-- EN: Post (Sniper I) -->
 <ln id="AIGuardPost_Sniper_Short">Пост (Снайпер I)</ln>
+<!-- EN: Mounts powerful railcannons with effectively infinite range. -->
 <ln id="AIGuardPost_Sniper_Desc">Вооружён мощными рельсотронами с бесконечной дальностью поражения.</ln>
+<!-- EN: AI Sniper Guard Post Mark II -->
 <ln id="AIGuardPost_SniperII_Full">Караульный Пост ИИ Снайпер Модель II</ln>
+<!-- EN: Post (Sniper II) -->
 <ln id="AIGuardPost_SniperII_Short">Пост (Снайпер II)</ln>
+<!-- EN: AI Sniper Guard Post Mark III -->
 <ln id="AIGuardPost_SniperIII_Full">Караульный Пост ИИ Снайпер Модель III</ln>
+<!-- EN: Post (Sniper III) -->
 <ln id="AIGuardPost_SniperIII_Short">Пост (Снайпер III)</ln>
+<!-- EN: AI Sniper Guard Post Mark IV -->
 <ln id="AIGuardPost_SniperIV_Full">Караульный Пост ИИ Снайпер Модель IV</ln>
+<!-- EN: Post (Sniper IV) -->
 <ln id="AIGuardPost_SniperIV_Short">Пост (Снайпер IV)</ln>
+<!-- EN: AI Sniper Guard Post Mark V -->
 <ln id="AIGuardPost_SniperV_Full">Караульный Пост ИИ Снайпер Модель V</ln>
+<!-- EN: Post (Sniper V) -->
 <ln id="AIGuardPost_SniperV_Short">Пост (Снайпер V)</ln>
 
+<!-- EN: AI Spider Guard Post -->
 <ln id="AIGuardPost_Spider_Full">Караульный Пост ИИ Паук</ln>
+<!-- EN: Post (Spider I) -->
 <ln id="AIGuardPost_Spider_Short">Пост (Паук I)</ln>
+<!-- EN: Mounts a powerful "shotgun"-like weapon designed to cripple the engines of enemy units. -->
 <ln id="AIGuardPost_Spider_Desc">Вооружён тяжёлым "дробовиковым" оружием, созданным для уничтожения двигателей вражеских юнитов.</ln>
+<!-- EN: AI Spider Guard Post Mark II -->
 <ln id="AIGuardPost_SpiderII_Full">Караульный Пост ИИ Паук Модель II</ln>
+<!-- EN: Post (Spider II) -->
 <ln id="AIGuardPost_SpiderII_Short">Пост (Паук II)</ln>
+<!-- EN: AI Spider Guard Post Mark III -->
 <ln id="AIGuardPost_SpiderIII_Full">Караульный Пост ИИ Паук Модель III</ln>
+<!-- EN: Post (Spider III) -->
 <ln id="AIGuardPost_SpiderIII_Short">Пост (Паук III)</ln>
+<!-- EN: AI Spider Guard Post Mark IV -->
 <ln id="AIGuardPost_SpiderIV_Full">Караульный Пост ИИ Паук Модель IV</ln>
+<!-- EN: Post (Spider IV) -->
 <ln id="AIGuardPost_SpiderIV_Short">Пост (Паук IV)</ln>
+<!-- EN: AI Spider Guard Post Mark V -->
 <ln id="AIGuardPost_SpiderV_Full">Караульный Пост ИИ Паук Модель V</ln>
+<!-- EN: Post (Spider V) -->
 <ln id="AIGuardPost_SpiderV_Short">Пост (Паук V)</ln>
 
+<!-- EN: AI Tractor Guard Post -->
 <ln id="AIGuardPost_Tractor_Full">Караульный Пост ИИ Тягач</ln>
+<!-- EN: Post (Tractor I) -->
 <ln id="AIGuardPost_Tractor_Short">Пост (Тягач I)</ln>
+<!-- EN: In addition to its weaponry, mounts a powerful multiplex tractor beam. -->
 <ln id="AIGuardPost_Tractor_Desc">В дополнение к своему оружию, имеет батарею тяговых лучей.</ln>
+<!-- EN: AI Tractor Guard Post Mark II -->
 <ln id="AIGuardPost_TractorII_Full">Караульный Пост ИИ Тягач Модель II</ln>
+<!-- EN: Post (Tractor II) -->
 <ln id="AIGuardPost_TractorII_Short">Пост (Тягач II)</ln>
+<!-- EN: AI Tractor Guard Post Mark III -->
 <ln id="AIGuardPost_TractorIII_Full">Караульный Пост ИИ Тягач Модель III</ln>
+<!-- EN: Post (Tractor III) -->
 <ln id="AIGuardPost_TractorIII_Short">Пост (Тягач III)</ln>
+<!-- EN: AI Tractor Guard Post Mark IV -->
 <ln id="AIGuardPost_TractorIV_Full">Караульный Пост ИИ Тягач Модель IV</ln>
+<!-- EN: Post (Tractor IV) -->
 <ln id="AIGuardPost_TractorIV_Short">Пост (Тягач IV)</ln>
+<!-- EN: AI Tractor Guard Post Mark V -->
 <ln id="AIGuardPost_TractorV_Full">Караульный Пост ИИ Тягач Модель V</ln>
+<!-- EN: Post (Tractor V) -->
 <ln id="AIGuardPost_TractorV_Short">Пост (Тягач V)</ln>
 
+<!-- EN: AI Widow Guard Post -->
 <ln id="AIGuardPost_Widow_Full">Караульный Пост ИИ Вдова</ln>
+<!-- EN: Post (Widow I) -->
 <ln id="AIGuardPost_Widow_Short">Пост (Вдова I)</ln>
+<!-- EN: In addition to its weaponry, mounts a powerful multiplex tractor beam that also paralyzes its victims. -->
 <ln id="AIGuardPost_Widow_Desc">В дополнение к своему оружию, имеет батарею тяговых лучей, которые также парализуют своих жертв.</ln>
+<!-- EN: AI Widow Guard Post Mark II -->
 <ln id="AIGuardPost_WidowII_Full">Караульный Пост ИИ Вдова Модель II</ln>
+<!-- EN: Post (Widow II) -->
 <ln id="AIGuardPost_WidowII_Short">Пост (Вдова II)</ln>
+<!-- EN: AI Widow Guard Post Mark III -->
 <ln id="AIGuardPost_WidowIII_Full">Караульный Пост ИИ Вдова Модель III</ln>
+<!-- EN: Post (Widow III) -->
 <ln id="AIGuardPost_WidowIII_Short">Пост (Вдова III)</ln>
+<!-- EN: AI Widow Guard Post Mark IV -->
 <ln id="AIGuardPost_WidowIV_Full">Караульный Пост ИИ Вдова Модель IV</ln>
+<!-- EN: Post (Widow IV) -->
 <ln id="AIGuardPost_WidowIV_Short">Пост (Вдова IV)</ln>
+<!-- EN: AI Widow Guard Post Mark V -->
 <ln id="AIGuardPost_WidowV_Full">Караульный Пост ИИ Вдова Модель V</ln>
+<!-- EN: Post (Widow V) -->
 <ln id="AIGuardPost_WidowV_Short">Пост (Вдова V)</ln>
 
+<!-- EN: AI Tachyon Guard Post -->
 <ln id="AIGuardPost_Tachyon_Full">Караульный Пост ИИ Тахион</ln>
+<!-- EN: Post (Tachyon I) -->
 <ln id="AIGuardPost_Tachyon_Short">Пост (Тахион I)</ln>
+<!-- EN: In addition to its weaponry, mounts a powerful tachyon emitter for uncovering cloaked enemies. -->
 <ln id="AIGuardPost_Tachyon_Desc">В дополнение к своему оружию, имеет мощный тахионный излучатель для поиска скрывающихся юнитов.</ln>
+<!-- EN: AI Tachyon Guard Post Mark II -->
 <ln id="AIGuardPost_TachyonII_Full">Караульный Пост ИИ Тахион Модель II</ln>
+<!-- EN: Post (Tachyon II) -->
 <ln id="AIGuardPost_TachyonII_Short">Пост (Тахион II)</ln>
+<!-- EN: AI Tachyon Guard Post Mark III -->
 <ln id="AIGuardPost_TachyonIII_Full">Караульный Пост ИИ Тахион Модель III</ln>
+<!-- EN: Post (Tachyon III) -->
 <ln id="AIGuardPost_TachyonIII_Short">Пост (Тахион III)</ln>
+<!-- EN: AI Tachyon Guard Post Mark IV -->
 <ln id="AIGuardPost_TachyonIV_Full">Караульный Пост ИИ Тахион Модель IV</ln>
+<!-- EN: Post (Tachyon IV) -->
 <ln id="AIGuardPost_TachyonIV_Short">Пост (Тахион IV)</ln>
+<!-- EN: AI Tachyon Guard Post Mark V -->
 <ln id="AIGuardPost_TachyonV_Full">Караульный Пост ИИ Тахион Модель V</ln>
+<!-- EN: Post (Tachyon V) -->
 <ln id="AIGuardPost_TachyonV_Short">Пост (Тахион V)</ln>
 
+<!-- EN: AI Gravity Guard Post -->
 <ln id="AIGuardPost_Gravity_Full">Караульный Пост ИИ Гравитационный</ln>
+<!-- EN: Post (Gravity I) -->
 <ln id="AIGuardPost_Gravity_Short">Пост (Грави I)</ln>
+<!-- EN: In addition to its weaponry, mounts a powerful gravity generator that slows down nearby enemies. -->
 <ln id="AIGuardPost_Gravity_Desc">В дополнение к своему оружию, имеет гравитационный генератор, замедляющий ближайших врагов.</ln>
+<!-- EN: AI Gravity Guard Post Mark II -->
 <ln id="AIGuardPost_GravityII_Full">Караульный Пост ИИ Гравитационный Модель II</ln>
+<!-- EN: Post (Gravity II) -->
 <ln id="AIGuardPost_GravityII_Short">Пост (Грави II)</ln>
+<!-- EN: AI Gravity Guard Post Mark III -->
 <ln id="AIGuardPost_GravityIII_Full">Караульный Пост ИИ Гравитационный Модель III</ln>
+<!-- EN: Post (Gravity III) -->
 <ln id="AIGuardPost_GravityIII_Short">Пост (Грави III)</ln>
+<!-- EN: AI Gravity Guard Post Mark IV -->
 <ln id="AIGuardPost_GravityIV_Full">Караульный Пост ИИ Гравитационный Модель IV</ln>
+<!-- EN: Post (Gravity IV) -->
 <ln id="AIGuardPost_GravityIV_Short">Пост (Грави IV)</ln>
+<!-- EN: AI Gravity Guard Post Mark V -->
 <ln id="AIGuardPost_GravityV_Full">Караульный Пост ИИ Гравитационный Модель V</ln>
+<!-- EN: Post (Gravity V) -->
 <ln id="AIGuardPost_GravityV_Short">Пост (Грави V)</ln>
 
+<!-- EN: AI Munitions Boosting Guard Post -->
 <ln id="AIGuardPost_MunitionsBoosting_Full">Караульный Пост ИИ Усилитель Боеприпасов</ln>
+<!-- EN: Post (Munitions Boosting I) -->
 <ln id="AIGuardPost_MunitionsBoosting_Short">Пост (Усилитель Боеприпасов I)</ln>
+<!-- EN: In addition to its weaponry, boosts the attack power of nearby allies. -->
 <ln id="AIGuardPost_MunitionsBoosting_Desc">В дополнение к своему оружию, усиливает атакующую мощь ближайших союзников.</ln>
+<!-- EN: AI Munitions Boosting Guard Post Mark II -->
 <ln id="AIGuardPost_MunitionsBoostingII_Full">Караульный Пост ИИ Усилитель Боеприпасов Модель II</ln>
+<!-- EN: Post (Munitions Boosting II) -->
 <ln id="AIGuardPost_MunitionsBoostingII_Short">Пост (Усилитель Боеприпасов II)</ln>
+<!-- EN: AI Munitions Boosting Guard Post Mark III -->
 <ln id="AIGuardPost_MunitionsBoostingIII_Full">Караульный Пост ИИ Усилитель Боеприпасов Модель III</ln>
+<!-- EN: Post (Munitions Boosting III) -->
 <ln id="AIGuardPost_MunitionsBoostingIII_Short">Пост (Усилитель Боеприпасов III)</ln>
+<!-- EN: AI Munitions Boosting Guard Post Mark IV -->
 <ln id="AIGuardPost_MunitionsBoostingIV_Full">Караульный Пост ИИ Усилитель Боеприпасов Модель IV</ln>
+<!-- EN: Post (Munitions Boosting IV) -->
 <ln id="AIGuardPost_MunitionsBoostingIV_Short">Пост (Усилитель Боеприпасов IV)</ln>
+<!-- EN: AI Munitions Boosting Guard Post Mark V -->
 <ln id="AIGuardPost_MunitionsBoostingV_Full">Караульный Пост ИИ Усилитель Боеприпасов Модель V</ln>
+<!-- EN: Post (Munitions Boosting V) -->
 <ln id="AIGuardPost_MunitionsBoostingV_Short">Пост (Усилитель Боеприпасов V)</ln>
 
+<!-- EN: AI Plasma Guard Post -->
 <ln id="AIGuardPost_Plasma_Full">Караульный Пост ИИ Плазменный</ln>
+<!-- EN: Post (Plasma I) -->
 <ln id="AIGuardPost_Plasma_Short">Пост (Плазма I)</ln>
+<!-- EN: Is basically built around a powerful plasma siege cannon which does intense damage to a single target and reduced damage in an area around the target.  If it damages a forcefield it also causes some damage to several targets underneath that forcefield. -->
 <ln id="AIGuardPost_Plasma_Desc">Фактически построен вокруг мощной плазменной пушки, наносящей интенсивный урон одиночной цели и уменьшенный урон по площади вокруг цели. При стрельбе по силовому полю, наносит урон нескольким целям под этим полем.</ln>
+<!-- EN: AI Plasma Guard Post Mark II -->
 <ln id="AIGuardPost_PlasmaII_Full">Караульный Пост ИИ Плазменный Модель II</ln>
+<!-- EN: Post (Plasma II) -->
 <ln id="AIGuardPost_PlasmaII_Short">Пост (Плазма II)</ln>
+<!-- EN: AI Plasma Guard Post Mark III -->
 <ln id="AIGuardPost_PlasmaIII_Full">Караульный Пост ИИ Плазменный Модель III</ln>
+<!-- EN: Post (Plasma III) -->
 <ln id="AIGuardPost_PlasmaIII_Short">Пост (Плазма III)</ln>
+<!-- EN: AI Plasma Guard Post Mark IV -->
 <ln id="AIGuardPost_PlasmaIV_Full">Караульный Пост ИИ Плазменный Модель IV</ln>
+<!-- EN: Post (Plasma IV) -->
 <ln id="AIGuardPost_PlasmaIV_Short">Пост (Плазма IV)</ln>
+<!-- EN: AI Plasma Guard Post Mark V -->
 <ln id="AIGuardPost_PlasmaV_Full">Караульный Пост ИИ Плазменный Модель V</ln>
+<!-- EN: Post (Plasma V) -->
 <ln id="AIGuardPost_PlasmaV_Short">Пост (Плазма V)</ln>
 
+<!-- EN: AI Enclave Guard Post -->
 <ln id="AIGuardPost_Enclave_Full">Караульный Пост ИИ Анклав</ln>
+<!-- EN: Post (Enclave I) -->
 <ln id="AIGuardPost_Enclave_Short">Пост (Анклав I)</ln>
+<!-- EN: In addition to its weaponry, contains internal fabrication and hangar facilities for a number of attack drones that it will launch when enemies are present. -->
 <ln id="AIGuardPost_Enclave_Desc">В дополнение к своему оружию, содержит внутренние производственные и ангарные сооружения для некоторого числа атакующих дронов, которые будут запущены при появлении врага.</ln>
+<!-- EN: AI Enclave Guard Post Mark II -->
 <ln id="AIGuardPost_EnclaveII_Full">Караульный Пост ИИ Анклав Модель II</ln>
+<!-- EN: Post (Enclave II) -->
 <ln id="AIGuardPost_EnclaveII_Short">Пост (Анклав II)</ln>
+<!-- EN: AI Enclave Guard Post Mark III -->
 <ln id="AIGuardPost_EnclaveIII_Full">Караульный Пост ИИ Анклав Модель III</ln>
+<!-- EN: Post (Enclave III) -->
 <ln id="AIGuardPost_EnclaveIII_Short">Пост (Анклав III)</ln>
+<!-- EN: AI Enclave Guard Post Mark IV -->
 <ln id="AIGuardPost_EnclaveIV_Full">Караульный Пост ИИ Анклав Модель IV</ln>
+<!-- EN: Post (Enclave IV) -->
 <ln id="AIGuardPost_EnclaveIV_Short">Пост (Анклав IV)</ln>
+<!-- EN: AI Enclave Guard Post Mark V -->
 <ln id="AIGuardPost_EnclaveV_Full">Караульный Пост ИИ Анклав Модель V</ln>
+<!-- EN: Post (Enclave V) -->
 <ln id="AIGuardPost_EnclaveV_Short">Пост (Анклав V)</ln>
 
+<!-- EN: AI Implosion Guard Post -->
 <ln id="AIGuardPost_Implosion_Full">Караульный Пост ИИ Имплозийный</ln>
+<!-- EN: Post (Implosion I) -->
 <ln id="AIGuardPost_Implosion_Short">Пост (Имплозия I)</ln>
+<!-- EN: Mounts a number of powerful implosion cannons which do a percent of the target's health in damage, making them extremely effective against large enemy units. -->
 <ln id="AIGuardPost_Implosion_Desc">Использует несколько мощных имплозийных пушек, наносящих урон из рассчёта процента здоровья цели, что делает его очень эффективным против больших юнитов.</ln>
+<!-- EN: AI Implosion Guard Post Mark II -->
 <ln id="AIGuardPost_ImplosionII_Full">Караульный Пост ИИ Имплозийный Модель II</ln>
+<!-- EN: Post (Implosion II) -->
 <ln id="AIGuardPost_ImplosionII_Short">Пост (Имплозия II)</ln>
+<!-- EN: AI Implosion Guard Post Mark III -->
 <ln id="AIGuardPost_ImplosionIII_Full">Караульный Пост ИИ Имплозийный Модель III</ln>
+<!-- EN: Post (Implosion III) -->
 <ln id="AIGuardPost_ImplosionIII_Short">Пост (Имплозия III)</ln>
+<!-- EN: AI Implosion Guard Post Mark IV -->
 <ln id="AIGuardPost_ImplosionIV_Full">Караульный Пост ИИ Имплозийный Модель IV</ln>
+<!-- EN: Post (Implosion IV) -->
 <ln id="AIGuardPost_ImplosionIV_Short">Пост (Имплозия IV)</ln>
+<!-- EN: AI Implosion Guard Post Mark V -->
 <ln id="AIGuardPost_ImplosionV_Full">Караульный Пост ИИ Имплозийный Модель V</ln>
+<!-- EN: Post (Implosion V) -->
 <ln id="AIGuardPost_ImplosionV_Short">Пост (Имплозия V)</ln>
 
+<!-- EN: AI Disassembler Guard Post -->
 <ln id="AIGuardPost_Disassembler_Full">Караульный Пост ИИ Дизассемблер</ln>
+<!-- EN: Post (Disassembler I) -->
 <ln id="AIGuardPost_Disassembler_Short">Пост (Дизассемблер I)</ln>
+<!-- EN: In addition to its weaponry, also swallows enemy starships whole and disassembles them.  If the post is destroyed any surviving starships inside will emerge. -->
 <ln id="AIGuardPost_Disassembler_Desc">В дополнение к своему оружию, также проглатывает вражеские звездолёты целиком и разбирает их. При уничтожении поста, выжившие проглоченные корабли высвободятся.</ln>
+<!-- EN: AI Disassembler Guard Post Mark II -->
 <ln id="AIGuardPost_DisassemblerII_Full">Караульный Пост ИИ Дизассемблер Модель II</ln>
+<!-- EN: Post (Disassembler II) -->
 <ln id="AIGuardPost_DisassemblerII_Short">Пост (Дизассемблер II)</ln>
+<!-- EN: AI Disassembler Guard Post Mark III -->
 <ln id="AIGuardPost_DisassemblerIII_Full">Караульный Пост ИИ Дизассемблер Модель III</ln>
+<!-- EN: Post (Disassembler III) -->
 <ln id="AIGuardPost_DisassemblerIII_Short">Пост (Дизассемблер III)</ln>
+<!-- EN: AI Disassembler Guard Post Mark IV -->
 <ln id="AIGuardPost_DisassemblerIV_Full">Караульный Пост ИИ Дизассемблер Модель IV</ln>
+<!-- EN: Post (Disassembler IV) -->
 <ln id="AIGuardPost_DisassemblerIV_Short">Пост (Дизассемблер IV)</ln>
+<!-- EN: AI Disassembler Guard Post Mark V -->
 <ln id="AIGuardPost_DisassemblerV_Full">Караульный Пост ИИ Дизассемблер Модель V</ln>
+<!-- EN: Post (Disassembler V) -->
 <ln id="AIGuardPost_DisassemblerV_Short">Пост (Дизассемблер V)</ln>
 
+<!-- EN: AI Widow Guardian -->
 <ln id="AIGuardian_Widow_Full">Страж ИИ Вдова</ln>
+<!-- EN: Guard (Widow I) -->
 <ln id="AIGuardian_Widow_Short">Страж (Вдова I)</ln>
+<!-- EN: A particularly uncomfortable variant of the Tractor Guardian which also paralyzes its victims. -->
 <ln id="AIGuardian_Widow_Desc">Особенно неприятный вариант Тягового Стража, который также парализует своих жертв.</ln>
+<!-- EN: AI Widow Guardian Mark II -->
 <ln id="AIGuardian_WidowII_Full">Страж ИИ Вдова Модель II</ln>
+<!-- EN: Guard (Widow II) -->
 <ln id="AIGuardian_WidowII_Short">Страж (Вдова II)</ln>
+<!-- EN: AI Widow Guardian Mark III -->
 <ln id="AIGuardian_WidowIII_Full">Страж ИИ Вдова Модель III</ln>
+<!-- EN: Guard (Widow III) -->
 <ln id="AIGuardian_WidowIII_Short">Страж (Вдова III)</ln>
+<!-- EN: AI Widow Guardian Mark IV -->
 <ln id="AIGuardian_WidowIV_Full">Страж ИИ Вдова Модель IV</ln>
+<!-- EN: Guard (Widow IV) -->
 <ln id="AIGuardian_WidowIV_Short">Страж (Вдова IV)</ln>
+<!-- EN: AI Widow Guardian Mark V -->
 <ln id="AIGuardian_WidowV_Full">Страж ИИ Вдова Модель V</ln>
+<!-- EN: Guard (Widow V) -->
 <ln id="AIGuardian_WidowV_Short">Страж (Вдова V)</ln>
 
+<!-- EN: AI Munitions Boosting Guardian -->
 <ln id="AIGuardian_MunitionsBoosting_Full">Страж ИИ Усилитель Боеприпасов</ln>
+<!-- EN: Guard (MB I) -->
 <ln id="AIGuardian_MunitionsBoosting_Short">Страж (УБ I)</ln>
+<!-- EN: Dangerous in its own right, but the real problem is that this guardian boosts the attack power of nearby allied ships. -->
 <ln id="AIGuardian_MunitionsBoosting_Desc">Опасен сам по себе, но реальная опаность в том, что этот страж усиливает атакующую мощь ближайших союзников.</ln>
+<!-- EN: AI Munitions Boosting Guardian Mark II -->
 <ln id="AIGuardian_MunitionsBoostingII_Full">Страж ИИ Усилитель Боеприпасов Модель II</ln>
+<!-- EN: Guard (MB II) -->
 <ln id="AIGuardian_MunitionsBoostingII_Short">Страж (УБ II)</ln>
+<!-- EN: AI Munitions Boosting Guardian Mark III -->
 <ln id="AIGuardian_MunitionsBoostingIII_Full">Страж ИИ Усилитель Боеприпасов Модель III</ln>
+<!-- EN: Guard (MB III) -->
 <ln id="AIGuardian_MunitionsBoostingIII_Short">Страж (УБ III)</ln>
+<!-- EN: AI Munitions Boosting Guardian Mark IV -->
 <ln id="AIGuardian_MunitionsBoostingIV_Full">Страж ИИ Усилитель Боеприпасов Модель IV</ln>
+<!-- EN: Guard (MB IV) -->
 <ln id="AIGuardian_MunitionsBoostingIV_Short">Страж (УБ IV)</ln>
+<!-- EN: AI Munitions Boosting Guardian Mark V -->
 <ln id="AIGuardian_MunitionsBoostingV_Full">Страж ИИ Усилитель Боеприпасов Модель V</ln>
+<!-- EN: Guard (MB V) -->
 <ln id="AIGuardian_MunitionsBoostingV_Short">Страж (УБ V)</ln>
 
+<!-- EN: AI Needler Guardian -->
 <ln id="AIGuardian_Needler_Full">Страж ИИ Игольчатый</ln>
+<!-- EN: Guard (Needler I) -->
 <ln id="AIGuardian_Needler_Short">Страж (Игольчат I)</ln>
+<!-- EN: Bristles with banks of needlers.  Best dealt with very carefully. -->
 <ln id="AIGuardian_Needler_Desc">Стреляет пучками игл. Нужно разобраться осторожно.</ln>
+<!-- EN: AI Needler Guardian Mark II -->
 <ln id="AIGuardian_NeedlerII_Full">Страж ИИ Игольчатый Модель II</ln>
+<!-- EN: Guard (Needler II) -->
 <ln id="AIGuardian_NeedlerII_Short">Страж (Игольчат II)</ln>
+<!-- EN: AI Needler Guardian Mark III -->
 <ln id="AIGuardian_NeedlerIII_Full">Страж ИИ Игольчатый Модель III</ln>
+<!-- EN: Guard (Needler III) -->
 <ln id="AIGuardian_NeedlerIII_Short">Страж (Игольчат III)</ln>
+<!-- EN: AI Needler Guardian Mark IV -->
 <ln id="AIGuardian_NeedlerIV_Full">Страж ИИ Игольчатый Модель IV</ln>
+<!-- EN: Guard (Needler IV) -->
 <ln id="AIGuardian_NeedlerIV_Short">Страж (Игольчат IV)</ln>
+<!-- EN: AI Needler Guardian Mark V -->
 <ln id="AIGuardian_NeedlerV_Full">Страж ИИ Игольчатый Модель V</ln>
+<!-- EN: Guard (Needler V) -->
 <ln id="AIGuardian_NeedlerV_Short">Страж (Игольчат V)</ln>
 
+<!-- EN: AI MLRS Guardian -->
 <ln id="AIGuardian_MLRS_Full">Страж ИИ РСЗО</ln>
+<!-- EN: Guard (MLRS I) -->
 <ln id="AIGuardian_MLRS_Short">Страж (РСЗО I)</ln>
+<!-- EN: Shoots rockets.  LOTS of rockets. -->
 <ln id="AIGuardian_MLRS_Desc">Стреляет ракетами. МНОГО ракет.</ln>
+<!-- EN: AI MLRS Guardian Mark II -->
 <ln id="AIGuardian_MLRSII_Full">Страж ИИ РСЗО Модель II</ln>
+<!-- EN: Guard (MLRS II) -->
 <ln id="AIGuardian_MLRSII_Short">Страж (РСЗО II)</ln>
+<!-- EN: AI MLRS Guardian Mark III -->
 <ln id="AIGuardian_MLRSIII_Full">Страж ИИ РСЗО Модель III</ln>
+<!-- EN: Guard (MLRS III) -->
 <ln id="AIGuardian_MLRSIII_Short">Страж (РСЗО III)</ln>
+<!-- EN: AI MLRS Guardian Mark IV -->
 <ln id="AIGuardian_MLRSIV_Full">Страж ИИ РСЗО Модель IV</ln>
+<!-- EN: Guard (MLRS IV) -->
 <ln id="AIGuardian_MLRSIV_Short">Страж (РСЗО IV)</ln>
+<!-- EN: AI MLRS Guardian Mark V -->
 <ln id="AIGuardian_MLRSV_Full">Страж ИИ РСЗО Модель V</ln>
+<!-- EN: Guard (MLRS V) -->
 <ln id="AIGuardian_MLRSV_Short">Страж (РСЗО V)</ln>
 
+<!-- EN: AI Infiltration Guardian -->
 <ln id="AIGuardian_Infiltration_Full">Страж ИИ Проникновения</ln>
+<!-- EN: Guard (Infiltration I) -->
 <ln id="AIGuardian_Infiltration_Short">Страж (Проникновение I)</ln>
+<!-- EN: Sneaky.  Deadly.
+
+Beware its immunity to your forcefields. -->
 <ln id="AIGuardian_Infiltration_Desc">Подлый. Смертоносный.
 
 Остерегайтесь его иммунитета к силовым полям.</ln>
+<!-- EN: AI Infiltration Guardian Mark II -->
 <ln id="AIGuardian_InfiltrationII_Full">Страж ИИ Проникновения Модель II</ln>
+<!-- EN: Guard (Infiltration II) -->
 <ln id="AIGuardian_InfiltrationII_Short">Страж (Проникновение II)</ln>
+<!-- EN: AI Infiltration Guardian Mark III -->
 <ln id="AIGuardian_InfiltrationIII_Full">Страж ИИ Проникновения Модель III</ln>
+<!-- EN: Guard (Infiltration III) -->
 <ln id="AIGuardian_InfiltrationIII_Short">Страж (Проникновение III)</ln>
+<!-- EN: AI Infiltration Guardian Mark IV -->
 <ln id="AIGuardian_InfiltrationIV_Full">Страж ИИ Проникновения Модель IV</ln>
+<!-- EN: Guard (Infiltration IV) -->
 <ln id="AIGuardian_InfiltrationIV_Short">Страж (Проникновение IV)</ln>
+<!-- EN: AI Infiltration Guardian Mark V -->
 <ln id="AIGuardian_InfiltrationV_Full">Страж ИИ Проникновения Модель V</ln>
+<!-- EN: Guard (Infiltration V) -->
 <ln id="AIGuardian_InfiltrationV_Short">Страж (Проникновение V)</ln>
 
+<!-- EN: AI Shield Guardian -->
 <ln id="AIGuardian_Shield_Full">Страж ИИ Шитовой</ln>
+<!-- EN: Guard (Shield I) -->
 <ln id="AIGuardian_Shield_Short">Страж (Щит I)</ln>
+<!-- EN: Not as individually dangerous as some other guardians, but its ability to protect nearby allies from incoming fire is actually often far more dangerous than additional firepower would be. -->
 <ln id="AIGuardian_Shield_Desc">Сам по себе не так опасен, как другие Стражи, но его способность защищать союзников может оказаться более опасной, чем могла бы быть дополнительная огневая мощь.</ln>
+<!-- EN: AI Shield Guardian Mark II -->
 <ln id="AIGuardian_ShieldII_Full">Страж ИИ Шитовой Модель II</ln>
+<!-- EN: Guard (Shield II) -->
 <ln id="AIGuardian_ShieldII_Short">Страж (Щит II)</ln>
+<!-- EN: AI Shield Guardian Mark III -->
 <ln id="AIGuardian_ShieldIII_Full">Страж ИИ Шитовой Модель III</ln>
+<!-- EN: Guard (Shield III) -->
 <ln id="AIGuardian_ShieldIII_Short">Страж (Щит III)</ln>
+<!-- EN: AI Shield Guardian Mark IV -->
 <ln id="AIGuardian_ShieldIV_Full">Страж ИИ Шитовой Модель IV</ln>
+<!-- EN: Guard (Shield IV) -->
 <ln id="AIGuardian_ShieldIV_Short">Страж (Щит IV)</ln>
+<!-- EN: AI Shield Guardian Mark V -->
 <ln id="AIGuardian_ShieldV_Full">Страж ИИ Шитовой Модель V</ln>
+<!-- EN: Guard (Shield V) -->
 <ln id="AIGuardian_ShieldV_Short">Страж (Щит V)</ln>
 
+<!-- EN: AI Plasma Guardian -->
 <ln id="AIGuardian_Plasma_Full">Страж ИИ Плазменный</ln>
+<!-- EN: Guard (Plasma I) -->
 <ln id="AIGuardian_Plasma_Short">Страж (Плазма I)</ln>
+<!-- EN: So the AI took a gun.  Then it put an engine on that gun.  You are looking at that gun.
+
+If something is unfortunate enough to be shot by that gun, it will take a lot of damage.  Other things nearby will take some damage too.  If it hits a forcefield, stuff under that forcefield also gets hurt. -->
 <ln id="AIGuardian_Plasma_Desc">Было у ИИ оружие. Он прицепил к оружию двигатель. Теперь вы смотрите на это оружие.
 
 Если что-то к несчастью может быть подстрелено из этого оружия, оно получит много урона. Другие соседние объекты также получат урон. Если стреляет по силовым полям, то обеъекты под этим полем также получают урон.</ln>
+<!-- EN: AI Plasma Guardian Mark II -->
 <ln id="AIGuardian_PlasmaII_Full">Страж ИИ Плазменный Модель II</ln>
+<!-- EN: Guard (Plasma II) -->
 <ln id="AIGuardian_PlasmaII_Short">Страж (Плазма II)</ln>
+<!-- EN: AI Plasma Guardian Mark III -->
 <ln id="AIGuardian_PlasmaIII_Full">Страж ИИ Плазменный Модель III</ln>
+<!-- EN: Guard (Plasma III) -->
 <ln id="AIGuardian_PlasmaIII_Short">Страж (Плазма III)</ln>
+<!-- EN: AI Plasma Guardian Mark IV -->
 <ln id="AIGuardian_PlasmaIV_Full">Страж ИИ Плазменный Модель IV</ln>
+<!-- EN: Guard (Plasma IV) -->
 <ln id="AIGuardian_PlasmaIV_Short">Страж (Плазма IV)</ln>
+<!-- EN: AI Plasma Guardian Mark V -->
 <ln id="AIGuardian_PlasmaV_Full">Страж ИИ Плазменный Модель V</ln>
+<!-- EN: Guard (Plasma V) -->
 <ln id="AIGuardian_PlasmaV_Short">Страж (Плазма V)</ln>
 
+<!-- EN: Dire Guardian Lair -->
 <ln id="DireGuardianLair_Full">Логово Зловещих Стражей</ln>
+<!-- EN: DG Lair -->
 <ln id="DireGuardianLair_Short">ЗЛ Логово</ln>
+<!-- EN: Sits dormant unless its own planet is put on alert or taken.  While awake it will gradually construct fearsome "Dire" guardians that can wreak havoc on human forces.  You can destroy the lair to prevent this gradual production, but be aware that a sizeable group of these Dire guardians will immediately spawn when the lair is destroyed. -->
 <ln id="DireGuardianLair_Desc">Спокоен, пока его планета не объявит тревогу или не будет захвачена. Пробуждаясь, строит опасных "Зловещих" Стражей, которые могут нанести большой ущерб человеческим силам. Вы можете уничтожить логово, чтобы предотвратить это производство, но имейте в виду, что значительная группа этих Зловещих Стражей появится на месте разрушения логова.</ln>
 
+<!-- EN: AI Dire Needler Guardian -->
 <ln id="AIDireGuardian_Needler_Full">Зловещий Страж ИИ Игольчатый</ln>
+<!-- EN: Dire G (Needler) -->
 <ln id="AIDireGuardian_Needler_Short">Зловещий С (Игольчат)</ln>
+<!-- EN: This vicious machine bristles with massive needlers. -->
 <ln id="AIDireGuardian_Needler_Desc">Эта зловещая машина стреляет пучками игл.</ln>
 
+<!-- EN: AI Dire Laser Guardian -->
 <ln id="AIDireGuardian_Laser_Full">Зловещий Страж ИИ Лазерный</ln>
+<!-- EN: Dire G (Laser) -->
 <ln id="AIDireGuardian_Laser_Short">Зловещий С (Лазер)</ln>
+<!-- EN: Armed with a multitude of poweful laser cannons that can cut swaths through enemy fleets. -->
 <ln id="AIDireGuardian_Laser_Desc">Вооружён несколькими мощными лазерными пушками, которые создают брешь в рядах противника.</ln>
 
+<!-- EN: AI Dire MLRS Guardian -->
 <ln id="AIDireGuardian_MLRS_Full">Зловещий Страж ИИ РСЗО</ln>
+<!-- EN: Dire G (MLRS) -->
 <ln id="AIDireGuardian_MLRS_Short">Зловещий С (РСЗО)</ln>
+<!-- EN: Fires many powerful rockets at any enemy unfortunate enough to enter attack range. -->
 <ln id="AIDireGuardian_MLRS_Desc">Стреляет множеством мощных ракет по врагам, неудачно попавшим в радиус атаки.</ln>
 
+<!-- EN: AI Dire Implosion Guardian -->
 <ln id="AIDireGuardian_Implosion_Full">Зловещий Страж ИИ Имплозийный</ln>
+<!-- EN: Dire G (Implosion) -->
 <ln id="AIDireGuardian_Implosion_Short">Зловещий С (Имплозийный)</ln>
+<!-- EN: Mounts dozens of powerful implosion cannons that do more damage to targets with more health. -->
 <ln id="AIDireGuardian_Implosion_Desc">Вооружён десятком мощных имплозийных пушек, наносящих урон по целям с большим здоровьем.</ln>
 
+<!-- EN: AI Dire Sniper Guardian -->
 <ln id="AIDireGuardian_Sniper_Full">Зловещий Страж ИИ Снайпер</ln>
+<!-- EN: Dire G (Sniper) -->
 <ln id="AIDireGuardian_Sniper_Short">Зловещий С (Снайпер)</ln>
+<!-- EN: Mounts a few incredibly powerful rail-cannons with effectively infinite range. -->
 <ln id="AIDireGuardian_Sniper_Desc">Вооружён мощными рельсотронами с бесконечной дальностью поражения.</ln>
 
+<!-- EN: AI Dire Spider Guardian -->
 <ln id="AIDireGuardian_Spider_Full">Зловещий Страж ИИ Паук</ln>
+<!-- EN: Dire G (Spider) -->
 <ln id="AIDireGuardian_Spider_Short">Зловещий С (Паук)</ln>
+<!-- EN: Armed with a very powerful "shotgun" designed to cripple enemy engines. -->
 <ln id="AIDireGuardian_Spider_Desc">Вооружён тяжёлым "дробовиковым" оружием, созданным для уничтожения двигателей вражеских юнитов.</ln>
 
+<!-- EN: AI Dire Tractor Guardian -->
 <ln id="AIDireGuardian_Tractor_Full">Зловещий Страж ИИ Тягач</ln>
+<!-- EN: Dire G (Tractor) -->
 <ln id="AIDireGuardian_Tractor_Short">Зловещий С (Тягач)</ln>
+<!-- EN: Mounts an incredibly powerful multiplex tractor beam that can carry entire enemy fleets away. -->
 <ln id="AIDireGuardian_Tractor_Desc">Использует невероятно мощный набор тяговых лучей, которые отбрасывают вражеские корабли.</ln>
 
+<!-- EN: AI Dire Widow Guardian -->
 <ln id="AIDireGuardian_Widow_Full">Зловещий Страж ИИ Вдова</ln>
+<!-- EN: Dire G (Widow) -->
 <ln id="AIDireGuardian_Widow_Short">Зловещий С (Вдова)</ln>
+<!-- EN: Mounts an incredibly powerful multiplex tractor beam that can carry entire enemy fleets away AND paralyze them. -->
 <ln id="AIDireGuardian_Widow_Desc">Использует невероятно мощный набор тяговых лучей, которые отбрасывают вражеские корабли и парализуют их.</ln>
 
+<!-- EN: AI Dire Disassembler Guardian -->
 <ln id="AIDireGuardian_Disassembler_Full">Зловещий Страж ИИ Проглот</ln>
+<!-- EN: Dire G (Disassembler) -->
 <ln id="AIDireGuardian_Disassembler_Short">Зловещий С (Проглот)</ln>
+<!-- EN: Can swallow many enemy starships whole, gradually disassembling them inside.  If the disassembler is destroyed, any surviving starships inside will emerge. -->
 <ln id="AIDireGuardian_Disassembler_Desc">Может полностью проглотить вражеский звездолёт, постепенно разбирая его внутри себя. Если Страж будет уничтожен, выжившие проглоченные корабли высвободятся.</ln>
 
+<!-- EN: AI Dire Gravity Guardian -->
 <ln id="AIDireGuardian_Gravity_Full">Зловещий Страж ИИ Гравитационный</ln>
+<!-- EN: Dire G (Gravity) -->
 <ln id="AIDireGuardian_Gravity_Short">Зловещий С (Гравитац)</ln>
+<!-- EN: Mounts an incredibly powerful gravity generator slowing down enemy units in a wide area around it. -->
 <ln id="AIDireGuardian_Gravity_Desc">Использует невероятно мощный гравитационный генератор, замедляющий вражеских юнитов в широкой зоне вокруг себя.</ln>
 
+<!-- EN: AI Dire Munitions Boosting Guardian -->
 <ln id="AIDireGuardian_MunitionsBoosting_Full">Зловещий Страж ИИ Усилитель Боеприпасов</ln>
+<!-- EN: Dire G (Munitions Boosting) -->
 <ln id="AIDireGuardian_MunitionsBoosting_Short">Зловещий С (Усилитель Боеприпасов)</ln>
+<!-- EN: Provides a powerful boost to the attack power of allied units in a wide range. -->
 <ln id="AIDireGuardian_MunitionsBoosting_Desc">Поддерживает мощное усиление союзных кораблей на большом расстоянии.</ln>
 
+<!-- EN: AI Dire Infiltration Guardian -->
 <ln id="AIDireGuardian_Infiltration_Full">Зловещий Страж ИИ Проникновения</ln>
+<!-- EN: Dire G (Infiltration) -->
 <ln id="AIDireGuardian_Infiltration_Short">Зловещий С (Проникновение)</ln>
+<!-- EN: Extremely deadly machine with the ability both to stay hidden until it strikes, and to both pass through and shoot through your forcefields. -->
 <ln id="AIDireGuardian_Infiltration_Desc">Экстремально смертельная машина, с возможностью оставаться скрытой до удара и проходить и стрелять сквозь ваши силовые поля.</ln>
 
+<!-- EN: AI Dire Artillery Guardian -->
 <ln id="AIDireGuardian_Artillery_Full">Зловещий Страж ИИ Артиллерист</ln>
+<!-- EN: Dire G (Artillery) -->
 <ln id="AIDireGuardian_Artillery_Short">Зловещий С (Артиллерист)</ln>
+<!-- EN: Fires extremely powerful energy-artillery shots. -->
 <ln id="AIDireGuardian_Artillery_Desc">Стреляет экстремально мощными энергетическими артиллеристскими снарядами.</ln>
 
+<!-- EN: AI Dire Raider Guardian -->
 <ln id="AIDireGuardian_Raider_Full">Зловещий Страж ИИ Налётчик</ln>
+<!-- EN: Dire G (Raider) -->
 <ln id="AIDireGuardian_Raider_Short">Зловещий С (Налётчик)</ln>
+<!-- EN: Very fast, and fires many high-powered shells. -->
 <ln id="AIDireGuardian_Raider_Desc">Очень быстрый и стреляет множеством высокоэнергетичесных снарядов.</ln>
 
+<!-- EN: AI Dire Shield Guardian -->
 <ln id="AIDireGuardian_Shield_Full">Зловещий Страж ИИ Щитовой</ln>
+<!-- EN: Dire G (Shield) -->
 <ln id="AIDireGuardian_Shield_Short">Зловещий С (Щит)</ln>
+<!-- EN: Protects nearby allied units with its extremely powerful forcefield generator. -->
 <ln id="AIDireGuardian_Shield_Desc">Защищает ближайших союзных юнитов своим сверхмощным генератором силового поля.</ln>
 
+<!-- EN: Showdown Device -->
 <ln id="ShowdownDevice_Full">Проявительное Устройство</ln>
+<!-- EN: Showdown -->
 <ln id="ShowdownDevice_Short">Проявительное</ln>
+<!-- EN: Indestructible ancient structure.  Emits radiation similar to the AI's warp gates, but much stronger... and the AI appears to make no use of it.  Why?
+
+And can we turn it to our advantage? -->
 <ln id="ShowdownDevice_Desc">Неуничтожимое древнее сооружение. Генерирует излучение, подобное Пространственным Вратам ИИ, но намного сильнее... И, кажется, ИИ не собирается его использовать. Почему?
 
 Сможем ли мы использовать его в своих целях?</ln>
 
+<!-- EN: Lightning Torpedo Frigate -->
 <ln id="LightningTorpedoFrigate_Full">Фрегат Молниевых Торпед</ln>
+<!-- EN: LT-F I -->
 <ln id="LightningTorpedoFrigate_Short">ПТ-Ф I</ln>
+<!-- EN: Lightning Torpedo Frigates -->
 <ln id="LightningTorpedoFrigate_Wave">Фрегаты Молниевых Торпед</ln>
+<!-- EN: Has modest firepower in its own right, but primarily attacks by launching miniaturized versions of the Lightning Warhead (that do not increase AIP when detonated, of course). -->
 <ln id="LightningTorpedoFrigate_Desc">Сам по себе имеет скромную огненную мощь, но в первую очередь атакует, запуская уменьшенную версию Молниевых Боеголовок(которые не увеличивают Прогресс ИИ при детонации).</ln>
 
+<!-- EN: Lightning Torpedo Frigate II -->
 <ln id="LightningTorpedoFrigateII_Full">Фрегат Молниевых Торпед II</ln>
+<!-- EN: LT-F II -->
 <ln id="LightningTorpedoFrigateII_Short">ПТ-Ф II</ln>
 
+<!-- EN: Lightning Torpedo Frigate III -->
 <ln id="LightningTorpedoFrigateIII_Full">Фрегат Молниевых Торпед III</ln>
+<!-- EN: LT-F III -->
 <ln id="LightningTorpedoFrigateIII_Short">ПТ-Ф III</ln>
 
+<!-- EN: Lightning Torpedo Frigate IV -->
 <ln id="LightningTorpedoFrigateIV_Full">Фрегат Молниевых Торпед IV</ln>
+<!-- EN: LT-F IV -->
 <ln id="LightningTorpedoFrigateIV_Short">ПТ-Ф IV</ln>
 
+<!-- EN: Core Lightning Torpedo Frigate -->
 <ln id="CoreLightningTorpedoFrigate_Full">Шлавный Фрегат Молниевых Торпед</ln>
+<!-- EN: LT-F V -->
 <ln id="CoreLightningTorpedoFrigate_Short">ПТ-Ф V</ln>
 
+<!-- EN: Lightning Torpedo -->
 <ln id="LightningTorpedo_Full">Молниевая Торпеда</ln>
+<!-- EN: LT -->
 <ln id="LightningTorpedo_Short">МТ</ln>
+<!-- EN: A miniaturized version of the Lightning Warhead (that does not increase AIP when detonated). -->
 <ln id="LightningTorpedo_Desc">Уменьшенная версия Молниевых Боеголовок(которые не увеличивают Прогресс ИИ при детонации).</ln>
 
+<!-- EN: Zenith Devastator -->
 <ln id="ZenithDevestator_Full">Опустошитель Zenith'ов</ln>
+<!-- EN: Z-Dev I -->
 <ln id="ZenithDevestator_Short">Z-Опус I</ln>
+<!-- EN: Zenith Devastators -->
 <ln id="ZenithDevestator_Wave">Опустошители Zenith'ов</ln>
+<!-- EN: A powerful starship designed by the Zenith during their ancient wars against the Spire (who heavily rely on shields).  Its shots completely ignore forcefields (though the devastator itself does not ignore forcefields).  Cannot target small ships.
+
+Built from the Starship Constructor. -->
 <ln id="ZenithDevestator_Desc">Мощный звездолёт, созданный Zenith'ами во время их древних войн против Spire'ов (которые сильно полагаются на щиты). Его выстрелы игнорируют силовые поля (хотя сам Опустошитель не игнорирует силовые поля). Не может целится по маленьким целям.
 
 Строится на Звездолётной Верфи.</ln>
 
+<!-- EN: Zenith Devastator II -->
 <ln id="ZenithDevestatorII_Full">Опустошитель Zenith'ов II</ln>
+<!-- EN: Z-Dev II -->
 <ln id="ZenithDevestatorII_Short">Z-Опус II</ln>
 
+<!-- EN: Zenith Devastator III -->
 <ln id="ZenithDevestatorIII_Full">Опустошитель Zenith'ов III</ln>
+<!-- EN: Z-Dev III -->
 <ln id="ZenithDevestatorIII_Short">Z-Опус III</ln>
 
+<!-- EN: Zenith Devastator IV -->
 <ln id="ZenithDevestatorIV_Full">Опустошитель Zenith'ов IV</ln>
+<!-- EN: Z-Dev IV -->
 <ln id="ZenithDevestatorIV_Short">Z-Опус IV</ln>
 
+<!-- EN: Core Zenith Devastator -->
 <ln id="CoreZenithDevestator_Full">Главный Опустошитель Zenith'ов</ln>
+<!-- EN: Z-Dev V -->
 <ln id="CoreZenithDevestator_Short">Z-Опус V</ln>
 
+<!-- EN: Protector Starship -->
 <ln id="ProtectorStarship_Full">Звездолёт Защитник</ln>
+<!-- EN: ProtStar I -->
 <ln id="ProtectorStarship_Short">ЗащЗвез I</ln>
+<!-- EN: Protector Starships -->
 <ln id="ProtectorStarship_Wave">Звездолёты Защитники</ln>
+<!-- EN: Small Starship-class modular vessel designed to defend other ships via passive and active defense systems.
+
+Built from the PROT tab of the Starship Constructor. -->
 <ln id="ProtectorStarship_Desc">Маленький модульный звездолёт, созданный защищать другие корабли с помощью пассивных и активных защитных систем.
 
 Создаётся на вкладке ЗАЩ Звездолётной Верфи.</ln>
 
+<!-- EN: Protector Starship II -->
 <ln id="ProtectorStarshipII_Full">Звездолёт Защитник II</ln>
+<!-- EN: ProtStar II -->
 <ln id="ProtectorStarshipII_Short">ЗащЗвез II</ln>
 
+<!-- EN: Protector Starship III -->
 <ln id="ProtectorStarshipIII_Full">Звездолёт Защитник III</ln>
+<!-- EN: ProtStar III -->
 <ln id="ProtectorStarshipIII_Short">ЗащЗвез III</ln>
 
+<!-- EN: Protector Starship IV -->
 <ln id="ProtectorStarshipIV_Full">Звездолёт Защитник IV</ln>
+<!-- EN: ProtStar IV -->
 <ln id="ProtectorStarshipIV_Short">ЗащЗвез IV</ln>
 
+<!-- EN: Core Protector Starship -->
 <ln id="CoreProtectorStarship_Full">Главный Звездолёт Защитник</ln>
+<!-- EN: ProtStar V -->
 <ln id="CoreProtectorStarship_Short">ЗащЗвез V</ln>
 
+<!-- EN: Neinzul Railpod -->
 <ln id="NeinzulRailpod_Full">Рельсопод Neinzul'ов</ln>
+<!-- EN: N-RP I -->
 <ln id="NeinzulRailpod_Short">N-РП I</ln>
+<!-- EN: Neinzul Railpods -->
 <ln id="NeinzulRailpod_Wave">Рельсоподы Neinzul'ов</ln>
+<!-- EN: Mature Neinzul organism without the time-limited lifespan of a Youngling.  The railpod is basically an organic railcannon, with effectively infinte range.  The downside is that firing the cannon does tremendous damage to the railpod itself, generally destroying itself after only two shots.  Despite this limitation, railpods can contribute significantly to "burst" damage either defensively or offensively, and a group of space docks loop-building these with engineer support effectively becomes a large artillery battery. -->
 <ln id="NeinzulRailpod_Desc">Зрелый организм Neinzul'а без ограниченного времени жизни как у Юнлинга. Рельсопод - органический рельсотрон, с бесконечной дальностью поражения. Недостаток в том, что стрельбы из пушки наносит большой урон самому рульсоподу, разрушая его уже после двух выстрелов. Несмотря на это ограничение, рельсопод может может внести значительный вклад во "взрывной" урон при защите или атаке, а группа верфей с зацикленным строительством вместе с поддержкой инженеров становится большой эффективной артиллеристской батареей.</ln>
 
+<!-- EN: Neinzul Railpod II -->
 <ln id="NeinzulRailpodII_Full">Рельсопод Neinzul'ов II</ln>
+<!-- EN: N-RP II -->
 <ln id="NeinzulRailpodII_Short">N-РП II</ln>
 
+<!-- EN: Neinzul Railpod III -->
 <ln id="NeinzulRailpodIII_Full">Рельсопод Neinzul'ов III</ln>
+<!-- EN: N-RP III -->
 <ln id="NeinzulRailpodIII_Short">N-РП III</ln>
 
+<!-- EN: Neinzul Railpod IV -->
 <ln id="NeinzulRailpodIV_Full">Рельсопод Neinzul'ов IV</ln>
+<!-- EN: N-RP IV -->
 <ln id="NeinzulRailpodIV_Short">N-РП IV</ln>
 
+<!-- EN: Core Neinzul Railpod -->
 <ln id="CoreNeinzulRailpod_Full">Главный Рельсопод Neinzul'ов</ln>
+<!-- EN: N-RP V -->
 <ln id="CoreNeinzulRailpod_Short">N-РП V</ln>
 
+<!-- EN: Zenith Hydra -->
 <ln id="ZenithHydra_Full">Гидра Zenith'ов</ln>
+<!-- EN: Z-Hydra I -->
 <ln id="ZenithHydra_Short">Z-Гидра I</ln>
+<!-- EN: Zenith Hydras -->
 <ln id="ZenithHydra_Wave">Гидры Zenith'ов</ln>
+<!-- EN: A potent short-range combatant that breathes (plasma) fire and rapidly regenerates its own health when not under fire.
+
+Also, as a hydra takes a certain amount of total damage it will spawn a separate "head" that attacks independently for a short time before self-destructing.  A MkI hydra spawns a head upon taking 50% of its max health in damage, where a MkII hydra spawns a head upon taking only 33% of its max health in damage and so on.  Generally speaking, a hydra is unable to spawn a head from damage which actually kills the body outright (which makes one-shotting these desirable). -->
 <ln id="ZenithHydra_Desc">Мощный воин короткого действия, который дышит (плазма) огнём и постоянно генерирует своё здоровье, когда не атакован.
 
 Кроме того, что Гидра принимает на себя определённое количество общего урона, она создаёт тдельные "головы", которые атакуют независимо в течение малого промежутка времени перед самоуничтожением. Гидра МодI создаёт голову при 50% её максимального здоровья, тогда как МодII создаёт голову при 33% утерянного здоровья и т.д. Говоря в общем, гидра не может создать голову после повреждений, убивающих тело(что делает желательный убийство её с одного выстрела).</ln>
 
+<!-- EN: Zenith Hydra II -->
 <ln id="ZenithHydraII_Full">Гидра Zenith'ов II</ln>
+<!-- EN: Z-Hydra II -->
 <ln id="ZenithHydraII_Short">Z-Гидра II</ln>
 
+<!-- EN: Zenith Hydra III -->
 <ln id="ZenithHydraIII_Full">Гидра Zenith'ов III</ln>
+<!-- EN: Z-Hydra III -->
 <ln id="ZenithHydraIII_Short">Z-Гидра III</ln>
 
+<!-- EN: Zenith Hydra IV -->
 <ln id="ZenithHydraIV_Full">Гидра Zenith'ов IV</ln>
+<!-- EN: Z-Hydra IV -->
 <ln id="ZenithHydraIV_Short">Z-Гидра IV</ln>
 
+<!-- EN: Core Zenith Hydra -->
 <ln id="CoreZenithHydra_Full">Главная Гидра Zenith'ов</ln>
+<!-- EN: Z-Hydra V -->
 <ln id="CoreZenithHydra_Short">Z-Гидра V</ln>
 
+<!-- EN: Zenith Hydra Head -->
 <ln id="ZenithHydraHead_Full">Голова Гидры Zenith'ов</ln>
+<!-- EN: Z-H-H -->
 <ln id="ZenithHydraHead_Short">Z-Г-Г</ln>
+<!-- EN: Zenith Hydra Heads -->
 <ln id="ZenithHydraHead_Wave">Головы Гидры Zenith'ов</ln>
+<!-- EN: A head "cut" from the body of a Zenith Hydra.  Has part of the body's potent short-range plasma-breath, but loses health fairly rapidly over time. -->
 <ln id="ZenithHydraHead_Desc">Голова, "отрезанная" от тела Гидры Zenith'ов. Обладает частью мощности плазменного дыхания тела, но довольно быстро теряет здоровье.</ln>
 
+<!-- EN: Counter-Missile Module -->
 <ln id="ProtectorCounterMissileModule_Full">Модуль Противоракетный</ln>
+<!-- EN: P-CM -->
 <ln id="ProtectorCounterMissileModule_Short">С-ПМ</ln>
+<!-- EN: This module allows the Protector Starship to shoot down a finite number of incoming enemy missiles per second.
+
+Note that shots which do 1,000 or more damage take multiple counter-shots to stop, cannot be partially stopped, and only one counter module can fire on a particular enemy shot (though it can fire multiple counter-shots to do so).
+
+Please note that counter-shots can only lock on during the original launch of the enemy projectile, so any part of an enemy salvo not initially "covered" by counter fire cannot be countered later in its flight. -->
 <ln id="ProtectorCounterMissileModule_Desc">Позволяет Звездолёту Защитнику отстреливать ограниченное количество вражеских ракет в секунду.
 
 Снаряды, наносящие 1,000 и больше урона, требуют несколько останавливающих выстрелов, не могут быть частично остановлеными, и только один противодействующий модуль может стрелять по отдельному снаряду (но он же может выстрелить несколько раз).
 
 Заметьте, что останавливающий выстрел может зафиксировать только свежезапущенную цель, так что все залпы врага, которые не были "покрыты" счётчиком выстрелов, не могут быть остановлены в процессе полёта.</ln>
 
+<!-- EN: Counter-Laser Module -->
 <ln id="ProtectorCounterLaserModule_Full">Модуль Противолазерный</ln>
+<!-- EN: P-CL -->
 <ln id="ProtectorCounterLaserModule_Short">С-ПЛ</ln>
+<!-- EN: This module allows the Protector Starship to shoot down a finite number of incoming enemy laser shots per second.
+
+Note that shots which do 1,000 or more damage take multiple counter-shots to stop, cannot be partially stopped, and only one counter module can fire on a particular enemy shot (though it can fire multiple counter-shots to do so).
+
+Please note that counter-shots can only lock on during the original launch of the enemy projectile, so any part of an enemy salvo not initially "covered" by counter fire cannot be countered later in its flight. -->
 <ln id="ProtectorCounterLaserModule_Desc">Позволяет Звездолёту Защитнику блокировать ограниченное количество вражеских лазерных выстрелов в секунду.
 
 Снаряды, наносящие 1,000 и больше урона, требуют несколько останавливающих выстрелов, не могут быть частично остановлеными, и только один противодействующий модуль может стрелять по отдельному снаряду (но он же может выстрелить несколько раз).
 
 Заметьте, что останавливающий выстрел может зафиксировать только свежезапущенную цель, так что все залпы врага, которые не были "покрыты" счётчиком выстрелов, не могут быть остановлены в процессе полёта.</ln>
 
+<!-- EN: Counter-Shell Module -->
 <ln id="ProtectorCounterShellModule_Full">Модуль Противоснарядный</ln>
+<!-- EN: P-CS -->
 <ln id="ProtectorCounterShellModule_Short">С-ПС</ln>
+<!-- EN: This module allows the Protector Starship to shoot down a finite number of incoming enemy shells per second.
+
+Note that shots which do 1,000 or more damage take multiple counter-shots to stop, cannot be partially stopped, and only one counter module can fire on a particular enemy shot (though it can fire multiple counter-shots to do so).
+
+Please note that counter-shots can only lock on during the original launch of the enemy projectile, so any part of an enemy salvo not initially "covered" by counter fire cannot be countered later in its flight. -->
 <ln id="ProtectorCounterShellModule_Desc">Позволяет Звездолёту Защитнику останавливающих ограниченное количество вражеских снарядов в секунду.
 
 Снаряды, наносящие 1,000 и больше урона, требуют несколько останавливающих выстрелов, не могут быть частично остановлеными, и только один противодействующий модуль может стрелять по отдельному снаряду (но он же может выстрелить несколько раз).
 
 Заметьте, что останавливающий выстрел может зафиксировать только свежезапущенную цель, так что все залпы врага, которые не были "покрыты" счётчиком выстрелов, не могут быть остановлены в процессе полёта.</ln>
 
+<!-- EN: Counter-Energy-Shot Module -->
 <ln id="ProtectorCounterEnergyShotModule_Full">Модуль Противоэнергетический</ln>
+<!-- EN: P-CE -->
 <ln id="ProtectorCounterEnergyShotModule_Short">С-ПЭ</ln>
+<!-- EN: This module allows the Protector Starship to shoot down a finite number of incoming enemy energy shots (which is a broad definition including negative energy, energy waves, implosion shots, impulse reactive shots, energy bombs, flame waves, etc) per second.
+
+Note that shots which do 1,000 or more damage take multiple counter-shots to stop, cannot be partially stopped, and only one counter module can fire on a particular enemy shot (though it can fire multiple counter-shots to do so).
+
+Please note that counter-shots can only lock on during the original launch of the enemy projectile, so any part of an enemy salvo not initially "covered" by counter fire cannot be countered later in its flight. -->
 <ln id="ProtectorCounterEnergyShotModule_Desc">Позволяет Звездолёту Защитнику останавливающих ограниченное количество вражеских энергетических снарядов (представляющие собой негативную энергию, энергетические волны, имплозийные выстрелы, импульсные реактивные выстрелы, энергетические бомбы, огненные волны и т.п.) в секунду.
 
 Снаряды, наносящие 1,000 и больше урона, требуют несколько останавливающих выстрелов, не могут быть частично остановлеными, и только один противодействующий модуль может стрелять по отдельному снаряду (но он же может выстрелить несколько раз).
 
 Заметьте, что останавливающий выстрел может зафиксировать только свежезапущенную цель, так что все залпы врага, которые не были "покрыты" счётчиком выстрелов, не могут быть остановлены в процессе полёта.</ln>
 
+<!-- EN: Protector Shield Module -->
 <ln id="ProtectorForcefieldModule_Full">Модуль Щита Защитника</ln>
+<!-- EN: P-S -->
 <ln id="ProtectorForcefieldModule_Short">С-Щ</ln>
+<!-- EN: This module allows the Protector Starship to provide protection to any allied ship within range.  The generator itself is relatively weak and cannot hold up under intense fire, but does protect a much wider area than most mobile shield generators.
+
+Generally speaking the Protector's counter modules are much more efficient, but the shield module certainly has its uses. -->
 <ln id="ProtectorForcefieldModule_Desc">Позволяет Звездолёту Защитнику поддерживать защиту каждого союзника в пределах дальности. Сам генератор слаб и не способен продержаться под сильным огнём, но защищает большую площадь, чем большинство подвижных генераторов щита.
 
 Говоря в общем, противовыстрельные модули Защитника более эффективны, но и модуль щита имеет свои приемущества.</ln>
 
+<!-- EN: Neinzul Youngling Shrike -->
 <ln id="YounglingShrike_Full">Юнлинг Сорокопут Neinzul'ов</ln>
+<!-- EN: Yng Shrike I -->
 <ln id="YounglingShrike_Short">Юнл Сорокопут I</ln>
+<!-- EN: Neinzul Youngling Shrikes -->
 <ln id="YounglingShrike_Wave">Юнлинги Сорокопуты Neinzul'ов</ln>
+<!-- EN: A fast-attacking cloaked raiding ship.
+
+Youngling ships are all exceedingly inexpensive and fast, with a very short life span (health automatically drains when not in transports or other forms of storage). -->
 <ln id="YounglingShrike_Desc">Быстроатакующий скрывающийся рейдовый корабль.
 
 Корабли юнлингов очень дешёвые и быстрые, с короткой продолжительностью жизни(жизнь автоматически снижается, когда находится вне Транспорта или другой формы хранения).</ln>
 
+<!-- EN: Neinzul Youngling Shrike Mark II -->
 <ln id="YounglingShrikeII_Full">Юнлинг Сорокопут Neinzul'ов Модель II</ln>
+<!-- EN: Yng Shrike II -->
 <ln id="YounglingShrikeII_Short">Юнл Сорокопут II</ln>
 
+<!-- EN: Neinzul Youngling Shrike Mark III -->
 <ln id="YounglingShrikeIII_Full">Юнлинг Сорокопут Neinzul'ов Модель III</ln>
+<!-- EN: Yng Shrike III -->
 <ln id="YounglingShrikeIII_Short">Юнл Сорокопут III</ln>
 
+<!-- EN: Neinzul Youngling Shrike Mark IV -->
 <ln id="YounglingShrikeIV_Full">Юнлинг Сорокопут Neinzul'ов Модель IV</ln>
+<!-- EN: Yng Shrike IV -->
 <ln id="YounglingShrikeIV_Short">Юнл Сорокопут IV</ln>
 
+<!-- EN: Neinzul Youngling Shrike Mark V -->
 <ln id="CoreYounglingShrike_Full">Юнлинг Сорокопут Neinzul'ов Модель V</ln>
+<!-- EN: Yng Shrike V -->
 <ln id="CoreYounglingShrike_Short">Юнл Сорокопут V</ln>
 
+<!-- EN: AI Core Implosion Drone Guard Post -->
 <ln id="AICoreImplosionDroneHostGuardPost_Full">Главный Караульный Пост ИИ Имплозийных Дронов</ln>
+<!-- EN: Post (Imp D) -->
 <ln id="AICoreImplosionDroneHostGuardPost_Short">Пост (Внут Д)</ln>
+<!-- EN: This guard post is armed with several high-power implosion cannons that are extremely dangerous to large targets, but are thankfully relatively shorter-ranged than most implosion weapons.  Unfortunately, this post also launches "Implosion Drones" which (while much shorter-ranged still, and the drone self-destructs when it fires) charge at enemy ships to fire several lower-power implosion rounds.
+
+Must be destroyed before humans can damage the AI Command Station on this planet.  If this is an AI Homeworld, all Core Shield Generators in the galaxy must be destroyed before this can be damaged. -->
 <ln id="AICoreImplosionDroneHostGuardPost_Desc">Этот Караульный Пост вооружён несколькими высокомощными имплозийными пушками, особенно опасными для больших целей, но к счастью довольно недальнобойными, чем большинство имплозийного оружия. К сожалению, этот пост также запускает "Имплозийных Дронов", которые (более далнобойны и саморазрушаются при выстреле) заряжают вражеские корабли несколькими низкоэнергетическими имплозийными зарядами.
 
 Должен быть уничтожен до того, как Командной Станции ИИ на этой планете может быть нанесён урон.  Если это Столичная планета ИИ, все Главные Генераторы Щита должны быть уничтожены прежде, чем может быть уничтожен.</ln>
 
+<!-- EN: Implosion Drone -->
 <ln id="ImplosionDrone_Full">Имплозийный Дрон</ln>
+<!-- EN: Implosion D. -->
 <ln id="ImplosionDrone_Short">Имплозийный Д.</ln>
+<!-- EN: Implosion Drones -->
 <ln id="ImplosionDrone_Wave">Имплозийные Дроны</ln>
+<!-- EN: A drone built by the Implosion Drone post.  Tries to get close enough to enemy ships to fire its implosion cannons.  Upon firing, the drone explodes (thankfully it does not do area damage when it does so). -->
 <ln id="ImplosionDrone_Desc">Дрон, созданный Постом Имплозийных Дронов. Старается подойти достаточно близко к кораблям врага, чтобы выстрелить из имплозийной пушки. Во время выстрела дрон разрушается(но не наносит площадного урона).</ln>
 
+<!-- EN: AI Core Arachnid Guard Post -->
 <ln id="AICoreArachnidGuardPost_Full">Главный Караульный Пост ИИ Арахнид</ln>
+<!-- EN: Post (C-Ar) -->
 <ln id="AICoreArachnidGuardPost_Short">Пост (Г-Ар)</ln>
+<!-- EN: This guard post is armed with massively powerful artillery cannon designed to cripple or destroy larger targets.  It can't even shoot at smaller units.
+
+Also swallows enemy starships that get too close.
+
+Must be destroyed before humans can damage the AI Command Station on this planet.  If this is an AI Homeworld, all Core Shield Generators in the galaxy must be destroyed before this can be damaged. -->
 <ln id="AICoreArachnidGuardPost_Desc">Этот Караульный Пост вооружён массивной мощной артиллеристской пушкой, созданной, чтобы калечить или уничтожать крупные цели. Не может срелять по маленьким целям.
 
 Проглатывает вражеские звездолёты, подошедшие слишком близко.
 
 Должен быть уничтожен до того, как Командной Станции ИИ на этой планете может быть нанесён урон.  Если это Столичная планета ИИ, все Главные Генераторы Щита должны быть уничтожены прежде, чем может быть уничтожен.</ln>
 
+<!-- EN: AI Core Riot Control Guard Post -->
 <ln id="AICoreRiotControlGuardPost_Full">Главный Караульный Пост ИИ Контроля Мятежа</ln>
+<!-- EN: Post (Riot) -->
 <ln id="AICoreRiotControlGuardPost_Short">Пост (Мятеж)</ln>
+<!-- EN: This guard post fires many shells that aren't massively powerful but do significant engine damage.  Also, the post mounts many tractor beams which paralyze their victims.
+
+Must be destroyed before humans can damage the AI Command Station on this planet.  If this is an AI Homeworld, all Core Shield Generators in the galaxy must be destroyed before this can be damaged. -->
 <ln id="AICoreRiotControlGuardPost_Desc">Эттот Караульный Пост стреляет множеством снарядов, которые не очень мощны, но наносят значительные повреждения двигателям. Также, этот пост излучает множество тяговых лучей, парализуюя своих жерств.
 
 Должен быть уничтожен до того, как Командной Станции ИИ на этой планете может быть нанесён урон.  Если это Столичная планета ИИ, все Главные Генераторы Щита должны быть уничтожены прежде, чем может быть уничтожен.</ln>
 
+<!-- EN: AI Core Shredder Drone Guard Post -->
 <ln id="AICoreShredderDroneGuardPost_Full">Главный Караульный Пост ИИ Дронов Шреддеров</ln>
+<!-- EN: Post (Shrd D) -->
 <ln id="AICoreShredderDroneGuardPost_Short">Пост (Разр Д)</ln>
+<!-- EN: This guard post is armed with a powerful shotgun weapon, but its main danger lay in the fact that when damaged, it spawns "Shredder Drones" which then attack human units.  If one of these shredders does enough damage it replicates itself.  Further, after a shredder has existed for 30 seconds it will automatically scrap itself and restores a chunk of health to the Shredder Drone Guard Post (if the post is still alive).
+
+Must be destroyed before humans can damage the AI Command Station on this planet.  If this is an AI Homeworld, all Core Shield Generators in the galaxy must be destroyed before this can be damaged. -->
 <ln id="AICoreShredderDroneGuardPost_Desc">Этот Караульный Пост вооружён мощным дробовиком, но его главная опастность в том, что при получении урона он создаёт "Дронов Шреддеров", которые атакуют человеческие корабли. Если шреддер нанесёт достаточно урона, то он скопирует себя самого. После жизни в течение 30 секунд автоматически самоустраняется и восстанавливает часть здоровья Караульного Поста Дронов Шреддеров (если пост ещё жив).
 
 Должен быть уничтожен до того, как Командной Станции ИИ на этой планете может быть нанесён урон.  Если это Столичная планета ИИ, все Главные Генераторы Щита должны быть уничтожены прежде, чем может быть уничтожен.</ln>
 
+<!-- EN: Shredder Drone -->
 <ln id="ShredderDrone_Full">Дрон Шреддер</ln>
+<!-- EN: Shredder D. -->
 <ln id="ShredderDrone_Short">Шреддер Д.</ln>
+<!-- EN: Shredder Drones -->
 <ln id="ShredderDrone_Wave">Дроны Шреддеры</ln>
+<!-- EN: A drone built by the Shredder Drone post.  Tries to melee human ships, and replicates if it does enough damage.  If the drone is still alive 30 seconds after its creation, it automatically scraps itself and restores a chunk of health to the Shredder Drone post (if the post is still alive). -->
 <ln id="ShredderDrone_Desc">Дрон, созданный Постом Дронов Шреддеров. Пытается ударить человеческий корабль и скопировать себя, если нанесёт достаточно повреждения. Если дрон будет жив ещё 30 секунд после создания, то он автоматически самоустраняется и восстанавливает часть здоровья посту Дронов Шреддеров (если пост ещё жив).</ln>
 
+<!-- EN: AI Core Hunter/Killer Factory Guard Post -->
 <ln id="AICoreHunterKillerFactoryGuardPost_Full">Главный Караульный Пост ИИ Фабрики Охотника/Киллера</ln>
+<!-- EN: Post (H/K) -->
 <ln id="AICoreHunterKillerFactoryGuardPost_Short">Пост (О/К)</ln>
+<!-- EN: This guard post is armed with powerful Energy Wave cannons, but a far greater danger lies within: if an AI unit dies on its planet or any adjacent planet, or if any adjacent planet is not AI-held, this factory deploys the fearsome Hunter/Killer unit it has constructed.  After deploying the H/K, the factory builds another in 30 minutes.
+
+Must be destroyed before humans can damage the AI Command Station on this planet.  If this is an AI Homeworld, all Core Shield Generators in the galaxy must be destroyed before this can be damaged. -->
 <ln id="AICoreHunterKillerFactoryGuardPost_Desc">Этот Караульный Пост вооружён мощными пушками Энергетических Волн, но большая опасность не в них: если юнит ИИ умирает на этой или соседней планете, или если соседняя планета не принадлежит ИИ, этот фабрика запускает грозного Охотника/Киллера. После запуска одного, фабрика строит следующего в течение 30 минут.
 
 Должен быть уничтожен до того, как Командной Станции ИИ на этой планете может быть нанесён урон.  Если это Столичная планета ИИ, все Главные Генераторы Щита должны быть уничтожены прежде, чем может быть уничтожен.</ln>

@@ -1,12 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
 
+<!-- EN: Nomad Beacon -->
 <ln id="NomadBeacon_Full">Кочевой Маяк</ln>
+<!-- EN: Nomad Beacon -->
 <ln id="NomadBeacon_Short">Кочевой Маяк</ln>
+<!-- EN: An ancient Zenith artifact, somehow associated with the mysterious Nomad Worlds. -->
 <ln id="NomadBeacon_Desc">Древний артефакт Zenith'ов, как-то связанный с мистическими Кочевыми Планетами.</ln>
 
+<!-- EN: Broken Nomad Beacon -->
 <ln id="NomadBeaconBroken_Full">Сломанный Кочевой Маяк</ln>
+<!-- EN: Broken Nomad Beacon -->
 <ln id="NomadBeaconBroken_Short">Сломанный Кочевой Маяк</ln>
+<!-- EN: An ancient Zenith artifact, somehow associated with the mysterious Nomad Worlds.
+
+If this beacon is still in AI hands, be aware that the AI is extremely nervous about it for some reason and has put failsafes in place to destroy the beacon should the AI lose control of the planet.  If you want to attempt to reactivate the beacon you will need to use a Nomad Beacon Hacker on the planet before destroying the command station.
+
+This artifact is ancient and broken, and must be repaired to full health before it will become operational.
+You must also have enough net energy available to power the artifact (500k) before it will come online. -->
 <ln id="NomadBeaconBroken_Desc">Древний артефакт Zenith'ов, как-то связанный с мистическими Кочевыми Планетами.
 
 Если этот маяк находится в руках ИИ, то будьте осторожны, так как ИИ по какой-то причине нервничает из-за него и укрепляет планету; чтобы уничтожить Маяк, нужно уничтожить ИИ. Если вы хотите реактивировать Маяк, то нужно использовать Хакера Кочевого Маяка на планете до уничтожения командной станции.
@@ -14,204 +25,347 @@
 Этот артефакт очень стар и повреждён, его нужно полностью восстановить, прежде чем он будет работать.
 Вам также потребуется много энергии (500k), чтобы его запустить.</ln>
 
+<!-- EN: Exodian Blade -->
 <ln id="ExodianBlade_Full">Exodian Blade</ln>
+<!-- EN: Exodian Blade -->
 <ln id="ExodianBlade_Short">Exodian Blade</ln>
+<!-- EN: An ancient Spire artifact... at least, we think so. -->
 <ln id="ExodianBlade_Desc">Древний артефакт Spire'ов... по крайней мере, мы так считаем.</ln>
 
+<!-- EN: Broken Exodian Blade -->
 <ln id="ExodianBladeBroken_Full">Сломанный Exodian Blade</ln>
+<!-- EN: Broken Exodian Blade -->
 <ln id="ExodianBladeBroken_Short">Сломанный Exodian Blade</ln>
+<!-- EN: An ancient Spire artifact... at least, we think so.
+
+This artifact is ancient and broken, and must be repaired to full health before it will become operational.
+You must also have enough net energy available to power the artifact (500k) before it will come online. -->
 <ln id="ExodianBladeBroken_Desc">Древний артефакт Spire'ов... по крайней мере, мы так считаем.
 
 Этот артефакт очень стар и повреждён, его нужно полностью восстановить, прежде чем он будет работать.
 Вам также потребуется много энергии (500k), чтобы его запустить.</ln>
 
+<!-- EN: Beam Drone -->
 <ln id="BeamDrone_Full">Лучевой Дрон</ln>
+<!-- EN: Be-D I -->
 <ln id="BeamDrone_Short">Лу-Д I</ln>
+<!-- EN: Beam Drones -->
 <ln id="BeamDrone_Wave">Лучевые Дроны</ln>
+<!-- EN: A small, shortlived drone.  Basically just an engine slapped on to a reactor and the main emitter array from a Heavy Beam Cannon.  There wasn't room for any of that unimportant stuff like safety equipment, heatsinks, etc.  So it generally only gets one or two shots before ceasing to be. -->
 <ln id="BeamDrone_Desc">Маленький, недолгоживущий дрон. В общем, всего лиш двигатель, приделанный к реактору и главному эмитеру с Тяжёлой Тяговой Пушки. Для оборудования обеспечения сохранности и радиаторов не осталось места. Поэтому сможет сделать только пару выстрелов, прежде чем взорвётся.</ln>
 
+<!-- EN: Beam Drone II -->
 <ln id="BeamDroneII_Full">Лучевой Дрон II</ln>
+<!-- EN: Be-D II -->
 <ln id="BeamDroneII_Short">Лу-Д II</ln>
 
+<!-- EN: Beam Drone III -->
 <ln id="BeamDroneIII_Full">Лучевой Дрон III</ln>
+<!-- EN: Be-D III -->
 <ln id="BeamDroneIII_Short">Лу-Д III</ln>
 
+<!-- EN: Beam Drone IV -->
 <ln id="BeamDroneIV_Full">Лучевой Дрон IV</ln>
+<!-- EN: Be-D IV -->
 <ln id="BeamDroneIV_Short">Лу-Д IV</ln>
 
+<!-- EN: Core Beam Drone -->
 <ln id="BeamDroneV_Full">Главный Лучевой Дрон</ln>
+<!-- EN: Be-D V -->
 <ln id="BeamDroneV_Short">Лу-Д V</ln>
+<!-- EN: Rail Drone -->
 <ln id="RailDrone_Full">Рельсодрон</ln>
 
+<!-- EN: Ra-D I -->
 <ln id="RailDrone_Short">Ре-Д I</ln>
+<!-- EN: Rail Drones -->
 <ln id="RailDrone_Wave">Рельсодроны</ln>
+<!-- EN: A small, shortlived drone equipped with a medium-range railgun. -->
 <ln id="RailDrone_Desc">Маленький, недолгоживущий дрон, вооружённый средним рельсотроном.</ln>
 
+<!-- EN: Rail Drone II -->
 <ln id="RailDroneII_Full">Рельсодрон II</ln>
+<!-- EN: Ra-D II -->
 <ln id="RailDroneII_Short">Ре-Д II</ln>
 
+<!-- EN: Rail Drone III -->
 <ln id="RailDroneIII_Full">Рельсодрон III</ln>
+<!-- EN: Ra-D III -->
 <ln id="RailDroneIII_Short">Ре-Д III</ln>
 
+<!-- EN: Rail Drone IV -->
 <ln id="RailDroneIV_Full">Рельсодрон IV</ln>
+<!-- EN: Ra-D IV -->
 <ln id="RailDroneIV_Short">Ре-Д IV</ln>
 
+<!-- EN: Core Rail Drone -->
 <ln id="RailDroneV_Full">Главный Рельсодрон</ln>
+<!-- EN: Ra-D V -->
 <ln id="RailDroneV_Short">Ре-Д V</ln>
 
+<!-- EN: Spider Drone -->
 <ln id="SpiderDrone_Full">Паук Дрон</ln>
+<!-- EN: Sp-D I -->
 <ln id="SpiderDrone_Short">Пау-Д I</ln>
+<!-- EN: Spider Drones -->
 <ln id="SpiderDrone_Wave">Пауки Дроны</ln>
+<!-- EN: A small, shortlived drone equipped with a medium-range railgun.  The shells are weaker than those fired by the Rail Drone, but also cause engine damage. -->
 <ln id="SpiderDrone_Desc">Маленький, недолгоживущий дрон, вооружённый средним рельсотроном. Броня слабее, чем у Рельсодронов, но наносит урон двигателям.</ln>
 
+<!-- EN: Spider Drone II -->
 <ln id="SpiderDroneII_Full">Паук Дрон II</ln>
+<!-- EN: Sp-D II -->
 <ln id="SpiderDroneII_Short">Пау-Д II</ln>
 
+<!-- EN: Spider Drone III -->
 <ln id="SpiderDroneIII_Full">Паук Дрон III</ln>
+<!-- EN: Sp-D III -->
 <ln id="SpiderDroneIII_Short">Пау-Д III</ln>
 
+<!-- EN: Spider Drone IV -->
 <ln id="SpiderDroneIV_Full">Паук Дрон IV</ln>
+<!-- EN: Sp-D IV -->
 <ln id="SpiderDroneIV_Short">Пау-Д IV</ln>
 
+<!-- EN: Core Spider Drone -->
 <ln id="SpiderDroneV_Full">Главный Паук Дрон</ln>
+<!-- EN: Sp-D V -->
 <ln id="SpiderDroneV_Short">Пау-Д V</ln>
 
+<!-- EN: Grav Drone -->
 <ln id="GravDrone_Full">Гравидрон</ln>
+<!-- EN: Gr-D I -->
 <ln id="GravDrone_Short">Гр-Д I</ln>
+<!-- EN: Grav Drones -->
 <ln id="GravDrone_Wave">Гравидроны</ln>
+<!-- EN: A small, shortlived drone with weak weaponry but also a gravity generator for slowing down enemy ships. -->
 <ln id="GravDrone_Desc">Маленький, недолгоживущий дрон, слабовооружённый, но генерирующий поле, замедляющее вражеские корабли.</ln>
 
+<!-- EN: Grav Drone II -->
 <ln id="GravDroneII_Full">Гравидрон II</ln>
+<!-- EN: Gr-D II -->
 <ln id="GravDroneII_Short">Гр-Д II</ln>
 
+<!-- EN: Grav Drone III -->
 <ln id="GravDroneIII_Full">Гравидрон III</ln>
+<!-- EN: Gr-D III -->
 <ln id="GravDroneIII_Short">Гр-Д III</ln>
 
+<!-- EN: Grav Drone IV -->
 <ln id="GravDroneIV_Full">Гравидрон IV</ln>
+<!-- EN: Gr-D IV -->
 <ln id="GravDroneIV_Short">Гр-Д IV</ln>
 
+<!-- EN: Core Grav Drone -->
 <ln id="GravDroneV_Full">Главный Гравидрон</ln>
+<!-- EN: Gr-D V -->
 <ln id="GravDroneV_Short">Гр-Д V</ln>
 
+<!-- EN: Powerslaver -->
 <ln id="Powerslaver_Full">Поработитель</ln>
+<!-- EN: Pow I -->
 <ln id="Powerslaver_Short">Раб I</ln>
+<!-- EN: Powerslavers -->
 <ln id="Powerslaver_Wave">Поработители</ln>
+<!-- EN: Is initially fairly weak, but can swallow enemy ships whole and use those to power up its own guns. -->
 <ln id="Powerslaver_Desc">Сам по себе слаб, но может целиком поглощать вражеские корабли и использовать их мощь для собственного оружия.</ln>
 
+<!-- EN: Powerslaver II -->
 <ln id="PowerslaverII_Full">Поработитель II</ln>
+<!-- EN: Pow II -->
 <ln id="PowerslaverII_Short">Раб II</ln>
 
+<!-- EN: Powerslaver III -->
 <ln id="PowerslaverIII_Full">Поработитель III</ln>
+<!-- EN: Pow III -->
 <ln id="PowerslaverIII_Short">Раб III</ln>
 
+<!-- EN: Powerslaver IV -->
 <ln id="PowerslaverIV_Full">Поработитель IV</ln>
+<!-- EN: Pow IV -->
 <ln id="PowerslaverIV_Short">Раб IV</ln>
 
+<!-- EN: Core Powerslaver -->
 <ln id="PowerslaverV_Full">Главный Поработитель</ln>
+<!-- EN: Pow V -->
 <ln id="PowerslaverV_Short">Раб V</ln>
 
+<!-- EN: Translocator Starship -->
 <ln id="TranslocatorStarship_Full">Транспортный Звездолёт</ln>
+<!-- EN: Tr-S I -->
 <ln id="TranslocatorStarship_Short">Тр-З I</ln>
+<!-- EN: Translocator Starships -->
 <ln id="TranslocatorStarship_Wave">Транспортные Звездолёты</ln>
+<!-- EN: A starship-class unit equipped with multiple medium-ranged railguns that displace targets further away. -->
 <ln id="TranslocatorStarship_Desc">Юнит звездолётного класса, вооружённый несколькими средними рельсотронами, отбрасывающими вражеские цели.</ln>
 
+<!-- EN: Translocator Starship II -->
 <ln id="TranslocatorStarshipII_Full">Транспортный Звездолёт II</ln>
+<!-- EN: Tr-S II -->
 <ln id="TranslocatorStarshipII_Short">Тр-З II</ln>
 
+<!-- EN: Translocator Starship III -->
 <ln id="TranslocatorStarshipIII_Full">Транспортный Звездолёт III</ln>
+<!-- EN: Tr-S III -->
 <ln id="TranslocatorStarshipIII_Short">Тр-З III</ln>
 
+<!-- EN: Translocator Starship IV -->
 <ln id="TranslocatorStarshipIV_Full">Транспортный Звездолёт IV</ln>
+<!-- EN: Tr-S IV -->
 <ln id="TranslocatorStarshipIV_Short">Тр-З IV</ln>
 
+<!-- EN: Core Translocator Starship -->
 <ln id="TranslocatorStarshipV_Full">Главный Транспортный Звездолёт</ln>
+<!-- EN: Tr-S V -->
 <ln id="TranslocatorStarshipV_Short">Тр-З V</ln>
 
+<!-- EN: Translocator Guardian -->
 <ln id="TranslocatorGuardian_Full">Транспортный Страж</ln>
+<!-- EN: Tr-G I -->
 <ln id="TranslocatorGuardian_Short">Тр-С I</ln>
+<!-- EN: Translocator Guardians -->
 <ln id="TranslocatorGuardian_Wave">Транспортные Стражи</ln>
+<!-- EN: Equipped with multiple medium-ranged railguns that displace targets further away. -->
 <ln id="TranslocatorGuardian_Desc">Вооружён несколькими средними рельсотронами, отбрасывающими вражеские цели.</ln>
 
+<!-- EN: Translocator Guardian II -->
 <ln id="TranslocatorGuardianII_Full">Транспортный Страж II</ln>
+<!-- EN: Tr-G II -->
 <ln id="TranslocatorGuardianII_Short">Тр-З II</ln>
 
+<!-- EN: Translocator Guardian III -->
 <ln id="TranslocatorGuardianIII_Full">Транспортный Страж III</ln>
+<!-- EN: Tr-G III -->
 <ln id="TranslocatorGuardianIII_Short">Тр-З III</ln>
 
+<!-- EN: Translocator Guardian IV -->
 <ln id="TranslocatorGuardianIV_Full">Транспортный Страж IV</ln>
+<!-- EN: Tr-G IV -->
 <ln id="TranslocatorGuardianIV_Short">Тр-З IV</ln>
 
+<!-- EN: Core Translocator Guardian -->
 <ln id="TranslocatorGuardianV_Full">Главный Транспортный Страж</ln>
+<!-- EN: Tr-G V -->
 <ln id="TranslocatorGuardianV_Short">Тр-З V</ln>
 
+<!-- EN: Devastator Guardian -->
 <ln id="DevastatorGuardian_Full">Опустошитель Страж</ln>
+<!-- EN: De-G I -->
 <ln id="DevastatorGuardian_Short">Оп-З I</ln>
+<!-- EN: Devastator Guardians -->
 <ln id="DevastatorGuardian_Wave">Опустошители Стражи</ln>
+<!-- EN: Based on Zenith technology used for fighting shield-heavy Spire units, this guardian's cannon completely ignores forcefields.  However, it cannot target small units. -->
 <ln id="DevastatorGuardian_Desc">Основанный на технологиях Zenith'ов, используемых для уничтожения юнитов Spire'ов с тяжёлыми щитами, этот страж полностью игнорирует щиты. Тем не менее, не может стрелять по мелким целям.</ln>
 
+<!-- EN: Devastator Guardian II -->
 <ln id="DevastatorGuardianII_Full">Опустошитель Страж II</ln>
+<!-- EN: De-G II -->
 <ln id="DevastatorGuardianII_Short">Оп-З II</ln>
 
+<!-- EN: Devastator Guardian III -->
 <ln id="DevastatorGuardianIII_Full">Опустошитель Страж III</ln>
+<!-- EN: De-G III -->
 <ln id="DevastatorGuardianIII_Short">Оп-З III</ln>
 
+<!-- EN: Devastator Guardian IV -->
 <ln id="DevastatorGuardianIV_Full">Опустошитель Страж IV</ln>
+<!-- EN: De-G IV -->
 <ln id="DevastatorGuardianIV_Short">Оп-З IV</ln>
 
+<!-- EN: Core Devastator Guardian -->
 <ln id="DevastatorGuardianV_Full">Главный Опустошитель Страж</ln>
+<!-- EN: De-G V -->
 <ln id="DevastatorGuardianV_Short">Оп-З V</ln>
 
+<!-- EN: Lightning Starship -->
 <ln id="LightningStarship_Full">Молниевый Звездолёт</ln>
+<!-- EN: Li-S I -->
 <ln id="LightningStarship_Short">Мол-З I</ln>
+<!-- EN: Lightning Starships -->
 <ln id="LightningStarship_Wave">Молниевые Звездолёты</ln>
+<!-- EN: A starship-class unit built around an enormous generator that fires electric bolts into up to 200 nearby enemy ships.  Can concentrate full power against any group (of eligible targets) larger than 40.  Against groups smaller than 40, some of the power is wasted. -->
 <ln id="LightningStarship_Desc">Юнит звездолётного типа, построенный вокруг огромного генератора, стреляющего электрическими зарядами по 200 ближайшим вражеским кораблям. Может концентрировать огонь по группе (доступных целей) больше 40. По группам меньше 40 часть энергии теряется.</ln>
 
+<!-- EN: Lightning Starship II -->
 <ln id="LightningStarshipII_Full">Молниевый Звездолёт II</ln>
+<!-- EN: Li-S II -->
 <ln id="LightningStarshipII_Short">Мол-З II</ln>
 
+<!-- EN: Lightning Starship III -->
 <ln id="LightningStarshipIII_Full">Молниевый Звездолёт III</ln>
+<!-- EN: Li-S III -->
 <ln id="LightningStarshipIII_Short">Мол-З III</ln>
 
+<!-- EN: Lightning Starship IV -->
 <ln id="LightningStarshipIV_Full">Молниевый Звездолёт IV</ln>
+<!-- EN: Li-S IV -->
 <ln id="LightningStarshipIV_Short">Мол-З IV</ln>
 
+<!-- EN: Core Lightning Starship -->
 <ln id="LightningStarshipV_Full">Главный Молниевый Звездолёт</ln>
+<!-- EN: Li-S V -->
 <ln id="LightningStarshipV_Short">Мол-З V</ln>
 
+<!-- EN: Combat Carrier Guardian -->
 <ln id="CombatCarrierGuardian_Full">Комбинированный Страж</ln>
+<!-- EN: CCG I -->
 <ln id="CombatCarrierGuardian_Short">КЗ I</ln>
+<!-- EN: Combat Carrier Guardians -->
 <ln id="CombatCarrierGuardian_Wave">Комбинированные Стражи</ln>
+<!-- EN: Adapted from Neinzul technology, when threatened this unit deploys Beam, Rail, Spider, and Grav drones. -->
 <ln id="CombatCarrierGuardian_Desc">Адаптированная технология Neinzul'ов, при опасности выпускающая Лучевых, Рельсо-, Паучьих и Грави- Дронов.</ln>
 
+<!-- EN: Combat Carrier Guardian II -->
 <ln id="CombatCarrierGuardianII_Full">Комбинированный Страж II</ln>
+<!-- EN: CCG II -->
 <ln id="CombatCarrierGuardianII_Short">КЗ II</ln>
 
+<!-- EN: Combat Carrier Guardian III -->
 <ln id="CombatCarrierGuardianIII_Full">Комбинированный Страж III</ln>
+<!-- EN: CCG III -->
 <ln id="CombatCarrierGuardianIII_Short">КЗ III</ln>
 
+<!-- EN: Combat Carrier Guardian IV -->
 <ln id="CombatCarrierGuardianIV_Full">Комбинированный Страж IV</ln>
+<!-- EN: CCG IV -->
 <ln id="CombatCarrierGuardianIV_Short">КЗ IV</ln>
 
+<!-- EN: Core Combat Carrier Guardian -->
 <ln id="CombatCarrierGuardianV_Full">Главный Комбинированный Страж</ln>
+<!-- EN: CCG V -->
 <ln id="CombatCarrierGuardianV_Short">КЗ V</ln>
 
+<!-- EN: Neinzul Combat Carrier -->
 <ln id="NeinzulCombatCarrier_Full">Комбинатор Neinzul'ов</ln>
+<!-- EN: N-CC I -->
 <ln id="NeinzulCombatCarrier_Short">N-К I</ln>
+<!-- EN: Neinzul Combat Carriers -->
 <ln id="NeinzulCombatCarrier_Wave">Комбинаторы Neinzul'ов</ln>
+<!-- EN: While enemies are present, this ship periodically produces a group of special short-lived "drone" attack ships.  Rather than the Enclave Starship's Needler, Laser, MLRS, and Missle drones, the Combat Carrier produces Beam, Rail, Spider, and Grav drones.
+
+Built from the Starship Constructor (or from the Advanced Starship Constructor, for the MkIV). -->
 <ln id="NeinzulCombatCarrier_Desc">При появлении врагов этот корабль периодически выпускает группы специальных недолгоживущих дронов, атакующих корабли. В отличие от Иглового Звездолёта Анклава, Лазерных, РСЗО и Ракетных Дронов, Комбинатор создаёт Лучевых, Рельсо-, Паучьих и Грави- Дронов.
 
 Создаётся на Звездолётной Верфи (или в Продвинутой Звездолётной Верфи для МодIV).</ln>
 
+<!-- EN: Neinzul Combat Carrier II -->
 <ln id="NeinzulCombatCarrierII_Full">Комбинатор Neinzul'ов II</ln>
+<!-- EN: N-CC II -->
 <ln id="NeinzulCombatCarrierII_Short">N-К II</ln>
 
+<!-- EN: Neinzul Combat Carrier III -->
 <ln id="NeinzulCombatCarrierIII_Full">Комбинатор Neinzul'ов III</ln>
+<!-- EN: N-CC III -->
 <ln id="NeinzulCombatCarrierIII_Short">N-К III</ln>
 
+<!-- EN: Neinzul Combat Carrier IV -->
 <ln id="NeinzulCombatCarrierIV_Full">Комбинатор Neinzul'ов IV</ln>
+<!-- EN: N-CC IV -->
 <ln id="NeinzulCombatCarrierIV_Short">N-К IV</ln>
 
+<!-- EN: Core Neinzul Combat Carrier -->
 <ln id="CoreNeinzulCombatCarrier_Full">Главный Комбинатор Neinzul'ов</ln>
+<!-- EN: N-CC V -->
 <ln id="CoreNeinzulCombatCarrier_Short">N-К V</ln>
 
 </root>

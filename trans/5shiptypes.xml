@@ -1,15 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
+<!-- EN: Showdown Device -->
 <ln id="ShowdownDevice">Проявительное Устройство</ln>
+<!-- EN: Lightning Torpedo Frigate -->
 <ln id="LightningTorpedoFrigate">Фрегат Молниевых Торпед</ln>
+<!-- EN: Zenith Devastator -->
 <ln id="ZenithDevestator">Опустошитель Zenith'ов</ln>
+<!-- EN: Protector Starship -->
 <ln id="ProtectorStarship">Звездолёт Защитник</ln>
+<!-- EN: Neinzul Combat Carrier -->
 <ln id="NeinzulCombatCarrier">Авианосец Neinzul'ов</ln>
+<!-- EN: Neinzul Railpod -->
 <ln id="NeinzulRailpod">Рельсопод Neinzul'ов</ln>
+<!-- EN: Zenith Hydra -->
 <ln id="ZenithHydra">Гидра Zenith'ов</ln>
+<!-- EN: Lightning Torpedo -->
 <ln id="LightningTorpedo">Молниевая Торпеда</ln>
+<!-- EN: Yng Shrike -->
 <ln id="YounglingShrike">Юнл Сорокопут</ln>
+<!-- EN: Implosion Drone -->
 <ln id="ImplosionDrone">Дрон Внутревзрыва</ln>
+<!-- EN: Shredder Drone -->
 <ln id="ShredderDrone">Дрон Шреддер</ln>
+<!-- EN: Zenith Hydra Head -->
 <ln id="ZenithHydraHead">Голова Гидры Zenith'ов</ln>
 </root>

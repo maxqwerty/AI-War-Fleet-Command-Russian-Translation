@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
+<!-- EN: Grid -->
 <ln id="EXP3_Grid">Решётка</ln>
+<!-- EN: Crosshatch -->
 <ln id="EXP3_Crosshatch">Сетка</ln>
+<!-- EN: Maze A -->
 <ln id="EXP3_MazeRecursiveBacktracker">Лабиринт A</ln>
+<!-- EN: Maze A Easy -->
 <ln id="EXP3_MazeRecursiveBacktrackerEasy">Лабиринт A Прост</ln>
+<!-- EN: Maze B -->
 <ln id="EXP3_MazeRecursiveBacktrackerAngled">Лабиринт B</ln>
+<!-- EN: Maze B Easy -->
 <ln id="EXP3_MazeRecursiveBacktrackerAngledEasy">Лабиринт B Прост</ln>
+<!-- EN: Maze C -->
 <ln id="EXP3_MazePrims">Лабиринт C</ln>
+<!-- EN: Maze D -->
 <ln id="EXP3_MazePrimsAngled">Лабиринт D</ln>
 </root>

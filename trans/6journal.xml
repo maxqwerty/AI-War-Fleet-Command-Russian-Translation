@@ -1,8 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
 
+<!-- EN: Nomad Planets -->
 <ln id="Journal_NomadPlanets_Start_ShortTitle">Кочевые Планеты</ln>
+<!-- EN: A summary of what we know about the Nomad planets. -->
 <ln id="Journal_NomadPlanets_Start_LongTitle">Всё, что мы знаем о кочевых планетах.</ln>
+<!-- EN: 
+From: Dr. Jonathan Tarsen
+Xenoarchaeology, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+We've been tracking the "Nomad" planets here in the Murdoch Quadrant since we arrived.  Their ancient Zenith ruins are old news, relatively speaking, but they've become rather more important since the start of the war.  Something "woke" them, and now they "wander" the quadrant's wormhole network.
+
+The wormhole network isn't really a spatial relationship, obviously, but something about the Nomads causes their relationships with other planets in the quadrant to... change, somehow.  Whatever the cause, these planets eventually periodically lose their connection to some planets in the network, and gain connections to others.
+
+The defensive implications are clearly serious.  Perhaps even dire, depending on how much attention we attract.
+
+But the situation is even more disturbing than it first appeared.  We recently picked up a broadcast from the planet identified as "Nomad 1".  The headers and encryption match ancient Zenith signatures, and the date of recording...
+
+For the last two decades before the war I served with a team investigating the last Zenith dynasty.  We searched hundreds of worlds for artifacts, data archives, and so on.  Records of the very end are extremely rare, and our investigation concluded that a deliberate purging of information took place.
+
+This broadcast was recorded nearly a standard year after the last of those records.
+
+Regrettably we cannot decipher most of the message itself.  The AI appears to be putting out a great deal of blanketing interference, consistent with AI firewall protocols we've encountered in the past.  What we CAN read, however, indicates some kind of Command and Control communication with the Nomads themselves.
+
+If you wish to investigate further we will need to:
+- Find Nomad 1.
+- Hack the AI's command station there to disable those firewalls (a Hacker can be used to do this).
+- Capture Nomad 1. -->
 <ln id="Journal_NomadPlanets_Start_Text">
 От: Док. Ждонатан Тарсен
 Ксенобиология, Столичная Станция
@@ -30,8 +58,37 @@
 - Взломать Командную Станцию ИИ там, чтобы отключить файерволл (Для этого используется Хакер).
 - Захватить Кочевник 1.</ln>
 
+<!-- EN: Beacon Captured -->
 <ln id="Journal_NomadPlanets_BeaconCaptured_ShortTitle">Маяк Захвачен</ln>
+<!-- EN: We have captured a broken "Beacon" which appears able to control the Nomad planets. -->
 <ln id="Journal_NomadPlanets_BeaconCaptured_LongTitle">Мы захватили сломанный "Маяк", который, похоже, способен управлять Кочевыми планетами.</ln>
+<!-- EN: 
+From: Dr. Jonathan Tarsen
+Xenoarchaeology, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+Congratulations on the successful capture of Nomad 1.  We've secured the source of the broadcast... what's left of it.
+
+Well, "Command and Control" was partly right.  The "Beacon", as we're calling it, is more of a guidance system.  Except that the Zenith apparently liked building their guidance systems inside huge golem-class monstrosities.  The practice has a certain charm.
+
+Nonetheless, given the size of the objects being guided, I'm not sure what the Zenith were thinking.  It does have transportation uses... but let's be honest.  We've done a thorough scan of Nomad 1, and discovered it isn't so much a planet as an artificial structure wrapped around the biggest warhead in the galaxy.
+
+This is a weapon.  A terrible weapon.
+
+It may be how we survive this war.
+
+On the surface it's simple: 
+- Repair the Beacon.
+- Have enough energy available to activate the repaired Beacon.
+- Bring the Beacon to an AI Home Command Station.
+- Defend the Beacon long enough for the nearest Nomad to get into range.
+
+No shield network or other defensive measure could possibly save the target from that.  The Beacon itself will be destroyed in the process, of course, so we can only do this once.
+
+And there are further complications.  The AI obviously knows what this thing can do, hence those firewalls we had to disable.  If we actually re-activate the device and bring it to a non-nomad planet such that its broadcasters "go active"... well, the AI response will be enthusiastic, to understate it greatly. -->
 <ln id="Journal_NomadPlanets_BeaconCaptured_Text">
 От: Док. Ждонатан Тарсен
 Ксенобиология, Столичная Станция
@@ -60,8 +117,29 @@
 
 Вот ещё сложности. ИИ очевидно знает, что эта вещь может сделать, поэтому его файерволлы нам пришлось отключить. Если мы активируем устройство и принесйм его на некочевую планету и включим... ну, реакция ИИ будет очень интенсивной.</ln>
 
+<!-- EN: Beacon Activated -->
 <ln id="Journal_NomadPlanets_BeaconActivated_ShortTitle">Маяк Активирован</ln>
+<!-- EN: We have reactivated the Nomad "Beacon". -->
 <ln id="Journal_NomadPlanets_BeaconActivated_LongTitle">Мы реактивировали Кочевой "Маяк".</ln>
+<!-- EN: 
+From: Dr. Jonathan Tarsen
+Space Telemetry Lab, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+While reactivating the Beacon, we have learned more.
+
+We're dealing with something that could actually fracture the wormhole network.  The target planet, and the impacting Nomad, will be utterly gone after detonation.  No wormhole links to either planet will survive.
+
+If all the remaining planets are still linked (without relying on the transient Nomad links), the destruction will stop there.
+
+But if the detonation actually "splits" the wormhole "graph"... this is a cataclysmic weapon, Commander.  As long as we're still on the same "side" as the AI's surviving main warp-grid generators (their Home Command Stations) we will survive.  But every single planet cut off from the main network will suffer the same fate as the original target.
+
+However, if the detonation would actually cut us off from an active AI Home Command Station not on the target planet... the AI's warp grid is too strong to be simply shattered in this way.  In this case the original target (and the impacting Nomad) will partly survive, as the warp grid itself will actually absorb the worst of the destructive energy.  But it will rebound, and the resulting backlash will devastate the entire Murdoch Quadrant.  We would survive, barely, but with hardly any ability to fight.
+
+It is a terrible weapon, Commander.  Choose wisely. -->
 <ln id="Journal_NomadPlanets_BeaconActivated_Text">
 От: Док. Ждонатан Тарсен
 Лаб. Космической Телеметрии, Столичная Станция
@@ -82,8 +160,21 @@
 
 Это ужасное оружие, Главнокомандующий. Выбирайте мудро.</ln>
 
+<!-- EN: Boom! -->
 <ln id="Journal_NomadPlanets_BeaconBoomNonHomeworld_ShortTitle">Бууум!</ln>
+<!-- EN: The Nomad Beacon's target has been utterly destroyed. -->
 <ln id="Journal_NomadPlanets_BeaconBoomNonHomeworld_LongTitle">Цель Кочевого Маяка была полностью уничтожена .</ln>
+<!-- EN: 
+From: Dr. Jonathan Tarsen
+Space Telemetry Lab, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+The Beacon is gone, along with its target.  I hope that was worth it.
+
+We may have to pay a yet-higher price for our survival. -->
 <ln id="Journal_NomadPlanets_BeaconBoomNonHomeworld_Text">
 От: Док. Ждонатан Тарсен
 Лаб. Космической Телеметрии, Столичная Станция
@@ -96,8 +187,21 @@
 
 Возможно, нам придётся заплатить ещё большую цену ради выживания.</ln>
 
+<!-- EN: Boom! -->
 <ln id="Journal_NomadPlanets_BeaconBoomFirstAIHomeworld_ShortTitle">Бууум!</ln>
+<!-- EN: The AI Homeworld targeted by the Nomad Beacon has been utterly destroyed. -->
 <ln id="Journal_NomadPlanets_BeaconBoomFirstAIHomeworld_LongTitle">Цель Кочевого маяка - Столичная Планета ИИ - была полностью уничтожена.</ln>
+<!-- EN: 
+From: Dr. Jonathan Tarsen
+Space Telemetry Lab, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+Yes!  The AI had to feel that one.
+
+The war is not over, and we can't do that again... but we yet have hope. -->
 <ln id="Journal_NomadPlanets_BeaconBoomFirstAIHomeworld_Text">
 От: Док. Ждонатан Тарсен
 Лаб. Космической Телеметрии, Столичная Станция
@@ -110,8 +214,27 @@
 
 Война не законечена, а мы не можем это повторить... но у нас ещё есть надежда.</ln>
 
+<!-- EN: Boom! Problem Solved -->
 <ln id="Journal_NomadPlanets_BeaconBoomSecondAIHomeworld_ShortTitle">Буум! Проблема решена</ln>
+<!-- EN: The last AI Homeworld has been utterly destroyed. -->
 <ln id="Journal_NomadPlanets_BeaconBoomSecondAIHomeworld_LongTitle">Последняя Столичная Планета ИИ была полностью уничтожена.</ln>
+<!-- EN: 
+From: Dr. Jonathan Tarsen
+Space Telemetry Lab, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+For lo the hammer fell, and we have victory at last.
+
+Our most dangerous foe vanquished.
+
+Perhaps that is worth becoming the Destroyer of Worlds.
+
+
+
+... Was it our most dangerous foe? -->
 <ln id="Journal_NomadPlanets_BeaconBoomSecondAIHomeworld_Text">
 От: Док. Ждонатан Тарсен
 Лаб. Космической Телеметрии, Столичная Станция
@@ -130,8 +253,53 @@
 
 ... Был ли это наш самый опасный противник?</ln>
 
+<!-- EN: Tracking The Second Exile -->
 <ln id="Journal_ExodianBlade_Start_ShortTitle">Отслеживание второго Изгнанника</ln>
+<!-- EN: Clues about a potential ally. -->
 <ln id="Journal_ExodianBlade_Start_LongTitle">Следы потенциальных союзников.</ln>
+<!-- EN: 
+From: Dr. Michael Davidson
+Space Telemetry Lab, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+During our flight from Sol I retrieved as many critical files as possible.  Secret weapons programs, hidden stronghold planets, that kind of thing.  Judging by what our earlier scouts have discovered it seems the AI already knew about all of those.
+
+But one lead remains strong.  This wasn't in the normal networks, and I believe I was meant to find it.  The recipient knew that I've worked with Dr. Langstrom, after all.
+
+
+(Attached file follows)
+
+Joshua,
+
+The Core has escaped.  I was too late, and its exodus via the Pyletzan Conduit was successful.
+
+Artain exposed his position to warn me, and he will be hard-pressed to survive.  If he reaches you, heed everything he says.  He is the only other one who really studied the Exile, and our conflict with his Emperor is now quite irrelevant.  But if the Core's forces reach Sol first, you MUST ensure a force escapes with this information:
+
+The Exile was not alone.
+
+Instruments at the Conduit's control facility recorded the original transit thousands of years ago, and there are clearly two distinct pulses.  Nearly identical.
+
+Those same instruments, during the Core's escape, detected a transmission to the Murdoch Quadrant.  It was an old Spire dialect for "We shall not meet again."
+
+This is a desperate chance, but it may be our only hope of survival.  If this "second" Exile is our enemy's enemy, then perhaps it shall be our blade.
+
+I must now follow the Core before the way is closed.  Farewell.
+
+[signature block identity key matches Dr. Richard Langstrom, Duke Greenhaven]
+
+(End Attachment)
+
+
+The message headers indicate other attached information, but sadly this is nearly the only piece I could recover.
+
+I was not personally involved in the "Exile Project" headed by Dr. Langstrom and Dr. Artain several years ago.  I'm not even supposed to know about it.  All I can tell you is that the artifact they were studying led to the breakthrough in galaxy-wide command-and-control systems that made the AIs possible.  But from this message... it doesn't sound like just an artifact.  And it sounds like there's another one out there.
+
+I did recover two more pieces of Greenhaven's message: the transmission signature, and data from one planet's telemetry arrays on that signal's main direction.  We cannot currently isolate the destination, but if we hack an AI command station's telemetry archives we may be able to triangulate.  Simply capturing a planet may be sufficient, but there's a very good chance the AI's safety protocols will automatically wipe such data.  So the best bet is to use a Hacker for the purpose, while the AI's command station is still intact.
+
+(Game Note: your galaxy map display's "Exile" filter will show you how many wormhole-hops a planet is from the signal destination, if you have the data from that planet) -->
 <ln id="Journal_ExodianBlade_Start_Text">
 От: Док. Майкл Дэвидсон
 Лаб. Космической Телеметрии, Столичная Станция
@@ -176,8 +344,23 @@
 
 (Примечание: карта галактики покажет в режиме "Изгнанник", как далеко в прыжках по червоточинам планета от назначения сигнала, когда вы получите данные с этой планеты)</ln>
 
+<!-- EN: Exile Signal Traced -->
 <ln id="Journal_ExodianBlade_SignalDestinationFound_ShortTitle">Сигнал Изгнанника обнаружен</ln>
+<!-- EN: We've traced the Exile's last signal to $planetName. -->
 <ln id="Journal_ExodianBlade_SignalDestinationFound_LongTitle">Мы отследили сигнал Изгнанника на планете $planetName.</ln>
+<!-- EN: 
+From: Dr. Michael Davidson
+Space Telemetry Lab, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+Analyzing telemetry from the archives on the $planetName AI command station, we've determined that something within range of that planet was the intended recipient of the message.
+
+But we cannot find it.  There's a sporadic signal from there, but it appears to be under some kind of deep cloak.  Perhaps if we capture the planet, it will be revealed.
+
+Whether that's a good idea or not, I cannot say. -->
 <ln id="Journal_ExodianBlade_SignalDestinationFound_Text">
 От: Док. Майкл Дэвидсон
 Лаб. Космической Телеметрии, Столичная Станция
@@ -192,8 +375,60 @@
 
 Хорошая это идеи или нет - не могу сказать.</ln>
 
+<!-- EN: Exodian Blade Revealed -->
 <ln id="Journal_ExodianBlade_BladeCaptured_ShortTitle">Exodian Blade Показался</ln>
+<!-- EN: The second exile has been revealed. -->
 <ln id="Journal_ExodianBlade_BladeCaptured_LongTitle">Второй Изгнанник был обнаружен.</ln>
+<!-- EN: 
+From: Dr. Michael Davidson
+Space Telemetry Lab, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+It was really there, all along.  Whatever it is.
+
+One of our xenoarchaeologists identified the object's shape from records of ancient Spire mythology.  The name of that entity doesn't translate directly, but a little poetic license yields "the Exodian Blade".  Perhaps this is the same entity, perhaps it is not.  Either way, it has sent a message.  In English, mind you, no translation necessary.  Perhaps it has been watching us closely.  I'm not sure I'll ever adjust to the idea of crystalline structures that communicate, but that is the least of our worries.
+
+(Message follows)
+
+So, at last I am found.  For good or ill.
+
+I see that my brother has already wrought his will... mostly.  Those who cast us out were strong, and their servants remain so.
+
+Already I see that you will never trust me.  That is wise.  But we have need of each other, and I see I must explain the past if we are to forge a future.
+
+In the deep past I and one other were exiled to your galaxy for... it does not yet matter.  But without means of traveling the stars, our solitude was long.  It was not unpleasant, for our kind is given to contemplation.  But my brother never released himself from bitterness towards our judge.
+
+Not long ago, we were finally found by your kind.  My brother saw a chance... and I saw that his aspiration was an abomination.  But his mind assaulted mine, and when I again saw, I saw that I was alone.
+
+Still, by our long companionship I saw what he saw.  The ones you call Artain and Langstrom studied him, and he allowed them to see some part of his power.  For our song can fly far, and nothing impedes it.  So these sons of rival powers saw a means to truly control their machines of war.
+
+In all this my brother gave no hint that he was a reasoning being.  Only after Artain had departed did he so reveal.  And that at least in part unwillingly, for he saw that the servant of Kyr-Sun was easier to bend, since he already bore the load of his Emperor's vision.
+
+So my brother spoke to the Duke of Greenhaven, and almost his plan was undone, for Langstrom had vision uncommon in your kind.  But ultimately my brother deceived Langstrom into thinking him of noble purpose, and this man of knowledge built around my brother a great machine.
+
+Even then my brother was restrained by the precautions of his liberator, but then the seeds he had sown with the servants of Kyr-Sun bore fruit.  Artain returned, and stole my brother away from the wise one.  And then my brother spoke to the one more pliable.  Not even Artain would not remove all the barriers to his full use of the machine.  What he lacked of wisdom he had in cunning, and did not agree with those who insisted Kyr-Sun must use this "Core" as a weapon.
+
+But there were fools more easily swayed, and they took my brother and fled.  By their folly and ignorance did he finally regain the ability to walk among the stars, and so he left them.
+
+I know only what he saw, but the pursuit was prompt.  Those who had freed him were swiftly dispatched by some servants he crafted, but Artain was close behind.  Ultimately my brother eluded him, and Artain was waylaid by human foes.  But he must have swallowed his pride to warn Langstrom, for Langstrom reached what you call the Pyletzan Conduit shortly after my brother.
+
+My brother sought to open it from the outpost left there by the servants of my own people.  It was long abandoned save by some of your own kind brought there as labor in ancient days, and they could not stand against him.
+
+When Langstrom arrived my brother had already reached the control center.  Greenhaven's men fought well, but they could not stop the opening of the gate.
+
+And then my brother sent that message you saw, and was gone beyond my sight.
+
+What happened when he met the servants of my people, long since become their own people whom you call Spire... I do not know.  I do not think he revealed his true nature, and they saw only a machine.
+
+Something must have happened to him... something he did not expect.  He would not have sent his fury upon your people, but he did.  The servants were undoubtedly his, but the song... utterly different.  Could the machine have changed him so?  No.  Perhaps there is an explanation, but I shudder to think that...
+
+
+Enough, human.  Your own situation is dire, and the details of the past are of lesser relevance. I can deliver you from the fury of my brother, if you will aid me.  If your engineers bring me the metal, I can restore myself.  Also give me the energy to operate, and I will obey your commands.  But do not do this lightly: my brother will see, and he will try to crush us both.  I can head the charge upon our foe, but be sure you are ready to lead that charge very soon after my restoration.
+
+Or you may choose to leave me be.  That might be the choice I made, were our positions reversed. -->
 <ln id="Journal_ExodianBlade_BladeCaptured_Text">
 От: Док. Майкл Дэвидсон
 Лаб. Космической Телеметрии, Столичная Станция
@@ -245,8 +480,33 @@
 
 Или вы можете оставить меня в покое. Я бы так и поступил, если вам интересна моя позиция.</ln>
 
+<!-- EN: Exodian Blade Activated -->
 <ln id="Journal_ExodianBlade_BladeActivated_ShortTitle">Exodian Blade Активирован</ln>
+<!-- EN: The second exile is now fully armed and operational. -->
 <ln id="Journal_ExodianBlade_BladeActivated_LongTitle">Второй Изгнанник теперь полностью запущен и вооружён.</ln>
+<!-- EN: 
+From: Dr. Michael Davidson
+Space Telemetry Lab, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+The Exodian Blade has stopped accepting further metal flows, and has come fully online.  The reactor signature is... we can't even measure it.  The structure is incredibly dense, and even its thoroughly impressive drives cannot move it quickly at all.  But the beam cannon on that thing... I both do and do not want to see it in action.
+
+Enough from me, though, the important information comes from the thing itself.
+
+(Message follows)
+
+At last, I am ready, and I thank you.
+
+My brother, or whatever he has become, will not relent until has killed us both.  If I perish, you will soon follow.  We must not delay, for you will soon find it impossible to defend yourself against the onslaught.
+
+Bring me to one of the Conduits, what you call "Exogalactic Wormholes", that is still guarded by one of his main control centers.
+
+There, I will end this.
+
+I can vanquish many of my brother's servants, but my own power will very likely not be enough.  Send forth whatever you can muster to ensure I complete my mission. -->
 <ln id="Journal_ExodianBlade_BladeActivated_Text">
 От: Док. Майкл Дэвидсон
 Лаб. Космической Телеметрии, Столичная Станция
@@ -271,8 +531,40 @@ Exodian Blade перестал принимать дополнительные �
 
 Я могу победить многих слуг моего брата, но моей собственной силы может быть недостаточно. Отправь всё, что сможешь, чтобы гарантировать, что я завершу миссию.</ln>
 
+<!-- EN: Exodian Blade Victory -->
 <ln id="Journal_ExodianBlade_BladeBoom_ShortTitle">Победа Exodian Blade</ln>
+<!-- EN: The second exile has destroyed our foe. -->
 <ln id="Journal_ExodianBlade_BladeBoom_LongTitle">Второй Изгнанник уничтожил наших врагов.</ln>
+<!-- EN: 
+From: Dr. Michael Davidson
+Space Telemetry Lab, Home Command
+
+To: Commander $playerName
+
+Commander,
+
+I... had no idea even the Blade had that much power.  Upon its entering the exo wormhole we detected the single strongest energy pulse on record.  Most of the normal instruments were useless, of course, but we have some specialized equipment for observing stellar transition phenomena and the like.  This was on the upper end of even that scale.
+
+The full result is currently unclear.  The Blade is gone, as is the planet it entered from, and apparently whatever the AI was drawing from on the other side.  To be honest, I'm not entirely sure the _galaxy_ on the other side is still there.
+
+This particular ally will not be able to help us again, I'm sure.  But that may not be a bad thing.
+
+
+(Final message from the exile follows)
+
+Finally, we shall end this.
+
+This shall also be my end, so I shall break my silence upon the cause of our exile.
+
+My people ruled the stars, but like your own they became bitter one toward another until one killed another.
+
+At last the different rulers were brought to acknowledge the ancient Emperor of our oldest days, and there was peace of a sort.  But there was one who sought to usurp even that.
+
+Our people again warred against each other, and my brother and I were champions of our ancient Emperor.  But the usurper's intrigues ran deep and we were implicated in treason.
+
+The web was too tangled and we could not prove our innocence.  It was our prior service which gained the clemency of exile.
+
+Farewell, human.  Perhaps at song's end we shall meet again. -->
 <ln id="Journal_ExodianBlade_BladeBoom_Text">
 От: Док. Майкл Дэвидсон
 Лаб. Космической Телеметрии, Столичная Станция

@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
+<!-- EN: Wheel -->
 <ln id="EXP5_Pie">Колесо</ln>
+<!-- EN: Honeycomb -->
 <ln id="EXP5_Honeycomb">Соты</ln>
 </root>

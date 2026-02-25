@@ -1,35 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
+<!-- EN: Bombard -->
 <ln id="ZenithBombardment">Бомбардир</ln>
+<!-- EN: AutoBomb -->
 <ln id="ZenithAutoBomb">АвтоБомб</ln>
+<!-- EN: Grenade Launch -->
 <ln id="GrenadeLauncher">Гранатомёт</ln>
+<!-- EN: Golem -->
 <ln id="Golem">Голем</ln>
+<!-- EN: Broken Golem -->
 <ln id="BrokenGolem">Сломанный Голем</ln>
-<ln id="AlarmPost">Пост Тревоги</ln>
-<ln id="AlarmPostSpecial">Специальный Пост Тревоги</ln>
+<!-- EN: Alarm Post -->
+<ln id="AlarmPost">Сигнальный Пост</ln>
+<!-- EN: Alarm Post Special -->
+<ln id="AlarmPostSpecial">Десантный Сигнальный Пост</ln>
+<!-- EN: Raid Engine -->
 <ln id="RaidEngine">Налётчик</ln>
+<!-- EN: Cloaker Starship -->
 <ln id="Cloaker_Starship">Скрытый Звездолёт</ln>
+<!-- EN: Elec Bomber -->
 <ln id="ZenithElectricBomber">ЭлектроБомбер</ln>
+<!-- EN: Sentinel Frigate -->
 <ln id="SentinelFrigate">Фрегат-Часовой</ln>
+<!-- EN: Mirror -->
 <ln id="ZenithMirror">Зеркало</ln>
+<!-- EN: Paralyzer -->
 <ln id="ZenithParalyzer">Паралич</ln>
+<!-- EN: Armor Boost -->
 <ln id="ShieldBooster">Усилитель</ln>
+<!-- EN: Beam Frigate -->
 <ln id="ZenithBeamFrigate">Лучевой Фрегат</ln>
+<!-- EN: Chameleon -->
 <ln id="ZenithChameleon">Хамелеон</ln>
+<!-- EN: Polarizer -->
 <ln id="ZenithPolarizer">Поляризатор</ln>
+<!-- EN: Shredder -->
 <ln id="ZenithViralShredder">Шреддер</ln>
+<!-- EN: Impulse Emitter -->
 <ln id="ImpulseReactionEmitter">Излучатель</ln>
+<!-- EN: Acid Sprayer -->
 <ln id="AcidSprayer">Распылитель Кислоты</ln>
+<!-- EN: Zenith SpaceTime -->
 <ln id="ZenithSpaceTime">Простр-Время Zenith'ов</ln>
+<!-- EN: Radar Jammer -->
 <ln id="RadarJammer">Глушитель</ln>
+<!-- EN: Planet Armor Booster -->
 <ln id="PlanetShieldBooster">Планетарный Усилитель</ln>
+<!-- EN: Planet Armor Inhibitor -->
 <ln id="PlanetShieldInhibitor">Планетарный Ингибитор</ln>
+<!-- EN: Black Hole Machine -->
 <ln id="BlackHoleMachine">Машина Чёрной Дыры</ln>
+<!-- EN: Gravity Drill -->
 <ln id="GravityDrill">Гравидрель</ln>
+<!-- EN: Interplanetary Munitions -->
 <ln id="InterplanetaryMunitions">Межпланетные Боеприпасы</ln>
+<!-- EN: Zenith Reserve -->
 <ln id="ZenithReserve">Резерв Zenith'ов</ln>
+<!-- EN: Distribution Node -->
 <ln id="DistributionNode">Точка Распределения</ln>
+<!-- EN: AI Super Terminal -->
 <ln id="AISuperTerminal">Супертерминал ИИ</ln>
+<!-- EN: AI CoProcessor -->
 <ln id="AICoProcessor">Со-Процессор ИИ</ln>
+<!-- EN: Dyson Spawn -->
 <ln id="DysonSpawn">Спаун Дайсона</ln>
 </root>

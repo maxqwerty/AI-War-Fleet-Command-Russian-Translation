@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
+<!-- EN: Neinzul Cluster Bomber -->
 <ln id="NeinzulClusterBomber">Кластерный Бомбер Neinzul'ов</ln>
+<!-- EN: Neinzul Viral Enthusiast -->
 <ln id="NeinzulViralEnthusiast">Вирусный Энтузиаст Neinzul'ов</ln>
+<!-- EN: Neinzul Nester -->
 <ln id="NeinzulNester">Гнездовой Neinzul'ов</ln>
+<!-- EN: Neinzul Youngster -->
 <ln id="NeinzulYoungster">Детёныш Neinzul'ов</ln>
+<!-- EN: Support Corps -->
 <ln id="SupportCorps">Отделы Поддержки</ln>
+<!-- EN: Warp Jumper -->
 <ln id="WarpJumper">Создатель Помех</ln>
 </root>

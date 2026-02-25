@@ -1,8 +1,13 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
+<!-- EN: Normal -->
 <ln id="Normal">Нормально</ln>
+<!-- EN: Military Ships (Hold F5) -->
 <ln id="MilitaryShips">Военные корабли (Зажмите F5)</ln>
+<!-- EN: Resources And Wormholes (Hold F6) -->
 <ln id="ResourcesAndWormholes">Ресурсы и червоточины (Зажмите F6)</ln>
+<!-- EN: Enemy Ships (Hold F7) -->
 <ln id="EnemyShips">Вражеские корабли (Зажмите F7)</ln>
+<!-- EN: Length -->
 <ln id="Length">Длина</ln>
 </root>

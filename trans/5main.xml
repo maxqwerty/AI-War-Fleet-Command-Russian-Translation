@@ -1,66 +1,112 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
 
 <!--Map Styles-->
+<!-- EN: Planets are arranged in a wheel-like shape with a number of spokes and a rim. -->
 <ln id="NMapPie">Планеты расположены в форме колеса со спицами и ободком.</ln>
+<!-- EN: Planets are arranged in a hexagonal pattern.  Some map seeds leave just a few gaps in the pattern, others have many gaps creating a very different overall effect. -->
 <ln id="NMapHoneycomb">Планеты расположены в гексогональном виде. Некоторые зёрна карты оставляют пробелы в структуре, другие имеют много пробелов, создава совсем иной эффект.</ln>
 
+<!-- EN: The AI gradually adds some extra-nasty units to its Special Forces.  The SF fleet normally functions as a mobile defense fleet for the AI, but these extra units will make it far more... interesting. -->
 <ln id="NEXP5_Hunter">ИИ постепенно добавляет несколько противных юнитов к Десанту. Десантный Флот обычно работает как подвижный оборонный флот ИИ, но эти дополнителоьные юниты сделают его более... интересным.</ln>
 
+<!-- EN: The AI gains strength every time one of your command stations falls.  Normally it's fairly minor when a human player loses a planet unless it was a critical defense point or had some important irreplaceable structure, but with the Shark plot once the AI smells blood in the water things could get out of hand in a hurry.
+
+This part of the Shark plot gains AIP with each human command station death. -->
 <ln id="NEXP5_Shark">ИИ набирает силу каждый раз при падении вашей Командной Станции. Обычно, потеря игроком планеты незначительна, если это не была критическая точка защиты или не имела важное незаменимое строение; но с Акулой, как только ИИ почувствует кровь в воде, всё быстрой пойдёт из рук вон плохо.
 
 Эта Акула зарабатывает Прогресс ИИ при каждой смерти Командной Станции людей.</ln>
 
+<!-- EN: The AI gains strength every time one of your command stations falls.  Normally it's fairly minor when a human player loses a planet unless it was a critical defense point or had some important irreplaceable structure, but with the Shark plot once the AI smells blood in the water things could get out of hand in a hurry.
+
+This part of the Shark plot gains no permanent bonuses with each human command station death, but does launch immediate follow-up ("go for the throat") attacks and contributes an extra chunk to the next Cross Planet Attack. -->
 <ln id="NEXP5_Shark_B">ИИ набирает силу каждый раз при падении вашей Командной Станции. Обычно, потеря игроком планеты незначительна, если это не была критическая точка защиты или не имела важное незаменимое строение; но с Акулой, как только ИИ почувствует кровь в воде, всё быстрой пойдёт из рук вон плохо.
 
 Эта Акула не получает постоянных бонусов после смерти Командной Станции людей, но запускает преследующую ("идущую к горлу") атаку и добавляет дополнительный силы к следующей КроссПланетной Атаке.</ln>
 
+<!-- EN: Chivalric -->
 <ln id="TAIChivalric">Рыцарь</ln>
+<!-- EN: This AI refrains from targeting irreplaceable structures (like Advanced Factories, Fabricators, etc) other than your Home Command Station, and instead gets a bonus to the size of its Cross Planet Attacks.
+
+When present in an AI with a secondary AI Type, this type's "do not target irreplaceable structures" characteristic is dominant despite being a disadvantage. -->
 <ln id="NAIChivalric">Этот ИИ воздерживается от атак по невосстановимым строениям (типа Продвинутых Фабрик, Заводов, и т.д.) в отличие от Столичной Командной Станции, а также добавляет бонус к КроссПланетным Атакам.
 
 Когда используется как вторичный тип, свойство "не атакует невосстановимые строения" доминирует, не смотря на то, что является недостатком.</ln>
 
+<!-- EN: Artillerist -->
 <ln id="TAIArtillerist">Артиллерист</ln>
+<!-- EN: This AI is fascinated with bombardment and focuses on throwing lots of (preferably long-range) artillery units at you.  Its defenses leave something to be desired, however. -->
 <ln id="NAIArtillerist">Этот ИИ увлекается бомбардировкой и фокусируется на перебросу множества (предпочтительно дальнобойных) артиллеристских юнитов на игрока. Однако, его защита оставляет желать лучшего.</ln>
+<!-- EN: Has various bombardment-related and long-range ships from the start. -->
 <ln id="EAIArtillerist">Имеет различные бомбардирующие и дальнобойные корабли с самого начала.</ln>
 
+<!-- EN: Bouncer -->
 <ln id="TAIBouncer">Вышибала</ln>
+<!-- EN: This AI uses normal guard posts instead of wormhole guard posts next to each of its wormholes.  The result is that you generally take more losses the first time you attack a planet but you have a much easier time keeping it from reinforcing much if you choose not to take it. -->
 <ln id="NAIBouncer">Этот ИИ использует обычные Караульные Посты возле каждой червоточины, вместо обычных Караульных Постов Червоточин. В результате, вы несёте большие потери при начале атаки планеты, но зато будет легче удерживать планету от подкреплений, если не хотите её захватывать.</ln>
 
+<!-- EN: Exotic -->
 <ln id="TAIExotic">Экзотик</ln>
+<!-- EN: This AI does not send normal waves, and instead sends small "exogalactic attacks" (similar to those provoked by the Fallen Spire, Broken Golems - Hard, Botnet Golem - Hard, or Spirecraft - Hard minor factions) with methods of composition and approach very different from normal waves.
+
+Note: this AI will send counter-attack waves (like those from killing a counter-attack post) the normal way. -->
 <ln id="NAIExotic">Этот ИИ не посылает обычные волны, а вместо этого посылает маленькие "экзогалактические атаки" (аналогичные тем, что провоцируются Fallen Spire'ами, Сломанными Големами - Тяж, Големами Ботнетами - Тяж или Spirecraft'ами - Тяж), по составу очень отличающихся от обычных волн.
 
 Прим.: этот ИИ посылает Контратакующие волны (как при уничтожении Караульного Десантного Поста) обычным манером.</ln>
 
+<!-- EN: Reservist -->
 <ln id="TAIReservist">Резервист</ln>
+<!-- EN: This AI gets a larger-than-usual strategic reserve and uses part of it to defend important planets that are normally not reinforced from the reserve. -->
 <ln id="NAIReservist">Этот ИИ получает больше обычного стратегического резерва и использует часть его для защиты важных планет, которые обычно не получают подкрепления из резерва.</ln>
 
+<!-- EN: Vorpal -->
 <ln id="TAIVorpal">Вострый</ln>
+<!-- EN: This AI focuses on force-field-immune units and strong Cross Planet Attacks as a counter to fortified human positions. -->
 <ln id="NAIVorpal">Этот ИИ специализируется на юнитах с иммунитетом против защитных полей и КроссПланетных Атаках, как противовес укреплённой позиции людей.</ln>
 
+<!-- EN: Vengeful -->
 <ln id="TAIVengeful">Мстительный</ln>
+<!-- EN: This AI retaliates with (relatively) small exogalactic attacks every time you destroy one of its guard posts, warp gates, command stations, data centers... it's kind of attached to a lot of things, actually.  Doesn't take criticism well. -->
 <ln id="NAIVengeful">Этот ИИ мстит относительно маленькими внешне-галактическими атаками при уничтожении каждого отдельного Охранного Поста, Врат, Командной Станции, Банков Данных... Вообще он следит за большим количеством разных объектов. Плохо воспринимает критику.</ln>
 
+<!-- EN: Vicious Exotic -->
 <ln id="TAIViciousExotic">Злобный Экзотик</ln>
+<!-- EN: This AI does not send normal waves, and instead sends LARGE "exogalactic attacks" (similar to those provoked by the Fallen Spire, Broken Golems - Hard, Botnet Golem - Hard, or Spirecraft - Hard minor factions) with methods of composition and approach very different from normal waves.
+
+Note: this AI will send counter-attack waves (like those from killing a counter-attack post) the normal way. -->
 <ln id="NAIViciousExotic">Этот ИИ не посылает нормальные волны, а вместо этого посылает БОЛЬШИЕ "экзогалактические атаки" (аналогичные тем, что провоцируются Fallen Spire'ами, Сломанными Големами - Тяж, Големами Ботнетами - Тяж или Spirecraft'ами - Тяж) по составу очень отличающихся от обычных волн.
 
 Прим.: этот ИИ посылает Контратакующие волны (как при уничтожении Караульного Десантного Поста) обычным манером.</ln>
 
+<!-- EN: AI Warp Grid Shut Down!  AI Home Command Stations Have Mobilized. -->
 <ln id="HaveActivatedShowdownDevices">Пространственная Сеть ИИ Выключена! Столичные Командные Станции ИИ Мобилизированы.</ln>
+<!-- EN: Showdown Devices Provoking Wave In {0} -->
 <ln id="ShowdownDevice_WaveIn">Проявительное Устройство Спровоцировало Волну на {0}</ln>
+<!-- EN: Showdown Devices Provoking Exogalactic Attack In {0} -->
 <ln id="ShowdownDevice_SmallExoIn">Проявительное Устройство Спровоцировало Экзогалактическую атаку на {0}</ln>
+<!-- EN: Showdown Devices Provoking Counter-Wave In {0} -->
 <ln id="ShowdownDevice_CounterWaveIn">Проявительное Устройство Спровоцировало Спец. Волну на {0}</ln>
+<!-- EN: Showdown Devices Provoking Cross Planet Attack In {0} -->
 <ln id="ShowdownDevice_CPAIn">Проявительное Устройство Спровоцировало КроссПланетную Атаку на {0}</ln>
+<!-- EN: Showdown Devices Provoking LARGE Exogalactic Attack In {0} -->
 <ln id="ShowdownDevice_LargeExoIn">Проявительное Устройство Спровоцировало БОЛЬШУЮ Экзогалактическую Атаку {0}</ln>
+<!-- EN: Showdown Devices Provoking FINAL Cross Planet Attack In {0} -->
 <ln id="ShowdownDevice_FinalCPAIn">Проявительное Устройство Спровоцировало ФИНАЛЬНУЮ КроссПланетную Атаку на {0}</ln>
+<!-- EN: Showdown Devices Shutting Down AI Warp Grid In {0} -->
 <ln id="ShowdownDevice_SupermothershipLaunchIn">Проявительное Устройство Выключает Пространственную Сеть ИИ {0}</ln>
+<!-- EN: (Showdown) -->
 <ln id="ShowdownWave">(Проявительная)</ln>
+<!-- EN: (Showdown) -->
 <ln id="ShowdownCounterWave">(Проявительная)</ln>
 
+<!-- EN: Dire Guardian Spawning In {0} On  -->
 <ln id="DireGuardianLairNearlyDone">Зловещий Страж Создаётся через {0} на </ln>
 
+<!-- EN: PROT -->
 <ln id="BProtectorStarship">ЗАЩ</ln>
+<!-- EN: Protector Starships -->
 <ln id="NProtectorStarship">Звездолёт Защитник</ln>
+<!-- EN: Small Starship-class modular vessels designed to defend other ships via passive and active defense systems. -->
 <ln id="DProtectorStarship">Маленький модульный звездолёт, созданный защищать другие корабли с помощью пассивных и активных защитных систем.</ln>
 
 </root>

@@ -11,7 +11,7 @@
 <!-- EN: 2. Beginning Upon The Road -->
 <ln id="EXP4_HaveLvl2Champion_Ingame_Bronze">2. Начало Пути</ln>
 <!-- EN: Be in a game with a champion that is at least level 2. -->
-<ln id="EXP4_HaveLvl2Champion_Ingame_Bronze_Desc">Быть в  игре хотя бы с одним чемпионом уровня 2.</ln>
+<ln id="EXP4_HaveLvl2Champion_Ingame_Bronze_Desc">Быть в игре хотя бы с одним чемпионом уровня 2.</ln>
 <!-- EN: 2. Experienced -->
 <ln id="EXP4_HaveLvl10Champion_Ingame_Bronze">2. Опытный</ln>
 <!-- EN: Be in a game with a champion that is at least level 10. -->
@@ -78,11 +78,11 @@
 <!-- EN: 3. Escalation -->
 <ln id="EXP4_HaveWonScenario2v2_Ingame_Silver">3. Эскалация</ln>
 <!-- EN: Be in a game where your allies win the 2v2 nebula scenario. -->
-<ln id="EXP4_HaveWonScenario2v2_Ingame_Silver_Desc">Быть в игре, где ваши союзники выигрывают в сценарий туманности 2 на 2.</ln>
+<ln id="EXP4_HaveWonScenario2v2_Ingame_Silver_Desc">Быть в игре, где ваши союзники выигрывают в сценарии туманности 2 на 2.</ln>
 <!-- EN: 3. Standing Your Ground -->
 <ln id="EXP4_HaveWonScenario3v2_Ingame_Silver">3. Отстоять Свою Землю</ln>
 <!-- EN: Be in a game where your allies win the 3v2 nebula scenario. -->
-<ln id="EXP4_HaveWonScenario3v2_Ingame_Silver_Desc">Быть в игре, где ваши союзники выигрывают в сценарий туманности 3 на 2.</ln>
+<ln id="EXP4_HaveWonScenario3v2_Ingame_Silver_Desc">Быть в игре, где ваши союзники выигрывают в сценарии туманности 3 на 2.</ln>
 
 <!--3. Moderate AI Types-->
 
@@ -91,7 +91,7 @@
 <!-- EN: 3. Vengeance Denied -->
 <ln id="EXP4_BeatDarkSpire_Silver">3. Месть Пресечена</ln>
 <!-- EN: Win with the Dark Spire minor faction (intensity >= 4) enabled on any difficulty. -->
-<ln id="EXP4_BeatDarkSpire_Silver_Desc">Выиграть с включённой фракцией Тёмных Spire'ов (интенсовность &gt;= 4) на любой сложности.</ln>
+<ln id="EXP4_BeatDarkSpire_Silver_Desc">Выиграть с включённой фракцией Тёмных Spire'ов (интенсивность &gt;= 4) на любой сложности.</ln>
 
 <!--4. Hard Champion-Related-->
 
@@ -110,7 +110,7 @@
 <!-- EN: 4. Brawl Royale -->
 <ln id="EXP4_HaveWonScenarioBrawl_Ingame_Gold">4. Brawl Royale</ln>
 <!-- EN: Be in a game where your allies win the 5v4 nebula scenario. -->
-<ln id="EXP4_HaveWonScenarioBrawl_Ingame_Gold_Desc">Быть в игре, где ваши союзники выигрывают в сценарий туманности 5 на 4.</ln>
+<ln id="EXP4_HaveWonScenarioBrawl_Ingame_Gold_Desc">Быть в игре, где ваши союзники выигрывают в сценарии туманности 5 на 4.</ln>
 
 <!--4. Hard AI Types-->
 

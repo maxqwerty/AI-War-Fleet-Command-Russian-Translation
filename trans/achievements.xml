@@ -552,7 +552,7 @@
 <!-- EN: 3. Derailed -->
 <ln id="WonWithAstroTrains_Bronze">3. Цена измены</ln>
 <!-- EN: With with the Astro Trains AI Plot (intensity >= 4) enabled on any difficulty. -->
-<ln id="WonWithAstroTrains_Bronze_Desc">Выиграйти с включённым Космическим Поездом ИИ (интенсивность &gt;= 4) на любой сложности.</ln>
+<ln id="WonWithAstroTrains_Bronze_Desc">Выиграйте с включённым Космическим Поездом ИИ (интенсивность &gt;= 4) на любой сложности.</ln>
 
 <!--4. Hard AI Types-->
 <!-- EN: 4. The Glow Slowly Dies -->
@@ -710,7 +710,7 @@
 <!-- EN: 4. Can Nothing Stop You? -->
 <ln id="WonWithAvenger_Gold">4. Может ли что-нибудь Вас остановить?</ln>
 <!-- EN: Win a game with the Avenger Plot enabled on any difficulty. -->
-<ln id="WonWithAvenger_Gold_Desc">Победи с включеным сценарием Мститель на любой сложности.</ln>
+<ln id="WonWithAvenger_Gold_Desc">Победи с включённым сценарием Мститель на любой сложности.</ln>
 
 <!--5. Very Hard Challenges-->
 <!-- EN: 5. Extreme Knowledge Saver -->

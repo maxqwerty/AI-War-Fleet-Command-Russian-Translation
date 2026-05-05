@@ -110,7 +110,7 @@
 <ln id="EXP5_BeatVengeful_Silver_Desc">Победите тип ИИ "Мстительный" на сложности 7 или выше.</ln>
 
 <!-- EN: 4. Anger Only Clouds The Mind -->
-<ln id="EXP5_BeatVengeful_Gold">4. Злось Лишь Затуманивает Разум</ln>
+<ln id="EXP5_BeatVengeful_Gold">4. Злость Лишь Затуманивает Разум</ln>
 <!-- EN: Win against the "Vengeful" AI type on difficulty 9 or up. -->
 <ln id="EXP5_BeatVengeful_Gold_Desc">Победите тип ИИ "Мстительный" на сложности 9 или выше.</ln>
 
@@ -144,7 +144,7 @@
 <!-- EN: 4. We're Good Chums Now -->
 <ln id="EXP5_WonWithShark_B_Gold">4. Теперь Мы Кореша</ln>
 <!-- EN: Win a game with the Shark-B Plot enabled (at at least intensity 4 of 10) on any difficulty. -->
-<ln id="EXP5_WonWithShark_B_Gold_Desc">Выиграйте игру с включённой Акулой-B(интенсивность от 4 до 10) на любой сложности.</ln>
+<ln id="EXP5_WonWithShark_B_Gold_Desc">Выиграйте игру с включённой Акулой-B (интенсивность от 4 до 10) на любой сложности.</ln>
 
 <!--5. Minor Factions-->
 

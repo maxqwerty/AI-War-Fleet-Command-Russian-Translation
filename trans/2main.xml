@@ -93,21 +93,21 @@
 <ln id="TAITNeinzulYoungster">Детёныш Neinzul'ов</ln>
 <!-- EN: Launches waves twice as frequently and with only half the normal warning time.  Often sends 100%-Youngling waves waves.  Is somewhat less enthusiastic than average about its defenses.
   -->
-<ln id="NAITNeinzulYoungster">Отправляет волны в 2 раза чаще, а время предупреждения в 2 раза меньше. Часто посылает волны из 100%-Юнлингов. Меньше среднего искушён с своей обороне.
+<ln id="NAITNeinzulYoungster">Отправляет волны в 2 раза чаще, а время предупреждения в 2 раза меньше. Часто посылает волны из 100%-Юнлингов. Уделяет обороне меньше внимания, чем другие.
  </ln>
 
 <!-- EN: Support Corps -->
 <ln id="TAITSupportCorps">Отделы Поддержки</ln>
 <!-- EN: Launches no waves of its own but adds support units (munitions boosters, etc) to the waves of its ally, as well as to all AI planets.
   -->
-<ln id="NAITSupportCorps">Сам не посылает волн, но добавляет юнитов поддержки (Усилитель Боеприпасов и т.п.) как к волнам своего союзника, так и для всех планет ИИ.
+<ln id="NAITSupportCorps">Сам не посылает атакующих волн, но добавляет юнитов поддержки (Усилитель Боеприпасов и т.п.) как к волнам своего союзника, так и для всех планет ИИ.
  </ln>
 
 <!-- EN: Warp Jumper -->
 <ln id="TAITWarpJumper">Создатель Помех</ln>
 <!-- EN: Can launch waves against any planet that does not have a warp jammer.  On the bright side, its lack of warp gates reduces the AI Progress cost of taking an AI planet.
   -->
-<ln id="NAITWarpJumper">Может отправить волну на любую планету, на которой нет Генератора Помех. С другой стороны, отсутствие у него Врат уменьшает стоимость Прогресса ИИ для захвата его планет.
+<ln id="NAITWarpJumper">Может отправлять волны на любую планету, на которой нет Генератора Помех. С другой стороны, отсутствие у него Врат уменьшает стоимость Прогресса ИИ для захвата его планет.
  </ln>
 
 <!--Alerts-->

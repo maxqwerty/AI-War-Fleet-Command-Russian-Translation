@@ -696,7 +696,7 @@ Out of the total number of team planets. -->
 <ln id="Warn_MassiveFleet">ИИ собирает Угрозу из-за массивного флота на</ln>
 <!-- EN: Ships Massing For Cross-Planet Attack -->
 <!-- EN: Ships Massing For Cross-Planet Attack -->
-<ln id="Warn_Attack">Сбор кораблей для кросс-планетной атаки</ln>
+<ln id="Warn_Attack">Сбор кораблей для межпланетной атаки</ln>
 <!-- EN:  Enemy Ships At This Planet -->
 <!-- EN:  Enemy Ships At This Planet -->
 <ln id="Warn_EnemyShips"> Вражеских кораблей на этой планете</ln>
@@ -723,16 +723,16 @@ Out of the total number of team planets. -->
 <ln id="Wave_In"> через </ln>
 <!-- EN: freed in cross planet attack. -->
 <!-- EN: freed in cross planet attack. -->
-<ln id="CrossPlanetAttack">освобождён в кросс-планетарной атаке.</ln>
+<ln id="CrossPlanetAttack">освобождён в межпланетной атаке.</ln>
 <!-- EN: from Strategic Reserve committed to cross planet attack. -->
 <!-- EN: from Strategic Reserve committed to cross planet attack. -->
-<ln id="CrossPlanetAttackStrategicReserve">из Стратегического Резерва присоединяется к кросс-планетарной атаке.</ln>
+<ln id="CrossPlanetAttackStrategicReserve">из Стратегического Резерва присоединяется к межпланетной атаке.</ln>
 <!-- EN: from Special Forces committed to cross planet attack. -->
 <!-- EN: from Special Forces committed to cross planet attack. -->
-<ln id="CrossPlanetAttackSpecialForces">из десантных присоединяется к кросс-планетарной атаке.</ln>
+<ln id="CrossPlanetAttackSpecialForces">из десантных присоединяется к межпланетной атаке.</ln>
 <!-- EN: from Shark Plot committed to cross planet attack. -->
 <!-- EN: from Shark Plot committed to cross planet attack. -->
-<ln id="CrossPlanetAttackShark">из Сценария Акула присоединяется к кросс-планетарной атаке.</ln>
+<ln id="CrossPlanetAttackShark">из Сценария Акула присоединяется к межпланетной атаке.</ln>
 <!-- EN: All AI Ships Launched. -->
 <!-- EN: All AI Ships Launched. -->
 <ln id="FinalCrossPlanetAttack">Все корабли ИИ запущены.</ln>
@@ -5286,7 +5286,7 @@ Because homogenous waves are sometimes better able to crack defenses in some sit
 
 <!-- EN: Cross Planet Waves -->
 <!-- EN: Cross Planet Waves -->
-<ln id="AIModifier_Name_CrossPlanetWaves">Кросс-Планетные Волны</ln>
+<ln id="AIModifier_Name_CrossPlanetWaves">Межпланетные Волны</ln>
 <!-- EN: Waves will spawn on an AI planet and travel across normal space rather than spawning at one of your wormholes.  As a result, you will not generally know where or when the wave will hit you.  NOTE: this can make the game much more difficult. -->
 <!-- EN: Waves will spawn on an AI planet and travel across normal space rather than spawning at one of your wormholes.  As a result, you will not generally know where or when the wave will hit you.  NOTE: this can make the game much more difficult. -->
 <ln id="AIModifier_Desc_CrossPlanetWaves">Волны будут появляться на планетах ИИ и перемещаться по пространству, а не появляться из ваших червоточин. Как результат, Вы не сможете узнать где или когда волна нападёт. Прим.: это может сделать игру намного сложнее.</ln>
@@ -5609,7 +5609,7 @@ Giving an AI a secondary type equal to its primary type has no effect.
   -->
 <ln id="SecondaryAIType">Хост устанавливает значение, определяющее вторичный тип ИИ(если имеется).  
 
-Вторичный тип обычно делает игру сложнее, так как ИИ получают лучшие бонусы от обоих типов (так Черепаха/БезумБомбер получает как увеличение защиты от Черепахи, так и увеличение волн от Безумного Бомбера, не смотря на то, что Черепаха обычно не посылает волн вообще), но это открывает доступ к большему разнообразию.
+Вторичный тип обычно делает игру сложнее, так как ИИ получают лучшие бонусы от обоих типов (так Черепаха/БезумБомбер получает как увеличение защиты от Черепахи, так и увеличение волн от Безумного Бомбера, несмотря на то, что Черепаха обычно вообще не посылает волны), но это открывает доступ к большему разнообразию.
 
 Добавление вторичного типа одинакового первичному не производит эффекта.
  </ln>
@@ -5966,7 +5966,7 @@ Giving an AI a secondary type equal to its primary type has no effect.
   -->
 <!-- EN: Planets are all very-to-incredibly heavily defended, but they do no waves against the players (Cross Planet Attacks and border aggression still happen).
   -->
-<ln id="NAITTurtle">Все планеты невероятно сильно защищены, но не посылает волн на игрока (межпланетные атаки и агрессия на границах всё ещё присутствуют).
+<ln id="NAITTurtle">Все планеты невероятно сильно защищены, но не посылает волны в атаку на игрока (межпланетные атаки и агрессия на границах всё ещё присутствуют).
  </ln>
 <!-- EN: Vicious Raider -->
 <!-- EN: Vicious Raider -->
@@ -5975,7 +5975,7 @@ Giving an AI a secondary type equal to its primary type has no effect.
   -->
 <!-- EN: Sends substantially larger waves, and somewhat smaller defensive reinforcements.
   -->
-<ln id="NAITRaider">Отправляет существенные волны и более мелкие оборонительные подкрепления.
+<ln id="NAITRaider">Отправляет значительно более крупные волны и более мелкие оборонительные подкрепления.
  </ln>
 <!-- EN: Has raider ships from the start, as well as whatever other ships they might unlock. -->
 <!-- EN: Has raider ships from the start, as well as whatever other ships they might unlock. -->
@@ -10767,7 +10767,7 @@ Also, please note that if an ally is using the "Engineers Do Not Assist Allies" 
 Also, please note that if an ally is using the "Engineers Do Not Assist Allies" toggle, their rebuilders will not automatically consider your remains regardless of your controls. -->
 <ln id="allowAllyRebuildersToRebuildMyRemainsToggle_Tooltip">Если включено, союзные Восстановители будут автоматически воспринимать ваши корабли как доступную цель для починки. Обратите внимание, что начало восстановления не стоит ресурсов, восстанавливаемые юниты будут Вашими, а остальной процесс восстановления стоит как обычное создание.
 
-Также обратите внимание, что если союзник использует "Инженеры Не Помогают Союзникам", его Восстановители не будут трогать Ваши останки, не смотря на Ваши настройки.</ln>
+Также обратите внимание, что если союзник использует "Инженеры Не Помогают Союзникам", его Восстановители не будут трогать Ваши останки, несмотря на Ваши настройки.</ln>
 
 <!-- EN: Auto-Kite Behavior -->
 <!-- EN: Auto-Kite Behavior -->
@@ -11542,7 +11542,7 @@ Also, a long-running game on high caps really pushes the limits of how much memo
 This puts a lot more load on the your CPU when you have the biggest-possible battles.
 
 Also, a long-running game on high caps really pushes the limits of how much memory AI War can use (generally no more than 1.7GB even if your computer has way more than that, due to being a 32-bit application and some specifics of how memory is allocated to the mono runtime).  If you play on high, be prepared for out-of-memory crashes in the late game (folks have reported these happening after about 10 solid hours), but those can be worked around via autosaves and just reloading whenever it hits the memory wall every 2-3 hours or so after the initial crash. -->
-<ln id="UnitCapScaleType_Description_High">Большинство юнитов с большим макс. количеством имеют двоёное стандартное ограничение (Истребитель МодI = 198), в 2 раза дешевле, в 2 раза слабее и т.д.
+<ln id="UnitCapScaleType_Description_High">Большинство юнитов с большим макс. количеством имеют удвоенное стандартное ограничение (Истребитель МодI = 198), в 2 раза дешевле, в 2 раза слабее и т.д.
 
 Это сильнее нагружает процессор, когда Вы ведёте очень масштабные бои.
 

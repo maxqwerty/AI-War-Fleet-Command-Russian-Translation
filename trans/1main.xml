@@ -5,7 +5,7 @@
 <ln id="TAITAlarmist">Паникёр</ln>
 <!-- EN: Uses alarm posts (special forces or regular) on all of their planets.  Makes for massive cross-planet attacks unless players carefully kill these alarms.
   -->
-<ln id="NAITAlarmist">Использует Сигнальные Посты (обычные или десантные) на всех своих планетах. Создаёт массивные кросс-планетные атаки, пока игрок осторожно не уничтожит эти посты.
+<ln id="NAITAlarmist">Использует Сигнальные Посты (обычные или десантные) на всех своих планетах. Создаёт массивные межпланетные атаки, пока игрок осторожно не уничтожит эти посты.
  </ln>
 <!-- EN: Alarm Post, Special Forces Alarm Post -->
 <ln id="UAITAlarmist">Сигнальный Пост, Десантный Сигнальный Пост</ln>
@@ -64,7 +64,7 @@
 <ln id="TAITSpeedRacer">Гонщик</ln>
 <!-- EN: All of its mobile ships have been upgraded to move extremely fast.  Sends somewhat larger waves, and somewhat smaller defensive reinforcements.
   -->
-<ln id="NAITSpeedRacer">Все его мобильные корабли были улучшены, получив экстримальную скорость. Отправляет немного большие волны, а оборонительные сооружения слабы.
+<ln id="NAITSpeedRacer">Все его мобильные корабли были улучшены, получив экстремальную скорость. Отправляет немного большие волны, а оборонительные сооружения слабы.
  </ln>
 
 <!-- EN: Peacemaker -->
@@ -89,7 +89,7 @@
 <ln id="TAITOneWayDoormaster">Повелитель Врат</ln>
 <!-- EN: Employs black hole machines on all of its planets, which makes each raid into its territory a one-way trip if the black hole machine is not destroyed.
   -->
-<ln id="NAITOneWayDoormaster">Устанавливает Машины Чёрной Дыры на всех своих планетах, что делает каждый рейд на его планету захваченным в одностороннюю ловушку, пока Машина Чёрной Дыры не будет уничтожена.
+<ln id="NAITOneWayDoormaster">Устанавливает Машины Чёрной Дыры на всех своих планетах, что превращает каждый рейд в её планеты в поездку в один конец, пока Машина Чёрной Дыры не будет уничтожена.
  </ln>
 <!-- EN: Black Hole Machines -->
 <ln id="EAITOneWayDoormaster">Машины Чёрной Дыры</ln>
@@ -105,7 +105,7 @@
 <ln id="TAITShieldNinny">Шут с Щитом</ln>
 <!-- EN: Planets are all heavily defended, often with special boosters for allied armor or inhibitors for enemy armor, but this AI never launches waves at the players.
   -->
-<ln id="NAITShieldNinny">Планеты сильно защищены, часто с усилителями брони союзников или ингибиторами брони врагов, но этот ИИ никогда не посылает волн на игрока.
+<ln id="NAITShieldNinny">Планеты сильно защищены, часто с усилителями брони союзников или ингибиторами брони врагов, но этот ИИ никогда не отправляет волны против игрока.
  </ln>
 <!-- EN: Planetary Armor Boosters, Planetary Armor Inhibitors -->
 <ln id="EAITShieldNinny">Планетарный Усилитель, Планетарный Ингибитор</ln>
@@ -114,7 +114,7 @@
 <ln id="TAITGravDriller">Гравидрель</ln>
 <!-- EN: Aggressive AI with a gravity drill station on many of its planets.  Gravity Drills nullify teleporting units and majorly slow down all other units, but when captured provide free resources and energy.  Sends somewhat larger waves, and somewhat smaller defensive reinforcements.
   -->
-<ln id="NAITGravDriller">Агрессивный ИИ со Станциями Гравидрелей на большинстве своих планет. Гравидрели отключают телепортируюущихся юнитов и сильно замедляют остальных юнитов, но захваченными дают много бесплатных ресурсов и энергии. Отправляет немного большие волны, а оборонительные сооружения слабы.
+<ln id="NAITGravDriller">Агрессивный ИИ со Станциями Гравидрелей на большинстве своих планет. Гравидрели отключают телепортирующихся юнитов и сильно замедляют остальных юнитов, но при захвате дают много бесплатных ресурсов и энергии. Отправляет немного большие волны, а оборонительные сооружения слабы.
  </ln>
 <!-- EN: Gravity Drill Station -->
 <ln id="EAITGravDriller">Станция Гравидрели</ln>
@@ -139,7 +139,7 @@
 <!-- EN: Connections between planets are all centered around a few key central areas. -->
 <ln id="NMapSpokes">Соединения планет сконцентрированы вокруг ключевых зон.</ln>
 <!-- EN: Connections between planets are strung together in a very long line, or series of lines. -->
-<ln id="NMapSnake">Соединения планет связаны вместе в длинную линию, или набора линий.</ln>
+<ln id="NMapSnake">Соединения планет связаны вместе в длинную линию, или набор линий.</ln>
 <!-- EN: Connections between planets are strung together in a very long line, with "leaves" sprouting every few junctures. -->
 <ln id="NMapVines">Соединения планет связаны в длинную линию с "листьями" через каждый небольшой промежуток.</ln>
 <!-- EN: Planets are in a fairly orderly cell-like pattern, with a massive latticework of connections between them. -->

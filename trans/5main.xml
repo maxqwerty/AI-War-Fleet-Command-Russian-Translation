@@ -31,7 +31,7 @@ This part of the Shark plot gains no permanent bonuses with each human command s
 When present in an AI with a secondary AI Type, this type's "do not target irreplaceable structures" characteristic is dominant despite being a disadvantage. -->
 <ln id="NAIChivalric">Этот ИИ воздерживается от атак по невосстановимым строениям (типа Продвинутых Фабрик, Заводов, и т.д.) в отличие от Столичной Командной Станции, а также добавляет бонус к КроссПланетным Атакам.
 
-Когда используется как вторичный тип, свойство "не атакует невосстановимые строения" доминирует, не смотря на то, что является недостатком.</ln>
+Когда используется как вторичный тип, свойство "не атакует невосстановимые строения" доминирует, несмотря на то, что является недостатком.</ln>
 
 <!-- EN: Artillerist -->
 <ln id="TAIArtillerist">Артиллерист</ln>

@@ -684,19 +684,19 @@ Out of the total number of team planets. -->
 <ln id="Warn_HackingSuspicionDescriptor_5">Очень высокий</ln>
 <!-- EN: Extreme -->
 <!-- EN: Extreme -->
-<ln id="Warn_HackingSuspicionDescriptor_6">Экстрим</ln>
+<ln id="Warn_HackingSuspicionDescriptor_6">Критический</ln>
 <!-- EN: Forest Fire (Extreme!) -->
 <!-- EN: Forest Fire (Extreme!) -->
-<ln id="Warn_HackingSuspicionDescriptor_7">Лесной пожар (Экстрим!)</ln>
+<ln id="Warn_HackingSuspicionDescriptor_7">Лесной пожар (Критический!)</ln>
 <!-- EN: Today's Hacking Response Index: {0} -->
 <!-- EN: Today's Hacking Response Index: {0} -->
 <ln id="Warn_HackingSuspicionTooltip">Текущий Индекс Реакции на Взлом: {0}</ln>
 <!-- EN: AI is gathering threat because of your massive fleet on -->
 <!-- EN: AI is gathering threat because of your massive fleet on -->
-<ln id="Warn_MassiveFleet">ИИ собирает Угрозу из-за массивного флота на</ln>
+<ln id="Warn_MassiveFleet">ИИ собирает Угрозу из-за Вашего крупного флота на</ln>
 <!-- EN: Ships Massing For Cross-Planet Attack -->
 <!-- EN: Ships Massing For Cross-Planet Attack -->
-<ln id="Warn_Attack">Сбор кораблей для межпланетной атаки</ln>
+<ln id="Warn_Attack">Формирование межпланетной атаки</ln>
 <!-- EN:  Enemy Ships At This Planet -->
 <!-- EN:  Enemy Ships At This Planet -->
 <ln id="Warn_EnemyShips"> Вражеских кораблей на этой планете</ln>
@@ -729,10 +729,10 @@ Out of the total number of team planets. -->
 <ln id="CrossPlanetAttackStrategicReserve">из Стратегического Резерва присоединяется к межпланетной атаке.</ln>
 <!-- EN: from Special Forces committed to cross planet attack. -->
 <!-- EN: from Special Forces committed to cross planet attack. -->
-<ln id="CrossPlanetAttackSpecialForces">из десантных присоединяется к межпланетной атаке.</ln>
+<ln id="CrossPlanetAttackSpecialForces">Десантные Силы присоединяются к межпланетной атаке.</ln>
 <!-- EN: from Shark Plot committed to cross planet attack. -->
 <!-- EN: from Shark Plot committed to cross planet attack. -->
-<ln id="CrossPlanetAttackShark">из Сценария Акула присоединяется к межпланетной атаке.</ln>
+<ln id="CrossPlanetAttackShark">силы сценария «Акула» присоединяются к межпланетной атаке.</ln>
 <!-- EN: All AI Ships Launched. -->
 <!-- EN: All AI Ships Launched. -->
 <ln id="FinalCrossPlanetAttack">Все корабли ИИ запущены.</ln>
@@ -3202,13 +3202,13 @@ NONE -->
 <ln id="GameButton_SwitchBetweenGalaxyAndPlanetView">КАРТА</ln>
 <!-- EN: Switches between Galaxy view and Planet view. -->
 <!-- EN: Switches between Galaxy view and Planet view. -->
-<ln id="GameButton_SwitchBetweenGalaxyAndPlanetView_Tooltip">Переключиться между Галактическим и Планетарным видом.</ln>
+<ln id="GameButton_SwitchBetweenGalaxyAndPlanetView_Tooltip">Переключиться между Галактическим и Планетарным видами.</ln>
 <!-- EN: CTRLS -->
 <!-- EN: CTRLS -->
 <ln id="GameButton_OpenPerPlayerControlsWindow">КНТРЛ</ln>
 <!-- EN: Opens the Controls window where you can control a variety of galaxy-wide and planet-specific aspects of your empire. -->
 <!-- EN: Opens the Controls window where you can control a variety of galaxy-wide and planet-specific aspects of your empire. -->
-<ln id="GameButton_OpenPerPlayerControlsWindow_Tooltip">Открыть окно Контроля, в котором Вы можете управлять различными аспектами Галактического и Планетарного масштабов Вашей империи.</ln>
+<ln id="GameButton_OpenPerPlayerControlsWindow_Tooltip">Открыть окно Контроля, в котором Вы можете управлять различными аспектами Вашей империи на Галактическом и Планетарном уровнях.</ln>
 <!-- EN: Click "MODS" to change 
 Champion modules. -->
 <!-- EN: Click "MODS" to change 
@@ -5261,7 +5261,7 @@ Because homogenous waves are sometimes better able to crack defenses in some sit
 <ln id="AIModifier_Name_NoWaves">Без Волн Противника</ln>
 <!-- EN: The AI will never send waves against you, but unlike Turtle AI types they will not get more reinforcement points to compensate. -->
 <!-- EN: The AI will never send waves against you, but unlike Turtle AI types they will not get more reinforcement points to compensate. -->
-<ln id="AIModifier_Desc_NoWaves">ИИ не будет посылать волны против Вас, но в отличие от типа ИИ Черепаха они не будут получать двойное подкрепление для компенсации.</ln>
+<ln id="AIModifier_Desc_NoWaves">ИИ не будет запускать волны против Вас, но в отличие от типа ИИ Черепаха они не будут получать двойное подкрепление для компенсации.</ln>
 
 <!-- EN: Nuclear Command -->
 <!-- EN: Nuclear Command -->
@@ -5725,7 +5725,7 @@ Giving an AI a secondary type equal to its primary type has no effect.
   -->
 <!-- EN: Planets are mostly moderately defended, but the core planets are incredibly heavily defended, and they do moderate attacks on the players.
   -->
-<ln id="NAITFortress">Средняя защита планет, но основные планеты защищены невероятно мощно. Атаки на игроков средней силы.
+<ln id="NAITFortress">Средняя защита планет, но ключевые планеты защищены чрезвычайно мощно. Атаки на игроков средней силы.
  </ln>
 <!-- EN: SuperFortress -->
 <!-- EN: SuperFortress -->
@@ -5737,7 +5737,7 @@ Giving an AI a secondary type equal to its primary type has no effect.
   -->
 <!-- EN: Does extremely brutal attacks on the players, but has substantially reduced defensive reinforcements.
   -->
-<ln id="NAITMadBomber">Совершает очень сильные атаки на игроков. Но сокращает оборонительные подкрепления.
+<ln id="NAITMadBomber">Проводит крайне мощные атаки на игроков. Но сокращает оборонительные подкрепления.
  </ln>
 <!-- EN: Bomber Starships and/or Plasma Siege Starships with most raids, Cutlasses, Mark V Bombers -->
 <!-- EN: Bomber Starships and/or Plasma Siege Starships with most raids, Cutlasses, Mark V Bombers -->
@@ -5843,7 +5843,7 @@ Giving an AI a secondary type equal to its primary type has no effect.
   -->
 <!-- EN: Sends less frequent, but significantly heavier waves.
   -->
-<ln id="NAITHammer">Волны врагов атакуют игрока одна за другой.
+<ln id="NAITHammer">Вражеские волны атакуют игрока одна за другой.
  </ln>
 <!-- EN: Special Forces Captain -->
 <!-- EN: Special Forces Captain -->
@@ -5954,7 +5954,7 @@ Giving an AI a secondary type equal to its primary type has no effect.
   -->
 <!-- EN: Uses many, many astro trains.
   -->
-<ln id="NAITTrain">Использует очень-очень много звёздных поездов.
+<ln id="NAITTrain">Использует огромное количество звёздных поездов.
  </ln>
 <!-- EN: Double the normal number of astro trains. -->
 <!-- EN: Double the normal number of astro trains. -->
@@ -5966,16 +5966,16 @@ Giving an AI a secondary type equal to its primary type has no effect.
   -->
 <!-- EN: Planets are all very-to-incredibly heavily defended, but they do no waves against the players (Cross Planet Attacks and border aggression still happen).
   -->
-<ln id="NAITTurtle">Все планеты невероятно сильно защищены, но не посылает волны в атаку на игрока (межпланетные атаки и агрессия на границах всё ещё присутствуют).
+<ln id="NAITTurtle">Все планеты невероятно сильно защищены, но не запускает волны против игрока (межпланетные атаки и агрессия на границах всё ещё присутствуют).
  </ln>
 <!-- EN: Vicious Raider -->
 <!-- EN: Vicious Raider -->
-<ln id="TAITRaider">Налётчик</ln>
+<ln id="TAITRaider">Рейдер</ln>
 <!-- EN: Sends substantially larger waves, and somewhat smaller defensive reinforcements.
   -->
 <!-- EN: Sends substantially larger waves, and somewhat smaller defensive reinforcements.
   -->
-<ln id="NAITRaider">Отправляет значительно более крупные волны и более мелкие оборонительные подкрепления.
+<ln id="NAITRaider">Шлёт значительно более мощные волны, но удерживает меньше оборонительных резервов.
  </ln>
 <!-- EN: Has raider ships from the start, as well as whatever other ships they might unlock. -->
 <!-- EN: Has raider ships from the start, as well as whatever other ships they might unlock. -->
@@ -7076,7 +7076,7 @@ Ship selection filters can be combined with one another in any way you like if y
 <ln id="KeyBind_Description_DebugOnlyExportExcelSecondaries">Работает только с открытым окном отладки. Переводит игру в режим "Экспорта Вторичностей в Excel" в RuntimeData/Data folder в папке игры. После этого игра закроется.</ln>
 <!-- EN: Switch Between Planet And Galaxy View -->
 <!-- EN: Switch Between Planet And Galaxy View -->
-<ln id="KeyBind_Name_SwitchBetweenPlanetAndGalaxyView">Переключением Между Планетарным и Галактическим Видом</ln>
+<ln id="KeyBind_Name_SwitchBetweenPlanetAndGalaxyView">Переключение Между Планетарным и Галактическим Видами</ln>
 <!-- EN: Super useful!  Toggles your view from looking at a single planet to looking at the entire galaxy map, and back. -->
 <!-- EN: Super useful!  Toggles your view from looking at a single planet to looking at the entire galaxy map, and back. -->
 <ln id="KeyBind_Description_SwitchBetweenPlanetAndGalaxyView">Очень Полезна! Переключает Ваш вид с обзора одной планеты на обзор всей галактики и обратно.</ln>

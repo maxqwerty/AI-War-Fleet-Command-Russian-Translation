@@ -123,7 +123,7 @@ You must also have enough net energy available to power the golem (200k on Broke
 <ln id="ArtilleryGolem_Short">Голем Артиллерист</ln>
 <!-- EN: Fires extremely, extremely powerful artillery shots over long ranges. Is very slow, though.  Great for taking out very heavily defended targets.
  -->
-<ln id="ArtilleryGolem_Desc">Стреляет экстремально мощными артиллеристскими снарядами на дальние расстояния. Очень медленный, жёсткий. Хорош в уничтожении хорошо защищённых целей.
+<ln id="ArtilleryGolem_Desc">Стреляет чрезвычайно мощными артиллеристскими снарядами на дальние расстояния. Очень медленный, жёсткий. Хорош в уничтожении хорошо защищённых целей.
 </ln>
 
 <!-- EN: Artillery Golem (AI) -->
@@ -143,7 +143,7 @@ You must also have enough net energy available to power the golem (200k on Broke
 <!-- EN: Fires extremely, extremely powerful artillery shots over long ranges. Is very slow, and very fragile, though.  Great for taking out very heavily defended targets.
 This golem is ancient and broken, and must be repaired to full health before it will become operational.
 You must also have enough net energy available to power the golem (150k on Broken-Golems-Medium, 15 otherwise) before it will come online. -->
-<ln id="ArtilleryGolemBroken_Desc">Стреляет экстремально мощными артиллеристскими снарядами на дальние расстояния. Очень медленный, жёсткий. Хорош в уничтожении хорошо защищённых целей.
+<ln id="ArtilleryGolemBroken_Desc">Стреляет чрезвычайно мощными артиллеристскими снарядами на дальние расстояния. Очень медленный, жёсткий. Хорош в уничтожении хорошо защищённых целей.
 Этот Голем старый и сломанный; он должен быть восстановлен перед тем, как сможет работать.
 У Вас должно быть достаточно энергии, чтобы запитать Голема (150К для Среднего, иначе 15К) перед тем, как он оживёт.</ln>
 
@@ -270,7 +270,7 @@ This particular structure was purchased from a Zenith Trader and does not cause 
 <!-- EN: Sentinel Frigates -->
 <ln id="SentinelFrigate_Wave">Фрегат-Часовой</ln>
 <!-- EN: Powerful frigate with extremely long-range Energy Wave cannon (this is susceptible to counter-sniper coverage).  Includes an onboard advanced warp sensor. -->
-<ln id="SentinelFrigate_Desc">Мощный фрегат с экстремально дальнобойными пушкам Энергетических Волн (блокируются противоснайперским укрытием). Включает бортовой улучшенный сенсор.</ln>
+<ln id="SentinelFrigate_Desc">Мощный фрегат с чрезвычайно дальнобойными пушкам Энергетических Волн (блокируются противоснайперским укрытием). Включает бортовой улучшенный сенсор.</ln>
 
 <!-- EN: Sentinel Frigate Mark II -->
 <ln id="SentinelFrigateII_Full">Фрегат-Часовой Модель II</ln>
@@ -615,7 +615,7 @@ This effect is cumulative when multiple spacetime manipulators are present. -->
 <ln id="WarbirdStarship_Short">Звзд:Птица</ln>
 <!-- EN: Extremely fast starship with cloaking and a huge multi-targeting energy burst system.
 Great for clearing out hordes of enemy ships. -->
-<ln id="WarbirdStarship_Desc">Экстремально быстрый звездолёт, с системой скрытия и многоприцельной системой энергетического взрыва.
+<ln id="WarbirdStarship_Desc">Чрезвычайно быстрый звездолёт, с системой скрытия и многоприцельной системой энергетического взрыва.
 Хорош в уничтожении целых орд вражеских кораблей.</ln>
 
 <!-- EN: Beam Starship -->

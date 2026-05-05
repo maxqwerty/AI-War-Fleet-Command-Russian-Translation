@@ -37,7 +37,7 @@
 <!-- EN: Mercenary Fighter -->
 <ln id="MercenaryFighter_Full">Наёмный Истребитель</ln>
 <!-- EN: Merc Fighter -->
-<ln id="MercenaryFighter_Short">Наём Истребитель</ln>
+<ln id="MercenaryFighter_Short">Наёмн.Истребитель</ln>
 <!-- EN: Fighters -->
 <ln id="MercenaryFighter_Wave">Истребители</ln>
 <!-- EN: Inexpensive, with a small attack range. Great against many smaller ships.
@@ -72,7 +72,7 @@ Identical to the Standard Fighter Mark IV, except 10x more expensive and with a 
 <!-- EN: Mercenary Bomber -->
 <ln id="MercenaryBomber_Full">Наёмный Бомбардировщик</ln>
 <!-- EN: Merc Bomber -->
-<ln id="MercenaryBomber_Short">Наём Бомбардировщик</ln>
+<ln id="MercenaryBomber_Short">Наёмн.Бомбардировщик</ln>
 <!-- EN: Bombers -->
 <ln id="MercenaryBomber_Wave">Бомбардировщики</ln>
 <!-- EN: Inflicts high damage on heavy defenses.  Best ship class for hitting force fields and the final AI command stations.
@@ -112,9 +112,9 @@ Identical to the Bomber Mark IV, except 10x more expensive and with a much large
 <!-- EN: Mercenary Missile Frigate -->
 <ln id="MercenaryCruiser_Full">Наёмный Ракетный Фрегат</ln>
 <!-- EN: Merc Missile Frigate -->
-<ln id="MercenaryCruiser_Short">Наём Ракетный Фрегат</ln>
+<ln id="MercenaryCruiser_Short">Наёмн.Ракетный Фрегат</ln>
 <!-- EN: Missile Frigates -->
-<ln id="MercenaryCruiser_Wave">Ракетный Фрегаты</ln>
+<ln id="MercenaryCruiser_Wave">Ракетные Фрегаты</ln>
 <!-- EN: Fires powerful, long-range missiles, but has a very slow reload time.
 Identical to the Missile Frigate Mark IV, except 10x more expensive and with a much larger ship cap. -->
 <ln id="MercenaryCruiser_Desc">Выпускает мощные, дальнобойные ракеты, но очень долго перезаряжается.
@@ -248,7 +248,7 @@ If a ship dies with some reclamation damage but not enough to reclaim it, those 
 <!-- EN: Mercenary Parasite -->
 <ln id="MercenaryParasite_Full">Наёмник Паразит</ln>
 <!-- EN: Merc Parasite -->
-<ln id="MercenaryParasite_Short">Наём Паразит</ln>
+<ln id="MercenaryParasite_Short">Наёмн.Паразит</ln>
 <!-- EN: Parasites -->
 <ln id="MercenaryParasite_Wave">Паразиты</ln>
 <!-- EN: Fires fairly powerful shots that do reclamation damage (more to targets of a lower mark, and vice versa).  An enemy ship with reclamation damage equal to or greater than half its max health will be reclaimed when destroyed.  The newly-reclaimed ship will have health = total reclamation damage it had taken.
@@ -291,7 +291,7 @@ Unless issued a specific command by its controller, it will automatically attack
 <!-- EN: Vampire Claw Mark V -->
 <ln id="CoreDemonHand_Full">Клык Вампира Модель V</ln>
 <!-- EN: Vampire V -->
-<ln id="CoreDemonHand_Short">Вампира V</ln>
+<ln id="CoreDemonHand_Short">Вампир V</ln>
 
 <!-- EN: Raptor -->
 <ln id="Raptor_Full">Раптор</ln>
@@ -300,7 +300,7 @@ Unless issued a specific command by its controller, it will automatically attack
 <!-- EN: Raptors -->
 <ln id="Raptor_Wave">Рапторы</ln>
 <!-- EN: Blazing-fast cloaked fighter good against lightweight ships, and excellent for kiting. -->
-<ln id="Raptor_Desc">Маскирующийся истребитель, эффективный против лёгких кораблей и хорош в атаке на расстоянии.</ln>
+<ln id="Raptor_Desc">Маскирующийся истребитель, эффективный против лёгких кораблей и эффективен в бою на дистанции..</ln>
 
 <!-- EN: Raptor Mark II -->
 <ln id="RaptorII_Full">Раптор Модель II</ln>
@@ -547,7 +547,7 @@ Requires researching the standalone MkII Heavy Beam Cannon. -->
 <!-- EN: An extremely powerful beam projector, usually not found on mobile craft in our galaxy.  Spire Battleships and larger craft often utilize these, and a Cruiser can mount one in lieu of its shield generator.
 
 Requires researching the standalone MkIII Heavy Beam Cannon. -->
-<ln id="HeavyBeamCannonModuleIII_Desc">Экстремально мощный лучевой проектор, обычно не встречающийся на мобильных строениях в нашей галактике.  Линкор Spire'ов или что-то большее часто использует его, а Крейсер может установить его вместо генератора щита.
+<ln id="HeavyBeamCannonModuleIII_Desc">Чрезвычайно мощный лучевой проектор, обычно не встречающийся на мобильных строениях в нашей галактике.  Линкор Spire'ов или что-то большее часто использует его, а Крейсер может установить его вместо генератора щита.
 
 Требует исследования автономной Тяжёлой Лучевой Пушки МодIII.</ln>
 
@@ -558,7 +558,7 @@ Requires researching the standalone MkIII Heavy Beam Cannon. -->
 <!-- EN: Massive beam cannon only mountable on the largest of space stations.  Designing a mobile ship with one of these is currently beyond the reach of human science.
 
 Requires research at a Spire Galactic Capitol. Also, before that research can be done, you must have researched the standalone the standalone MkIV Heavy Beam Cannon. -->
-<ln id="HeavyBeamCannonModuleIV_Desc">Массивная лучевая пушка, устанавливаемая на самые большие космические станции. Проектирование мобильного корабля за пределами возможностей человеческой науки.
+<ln id="HeavyBeamCannonModuleIV_Desc">Массивная лучевая пушка, устанавливаемая на самые большие космические станции. Создание мобильной версии такого орудия выходит за пределы возможностей человеческой науки.
 
 Требует исследования Галактического Капитолия Spire'ов. Также, до завершения его исследования, необходимо исследовать автономную Тяжёлую Лучевую Пушку МодIV.</ln>
 
@@ -571,7 +571,7 @@ Requires research at a Spire Galactic Capitol. Also, before that research can be
 Can be mounted on a Cruiser hull or larger, but the Cruiser can only do so at the expense of its shield generator.
 
 Cannot target small units. Requires researching the MkII Siege Starship. -->
-<ln id="PlasmaSiegeCannonModule_Desc">Стреляет огромными снарядами концентрированной плазмы по большим и/или неподвижным целям. Когда снаряд взрывается, он также наносит меньшие повреждения нескольким близлежащим юнитам.  При атаке силового поля, также наносит урон 25 юнитам под этим полем (или полям под этим полем) в размере 6.25% от нанесённого силовому полю урона.
+<ln id="PlasmaSiegeCannonModule_Desc">Стреляет огромными снарядами концентрированной плазмы по большим и/или неподвижным целям. Когда снаряд взрывается, он также наносит пониженный урон ближайшим целям.  При атаке силового поля, также наносит урон 25 юнитам под этим полем (или полям под этим полем) в размере 6.25% от нанесённого силовому полю урона.
 
 Устанавливается на Крейсер или что-то большее, но Крейсер жертвует своим генератором щита.
 
@@ -586,7 +586,7 @@ Cannot target small units. Requires researching the MkII Siege Starship. -->
 Can be mounted on a Battleship hull or larger, but the Battleship can only do so at the expense of its shield generator.
 
 Cannot target small units. Requires researching the MkIII Siege Starship. -->
-<ln id="PlasmaSiegeCannonModuleII_Desc">Стреляет огромными снарядами концентрированной плазмы по большим и/или неподвижным целям. Когда снаряд взрывается, он также наносит меньшие повреждения нескольким близлежащим юнитам.  При атаке силового поля, также наносит урон 25 юнитам под этим полем (или полям под этим полем) в размере 6.25% от нанесённого силовому полю урона.
+<ln id="PlasmaSiegeCannonModuleII_Desc">Стреляет огромными снарядами концентрированной плазмы по большим и/или неподвижным целям. Когда снаряд взрывается, он также наносит наносит пониженный урон ближайшим целям.  При атаке силового поля, также наносит урон 25 юнитам под этим полем (или полям под этим полем) в размере 6.25% от нанесённого силовому полю урона.
 
 Устанавливается на Линкор или что-то большее, но Линкор жертвует своим генератором щита.
 
@@ -601,7 +601,7 @@ Cannot target small units. Requires researching the MkIII Siege Starship. -->
 Can be mounted on a Dreadnought hull instead of one (or both) of its shield generators.
 
 Cannot target small units. Requires research at a Spire Galactic Capitol. Also, before the research can be done, you must have researched the MkIII Siege Starship. -->
-<ln id="PlasmaSiegeCannonModuleIII_Desc">Стреляет огромными снарядами концентрированной плазмы по большим и/или неподвижным целям. Когда снаряд взрывается, он также наносит меньшие повреждения нескольким близлежащим юнитам.  При атаке силового поля, также наносит урон 25 юнитам под этим полем (или полям под этим полем) в размере 6.25% от нанесённого силовому полю урона.
+<ln id="PlasmaSiegeCannonModuleIII_Desc">Стреляет огромными снарядами концентрированной плазмы по большим и/или неподвижным целям. Когда снаряд взрывается, он также наносит пониженный урон ближайшим целям.  При атаке силового поля, также наносит урон 25 юнитам под этим полем (или полям под этим полем) в размере 6.25% от нанесённого силовому полю урона.
 
 Устанавливается на Дредноут вместо одного или двух генераторов щита.
 
@@ -706,7 +706,7 @@ Its relatively short range renders it vulnerable to counter-attack, but it retai
 <!-- EN: Cntr-Dark -->
 <ln id="CounterNegativeEnergyTurret_Short">Подав ТМ</ln>
 <!-- EN: Launches flares to dissipate dark matter ammo, protecting units within its range. Particularly useful for protecting static defenses against Astro Trains. -->
-<ln id="CounterNegativeEnergyTurret_Desc">Выпускает вспышки, рассеивающие заряды из тёмной материи, защищая юнитов в радиусе действия. Применяется для защиты статической защиты от Звёздных Поездов.</ln>
+<ln id="CounterNegativeEnergyTurret_Desc">Выпускает вспышки, рассеивающие заряды из тёмной материи, защищая корабли в радиусе действия. Применяется для защиты статической защиты от Звёздных Поездов.</ln>
 
 <!-- EN: Counter-Missile Turret -->
 <ln id="CounterMissileTurret_Full">Противоракетная Турель</ln>
@@ -935,7 +935,7 @@ NOTE: Gaining a full planet's worth of knowledge this way reduces your Hacking-P
 
 Должен оставаться неподвижным в течение 15 секунд, прежде чем сможет собрать Науку.
 
-ПРИМ.: Сбор всех очков Науки планеты таким образом может уменьшать ваш Прогресс Взлома на 30. Каждый последующий взлома стоит в 1.5 раза больше предыдущего.</ln>
+ПРИМ.: Сбор всех очков Науки планеты таким образом может уменьшать ваш Прогресс Взлома на 30. Каждый последующий взлом стоит в 1.5 раза больше предыдущего.</ln>
 
 <!-- EN: Research Redirector -->
 <ln id="ShipDesignHacker_Full">Редиректор Исследований</ln>
@@ -950,7 +950,7 @@ NOTE: This process takes 10 minutes, and successfully hacking an ARS reduces you
 
 ИИ замечает процесс взлома и реагирует против Ваших юнитов на этой и ближайшей планете.
 
-ПРИМ.: Этот процесс занимает 10 минут, а успешный взлом уменьшит Прогресс Взлома на 35.  Каждый последующий взлома стоит в 1.5 раза больше предыдущего.</ln>
+ПРИМ.: Этот процесс занимает 10 минут, а успешный взлом уменьшит Прогресс Взлома на 35.  Каждый последующий взлом стоит в 1.5 раза больше предыдущего.</ln>
 
 <!-- EN: Fabricator Hacker -->
 <ln id="FabricatorHacker_Full">Заводской Хакер</ln>
@@ -1047,7 +1047,7 @@ If more than one eligible target is present on the planet, the one closest to th
 The AI will notice the hacking in progress and respond against your units both on that planet and nearby.
 
 NOTE: This process takes one minute, and successfully destroying a unit via sabotage reduces your Hacking-Progress by 10.  Each hack after that costs 1.5x the previous. -->
-<ln id="UnitSabotageHacker_Desc">Работает только на планетах с неповреждённой Командной Станцией ИИ, но взламывает сеть этой станции, чтобы уничтожить важные конструкции ИИ на планете.  Конструкции включают в себя: Крепости, Силовые Поля, Ионные Пушки, Ускорители Частиц, Перехватчики Боеголовок, Ингибиторы/Усилители Брони, Машины Чёрных Дыр, Резервы Zenith'ов, Межпланетные Усилители Боеприпасов, Двигатели Рейда, Сигнальные Посты, Генераторы Помех, Гравитационные Буры, Ускорители Войск, and Глаза ИИ. Уничтожение юнита таким способом не запускает повышение Прогресса ИИ при смерти или подобные тригеры.
+<ln id="UnitSabotageHacker_Desc">Работает только на планетах с неповреждённой Командной Станцией ИИ, но взламывает сеть этой станции, чтобы уничтожить важные конструкции ИИ на планете.  Конструкции включают в себя: Крепости, Силовые Поля, Ионные Пушки, Ускорители Частиц, Перехватчики Боеголовок, Ингибиторы/Усилители Брони, Машины Чёрных Дыр, Резервы Zenith'ов, Межпланетные Усилители Боеприпасов, Двигатели Рейда, Сигнальные Посты, Генераторы Помех, Гравитационные Буры, Ускорители Войск и Глаза ИИ. Уничтожение юнита таким способом не запускает повышение Прогресса ИИ при смерти или подобные тригеры.
 
 При наличии на планете нескольких доступных объектов, будет уничтожен ближайший к Хакеру. При использовании нескольких Хакеров, каждый уничтожит отдельную цель.
 
@@ -1937,7 +1937,7 @@ Must be destroyed before humans can damage the AI Command Station on this planet
 <!-- EN: Guard (Raider I) -->
 <ln id="AIGuardianRaider_Short">Страж (Налётчик I)</ln>
 <!-- EN: Extremely lightweight and fast, this guardian packs a punch without being able to take much damage in return.  It specializes in blitz counterattacks against unsuspecting players. -->
-<ln id="AIGuardianRaider_Desc">Экстремально лёгкий и быстрый, этот Страж обладает мощью, не способный при этом выдержать много урона.  Специализируется на быстрых контратаках против ничего не подозревающих игроков.</ln>
+<ln id="AIGuardianRaider_Desc">Чрезвычайно лёгкий и быстрый, этот Страж обладает мощью, не способный при этом выдержать много урона.  Специализируется на быстрых контратаках против ничего не подозревающих игроков.</ln>
 <!-- EN: AI Raider Guardian Mark II -->
 <ln id="AIGuardianRaiderII_Full">Страж ИИ - Налётчик Модель II</ln>
 <!-- EN: Guard (Raider II) -->
@@ -2063,7 +2063,7 @@ When fully charged, the Threatening Eye will warp additional AI attack ships to 
 <!-- EN: Hunter/Killer I -->
 <ln id="AIHunterKiller_Short">Охотник/Киллер I</ln>
 <!-- EN: Extremely powerful AI starship that specializes in destroying all traces of human civilization. -->
-<ln id="AIHunterKiller_Desc">Экстремально мощный звездолёт ИИ, специализированный на уничтожении всех следов человеческой цивилизации.</ln>
+<ln id="AIHunterKiller_Desc">Чрезвычайно мощный звездолёт ИИ, специализированный на уничтожении всех следов человеческой цивилизации.</ln>
 <!-- EN: AI Hunter/Killer Mark II -->
 <ln id="AIHunterKillerII_Full">Охотник/Киллер ИИ Модель II</ln>
 <!-- EN: Hunter/Killer II -->
@@ -2919,7 +2919,7 @@ If it hits a forcefield, it will also damage up to 25 units protected by that fo
 <!-- EN: Fort I -->
 <ln id="Fortress_Short">Креп I</ln>
 <!-- EN: Extremely large, powerful, and expensive mobile defensive structure.  Also repairs all nearby ships.  After moving, it must recharge for 60 seconds before it can start doing repairs again. -->
-<ln id="Fortress_Desc">Экстремально большая, мощная и дорогая подвижная защитная постройка. Также чинит все близлежащие корабли.  После перемещения требует 60 секунд на перезарядку, прежде чем сможет снова чинить.</ln>
+<ln id="Fortress_Desc">Чрезвычайно большая, мощная и дорогая подвижная защитная постройка. Также чинит все близлежащие корабли.  После перемещения требует 60 секунд на перезарядку, прежде чем сможет снова чинить.</ln>
 
 <!-- EN: Fortress Mark II -->
 <ln id="FortressII_Full">Крепость Модель II</ln>
@@ -2938,14 +2938,14 @@ If it hits a forcefield, it will also damage up to 25 units protected by that fo
 <!-- EN: Vastly scaled down version of an extremely large, powerful, and expensive mobile defensive structure.  Developed to utilize local resources as an alternate support mechanism.  Each planet can only support a few, and they are much less powerful than their normal-sized cousins, but there is no galaxy-wide cap on how many you can build.  Useful for defending outlying systems when you cannot spare turrets or ships from your main defenses.
 
 Repairs all nearby ships.  After moving, it must recharge for 60 seconds before it can start doing repairs again. -->
-<ln id="MiniFortress_Desc">Значительно уменьшенная версия экстремально большой, мощной и дорогой подвижной защитной постройки. Разработана для потребления местных ресурсов в качестве альтернативного механизма поддержки. Каждая планета может обеспечивать лишь несколько, и они намного слабее своих собратьев нормального размера, однако не ограничены по количеству. Полезны для защиты отдалённых систем, когда нет возможности убрать турели или корабли оиз основной защищаемой планеты.
+<ln id="MiniFortress_Desc">Значительно уменьшенная версия чрезвычайно большой, мощной и дорогой подвижной защитной постройки. Разработана для потребления местных ресурсов в качестве альтернативного механизма поддержки. Каждая планета может обеспечивать лишь несколько, и они намного слабее своих собратьев нормального размера, однако не ограничены по количеству. Полезны для защиты отдалённых систем, когда нет возможности убрать турели или корабли оиз основной защищаемой планеты.
 
 Чинит все близлежащие корабли.  После перемещения требует 60 секунд на перезарядку, прежде чем сможет снова чинить.</ln>
 
 <!-- EN: AI Fortress -->
 <ln id="AIFortressI_Full">Крепость ИИ</ln>
 <!-- EN: Extremely large, powerful, immobile defensive structure.  Also repairs all nearby ships. -->
-<ln id="AIFortressI_Desc">Экстремально большая, мощная и дорогая подвижная защитная постройка. Также чинит все близлежащие корабли.</ln>
+<ln id="AIFortressI_Desc">Чрезвычайно большая, мощная и дорогая подвижная защитная постройка. Также чинит все близлежащие корабли.</ln>
 <!-- EN: Fort I (AI) -->
 <ln id="AIFortressI_Short">Креп I (ИИ)</ln>
 <!-- EN: AI Fortress Mark II -->
@@ -3461,7 +3461,7 @@ Has cloaking and cloaking booster abilities like regular scouts. -->
 <!-- EN: Mercenary EtherJet Tractor -->
 <ln id="MercenaryEtherJet_Full">Наёмный Эфирный Тягач</ln>
 <!-- EN: Merc EtherJet -->
-<ln id="MercenaryEtherJet_Short">Наём Тягач</ln>
+<ln id="MercenaryEtherJet_Short">Наёмн.Тягач</ln>
 <!-- EN: EtherJet Tractors -->
 <ln id="MercenaryEtherJet_Wave">Эфирные Тягачи</ln>
 <!-- EN: Blazing fast cloaked fighter that can grapple an enemy ship and drag it.
@@ -3617,7 +3617,7 @@ Its force field does not reduce the attack power of protected ships. -->
 <ln id="CoreMunitionsBooster_Short">Усилитель Боеприпасов V</ln>
 
 <!-- EN: Teleport Raider -->
-<ln id="TeleportRaider_Full">Налётчик Телепортёр</ln>
+<ln id="TeleportRaider_Full">Налётчик-телепортёр</ln>
 <!-- EN: Tele-Raid I -->
 <ln id="TeleportRaider_Short">Телепортёр I</ln>
 <!-- EN: Teleport Raiders -->
@@ -3626,22 +3626,22 @@ Its force field does not reduce the attack power of protected ships. -->
 <ln id="TeleportRaider_Desc">Быстрые налётчики, способные преодолевать большое пространство за мгновение.</ln>
 
 <!-- EN: Teleport Raider Mark II -->
-<ln id="TeleportRaiderII_Full">Налётчик Телепортёр Модель II</ln>
+<ln id="TeleportRaiderII_Full">Налётчик-телепортёр Модель II</ln>
 <!-- EN: Tele-Raid II -->
 <ln id="TeleportRaiderII_Short">Телепортёр II</ln>
 
 <!-- EN: Teleport Raider Mark III -->
-<ln id="TeleportRaiderIII_Full">Налётчик Телепортёр Модель III</ln>
+<ln id="TeleportRaiderIII_Full">Налётчик-телепортёр Модель III</ln>
 <!-- EN: Tele-Raid III -->
 <ln id="TeleportRaiderIII_Short">Телепортёр III</ln>
 
 <!-- EN: Teleport Raider Mark IV -->
-<ln id="TeleportRaiderIV_Full">Налётчик Телепортёр Модель IV</ln>
+<ln id="TeleportRaiderIV_Full">Налётчик-телепортёр Модель IV</ln>
 <!-- EN: Tele-Raid IV -->
 <ln id="TeleportRaiderIV_Short">Телепортёр IV</ln>
 
 <!-- EN: Teleport Raider Mark V -->
-<ln id="CoreTeleportRaider_Full">Налётчик Телепортёр Модель V</ln>
+<ln id="CoreTeleportRaider_Full">Налётчик-телепортёр Модель V</ln>
 <!-- EN: Tele-Raid V -->
 <ln id="CoreTeleportRaider_Short">Телепортёр V</ln>
 

@@ -80,7 +80,7 @@ This particular command station is a fortified version mounting some weaponry bu
 This particular command station is a fortified version mounting some weaponry but more importantly an extremely powerful gravity generator which slows enemy ships in a very wide area around it. -->
 <ln id="AICommandStation_Gravity_Desc">Нервный центр каждой планетарной базы ИИ. Уничтожение сильно ограничивает способность ИИ к созданию подкреплений.
 
-Эта особая командная станция представляет собой усиленную версию и вооружена вооружена некоторым оружием, но более важен экстремально мощный гравитационный генератор, замедляющий врагов на большой площади.</ln>
+Эта особая командная станция представляет собой усиленную версию и вооружена вооружена некоторым оружием, но более важен чрезвычайно мощный гравитационный генератор, замедляющий врагов на большой площади.</ln>
 <!-- EN: AI Munitions-Boosting Command Station -->
 <ln id="AICommandStation_MunitionsBoosting_Full">Усилитель Боеприпасов Командная Станция ИИ</ln>
 <!-- EN: Cmd (AI-MB) -->
@@ -633,14 +633,14 @@ If something is unfortunate enough to be shot by that gun, it will take a lot of
 <!-- EN: Dire G (Infiltration) -->
 <ln id="AIDireGuardian_Infiltration_Short">Зловещий С (Проникновение)</ln>
 <!-- EN: Extremely deadly machine with the ability both to stay hidden until it strikes, and to both pass through and shoot through your forcefields. -->
-<ln id="AIDireGuardian_Infiltration_Desc">Экстремально смертельная машина, с возможностью оставаться скрытой до удара и проходить и стрелять сквозь ваши силовые поля.</ln>
+<ln id="AIDireGuardian_Infiltration_Desc">Чрезвычайно смертельная машина, с возможностью оставаться скрытой до удара и проходить и стрелять сквозь ваши силовые поля.</ln>
 
 <!-- EN: AI Dire Artillery Guardian -->
 <ln id="AIDireGuardian_Artillery_Full">Зловещий Страж ИИ Артиллерист</ln>
 <!-- EN: Dire G (Artillery) -->
 <ln id="AIDireGuardian_Artillery_Short">Зловещий С (Артиллерист)</ln>
 <!-- EN: Fires extremely powerful energy-artillery shots. -->
-<ln id="AIDireGuardian_Artillery_Desc">Стреляет экстремально мощными энергетическими артиллеристскими снарядами.</ln>
+<ln id="AIDireGuardian_Artillery_Desc">Стреляет чрезвычайно мощными энергетическими артиллеристскими снарядами.</ln>
 
 <!-- EN: AI Dire Raider Guardian -->
 <ln id="AIDireGuardian_Raider_Full">Зловещий Страж ИИ Налётчик</ln>

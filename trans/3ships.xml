@@ -780,7 +780,7 @@ Note that this ship will not chase other ships unless you have specifically give
 <!-- EN: Spire Blades -->
 <ln id="SpireBlade_Wave">Лезвия Spire'ов</ln>
 <!-- EN: Extremely fast melee ship  - -  loses health over a short period, then self-destructs.  Created inside Spire Blade Spawners, these are uncontrollable but will viciously attack the enemy on the current planet. Players cannot give direct orders to the blades. -->
-<ln id="SpireBlade_Desc">Экстремально быстрый корабль ближнего боя -- теряет здоровье через некоторое время, затем самоуничтожается. Созданный внутри Спаунера Лезвий Spire'ов, неподконтролен, но будет яростно атаковать врагов на текущей планете. Игроки не могут отдавать ему прямых приказов.</ln>
+<ln id="SpireBlade_Desc">Чрезвычайно быстрый корабль ближнего боя -- теряет здоровье через некоторое время, затем самоуничтожается. Созданный внутри Спаунера Лезвий Spire'ов, неподконтролен, но будет яростно атаковать врагов на текущей планете. Игроки не могут отдавать ему прямых приказов.</ln>
 <!-- EN: Spire Blade Mark II -->
 <ln id="SpireBladeII_Full">Лезвие Spire'ов Модель II</ln>
 <!-- EN: S Blade II -->

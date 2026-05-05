@@ -1238,7 +1238,7 @@ Don't forget to defend your own planet, however  - -  the AI incursions will kee
 <!-- EN: 's warp gate is what lets enemies keep warping into our home planet.  We want to stop that!
 GATE-RAIDING:  The planet is MkIV and would be very painful to take, at least at this stage of the campaign.
 So let's just take down its warp gate. -->
-<ln id="Int_GateRaid1_1b"> обладает Вратами, которые позволяют врагам нападать на вашу Столичную планету. Необходимо это прекратить!
+<ln id="Int_GateRaid1_1b"> имеет Врата, которые позволяют врагам нападать на вашу Столичную планету. Необходимо это прекратить!
 РЕЙД НА ВРАТА: Это планета Уровня IV и её очень сложно будет захватить. По крайней мере, в настоящее время.
 Так что попробуем уничтожить только Врата.</ln>
 <!-- EN: 1. Gather forces on your home planet, taking them from your other planets if need be.
@@ -1318,7 +1318,7 @@ Even if you don't provoke them, expect a counterattack.  Build up your turrets a
 <ln id="Int_Intel2_2b">, ни </ln>                                                   <!-- [name3] -->
 <!-- EN:  have much to offer.
 However,  -->
-<ln id="Int_Intel2_2c"> не обладают чем-либо ценным.
+<ln id="Int_Intel2_2c"> не имеют ничего ценного.
 Однако </ln>                                                                     <!-- [name3] -->
 <!-- EN:  is blocking our path forward, so let's find out what's on the other side. -->
 <ln id="Int_Intel2_2d"> блокирует наше продвижение вперёд, так что давайте выясним, что находится на другой стороне.</ln>
@@ -1336,7 +1336,7 @@ However,  -->
 <!-- EN: Let's look at the Intel Summaries once again:  -->
 <ln id="Int_Attack4_1a">Давайте посмотрим на разведданные ещё раз: </ln>  <!-- [name7] -->
 <!-- EN:  is very high level, but  -->
-<ln id="Int_Attack4_1b"> обладает большим уровнем, а </ln>                             <!-- [name4] -->
+<ln id="Int_Attack4_1b"> имеет очень высокий уровень, а </ln>                             <!-- [name4] -->
 <!-- EN:  is not. -->
 <ln id="Int_Attack4_1c"> нет.</ln>
 <!-- EN: COLONY-HOPPING:  We want to bypass  -->

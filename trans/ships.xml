@@ -849,7 +849,7 @@ Be sure to bring at least one scout with you on every raid, to make sure you can
 <ln id="TachyonScout_Wave">Разведчики</ln>
 <!-- EN: The ultimate scout, firing its own tachyon beams while immune to the tachyon beams of enemies.
 This makes the scout completely undetectable, but the tradeoff is that it is only able to move very slowly. -->
-<ln id="TachyonScout_Desc">Совершенный разведчик, испускает тахионные лучи и в то же время обладает иммунитетом к вражеским тахионным лучам.
+<ln id="TachyonScout_Desc">Совершенный разведчик, испускает тахионные лучи и в то же время имеет иммунитет к вражеским тахионным лучам.
 Этот корабль совершенно невозможно засечь, но это даётся ценой очень низкой скорости.</ln>
 
 <!-- EN: Energy Collector -->
@@ -1350,8 +1350,8 @@ Costs significant ongoing resources, but prevents any warps from being initiated
 If one player controls multiple home planet command stations, destroying one will destroy them all.
 However, while one player controls multiple home planet command stations, the ship caps of the player will be increased. -->
 <ln id="OrbitalCommandStationHome_Desc">Первая команда, уничтожившая все Столичные Орбитальные Командные Станции противников, побеждает в игре.
-Если один из игроков обладает несколькими Столичными Орбитальными Командными Станциями, то потеря одной будет означать потерю всех.
-Однако для игрока, обладающего несколькими Столичными Станциями, увеличено максимальное количество кораблей всех типов.</ln>
+Если один из игроков имеет несколько Столичных Орбитальных Командных Станций, то потеря одной будет означать потерю всех.
+Однако для игрока, владеющего несколькими Столичными Станциями, увеличено максимальное количество кораблей всех типов.</ln>
 
 <!-- EN: Orbital Command Station Home Core -->
 <ln id="OrbitalCommandStationHomeCore_Full">Ядро Столичной Орбитальной Командной Станции</ln>
@@ -1937,7 +1937,7 @@ Must be destroyed before humans can damage the AI Command Station on this planet
 <!-- EN: Guard (Raider I) -->
 <ln id="AIGuardianRaider_Short">Страж (Налётчик I)</ln>
 <!-- EN: Extremely lightweight and fast, this guardian packs a punch without being able to take much damage in return.  It specializes in blitz counterattacks against unsuspecting players. -->
-<ln id="AIGuardianRaider_Desc">Чрезвычайно лёгкий и быстрый, этот Страж обладает мощью, не способный при этом выдержать много урона.  Специализируется на быстрых контратаках против ничего не подозревающих игроков.</ln>
+<ln id="AIGuardianRaider_Desc">Чрезвычайно лёгкий и быстрый, этот Страж имеет мощь, не способный при этом выдержать много урона.  Специализируется на быстрых контратаках против ничего не подозревающих игроков.</ln>
 <!-- EN: AI Raider Guardian Mark II -->
 <ln id="AIGuardianRaiderII_Full">Страж ИИ - Налётчик Модель II</ln>
 <!-- EN: Guard (Raider II) -->
@@ -2246,7 +2246,7 @@ Unless issued a specific command by its controller, it will automatically repair
 Identical to the basic engineer, except it has teleportation, cloaking, a better repair rate, and a larger repair range. -->
 <ln id="EngineerDroneIII_Desc">Восстанавливает повреждённые корабли и может ускорять строительство, осуществляемое другими кораблями.
 Без специальных команд будет автоматически восстанавливать ближайших союзников.
-Идентичен инженеру Модель II, но обладает телепортацией, скрытностью, быстрее чинит и работает на большем расстоянии.</ln>
+Идентичен инженеру Модель II, но имеет телепортацию, скрытность, быстрее чинит и работает на большем расстоянии.</ln>
 
 <!-- EN: Remains Rebuilder -->
 <ln id="MineLayer_Full">Восстановитель Останков</ln>
@@ -3407,7 +3407,7 @@ Has cloaking and cloaking booster abilities like regular scouts. -->
 <!-- EN: Space Planes -->
 <ln id="SpacePlane_Wave">Космопланы</ln>
 <!-- EN: Cloaked fighter excellent for bypassing enemy defenses (such as mines and tractor beams), with a portable radar dampener that makes enemy ships have to be within a certain range to even fire upon it at all (radar dampening does not affect the ability of enemy ships to hit other ships, just this one). -->
-<ln id="SpacePlane_Desc">Маскирующийся истребитель, идеальный для обхода защиты противника (такой как мины и гравилучи), обладающий портативным радаром-глушителем, который удерживает вражеские корабли на расстоянии, чтобы они по нему могли стрелять (глушитель не влияет на способность вражеских кораблей стрелять по другим кораблям, только по нему).</ln>
+<ln id="SpacePlane_Desc">Маскирующийся истребитель, идеальный для обхода защиты противника (такой как мины и гравилучи), имеющий портативный радаро-глушитель, который удерживает вражеские корабли на расстоянии, чтобы они по нему могли стрелять (глушитель не влияет на способность вражеских кораблей стрелять по другим кораблям, только по нему).</ln>
 
 <!-- EN: Space Plane Mark II -->
 <ln id="SpacePlaneII_Full">Космоплан Модель II</ln>
@@ -3477,7 +3477,7 @@ Identical to the EtherJet Mark IV, except 10x more expensive and with a much lar
 <ln id="ShieldBearer_Wave">Щитоносцы</ln>
 <!-- EN: Does relatively low damage, but has high health and provides a mini force field to protect allied ships.
 Its force field does not reduce the attack power of protected ships. -->
-<ln id="ShieldBearer_Desc">Наносит относительно небольшой урон, но имеет много здоровья и обладает силовым полем, в котором укрывает союзные корабли.
+<ln id="ShieldBearer_Desc">Наносит относительно небольшой урон, но имеет много здоровья и имеет силовое поле, в котором укрывает союзные корабли.
 Его Силовое Поле не ослабляет атаку находящихся в нём кораблей.</ln>
 
 <!-- EN: Shield Bearer Mark II -->
@@ -4033,7 +4033,7 @@ Mounts powerful multiplex repair beams. -->
 <!-- EN: Ion Cannons -->
 <ln id="IonCannonII_Wave">Ионные Пушки</ln>
 <!-- EN: Advanced weapon insta-kills most Mark I ships (and many ships with no Mark level at all).  Cannot fire upon ships immune to insta-kill. -->
-<ln id="IonCannonII_Desc">Продвинутое оружие мгновенное убивающее большинство кораблей МодI (и множество кораблей не обладающих Моделями). Не может стрелять по кораблям, обладающим иммунитетом к мгновенному уничтожению.</ln>
+<ln id="IonCannonII_Desc">Продвинутое оружие мгновенное убивающее большинство кораблей МодI (и множество кораблей не имеющих Модели). Не может стрелять по кораблям, имеющим иммунитет к мгновенному уничтожению.</ln>
 
 <!-- EN: Ion Cannon Mark II -->
 <ln id="IonCannonIII_Full">Ионная Пушка Модель II</ln>
@@ -4042,7 +4042,7 @@ Mounts powerful multiplex repair beams. -->
 <!-- EN: Ion Cannons -->
 <ln id="IonCannonIII_Wave">Ионные Пушки</ln>
 <!-- EN: Advanced weapon insta-kills most Mark I and II ships (and many ships with no Mark level at all).  Cannot fire upon ships immune to insta-kill. -->
-<ln id="IonCannonIII_Desc">Продвинутое оружие мгновенное убивающее большинство кораблей МодI и МодII (и множество кораблей не обладающих Моделями). Не может стрелять по кораблям, обладающим иммунитетом к мгновенному уничтожению.</ln>
+<ln id="IonCannonIII_Desc">Продвинутое оружие мгновенное убивающее большинство кораблей МодI и МодII (и множество кораблей не имеющих Модели). Не может стрелять по кораблям, имеющим иммунитет к мгновенному уничтожению.</ln>
 
 <!-- EN: Ion Cannon Mark III -->
 <ln id="IonCannonIV_Full">Ионная Пушка Модель III</ln>
@@ -4051,7 +4051,7 @@ Mounts powerful multiplex repair beams. -->
 <!-- EN: Ion Cannons -->
 <ln id="IonCannonIV_Wave">Ионные Пушки</ln>
 <!-- EN: Very advanced weapon insta-kills most Mark I, II, and III ships (and many ships with no Mark level at all).  Cannot fire upon ships immune to insta-kill.  Consider attacking these with starships. -->
-<ln id="IonCannonIV_Desc">Очень продвинутое оружие мгновенное убивающее большинство кораблей МодI, МодII и МодIII (и множество кораблей не обладающих Моделями). Не может стрелять по кораблям, обладающим иммунитетом к мгновенному уничтожению. Попробуйте атаковать его звездолётами.</ln>
+<ln id="IonCannonIV_Desc">Очень продвинутое оружие мгновенное убивающее большинство кораблей МодI, МодII и МодIII (и множество кораблей не имеющих Модели). Не может стрелять по кораблям, имеющим иммунитет к мгновенному уничтожению. Попробуйте атаковать его звездолётами.</ln>
 
 <!-- EN: Ion Cannon Mark IV -->
 <ln id="IonCannonV_Full">Ионная Пушка Модель IV</ln>
@@ -4060,7 +4060,7 @@ Mounts powerful multiplex repair beams. -->
 <!-- EN: Ion Cannons -->
 <ln id="IonCannonV_Wave">Ионные Пушки</ln>
 <!-- EN: Very advanced weapon insta-kills most Mark I, II, III, and IV ships (and many ships with no Mark level at all).  Cannot fire upon ships immune to insta-kill.  Consider attacking these with starships. -->
-<ln id="IonCannonV_Desc">Очень продвинутое оружие мгновенное убивающее большинство кораблей МодI, МодII, МодIII и МодIV (и множество кораблей не обладающих Моделями). Не может стрелять по кораблям, обладающим иммунитетом к мгновенному уничтожению. Попробуйте атаковать его звездолётами.</ln>
+<ln id="IonCannonV_Desc">Очень продвинутое оружие мгновенное убивающее большинство кораблей МодI, МодII, МодIII и МодIV (и множество кораблей не имеющих Модели). Не может стрелять по кораблям, имеющим иммунитет к мгновенному уничтожению. Попробуйте атаковать его звездолётами.</ln>
 
 <!-- EN: Ion Cannon Mark V -->
 <ln id="IonCannonVI_Full">Ионная Пушка Модель V</ln>
@@ -4069,7 +4069,7 @@ Mounts powerful multiplex repair beams. -->
 <!-- EN: Ion Cannons -->
 <ln id="IonCannonVI_Wave">Ионные Пушки</ln>
 <!-- EN: Very advanced weapon insta-kills most Mark I, II, III, IV, and V ships (and many ships with no Mark level at all).  Cannot fire upon ships immune to insta-kill.  Consider attacking these with starships. -->
-<ln id="IonCannonVI_Desc">Очень продвинутое оружие мгновенное убивающее большинство кораблей МодI, МодII, МодIII, МодIV и МодV (и множество кораблей не обладающих Моделями). Не может стрелять по кораблям, обладающим иммунитетом к мгновенному уничтожению. Попробуйте атаковать его звездолётами.</ln>
+<ln id="IonCannonVI_Desc">Очень продвинутое оружие мгновенное убивающее большинство кораблей МодI, МодII, МодIII, МодIV и МодV (и множество кораблей не имеющих Модели). Не может стрелять по кораблям, имеющим иммунитет к мгновенному уничтожению. Попробуйте атаковать его звездолётами.</ln>
 
 <!-- EN: Data Center -->
 <ln id="DataCenter_Full">Банк Данных</ln>
@@ -4492,7 +4492,7 @@ Invulnerable but will be removed if the parent city is destroyed. -->
 <!-- EN: Specializes in disabling and destroying large numbers of weaker disturbances to the peace.
 Has four light hardpoints and two medium hardpoints that mount a number of different weapons and modules. -->
 <ln id="RiotControlStarshipI_Desc">Специализируется на уничтожении большого количества слабых возмутителей порядка.
-Обладает четырьмя лёгкими слотами и двумя средними, на которые можно устанавливать различные типы оружия и модули.</ln>
+Имеет четыре лёгких слота и два средних, на которые можно устанавливать различные типы оружия и модули.</ln>
 
 <!-- EN: Riot Control Starship II -->
 <ln id="RiotControlStarshipII_Full">Звездолёт Подавления II</ln>
@@ -4503,7 +4503,7 @@ Redesigned to support an advanced electrical discharge weapon, but unable to sus
 Has two light hardpoints, one advanced light hardpoint, two medium hardpoints, and one heavy hardpoint. -->
 <ln id="RiotControlStarshipII_Desc">Специализируется на уничтожении большого количества слабых возмутителей порядка.
 Переработанный дизайн позволяет устанавливать продвинутое электрическое оружие, но не позволяет устанавливать гравилуч.
-Обладает двумя лёгкими слотами, одним продвинутым лёгким слотом, двумя средними слотами и одним тяжёлым.</ln>
+Имеет два лёгких слота, один продвинутый лёгкий слот, два средних слота и один тяжёлый.</ln>
 
 <!-- EN: Riot Control Starship III -->
 <ln id="RiotControlStarshipIII_Full">Звездолёт Подавления III</ln>
@@ -4512,7 +4512,7 @@ Has two light hardpoints, one advanced light hardpoint, two medium hardpoints, a
 <!-- EN: Specializes in disabling and destroying large numbers of weaker disturbances to the peace.
 Has three advanced light hardpoints, two medium hardpoints, and two heavy hardpoints. -->
 <ln id="RiotControlStarshipIII_Desc">Специализируется на уничтожении большого количества слабых возмутителей порядка.
-Обладает тремя продвинутыми лёгкими слотами, двумя средними и двумя тяжёлыми.</ln>
+Имеет три продвинутых лёгких слота, два средних и два тяжёлых.</ln>
 
 <!-- EN: Riot Control Machine Gun -->
 <ln id="RiotControlMachineGunI_Full">Пулемёт Подавления</ln>

@@ -838,7 +838,7 @@ Also, as a hydra takes a certain amount of total damage it will spawn a separate
 <!-- EN: Zenith Hydra Heads -->
 <ln id="ZenithHydraHead_Wave">Головы Гидры Zenith'ов</ln>
 <!-- EN: A head "cut" from the body of a Zenith Hydra.  Has part of the body's potent short-range plasma-breath, but loses health fairly rapidly over time. -->
-<ln id="ZenithHydraHead_Desc">Голова, "отрезанная" от тела Гидры Zenith'ов. Обладает частью мощности плазменного дыхания тела, но довольно быстро теряет здоровье.</ln>
+<ln id="ZenithHydraHead_Desc">Голова, "отрезанная" от тела Гидры Zenith'ов. Имеет часть мощности плазменного дыхания тела, но довольно быстро теряет здоровье.</ln>
 
 <!-- EN: Counter-Missile Module -->
 <ln id="ProtectorCounterMissileModule_Full">Модуль Противоракетный</ln>

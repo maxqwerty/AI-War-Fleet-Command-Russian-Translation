@@ -1667,7 +1667,7 @@ Seed -->
 <!-- EN: Multiple Players Have The Same Color! -->
 <ln id="ManagePlayers_DupeColorsHeader">У нескольких игроков выбран один цвет!</ln>
 <!-- EN: Each active player must have a unique color. -->
-<ln id="ManagePlayers_DupeColorsText">Каждый активный игрок должен обладать уникальным цветом.</ln>
+<ln id="ManagePlayers_DupeColorsText">Каждый активный игрок должен иметь уникальный цвет.</ln>
 <!-- EN: Every Active Player Must Have A Color! -->
 <ln id="ManagePlayers_MissColorsHeader">Каждый активный игрок должен выбрать цвет!</ln>
 <!-- EN: Each active player must have a unique color assigned. -->
@@ -4115,7 +4115,7 @@ Note that mines AND SCOUTS are also disabled if cloaked ships are turned off, si
 <!-- EN: There are a variety of ship types that have cloaking, and all of them will be disabled if this option is deselected.  Cloaked ships are invisible unless they have recently fired their weapons or have been tagged by a Tachyon Beam emitter. 
 
 Note that mines AND SCOUTS are also disabled if cloaked ships are turned off, since both are cloaked.  Playing the game without scouts is very different, so be warned. -->
-<ln id="NCloaking">Существует множество кораблей, обладающих способностью маскировки, и все они будут отсутствовать в игре, если эта опция не будет выбрана. Замаскированные корабли будут невидимыми, если не стреляют из оружия или не помечены Тахионным Излучателем.
+<ln id="NCloaking">Существует множество кораблей, владеющих способностью маскировки, и все они будут отсутствовать в игре, если эта опция не будет выбрана. Замаскированные корабли будут невидимыми, если не стреляют из оружия или не помечены Тахионным Излучателем.
 
 Обратите внимание, что мины И Разведчики тоже исчезнут, если данная опция отключена, так как оба используют маскировку. Игра без разведчиков совсем другая, имейте в виду</ln>
 <!-- EN: The following ship types belong to this category: 
@@ -4157,7 +4157,7 @@ Mobile ships with tractor beams can drag their prey behind them. -->
 
 Мобильные корабли с гравитационным лучом могут таскать свою жертву за собой.</ln>
 <!-- EN: Turrets are small, relatively inexpensive, immobile units with powerful attacks or defensive abilities (such as having tractor beams or countering incoming enemy missiles or sniper fire, etc). -->
-<ln id="NTurrets">Турели - маленькие, относительно недорогие статичные боевые единицы, обладающие сильными атакующими и защитными средствами (такими как гравитационные лучи, противоракетная оборона, снайперский огонь и т.п.).</ln>
+<ln id="NTurrets">Турели - маленькие, относительно недорогие статичные боевые единицы, обладающие сильными средствами для атаки и защиты (такие как гравитационные лучи, противоракетная оборона, снайперский огонь и т.п.).</ln>
 <!-- EN: Core Shield Generators are AI-controlled defenses that must be captured and destroyed before the AI homeworlds can be attacked. -->
 <ln id="NCoreShieldGenerators">Генераторы Главного Защитного Поля - защитные сооружения ИИ, которые нужно захватить и уничтожить до того, как Столичная планета ИИ может быть атакована.</ln>
 <!-- EN: Disassembler Guardians and Spire Maws (both only found in the Light of the Spire expansion) can swallow ships whole and attrition them.  Many players rather like this unique mechanic, but others prefer to not face these, so swallower ships can be disabled using this toggle. -->
@@ -4276,7 +4276,7 @@ Giving an AI a secondary type equal to its primary type has no effect.
 <ln id="NAITParasite">Совершает почти одни паразитические рейды (может наносить очень большой урон). Отправляет более крупные волны и более мелкие оборонительные подкрепления.
  </ln>
 <!-- EN: Has all parasite ships from the start, as well as whatever other ships they might unlock. -->
-<ln id="EAITParasite">Обладает всеми паразитическими кораблями с самого начала.</ln>
+<ln id="EAITParasite">Имеет все паразитические корабли с самого начала.</ln>
 <!-- EN: Fortress Baron -->
 <ln id="TAITFortress">Повелитель крепости</ln>
 <!-- EN: Planets are mostly moderately defended, but the core planets are incredibly heavily defended, and they do moderate attacks on the players.
@@ -4405,7 +4405,7 @@ Giving an AI a secondary type equal to its primary type has no effect.
 <ln id="NAITStealth">В рейдах использует только корабли с маскировкой (что может приводить в замешательство).
  </ln>
 <!-- EN: Has all ships with cloaking from the start, as well as whatever other ships they might unlock. -->
-<ln id="EAITStealth">Обладает всеми маскирующимися кораблями с самого начала.</ln>
+<ln id="EAITStealth">Имеет все маскирующиеся корабли с самого начала.</ln>
 <!-- EN: Technologist Homeworlder -->
 <ln id="TAITTechHomeworld">Окопавшийся технолог</ln>
 <!-- EN: Like the Entrenched Homeworlder, but gets higher-tech units (these are quite a formidable foe).
@@ -4458,7 +4458,7 @@ Giving an AI a secondary type equal to its primary type has no effect.
 <ln id="NAITTeleTurtle">Все планеты невероятно сильно защищены, но не атакует игрока. Специализируется на телепортирующихся кораблях, которые особенно сильны в защите.
  </ln>
 <!-- EN: Has all ships with teleportation from the start, as well as whatever other ships they might unlock. -->
-<ln id="EAITTeleTurtle">Обладает всеми кораблями с телепортацией с самого начала.</ln>
+<ln id="EAITTeleTurtle">Имеет все корабли с телепортацией с самого начала.</ln>
 <!-- EN: The Core -->
 <ln id="TAITCore">Продвинутый</ln>
 <!-- EN: Waves and reinforcements are substantially smaller, but all ships of this AI are deadly Mark V ships.
@@ -4502,7 +4502,7 @@ Giving an AI a secondary type equal to its primary type has no effect.
 <ln id="NAITRaider">Шлёт значительно более мощные волны, но удерживает меньше оборонительных резервов.
  </ln>
 <!-- EN: Has raider ships from the start, as well as whatever other ships they might unlock. -->
-<ln id="EAITRaider">Обладает рейдерскими кораблями с самого начала, как и кораблями, которые они открывают.</ln>
+<ln id="EAITRaider">Имеет рейдерские корабли с самого начала, как и корабли, которые они открывают.</ln>
 <!-- EN: Updates -->
 <ln id="TUpdates">Обновления</ln>
 <!-- EN: The game automatically checks for updates.  Click here to manually check for updates, or to apply updates that have been found, or to manually install an update that you downloaded from elsewhere. -->
@@ -4544,7 +4544,7 @@ Note:  When loading a multiplayer game, only the host must load the game.  All o
 - Each player profile has a separate high scores list, so changing the profile also changes the high scores list. -->
 <ln id="DHighScores">- Таблица рекордов обновляется каждый раз, когда игра сохраняется или закрывается.
 - Для каждого уникального числа карты сохраняется только самый лучший результат.
-- Каждый профиль игрока обладает своей таблицей рекордов.</ln>
+- Каждый профиль игрока имеет свою таблицу рекордов.</ln>
 <!-- EN: Achievements -->
 <ln id="TAchievements">Достижения</ln>
 <!-- EN: As you play, you may try to achieve special optional goals, which are detailed here. -->
@@ -9399,7 +9399,7 @@ Note: there must always be at least one player with a human home command station
 Note: there must always be at least one player with a human home command station to start a game.  If you wish to use a champion in a singleplayer game use the Normal+Champion role. -->
 <ln id="HumanPlayerRole_FreeAgent_Tooltip">Игроки-чемпионы не имеют Столичных Командных Станций, а контролируют одиночный модульный звездолёт, способный получать опыт и улучшать модули. Что более важно, они способны обследовать новые неислледованные части галактики и взаимодействовать со скрытыми фракциями.
 
-Прим.: чтобы игра началась, должен быть хотя бы один игрок, обладающий Столичной Командной Станцией. Если Вы хотите использовать Чемпионов в одиночной игре, то используйте роль Обычный+Чемпион.</ln>
+Прим.: чтобы игра началась, должен быть хотя бы один игрок, владющий Столичной Командной Станцией. Если Вы хотите использовать Чемпионов в одиночной игре, то используйте роль Обычный+Чемпион.</ln>
 <!-- EN: Normal+Champion players control the normal human home command station and everything that goes with it, but also control a special modular starship that can gain experience and upgrade its modules.  More importantly, it can explore new backwater parts of the galaxy and interact with the splinter factions found there. -->
 <ln id="HumanPlayerRole_NormalAndFreeAgent_Tooltip">Игрок Обычный+Чемпион контролирует Столичную Командную Станцию и всё производное от неё, но также контролируют одиночный модульный звездолёт, способный получать опыт и улучшать модули. Что более важно, они способны обследовать новые неислледованные части галактики и взаимодействовать со скрытыми фракциями.</ln>
 

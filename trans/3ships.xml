@@ -1160,7 +1160,7 @@ One unique side effect of Spire attrition technology is that when an enemy ship 
 <!-- EN: Spirecraft Translocators -->
 <ln id="SpirecraftIon_Wave">Транслокаторы Spirecraft</ln>
 <!-- EN: Mounts many medium-range railcannons with a knockback effect.  Useful for keeping the riff-raff at bay. -->
-<ln id="SpirecraftIon_Desc">Устанавливает множество рельстронов средней дальности, обладающих отталкивающим эффектом. Полезен для удержания подонков на расстоянии.</ln>
+<ln id="SpirecraftIon_Desc">Устанавливает множество рельстронов средней дальности, имеющих отталкивающий эффект. Полезен для удержания подонков на расстоянии.</ln>
 <!-- EN: Spirecraft Translocator Mark II -->
 <ln id="SpirecraftIonII_Full">Транслокатор Spirecraft Модель II</ln>
 <!-- EN: SC Trnsl II -->
@@ -1264,7 +1264,7 @@ If it hits a forcefield, it will also damage up to 25 units protected by that fo
 <!-- EN: Spirecraft Jumpships -->
 <ln id="SpirecraftJumpship_Wave">Прыгуны Spirecraft</ln>
 <!-- EN: Expensive, tiny-capacity transport with advanced teleportation and no self-attrition-per-wormhole.  The advanced teleportation lets the jumpship pass through wormholes and across planets without the normal few-second delays that regular teleporting ships face.  On planets of the same mark (or higher) as the jumpship, however, the jumpship expires in about twenty seconds. -->
-<ln id="SpirecraftJumpship_Desc">Дорогой транспорт малой ёмкости с продвинутой телепортацией и без саморазрушения в червоточинах. Продвинутая телепортация позволяет Прыгуну переходить через червоточины и через планеты без обычных секундных задержек, которыми обладают корабли с обычной телепортацией. На планетах с тем же уровнем (или выше), что и у Прыгуна, Прыгун умирает в течение 20 секунд.</ln>
+<ln id="SpirecraftJumpship_Desc">Дорогой транспорт малой ёмкости с продвинутой телепортацией и без саморазрушения в червоточинах. Продвинутая телепортация позволяет Прыгуну переходить через червоточины и через планеты без обычных секундных задержек, которые есть у кораблей с обычной телепортацией. На планетах с тем же уровнем (или выше), что и у Прыгуна, Прыгун умирает в течение 20 секунд.</ln>
 <!-- EN: Spirecraft Jumpship Mark II -->
 <ln id="SpirecraftJumpshipII_Full">Прыгун Spirecraft Модель II</ln>
 <!-- EN: SC Jumpship II -->

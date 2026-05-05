@@ -636,7 +636,7 @@ Numbers in parentheses are ships in transports and will not respond to selection
 <!-- EN: No Supply, Too Distant From Your Planets Or Supply Blocked -->
 <ln id="NoSupply">Нет снабжения, слишком далеко от планет команды или снабжение блокировано.</ln>
 <!-- EN: No Supply -->
-<ln id="NoSupplyAI">Нет поддержки</ln>
+<ln id="NoSupplyAI">Нет снабжения</ln>
 <!-- EN: Autosave -->
 <ln id="Autosave">Автосохранение</ln>
 <!-- EN: AfterGameOver -->
@@ -3596,11 +3596,11 @@ This is the second page, for when you have more than 20 distinct types of fleet 
 <!-- EN: AI Unaware Of You - Reinforcement Is Unlikely -->
 <ln id="AIReinforcement2B">ИИ не знает о вас. Подкрепления маловероятны</ln>
 <!-- EN: Player Supply:  -->
-<ln id="PlayerSupply1">Снабжение игроком: </ln>
+<ln id="PlayerSupply1">Снабжение игрока: </ln>
 <!-- EN: Your Team Is Providing Supply To This Planet -->
-<ln id="PlayerSupply2A">Ваша команда Снабжает эту планету</ln>
+<ln id="PlayerSupply2A">Ваша команда обеспечивает снабжение этой планеты</ln>
 <!-- EN: Your Team Does Not Have Supply At This Planet -->
-<ln id="PlayerSupply2B">Ваша команда не Снабжает эту планету</ln>
+<ln id="PlayerSupply2B">Ваша команда не обеспечивает снабжение этой планеты</ln>
 <!-- EN: Priority:  -->
 <ln id="PlanetPriority1">Приоритет: </ln>
 <!-- EN:  (Last Set By  -->

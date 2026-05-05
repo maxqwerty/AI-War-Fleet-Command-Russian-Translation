@@ -5437,7 +5437,7 @@ CAPTURABLE SHIP: Your ships will not fire on this, but you can capture it by tak
 <!-- EN: Black Hole Machines -->
 <ln id="Ability_ImmuneToBlackHoleMachines">Генераторы чёрных дыр</ln>
 <!-- EN: Interferes With Enemy Supply -->
-<ln id="Ability_InterferesWithSupply">Мешает снабжению врага</ln>
+<ln id="Ability_InterferesWithSupply">Нарушает снабжение противника</ln>
 <!-- EN: Transports -->
 <ln id="Ability_TransportP1">Транспортирует</ln>
 <!-- EN: Ships -->
@@ -5485,7 +5485,7 @@ CAPTURABLE SHIP: Your ships will not fire on this, but you can capture it by tak
 <!-- EN: X Damage On Enemy Planets  -->
 <ln id="Ability_DamageMultiplierOnEnemyPlanets">X Урон на вражеских планетах </ln>
 <!-- EN: Requires Supply -->
-<ln id="Ability_RequiresSupply">Требует Снабжение</ln>
+<ln id="Ability_RequiresSupply">Требует снабжения</ln>
 <!-- EN: Unaffected By Negative Energy -->
 <ln id="Ability_IsUnaffectedByNegativeEnergy">Невоспр. к отрицательной энергии</ln>
 <!-- EN: Attacks Are Self-Damaging -->
@@ -5493,7 +5493,7 @@ CAPTURABLE SHIP: Your ships will not fire on this, but you can capture it by tak
 <!-- EN: Must Be Manually Targeted -->
 <ln id="Ability_MustBeManuallyTargeted">Может быть атакован только вручную</ln>
 <!-- EN: Attrition Per Wormhole Hop Outside Supply -->
-<ln id="Ability_AttritionRatePerWormhole">Истощается за каждый прыжок через Червоточины без Снабжения</ln>
+<ln id="Ability_AttritionRatePerWormhole">Истощается за каждый прыжок через Червоточины без снабжения</ln>
 <!-- EN: Gradually Salvages {0}% Metal From Units Destroyed Here -->
 <ln id="Ability_SalvageRate">Постепенно сохраняет {0}% Металла с уничтоженных юнитов</ln>
 <!-- EN: Stores Up To {0} Metal -->

@@ -1,4 +1,6 @@
+import csv
 import os
+import sqlite3
 from pathlib import Path
 from xml.etree import ElementTree as ET
 
@@ -6,6 +8,13 @@ from langchain_ollama import ChatOllama
 
 XML_DIR = Path(os.getenv("XML_DIR", "../test_trans"))
 OLLAMA_MODEL = os.getenv("OLLAMA_MODEL", "llama3.1:8b")
+
+
+COMMON_SYSTEM_PROMPT_PREFIX = """
+Ты профессиональный редактор русской локализации видеоигр.
+Ты сейчас работаешь над переводом игры под названием AI WAR: Fleet Command.
+Тебе нужно обеспечить качество перевода.
+""".strip()
 
 
 if not XML_DIR.exists():
@@ -67,3 +76,23 @@ def extract_original_from_comment(comment_text: str) -> str:
         return text[3:].strip()
 
     return text
+
+
+def export_db_to_csv(db_name, output_csv):
+    with sqlite3.connect(db_name) as conn, output_csv.open(
+        "w",
+        encoding="utf-8-sig",
+        newline="",
+    ) as f:
+        writer = csv.writer(f)
+        writer.writerow(["original", "translation"])
+
+        rows = conn.execute("""
+            SELECT original, translation
+            FROM named_entities
+            ORDER BY id
+        """)
+
+        writer.writerows(rows)
+
+    print(f"CSV exported to: {output_csv}")

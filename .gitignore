@@ -1,3 +1,6 @@
 en/
 *.exe
 .idea/
+*.sqlite3
+*.csv
+__pycache__/

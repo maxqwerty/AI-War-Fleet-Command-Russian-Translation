@@ -6,16 +6,13 @@ from pathlib import Path
 import tqdm
 from langchain_core.prompts import ChatPromptTemplate
 
-from helpers import XML_DIR, collect_translation_items, chunks, get_llm
+from helpers import collect_translation_items, chunks, get_llm, COMMON_SYSTEM_PROMPT_PREFIX
 
 OUTPUT_CSV = Path(os.getenv("OUTPUT_CSV", "fix_suggestions.csv"))
 BATCH_SIZE = int(os.getenv("BATCH_SIZE", "20"))
 
 
-SYSTEM_PROMPT = """
-Ты профессиональный редактор русской локализации видеоигр.
-Ты сейчас работаешь над переводом 
-
+SYSTEM_PROMPT = COMMON_SYSTEM_PROMPT_PREFIX + """
 Тебе дают список строк:
 - file: имя XML-файла
 - id: id XML-тега
@@ -50,6 +47,22 @@ SYSTEM_PROMPT = """
 - translation
 - error_description
 
+JSON response format:
+```
+{{
+  "fix_suggestions":
+    [
+      {{
+        "file": <FILE NAME>,
+        "id": <ID>,
+        "original": <ORIGINAL>,
+        "translation": <TRANSLATION>,
+        "error_description": <ERROR DESCRIPTION>
+      }}
+    ]
+}}
+```
+
 Если ошибок нет, верни пустой массив [].
 """
 
@@ -82,8 +95,11 @@ def validate_batch(llm, batch):
         print(content)
         return []
 
-    if not isinstance(data, list):
+    if not isinstance(data, dict) or ("fix_suggestions" not in data):
+        # print("ERROR: response json format: ", data)
         return []
+
+    data = data["fix_suggestions"]
 
     valid_rows = []
 

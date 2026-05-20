@@ -6,4 +6,4 @@
 Руководство для русификатора:
 [Steam Community](https://steamcommunity.com/sharedfiles/filedetails/?id=551261616)
 
-Поместите папку **trans** в папку **<путь-установки-игры>\AI War Fleet Command\RuntimeData**, чтобы она лежала рядом с папкой **en**.
+Поместите папку **trans** в папку ```<путь-установки-игры>\AI War Fleet Command\RuntimeData```, чтобы она лежала рядом с папкой **en**.
